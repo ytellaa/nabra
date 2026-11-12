@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/tokens/fonts.css">
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/tokens/colors.css">
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/tokens/typography.css">
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/tokens/spacing.css">
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/tokens/effects.css">
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/tokens/components.css">
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/styles.css">
+<script src="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/_ds_bundle.js"></script>
+<style>body{margin:0;background:var(--surface);font-family:Inter,sans-serif;color:var(--ink)}a{color:var(--link-blue)}a:hover{color:var(--link-blue-pressed)}</style>
+</helmet>
+<div style="display:flex;flex-wrap:wrap;gap:48px;padding:40px;align-items:flex-start;justify-content:center">
+<div style="flex:none;width:412px;height:892px">
+<dc-import name="Vocalire App" start="{{ start }}" lang="{{ lang }}" on-event="{{ onEvent }}" reset-key="{{ resetKey }}" hint-size="412px,892px"></dc-import>
+</div>
+<div style="flex:1;min-width:300px;max-width:460px;display:flex;flex-direction:column;gap:28px">
+<div style="display:flex;flex-direction:column;gap:10px">
+<div style="font:600 12px Inter;letter-spacing:.6px;color:var(--slate);text-transform:uppercase">{{ kicker }}</div>
+<div style="font:600 36px/1.1 Inter;letter-spacing:-.6px">{{ title }}</div>
+<div style="font:400 16px/1.55 Inter;color:var(--charcoal);text-wrap:pretty">{{ intro }}</div>
+<div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:4px">
+<a href="Parcours 1 - Nouvelle lecture.dc.html" style="font:500 14px Inter">1 · Nouvelle lecture</a><span style="color:var(--stone)">·</span>
+<a href="Parcours 2 - Reprise.dc.html" style="font:500 14px Inter">2 · Reprise</a><span style="color:var(--stone)">·</span>
+<a href="Parcours 3 - Reglages.dc.html" style="font:500 14px Inter">3 · Réglages</a>
+</div>
+</div>
+
+<div style="display:flex;flex-direction:column;gap:10px">
+<div style="display:flex;justify-content:space-between;align-items:center">
+<div style="font:600 18px Inter">Étapes</div>
+<x-import component-from-global-scope="NodalDesignSystem_2d90b7.Button" variant="secondary" on-click="{{ reset }}" hint-size="auto,40px">Recommencer</x-import>
+</div>
+<div style="display:flex;flex-direction:column;gap:6px">
+<sc-for list="{{ steps }}" as="st" hint-placeholder-count="6">
+<div style="{{ st.style }}"><span style="font:600 13px ui-monospace,Menlo,monospace;min-width:20px">{{ st.n }}</span><div style="display:flex;flex-direction:column;gap:2px"><span style="font:600 15px Inter">{{ st.label }}</span><span style="font:400 13px/1.45 Inter;color:var(--slate)">{{ st.note }}</span></div></div>
+</sc-for>
+</div>
+</div>
+
+<div style="display:flex;flex-direction:column;gap:10px">
+<div style="display:flex;justify-content:space-between;align-items:baseline"><div style="font:600 18px Inter">Sons</div><div style="font:500 13px Inter;color:var(--slate)">{{ lastSoundLabel }}</div></div>
+<div style="background:#fff;border:1px solid var(--hairline);border-radius:12px;overflow:hidden">
+<sc-for list="{{ sounds }}" as="so" hint-placeholder-count="4">
+<div style="{{ so.style }}"><span style="font:500 12px ui-monospace,Menlo,monospace;color:var(--slate)">{{ so.id }}</span><div style="display:flex;flex-direction:column;gap:2px"><span style="font:600 14px Inter">{{ so.name }}</span><span style="font:400 13px/1.45 Inter;color:var(--slate)">{{ so.desc }}</span></div></div>
+</sc-for>
+</div>
+<div style="font:400 13px/1.5 Inter;color:var(--steel)">Fichiers dans uploads/. Ils se jouent dans la maquette au moment indiqué (après un premier clic, contrainte du navigateur). Le réglage « Sons » coupe ces effets, jamais la voix de lecture.</div>
+</div>
+
+<div style="display:flex;flex-direction:column;gap:10px">
+<div style="font:600 18px Inter">Images</div>
+<div style="font:400 14px/1.5 Inter;color:var(--charcoal)">Glisser l'image directement sur l'emplacement dans le téléphone. Elle est reprise sur tous les écrans et parcours qui utilisent le même identifiant.</div>
+<div style="background:#fff;border:1px solid var(--hairline);border-radius:12px;overflow:hidden">
+<sc-for list="{{ images }}" as="im" hint-placeholder-count="4">
+<div style="display:grid;grid-template-columns:130px 1fr;gap:12px;padding:10px 14px;border-top:1px solid var(--hairline-soft)"><span style="font:500 12px ui-monospace,Menlo,monospace;color:var(--slate)">{{ im.id }}</span><span style="font:400 13px/1.45 Inter">{{ im.desc }}</span></div>
+</sc-for>
+</div>
+</div>
+</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+const CONFIG = {
+  start: "home",
+  kicker: "Parcours 2 / 3 · Reprise",
+  title: "Reprendre une lecture",
+  intro: "Un appui sur une lecture de l'Accueil ouvre directement le Lecteur, sans bandeau de mots douteux. Une lecture se termine par Réécouter ou Accueil.",
+  steps: [
+    { screen: "home", label: "Accueil · avec historique", note: "Vignettes par défaut, début du texte, date et nombre de mots. La plus récente en premier." },
+    { screen: "reader", label: "Lecteur · en pause", note: "Pas de bandeau lors d'une reprise. Gros bouton ▶." },
+    { screen: "reading", label: "Lecture karaoké", note: "Appui sur un mot : la lecture reprend à partir de ce mot. Vitesse modifiable en cours." },
+    { screen: "end", label: "Fin de lecture", note: "Célébration, le compteur de mots lus augmente." },
+    { screen: "home", label: "Retour Accueil", note: "Compteur « Mots lus » mis à jour." }
+  ],
+  sounds: ["son-salut", "son-mot", "son-bravo"],
+  images: ["logo", "parrot-salue", "vignette-defaut", "parrot-lit", "parrot-bravo"]
+};
+const SOUNDS = {
+  "son-salut": ["Salut du perroquet", "Arrivée sur l'Accueil. Court et joyeux, moins de 1 s."],
+  "son-oups": ["Oups", "Image floue détectée. Doux, 0,5 s, au plus une fois toutes les 3 s."],
+  "son-declic": ["Déclic", "Capture de la photo, auto ou manuelle. Très court."],
+  "son-doute": ["Hmm", "Ouverture du Lecteur avec des mots douteux. Interrogatif, neutre."],
+  "son-bravo": ["Célébration", "Fin de lecture. 1 à 2 s, festif sans être fort."],
+  "son-ok": ["Validé", "Sauvegarde exportée ou sons réactivés. Court, positif."],
+  "son-mot": ["Tic", "Appui sur un mot pour relancer la lecture. Très discret."]
+};
+const IMAGES = {
+  "logo": "Logo Vocalire, fond transparent, format horizontal.",
+  "parrot-salue": "Perroquet qui salue de l'aile. Accueil.",
+  "parrot-photo": "Perroquet qui tient ou montre un appareil photo. Caméra.",
+  "parrot-oups": "Perroquet surpris, plumes ébouriffées. Caméra, image floue.",
+  "parrot-doute": "Perroquet qui se gratte la tête ou tient une loupe. Bandeau mots douteux.",
+  "parrot-lit": "Perroquet qui écoute ou suit du doigt. Lecteur.",
+  "parrot-bravo": "Perroquet qui célèbre, ailes levées. Fin de lecture.",
+  "parrot-ok": "Perroquet pouce levé. Sauvegarde terminée.",
+  "vignette-defaut": "Image par défaut des lectures : perroquet avec un livre, format portrait. Remplacée plus tard par l'image IA."
+};
+class Component extends DCLogic {
+  state = { active: 0, lastSound: null, muted: false, resetKey: 0 };
+  onEvent = e => {
+    this.setState(s => {
+      const steps = CONFIG.steps;
+      let active = s.active;
+      if (steps[active]?.screen !== e.screen) {
+        const fwd = steps.findIndex((x, i) => i > active && x.screen === e.screen);
+        active = fwd >= 0 ? fwd : Math.max(0, steps.findIndex(x => x.screen === e.screen));
+        if (steps.findIndex(x => x.screen === e.screen) < 0) active = s.active;
+      }
+      return { active, lastSound: e.sound || s.lastSound, muted: e.muted };
+    });
+  };
+  renderVals() {
+    const s = this.state;
+    return {
+      start: CONFIG.start, lang: "fr", onEvent: this.onEvent, resetKey: s.resetKey,
+      kicker: CONFIG.kicker, title: CONFIG.title, intro: CONFIG.intro,
+      reset: () => this.setState(st => ({ resetKey: st.resetKey + 1, active: 0, lastSound: null })),
+      steps: CONFIG.steps.map((x, i) => ({ n: i + 1, label: x.label, note: x.note,
+        style: { display: "flex", gap: 12, padding: "12px 14px", borderRadius: 12, background: i === s.active ? "var(--card-tint-lavender)" : "#fff", border: i === s.active ? "1.5px solid var(--primary)" : "1px solid var(--hairline)", opacity: i < s.active ? 0.55 : 1, transition: "background 150ms ease" } })),
+      lastSoundLabel: s.lastSound ? "Dernier son : " + SOUNDS[s.lastSound][0] + (s.muted ? " (coupé)" : "") : "",
+      sounds: CONFIG.sounds.map((id, i) => ({ id, name: SOUNDS[id][0], desc: SOUNDS[id][1],
+        style: { display: "grid", gridTemplateColumns: "100px 1fr", gap: 12, padding: "10px 14px", borderTop: i ? "1px solid var(--hairline-soft)" : "none", background: id === s.lastSound ? "var(--card-tint-yellow)" : "transparent", transition: "background 200ms ease" } })),
+      images: CONFIG.images.map(id => ({ id, desc: IMAGES[id] }))
+    };
+  }
+}
+</script>
+</body>
+</html>

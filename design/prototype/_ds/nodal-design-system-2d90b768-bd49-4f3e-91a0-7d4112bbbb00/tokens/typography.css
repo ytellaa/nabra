@@ -1,0 +1,37 @@
+:root{
+--font-sans:"Inter",-apple-system,system-ui,"Segoe UI",Helvetica,sans-serif;
+--weight-regular:400;--weight-medium:500;--weight-semibold:600;
+--type-hero-display:600 80px/1.05 var(--font-sans);--ls-hero-display:-2px;
+--type-display-lg:600 56px/1.10 var(--font-sans);--ls-display-lg:-1px;
+--type-heading-1:600 48px/1.15 var(--font-sans);--ls-heading-1:-0.5px;
+--type-heading-2:600 36px/1.20 var(--font-sans);--ls-heading-2:-0.5px;
+--type-heading-3:600 28px/1.25 var(--font-sans);
+--type-heading-4:600 22px/1.30 var(--font-sans);
+--type-heading-5:600 18px/1.40 var(--font-sans);
+--type-subtitle:400 18px/1.50 var(--font-sans);
+--type-body-md:400 16px/1.55 var(--font-sans);
+--type-body-md-medium:500 16px/1.55 var(--font-sans);
+--type-body-sm:400 14px/1.50 var(--font-sans);
+--type-body-sm-medium:500 14px/1.50 var(--font-sans);
+--type-caption:400 13px/1.40 var(--font-sans);
+--type-caption-bold:600 13px/1.40 var(--font-sans);
+--type-micro:500 12px/1.40 var(--font-sans);
+--type-micro-uppercase:600 11px/1.40 var(--font-sans);--ls-micro-uppercase:1px;
+--type-button-md:500 14px/1.30 var(--font-sans);
+}
+.nd-hero-display{font:var(--type-hero-display);letter-spacing:var(--ls-hero-display)}
+.nd-display-lg{font:var(--type-display-lg);letter-spacing:var(--ls-display-lg)}
+.nd-heading-1{font:var(--type-heading-1);letter-spacing:var(--ls-heading-1)}
+.nd-heading-2{font:var(--type-heading-2);letter-spacing:var(--ls-heading-2)}
+.nd-heading-3{font:var(--type-heading-3)}
+.nd-heading-4{font:var(--type-heading-4)}
+.nd-heading-5{font:var(--type-heading-5)}
+.nd-subtitle{font:var(--type-subtitle)}
+.nd-body-md{font:var(--type-body-md)}
+.nd-body-md-medium{font:var(--type-body-md-medium)}
+.nd-body-sm{font:var(--type-body-sm)}
+.nd-body-sm-medium{font:var(--type-body-sm-medium)}
+.nd-caption{font:var(--type-caption)}
+.nd-caption-bold{font:var(--type-caption-bold)}
+.nd-micro{font:var(--type-micro)}
+.nd-micro-uppercase{font:var(--type-micro-uppercase);letter-spacing:var(--ls-micro-uppercase);text-transform:uppercase}

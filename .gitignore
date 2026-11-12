@@ -1,0 +1,31 @@
+# Dépendances et builds
+node_modules/
+dist/
+releases/
+*.apk
+*.aab
+*.ipa
+
+# Secrets de signature et variables d'environnement — ne JAMAIS publier
+*.jks
+*.keystore
+keystore.properties
+.env
+.env.*
+!.env.example
+google-services.json
+GoogleService-Info.plist
+
+# Configuration locale (chemin du SDK Android, outils de l'éditeur)
+local.properties
+.claude/*
+!.claude/skills/
+!.claude/launch.json
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
+*.log

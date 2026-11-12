@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/tokens/fonts.css">
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/tokens/colors.css">
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/tokens/typography.css">
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/tokens/spacing.css">
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/tokens/effects.css">
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/tokens/components.css">
+<link rel="stylesheet" href="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/styles.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600&display=swap">
+<script src="_ds/nodal-design-system-2d90b768-bd49-4f3e-91a0-7d4112bbbb00/_ds_bundle.js"></script>
+<script src="./image-slot.js"></script>
+<style>body{margin:0}a{color:var(--link-blue)}a:hover{color:var(--link-blue-pressed)}</style>
+</helmet>
+<x-import component-from-global-scope="AndroidDevice" from="./android-frame.jsx" dark="{{ isDark }}" hint-size="412px,892px">
+<div dir="{{ dir }}" style="height:100%;display:flex;flex-direction:column;box-sizing:border-box;font-family:{{ font }};color:var(--ink);background:var(--surface-soft);position:relative;overflow:hidden">
+
+<sc-if value="{{ isHomeLike }}" hint-placeholder-val="{{ true }}">
+<div style="flex:1;display:flex;flex-direction:column;gap:16px;padding:12px 20px 20px;min-height:0">
+<div style="display:flex;justify-content:space-between;align-items:center;gap:12px">
+<image-slot id="logo" src="../../app/resources/logo.svg" shape="rounded" radius="10" fit="contain" placeholder="Logo" style="width:132px;height:44px"></image-slot>
+<div style="display:flex;gap:8px">
+<button onClick="{{ toggleLang }}" style="height:48px;padding:0 16px;border-radius:16px;border:1.5px solid var(--hairline-strong);background:#fff;font:600 16px/1 {{ altFont }};color:var(--ink);cursor:pointer" style-hover="background:var(--surface)">{{ t.otherLang }}</button>
+<button onClick="{{ openSettings }}" aria-label="{{ t.settings }}" style="width:48px;height:48px;border-radius:16px;border:1.5px solid var(--hairline-strong);background:#fff;display:grid;place-items:center;cursor:pointer;color:var(--charcoal)" style-hover="background:var(--surface)"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.730l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"></path><circle cx="12" cy="12" r="3"></circle></svg></button>
+</div>
+</div>
+
+<sc-if value="{{ isFirst }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:20px">
+<div style="background:#fff;border:1.5px solid var(--hairline);border-radius:24px;padding:16px 22px;font:600 22px/1.3 {{ font }};text-align:center;max-width:300px;text-wrap:pretty;box-shadow:0 4px 12px rgba(26,26,26,.06)">{{ t.firstMsg }}</div>
+<image-slot id="parrot-salue" src="../assets/images/parrot-salue.svg" shape="circle" placeholder="Perroquet · salue" style="width:220px;height:220px;background:var(--card-tint-yellow);border-radius:9999px"></image-slot>
+</div>
+</sc-if>
+
+<sc-if value="{{ hasHistory }}" hint-placeholder-val="{{ true }}">
+<div style="display:flex;align-items:center;gap:14px">
+<image-slot id="parrot-salue" src="../assets/images/parrot-salue.svg" shape="circle" placeholder="Salue" style="width:92px;height:92px;flex:none;background:var(--card-tint-yellow);border-radius:9999px"></image-slot>
+<div style="background:#fff;border:1.5px solid var(--hairline);border-radius:20px;padding:12px 18px;font:600 22px/1.2 {{ font }}">{{ t.ready }}</div>
+</div>
+<div style="background:var(--card-tint-mint);border-radius:20px;padding:14px 18px;display:flex;align-items:baseline;justify-content:space-between">
+<span style="font:500 16px {{ font }};color:var(--charcoal)">{{ t.wordsRead }}</span>
+<span style="font:600 32px/1 Inter;letter-spacing:-.5px">{{ totalWords }}</span>
+</div>
+<div style="font:600 13px {{ font }};letter-spacing:.6px;color:var(--slate);text-transform:uppercase">{{ t.myReads }}</div>
+<div style="flex:1;min-height:0;overflow:auto;display:flex;flex-direction:column;gap:10px;margin:0 -4px;padding:0 4px">
+<sc-for list="{{ sessions }}" as="s" hint-placeholder-count="3">
+<button onClick="{{ s.open }}" style="display:flex;align-items:center;gap:14px;padding:10px;border-radius:20px;border:1.5px solid var(--hairline);background:#fff;cursor:pointer;text-align:start;font:inherit;color:inherit;flex:none" style-hover="background:var(--surface)">
+<div style="width:64px;height:72px;border-radius:14px;background:{{ s.tint }};flex:none;overflow:hidden"><image-slot id="vignette-defaut" src="../assets/images/vignette-defaut.svg" shape="rect" fit="cover" placeholder="Image" style="width:64px;height:72px"></image-slot></div>
+<div style="display:flex;flex-direction:column;gap:4px;min-width:0;flex:1">
+<div dir="ltr" style="font:600 17px/1.3 Inter;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-align:{{ textStart }}">{{ s.title }}</div>
+<div style="font:400 14px {{ font }};color:var(--steel)">{{ s.meta }}</div>
+</div>
+</button>
+</sc-for>
+</div>
+</sc-if>
+
+<button onClick="{{ newCapture }}" style="height:80px;border-radius:22px;border:none;background:var(--primary);color:#fff;display:flex;align-items:center;justify-content:center;gap:14px;font:600 22px {{ font }};cursor:pointer;flex:none;transition:background 150ms ease" style-hover="background:var(--primary-pressed)" style-active="background:var(--primary-deep)"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"></path><circle cx="12" cy="13" r="3"></circle></svg>{{ t.newRead }}</button>
+</div>
+</sc-if>
+
+<sc-if value="{{ isPerm }}" hint-placeholder-val="{{ false }}">
+<div style="position:absolute;inset:0;background:rgba(10,21,48,.45);display:flex;align-items:center;justify-content:center;padding:28px">
+<div style="background:#fff;border-radius:28px;padding:24px;display:flex;flex-direction:column;gap:18px;align-items:center;width:100%;box-sizing:border-box">
+<div style="color:var(--primary)"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"></path><circle cx="12" cy="13" r="3"></circle></svg></div>
+<div style="font:500 19px/1.35 {{ font }};text-align:center;text-wrap:pretty">{{ t.permTitle }}</div>
+<div style="display:flex;flex-direction:column;gap:8px;width:100%">
+<button onClick="{{ permAllow }}" style="height:52px;border-radius:9999px;border:none;background:var(--card-tint-lavender);font:500 15px {{ font }};color:var(--primary-deep);cursor:pointer" style-hover="background:var(--brand-purple-300)">{{ t.permWhile }}</button>
+<button onClick="{{ permAllow }}" style="height:52px;border-radius:9999px;border:none;background:var(--card-tint-lavender);font:500 15px {{ font }};color:var(--primary-deep);cursor:pointer" style-hover="background:var(--brand-purple-300)">{{ t.permOnce }}</button>
+<button onClick="{{ goHome }}" style="height:52px;border-radius:9999px;border:none;background:var(--card-tint-lavender);font:500 15px {{ font }};color:var(--primary-deep);cursor:pointer" style-hover="background:var(--brand-purple-300)">{{ t.permDeny }}</button>
+</div>
+</div>
+</div>
+</sc-if>
+
+<sc-if value="{{ isCamera }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;display:flex;flex-direction:column;gap:14px;padding:8px 16px 20px;background:var(--brand-navy-deep);min-height:0;position:relative">
+<div style="display:flex;align-items:center;gap:12px">
+<button onClick="{{ goHome }}" aria-label="{{ t.home }}" style="width:52px;height:52px;border-radius:16px;border:1.5px solid rgba(255,255,255,.4);background:transparent;color:#fff;display:grid;place-items:center;cursor:pointer;flex:none" style-hover="background:rgba(255,255,255,.08)"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="transform:{{ flip }}"><path d="m12 19-7-7 7-7"></path><path d="M19 12H5"></path></svg></button>
+<div style="flex:1;display:flex;justify-content:center"><div style="display:flex;align-items:center;gap:8px;padding:10px 16px;border-radius:9999px;background:var(--brand-navy-mid);color:#fff;font:600 15px {{ font }}"><span style="width:10px;height:10px;border-radius:9999px;background:{{ camColor }};flex:none"></span>{{ camStatus }}</div></div>
+<div style="width:52px;flex:none"></div>
+</div>
+<div style="flex:1;min-height:0;border-radius:24px;background:var(--brand-navy-mid);position:relative;overflow:hidden;display:grid;place-items:center">
+<div style="width:230px;height:300px;background:var(--card-tint-cream);border-radius:4px;transform:rotate(-3deg);padding:26px 22px;box-sizing:border-box;display:flex;flex-direction:column;gap:12px;filter:blur({{ blurPx }}px);transition:filter 300ms ease">
+<div style="height:10px;width:60%;background:var(--muted);border-radius:3px"></div><div style="height:7px;background:var(--hairline-strong);border-radius:3px"></div><div style="height:7px;background:var(--hairline-strong);border-radius:3px"></div><div style="height:7px;width:85%;background:var(--hairline-strong);border-radius:3px"></div><div style="height:7px;background:var(--hairline-strong);border-radius:3px"></div><div style="height:7px;width:70%;background:var(--hairline-strong);border-radius:3px"></div><div style="height:7px;background:var(--hairline-strong);border-radius:3px"></div><div style="height:7px;width:90%;background:var(--hairline-strong);border-radius:3px"></div>
+</div>
+<div style="position:absolute;width:264px;height:336px;border:3px solid {{ camColor }};border-radius:20px;transition:border-color 200ms ease"></div>
+<div style="position:absolute;inset:0;background:#fff;opacity:{{ flashOpacity }};transition:opacity 200ms ease;pointer-events:none"></div>
+</div>
+<div style="display:flex;align-items:center;gap:12px">
+<sc-if value="{{ isBlurry }}" hint-placeholder-val="{{ false }}"><image-slot id="parrot-oups" src="../assets/images/parrot-oups.svg" shape="circle" placeholder="Oups" style="width:76px;height:76px;flex:none;background:var(--card-tint-peach);border-radius:9999px"></image-slot></sc-if>
+<sc-if value="{{ notBlurry }}" hint-placeholder-val="{{ true }}"><image-slot id="parrot-photo" src="../assets/images/parrot-photo.svg" shape="circle" placeholder="Photo" style="width:76px;height:76px;flex:none;background:var(--card-tint-yellow);border-radius:9999px"></image-slot></sc-if>
+<div style="flex:1;background:#fff;border-radius:20px;padding:12px 16px;font:600 18px/1.3 {{ font }}">{{ camBubble }}</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:center;gap:6px">
+<button onClick="{{ manualShot }}" aria-label="{{ t.shoot }}" style="width:68px;height:68px;border-radius:9999px;border:4px solid #fff;background:transparent;cursor:pointer;display:grid;place-items:center" style-hover="background:rgba(255,255,255,.08)"><span style="width:50px;height:50px;border-radius:9999px;background:rgba(255,255,255,.85)"></span></button>
+<span style="font:500 13px {{ font }};color:var(--on-dark-muted)">{{ t.shoot }}</span>
+</div>
+</div>
+</sc-if>
+
+<sc-if value="{{ isReader }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;display:flex;flex-direction:column;gap:14px;padding:8px 20px 20px;min-height:0">
+<div style="display:flex;align-items:center;justify-content:space-between;gap:12px">
+<button onClick="{{ goHome }}" aria-label="{{ t.home }}" style="width:52px;height:52px;border-radius:16px;border:1.5px solid var(--hairline-strong);background:#fff;display:grid;place-items:center;cursor:pointer;color:var(--ink)" style-hover="background:var(--surface)"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="transform:{{ flip }}"><path d="m12 19-7-7 7-7"></path><path d="M19 12H5"></path></svg></button>
+<div style="font:600 16px Inter;color:var(--slate);padding:8px 14px;background:#fff;border:1.5px solid var(--hairline);border-radius:9999px" dir="ltr">{{ progressLabel }}</div>
+</div>
+<sc-if value="{{ showBanner }}" hint-placeholder-val="{{ false }}">
+<div style="background:var(--card-tint-yellow);border-radius:22px;padding:14px;display:flex;flex-direction:column;gap:12px">
+<div style="display:flex;align-items:center;gap:12px">
+<image-slot id="parrot-doute" src="../assets/images/parrot-doute.svg" shape="circle" placeholder="Doute" style="width:56px;height:56px;flex:none;background:#fff;border-radius:9999px"></image-slot>
+<div style="font:600 18px/1.3 {{ font }}">{{ doubtLabel }}</div>
+</div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+<button onClick="{{ rescan }}" style="height:52px;border-radius:16px;border:1.5px solid var(--ink);background:#fff;font:600 16px {{ font }};color:var(--ink);cursor:pointer" style-hover="background:var(--surface)">{{ t.rescan }}</button>
+<button onClick="{{ readAnyway }}" style="height:52px;border-radius:16px;border:none;background:var(--ink);font:600 16px {{ font }};color:#fff;cursor:pointer" style-hover="background:var(--charcoal)">{{ t.readAnyway }}</button>
+</div>
+</div>
+</sc-if>
+<div dir="ltr" style="flex:1;min-height:0;overflow:auto;background:var(--card-tint-cream);border-radius:24px;padding:20px 18px;font:400 24px/1.75 Inter;display:flex;flex-wrap:wrap;align-content:flex-start;column-gap:2px">
+<sc-for list="{{ words }}" as="w" hint-placeholder-count="20">
+<span onClick="{{ w.tap }}" style="{{ w.style }}">{{ w.text }}</span>
+</sc-for>
+</div>
+<div style="font:500 14px {{ font }};color:var(--steel);text-align:center">{{ t.tapHint }}</div>
+<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px;background:#fff;border:1.5px solid var(--hairline);border-radius:20px;padding:6px">
+<sc-for list="{{ speeds }}" as="sp" hint-placeholder-count="3">
+<button onClick="{{ sp.pick }}" style="{{ sp.style }}"><span style="font:600 15px {{ font }}">{{ sp.label }}</span><span dir="ltr" style="font:500 13px Inter;opacity:.8">{{ sp.val }}</span></button>
+</sc-for>
+</div>
+<div style="display:flex;align-items:center;justify-content:space-between">
+<image-slot id="parrot-lit" src="../assets/images/parrot-lit.svg" shape="circle" placeholder="Lit" style="width:72px;height:72px;flex:none;background:var(--card-tint-yellow);border-radius:9999px"></image-slot>
+<button onClick="{{ togglePlay }}" aria-label="play" style="width:100px;height:100px;border-radius:9999px;border:none;background:var(--primary);color:#fff;display:grid;place-items:center;cursor:pointer;box-shadow:0 8px 20px -6px rgba(98,70,217,.5);transition:background 150ms ease" style-hover="background:var(--primary-pressed)">
+<sc-if value="{{ playing }}" hint-placeholder-val="{{ false }}"><svg width="40" height="40" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"></rect><rect x="14" y="4" width="4" height="16" rx="1"></rect></svg></sc-if>
+<sc-if value="{{ paused }}" hint-placeholder-val="{{ true }}"><svg width="42" height="42" viewBox="0 0 24 24" fill="currentColor" style="margin-left:5px"><polygon points="6 3 20 12 6 21 6 3"></polygon></svg></sc-if>
+</button>
+<div style="width:72px"></div>
+</div>
+</div>
+</sc-if>
+
+<sc-if value="{{ isEnd }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;display:flex;flex-direction:column;gap:14px;padding:20px;background:var(--card-tint-yellow)">
+<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px">
+<image-slot id="parrot-bravo" src="../assets/images/parrot-bravo.svg" shape="circle" placeholder="Perroquet · célèbre" style="width:240px;height:240px;background:#fff;border-radius:9999px"></image-slot>
+<div style="font:600 40px/1 {{ font }};letter-spacing:-.8px">{{ t.bravo }}</div>
+<div style="background:#fff;border-radius:9999px;padding:10px 20px;font:600 20px {{ font }};display:flex;gap:8px;align-items:baseline"><span dir="ltr" style="font-family:Inter">+{{ wordCount }}</span><span>{{ t.wordsReadShort }}</span></div>
+</div>
+<button onClick="{{ replay }}" style="height:76px;border-radius:22px;border:none;background:var(--primary);color:#fff;display:flex;align-items:center;justify-content:center;gap:12px;font:600 21px {{ font }};cursor:pointer" style-hover="background:var(--primary-pressed)"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path><path d="M3 3v5h5"></path></svg>{{ t.replay }}</button>
+<button onClick="{{ goHome }}" style="height:76px;border-radius:22px;border:2px solid var(--ink);background:#fff;color:var(--ink);display:flex;align-items:center;justify-content:center;gap:12px;font:600 21px {{ font }};cursor:pointer" style-hover="background:var(--surface)"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10l9-7 9 7v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><path d="M9 22V12h6v10"></path></svg>{{ t.home }}</button>
+</div>
+</sc-if>
+
+<sc-if value="{{ isSettingsAny }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;display:flex;flex-direction:column;gap:18px;padding:8px 20px 20px;min-height:0">
+<div style="display:flex;align-items:center;gap:14px">
+<button onClick="{{ settingsBack }}" aria-label="back" style="width:52px;height:52px;border-radius:16px;border:1.5px solid var(--hairline-strong);background:#fff;display:grid;place-items:center;cursor:pointer;color:var(--ink);flex:none" style-hover="background:var(--surface)"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="transform:{{ flip }}"><path d="m12 19-7-7 7-7"></path><path d="M19 12H5"></path></svg></button>
+<div style="font:600 28px/1.1 {{ font }};letter-spacing:-.4px">{{ settingsTitle }}</div>
+</div>
+
+<sc-if value="{{ isSettings }}" hint-placeholder-val="{{ false }}">
+<div style="display:flex;flex-direction:column;gap:12px">
+<button onClick="{{ openLang }}" style="display:flex;align-items:center;gap:14px;min-height:76px;padding:0 18px;border-radius:22px;border:1.5px solid var(--hairline);background:#fff;cursor:pointer;font:inherit;color:inherit;text-align:start" style-hover="background:var(--surface)">
+<div style="width:44px;height:44px;border-radius:14px;background:var(--card-tint-sky);display:grid;place-items:center;flex:none"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path><path d="M2 12h20"></path></svg></div>
+<span style="flex:1;font:600 19px {{ font }}">{{ t.language }}</span><span style="font:500 16px {{ font }};color:var(--slate)">{{ t.langName }}</span>
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:var(--stone);transform:{{ flip }}"><path d="m9 18 6-6-6-6"></path></svg>
+</button>
+<div style="display:flex;align-items:center;gap:14px;min-height:76px;padding:0 18px;border-radius:22px;border:1.5px solid var(--hairline);background:#fff">
+<div style="width:44px;height:44px;border-radius:14px;background:var(--card-tint-peach);display:grid;place-items:center;flex:none"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4.7a.7.7 0 0 0-1.2-.5L6.4 7.6A1.4 1.4 0 0 1 5.4 8H3a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h2.4a1.4 1.4 0 0 1 1 .4l3.4 3.4a.7.7 0 0 0 1.2-.5z"></path><path d="M16 9a5 5 0 0 1 0 6"></path><path d="M19.4 18.4a9 9 0 0 0 0-12.8"></path></svg></div>
+<div style="flex:1;display:flex;flex-direction:column;gap:2px"><span style="font:600 19px {{ font }}">{{ t.sounds }}</span><span style="font:400 14px {{ font }};color:var(--steel)">{{ t.soundsDesc }}</span></div>
+<button onClick="{{ toggleSound }}" aria-label="{{ t.sounds }}" style="width:60px;height:36px;border-radius:9999px;border:none;background:{{ toggleBg }};display:flex;justify-content:{{ toggleJustify }};padding:4px;box-sizing:border-box;cursor:pointer;transition:background 150ms ease;flex:none"><span style="width:28px;height:28px;border-radius:9999px;background:#fff"></span></button>
+</div>
+<button onClick="{{ openBackup }}" style="display:flex;align-items:center;gap:14px;min-height:76px;padding:0 18px;border-radius:22px;border:1.5px solid var(--hairline);background:#fff;cursor:pointer;font:inherit;color:inherit;text-align:start" style-hover="background:var(--surface)">
+<div style="width:44px;height:44px;border-radius:14px;background:var(--card-tint-mint);display:grid;place-items:center;flex:none"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" x2="12" y1="3" y2="15"></line></svg></div>
+<span style="flex:1;font:600 19px {{ font }}">{{ t.backup }}</span><span style="font:500 16px {{ font }};color:var(--slate)">{{ t.export }}</span>
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:var(--stone);transform:{{ flip }}"><path d="m9 18 6-6-6-6"></path></svg>
+</button>
+</div>
+<div style="flex:1"></div>
+<div style="font:400 13px Inter;color:var(--stone);text-align:center">Vocalire · 1.0</div>
+</sc-if>
+
+<sc-if value="{{ isLang }}" hint-placeholder-val="{{ false }}">
+<div style="display:flex;flex-direction:column;gap:12px">
+<button onClick="{{ setFr }}" style="{{ frStyle }}"><span style="font:600 20px Inter">Français</span><span style="font:600 20px Inter">{{ frCheck }}</span></button>
+<button onClick="{{ setAr }}" style="{{ arStyle }}"><span dir="rtl" style="font:600 22px 'IBM Plex Sans Arabic'">العربية</span><span style="font:600 20px Inter">{{ arCheck }}</span></button>
+</div>
+<div style="font:400 16px/1.5 {{ font }};color:var(--slate);text-wrap:pretty">{{ t.langNote }}</div>
+</sc-if>
+
+<sc-if value="{{ isBackup }}" hint-placeholder-val="{{ false }}">
+<div style="background:var(--card-tint-sky);border-radius:24px;padding:20px;display:flex;flex-direction:column;gap:6px">
+<div style="font:600 22px {{ font }}">{{ backupSummary }}</div>
+<div style="font:400 16px/1.5 {{ font }};color:var(--charcoal)">{{ t.backupDesc }}</div>
+</div>
+<div style="flex:1"></div>
+<button onClick="{{ doExport }}" style="height:80px;border-radius:22px;border:none;background:var(--primary);color:#fff;display:flex;align-items:center;justify-content:center;gap:12px;font:600 22px {{ font }};cursor:pointer" style-hover="background:var(--primary-pressed)"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" x2="12" y1="3" y2="15"></line></svg>{{ t.export }}</button>
+</sc-if>
+
+<sc-if value="{{ isBackupDone }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px">
+<image-slot id="parrot-ok" src="../assets/images/parrot-ok.svg" fit="contain" shape="circle" placeholder="Perroquet · validé" style="width:200px;height:200px;background:var(--card-tint-mint);border-radius:9999px"></image-slot>
+<div style="background:#fff;border:1.5px solid var(--hairline);border-radius:20px;padding:12px 20px;font:600 22px {{ font }}">{{ t.saved }}</div>
+</div>
+<button onClick="{{ openSettings }}" style="height:72px;border-radius:22px;border:2px solid var(--ink);background:#fff;color:var(--ink);font:600 20px {{ font }};cursor:pointer" style-hover="background:var(--surface)">{{ t.backToSettings }}</button>
+</sc-if>
+</div>
+</sc-if>
+
+</div>
+</x-import>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:&quot;440px&quot;,&quot;height&quot;:&quot;920px&quot;},&quot;start&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;first&quot;,&quot;home&quot;,&quot;settings&quot;],&quot;default&quot;:&quot;first&quot;,&quot;tsType&quot;:&quot;'first'|'home'|'settings'&quot;},&quot;lang&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;fr&quot;,&quot;ar&quot;],&quot;default&quot;:&quot;fr&quot;,&quot;tsType&quot;:&quot;'fr'|'ar'&quot;},&quot;onEvent&quot;:{&quot;editor&quot;:null,&quot;tsType&quot;:&quot;(e:{screen:string,sound?:string,muted:boolean})=&gt;void&quot;},&quot;resetKey&quot;:{&quot;editor&quot;:null,&quot;tsType&quot;:&quot;number&quot;}}">
+const T = {
+  fr: { otherLang: "عربي", settings: "Réglages", firstMsg: "Prends en photo ton premier texte !", ready: "Prêt à lire ?", wordsRead: "Mots lus", wordsReadShort: "mots lus", myReads: "Mes lectures", words: "mots", newRead: "Nouvelle lecture",
+    permTitle: "Autoriser Vocalire à prendre des photos ?", permWhile: "Lorsque l'appli est utilisée", permOnce: "Uniquement cette fois-ci", permDeny: "Ne pas autoriser",
+    home: "Accueil", camSearch: "Cherche la page…", camBlur: "Image floue", camSharp: "Page nette", bubSearch: "Montre-moi ta page.", bubBlur: "Oups, tremblote un peu !", bubSharp: "Parfait, ne bouge plus…", shoot: "Prendre la photo",
+    doubt: n => n + " mots à vérifier", rescan: "Rescanner", readAnyway: "Lire quand même", tapHint: "Touche un mot pour lire à partir de là",
+    sp: ["Tortue", "Promenade", "Normal"], bravo: "Bravo !", replay: "Réécouter",
+    language: "Langue", langName: "Français", sounds: "Sons", soundsDesc: "Petits sons du perroquet", backup: "Sauvegarde", export: "Exporter",
+    langNote: "Change la langue de l'application. Le texte lu reste en français.", backupDesc: "Un fichier avec toutes tes lectures, à garder sur le téléphone ou à envoyer.",
+    readings: n => n + " lectures", saved: "C'est sauvegardé.", backToSettings: "Retour aux réglages", today: "Aujourd'hui", dates: ["Hier", "3 nov.", "1 nov."] },
+  ar: { otherLang: "Français", settings: "الإعدادات", firstMsg: "صوِّر نصّك الأول!", ready: "جاهز للقراءة؟", wordsRead: "كلمات مقروءة", wordsReadShort: "كلمة مقروءة", myReads: "قراءاتي", words: "كلمة", newRead: "قراءة جديدة",
+    permTitle: "هل تسمح لـ Vocalire بالتقاط الصور؟", permWhile: "أثناء استخدام التطبيق", permOnce: "هذه المرة فقط", permDeny: "عدم السماح",
+    home: "الرئيسية", camSearch: "أبحث عن الصفحة…", camBlur: "الصورة غير واضحة", camSharp: "الصفحة واضحة", bubSearch: "أرني صفحتك.", bubBlur: "أوه، يدك تهتزّ قليلاً!", bubSharp: "ممتاز، لا تتحرّك…", shoot: "التقاط الصورة",
+    doubt: n => n + " كلمات للتحقّق", rescan: "إعادة المسح", readAnyway: "اقرأ على أي حال", tapHint: "المس كلمة للقراءة ابتداءً منها",
+    sp: ["سلحفاة", "نزهة", "عادي"], bravo: "أحسنت!", replay: "أعد الاستماع",
+    language: "اللغة", langName: "العربية", sounds: "الأصوات", soundsDesc: "أصوات الببغاء الصغيرة", backup: "النسخ الاحتياطي", export: "تصدير",
+    langNote: "تتغيّر لغة التطبيق. يبقى النص المقروء بالفرنسية.", backupDesc: "ملف يحتوي على كل قراءاتك، تحفظه في الهاتف أو ترسله.",
+    readings: n => n + " قراءات", saved: "تمّ الحفظ.", backToSettings: "العودة إلى الإعدادات", today: "اليوم", dates: ["أمس", "3 نوفمبر", "1 نوفمبر"] }
+};
+const NEW_TEXT = "Le petit chat gris dort sur le muret du jardin. Le *solei chauffe ses pattes et il rêve de *pois?ons argentés qui sautent dans la *rivlère. Soudain, un oiseau se pose tout près de lui. Le chat ouvre un œil, puis l'autre.";
+const HIST = [
+  { text: "Il était une fois une petite fille qui habitait au bord de la mer. Chaque matin, elle ramassait des coquillages sur la plage et les rangeait dans une boîte bleue.", tint: "var(--card-tint-peach)" },
+  { text: "Pour faire des crêpes, il faut de la farine, des œufs, du lait et une pincée de sel. Mélange doucement pour éviter les grumeaux.", tint: "var(--card-tint-lavender)" },
+  { text: "Les plantes ont besoin d'eau, de lumière et d'air pour grandir. Leurs racines puisent l'eau dans la terre.", tint: "var(--card-tint-sky)" }
+];
+const TINTS = ["var(--card-tint-mint)", "var(--card-tint-rose)", "var(--card-tint-peach)", "var(--card-tint-lavender)"];
+const SPEEDS = [0.5, 0.8, 1];
+const parse = s => s.split(/\s+/).map(w => ({ text: w.replace(/^\*/, ""), doubt: w[0] === "*" }));
+const startOf = s => s.split(/\s+/).slice(0, 4).join(" ") + "…";
+
+class Component extends DCLogic {
+  state = this.initial();
+  initial() {
+    const start = this.props.start ?? "first";
+    const sessions = start === "first" ? [] : HIST.map((h, i) => ({ ...h, dateIdx: i, n: parse(h.text).length }));
+    return { screen: start === "settings" ? "settings" : "home", lang: this.props.lang ?? "fr", sessions,
+      totalWords: sessions.reduce((a, s) => a + s.n, 0), sound: true, permGranted: false, camPhase: "search", flash: false,
+      words: [], idx: -1, playing: false, speed: 1, showBanner: false, fromCapture: false, savedNew: false };
+  }
+  componentDidMount() { this.emit(this.state.screen, "son-salut"); }
+  componentDidUpdate(prev) {
+    if (prev.resetKey !== this.props.resetKey) { this.clearAll(); this.saluted = false; this.setState(this.initial(), () => this.emit(this.state.screen, "son-salut")); }
+    if (prev.lang !== this.props.lang && this.props.lang) this.setState({ lang: this.props.lang });
+  }
+  componentWillUnmount() { this.clearAll(); }
+  clearAll() { clearInterval(this.timer); (this.camTimers || []).forEach(clearTimeout); this.camTimers = []; }
+  emit(screen, sound) {
+    if (sound === "son-salut" && this.saluted) sound = null;
+    if (sound === "son-oups" && Date.now() - (this.lastOups || 0) < 3000) sound = null;
+    if (sound) {
+      if (sound === "son-salut") this.saluted = true;
+      if (sound === "son-oups") this.lastOups = Date.now();
+      if (this.state.sound) { try { const a = new Audio("../assets/sounds/" + sound + ".ogg"); a.play().catch(() => {}); } catch (e) {} }
+    }
+    this.props.onEvent?.({ screen, sound, muted: !this.state.sound });
+  }
+  go(screen, sound) { this.setState({ screen }); this.emit(screen, sound); }
+
+  startCamera() {
+    this.clearAll();
+    this.setState({ screen: "camera", camPhase: "search", flash: false });
+    this.emit("camera");
+    const at = (ms, fn) => this.camTimers.push(setTimeout(fn, ms));
+    at(900, () => { this.setState({ camPhase: "blur" }); this.emit("camera", "son-oups"); });
+    at(2600, () => this.setState({ camPhase: "sharp" }));
+    at(3400, () => this.capture());
+  }
+  capture() {
+    this.clearAll();
+    this.setState({ flash: true }); this.emit("camera", "son-declic");
+    this.camTimers.push(setTimeout(() => {
+      const words = parse(NEW_TEXT);
+      this.setState({ screen: "reader", flash: false, words, idx: -1, playing: false, fromCapture: true, savedNew: false, showBanner: words.some(w => w.doubt) });
+      this.emit("reader", "son-doute");
+    }, 450));
+  }
+  openSession(i) {
+    this.clearAll();
+    const s = this.state.sessions[i];
+    this.setState({ screen: "reader", words: parse(s.text), idx: -1, playing: false, fromCapture: false, showBanner: false });
+    this.emit("reader");
+  }
+  play(fromIdx) {
+    clearInterval(this.timer);
+    const st = this.state;
+    let sessions = st.sessions, savedNew = st.savedNew;
+    if (st.fromCapture && !savedNew) {
+      sessions = [{ text: NEW_TEXT.replace(/\*/g, ""), tint: TINTS[sessions.length % TINTS.length], dateIdx: -1, n: st.words.length }, ...sessions];
+      savedNew = true;
+    }
+    const idx = fromIdx ?? (st.idx < 0 || st.idx >= st.words.length - 1 ? 0 : st.idx);
+    this.setState({ playing: true, idx, showBanner: false, sessions, savedNew });
+    this.emit("reading");
+    this.timer = setInterval(() => this.tick(), 420 / this.state.speed);
+  }
+  pause() { clearInterval(this.timer); this.setState({ playing: false }); }
+  tick() {
+    const { idx, words } = this.state;
+    if (idx >= words.length - 1) {
+      clearInterval(this.timer);
+      this.setState(s => ({ playing: false, screen: "end", totalWords: s.totalWords + words.length }));
+      this.emit("end", "son-bravo");
+      return;
+    }
+    this.setState({ idx: idx + 1 });
+  }
+  setSpeed(v) { this.setState({ speed: v }, () => { if (this.state.playing) this.play(this.state.idx); }); }
+
+  renderVals() {
+    const s = this.state, t = T[s.lang], ar = s.lang === "ar";
+    const font = ar ? "'IBM Plex Sans Arabic', Inter, sans-serif" : "Inter, sans-serif";
+    const reading = s.idx >= 0;
+    const camColor = { search: "#ffffff", blur: "var(--brand-orange)", sharp: "var(--semantic-success)" }[s.camPhase];
+    const titles = { settings: t.settings, lang: t.language, backup: t.backup, backupDone: t.backup };
+    const optStyle = on => ({ display: "flex", alignItems: "center", justifyContent: "space-between", minHeight: 76, padding: "0 22px", borderRadius: 22, cursor: "pointer", background: on ? "var(--card-tint-lavender)" : "#fff", border: on ? "2px solid var(--primary)" : "1.5px solid var(--hairline)", color: "var(--ink)" });
+    return {
+      t, font, altFont: ar ? "Inter, sans-serif" : "'IBM Plex Sans Arabic', sans-serif", dir: ar ? "rtl" : "ltr", flip: ar ? "scaleX(-1)" : "none", textStart: ar ? "right" : "left",
+      isDark: s.screen === "camera",
+      isHomeLike: s.screen === "home" || s.screen === "perm", isPerm: s.screen === "perm",
+      isFirst: s.sessions.length === 0, hasHistory: s.sessions.length > 0, totalWords: s.totalWords,
+      sessions: s.sessions.map((x, i) => ({ title: startOf(x.text), tint: x.tint, meta: (x.dateIdx < 0 ? t.today : t.dates[x.dateIdx]) + " · " + x.n + " " + t.words, open: () => this.openSession(i) })),
+      toggleLang: () => this.setState({ lang: ar ? "fr" : "ar" }),
+      openSettings: () => this.go("settings"),
+      newCapture: () => { if (s.permGranted) this.startCamera(); else this.go("perm"); },
+      permAllow: () => { this.setState({ permGranted: true }); this.startCamera(); },
+      goHome: () => { this.clearAll(); this.setState({ playing: false }); this.go("home", "son-salut"); },
+      isCamera: s.screen === "camera", isBlurry: s.camPhase === "blur", notBlurry: s.camPhase !== "blur",
+      camColor, blurPx: s.camPhase === "blur" ? 3.5 : s.camPhase === "search" ? 1.2 : 0, flashOpacity: s.flash ? 0.9 : 0,
+      camStatus: { search: t.camSearch, blur: t.camBlur, sharp: t.camSharp }[s.camPhase],
+      camBubble: { search: t.bubSearch, blur: t.bubBlur, sharp: t.bubSharp }[s.camPhase],
+      manualShot: () => this.capture(),
+      isReader: s.screen === "reader", showBanner: s.showBanner,
+      doubtLabel: t.doubt(s.words.filter(w => w.doubt).length),
+      rescan: () => this.startCamera(), readAnyway: () => this.play(0),
+      progressLabel: reading ? (s.idx + 1) + " / " + s.words.length : s.words.length + " " + T.fr.words,
+      words: s.words.map((w, i) => {
+        const cur = reading && i === s.idx, done = reading && i < s.idx;
+        const st = { padding: "0 4px", borderRadius: 8, cursor: "pointer", transition: "background 150ms ease, color 150ms ease", color: done ? "var(--stone)" : "var(--ink)" };
+        if (w.doubt && !cur && s.fromCapture) Object.assign(st, { background: "var(--card-tint-yellow-bold)", boxShadow: "inset 0 -2px 0 var(--brand-orange)" });
+        if (cur) Object.assign(st, { background: "var(--primary)", color: "#fff" });
+        return { text: w.text, style: st, tap: () => { this.play(i); this.emit("reading", "son-mot"); } };
+      }),
+      speeds: SPEEDS.map((v, i) => ({ label: t.sp[i], val: String(v).replace(".", ",") + "x", pick: () => this.setSpeed(v),
+        style: { height: 60, borderRadius: 14, border: "none", cursor: "pointer", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: 2, background: s.speed === v ? "var(--ink)" : "transparent", color: s.speed === v ? "#fff" : "var(--ink)", transition: "background 150ms ease" } })),
+      playing: s.playing, paused: !s.playing,
+      togglePlay: () => (s.playing ? this.pause() : this.play()),
+      isEnd: s.screen === "end", wordCount: s.words.length,
+      replay: () => { this.setState({ screen: "reader", idx: -1 }); this.emit("reader"); setTimeout(() => this.play(0), 0); },
+      isSettingsAny: !!titles[s.screen], isSettings: s.screen === "settings", isLang: s.screen === "lang", isBackup: s.screen === "backup", isBackupDone: s.screen === "backupDone",
+      settingsTitle: titles[s.screen] || "",
+      settingsBack: () => (s.screen === "settings" ? this.go("home") : this.go("settings")),
+      openLang: () => this.go("lang"), openBackup: () => this.go("backup"),
+      toggleSound: () => this.setState({ sound: !s.sound }, () => this.emit("settings", this.state.sound ? "son-ok" : null)),
+      toggleBg: s.sound ? "var(--primary)" : "var(--hairline-strong)", toggleJustify: s.sound ? "flex-end" : "flex-start",
+      setFr: () => this.setState({ lang: "fr" }), setAr: () => this.setState({ lang: "ar" }),
+      frStyle: optStyle(!ar), arStyle: optStyle(ar), frCheck: ar ? "" : "✓", arCheck: ar ? "✓" : "",
+      backupSummary: t.readings(s.sessions.length) + " · " + s.totalWords + " " + t.words,
+      doExport: () => this.go("backupDone", "son-ok")
+    };
+  }
+}
+</script>
+</body>
+</html>

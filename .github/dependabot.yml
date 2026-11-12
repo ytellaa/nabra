@@ -1,0 +1,13 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /app
+    schedule:
+      interval: monthly
+    groups:
+      capacitor:
+        patterns: ['@capacitor/*', '@capacitor-*', '@capgo/*']
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly

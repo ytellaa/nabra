@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Nabra</string>
+    <string name="title_activity_main">Nabra</string>
+    <string name="package_name">app.nabra</string>
+    <string name="custom_url_scheme">app.nabra</string>
+</resources>

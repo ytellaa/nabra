@@ -1,0 +1,31 @@
+:root{
+/* Brand & primary */
+--primary:#6246d9;--primary-pressed:#4f36bd;--primary-deep:#3e2a9e;--on-primary:#ffffff;
+--brand-navy:#0a1530;--brand-navy-deep:#070f24;--brand-navy-mid:#1a2a52;
+--link-blue:#0075de;--link-blue-pressed:#005bab;
+/* Brand spectrum */
+--brand-orange:#dd5b00;--brand-orange-deep:#793400;--brand-pink:#ff64c8;--brand-pink-deep:#a02e6d;
+--brand-purple:#7b3ff2;--brand-purple-300:#d6b6f6;--brand-purple-800:#391c57;
+--brand-teal:#2a9d99;--brand-green:#1aae39;--brand-yellow:#f5d75e;--brand-brown:#523410;
+/* Card tints */
+--card-tint-peach:#ffe8d4;--card-tint-rose:#fde0ec;--card-tint-mint:#d9f3e1;--card-tint-lavender:#e6e0f5;
+--card-tint-sky:#dcecfa;--card-tint-yellow:#fef7d6;--card-tint-yellow-bold:#f9e79f;--card-tint-cream:#f8f5e8;--card-tint-gray:#f0eeec;
+/* Surface */
+--canvas:#ffffff;--surface:#f6f5f4;--surface-soft:#fafaf9;
+--hairline:#e5e3df;--hairline-soft:#ede9e4;--hairline-strong:#c8c4be;
+/* Text */
+--ink-deep:#000000;--ink:#1a1a1a;--charcoal:#37352f;--slate:#5d5b54;--steel:#787671;--stone:#a4a097;--muted:#bbb8b1;
+--on-dark:#ffffff;--on-dark-muted:#a4a097;
+/* Semantic */
+--semantic-success:#1aae39;--semantic-warning:#dd5b00;--semantic-error:#e03131;
+
+/* Semantic aliases */
+--text-heading:var(--ink);--text-body:var(--ink);--text-emphasis:var(--charcoal);--text-secondary:var(--slate);
+--text-tertiary:var(--steel);--text-label:var(--stone);--text-disabled:var(--muted);--text-link:var(--link-blue);
+--text-on-dark:var(--on-dark);--text-on-dark-muted:var(--on-dark-muted);--text-on-tint:var(--charcoal);
+--surface-page:var(--canvas);--surface-card:var(--canvas);--surface-subtle:var(--surface);--surface-quiet:var(--surface-soft);
+--surface-dark:var(--brand-navy);--surface-dark-deep:var(--brand-navy-deep);
+--border-default:var(--hairline);--border-soft:var(--hairline-soft);--border-strong:var(--hairline-strong);--border-focus:var(--primary);
+--action-primary:var(--primary);--action-primary-pressed:var(--primary-pressed);--action-dark:var(--ink-deep);
+--divider-node:var(--primary);--divider-node-on-dark:var(--brand-purple-300);
+}
