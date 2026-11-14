@@ -1,14 +1,16 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { Ctx, type AppCtx } from './context';
 import { detectLang, translate, type Lang } from './i18n';
-import { db, loadPrefs, loadSessions, newId, savePref, type Prefs, type Session } from './lib/db';
+import { db, loadMyWords, loadPrefs, loadSessions, newId, savePref, type MyWord, type Prefs, type Session } from './lib/db';
+import { speaker } from './lib/speech';
 import { exportBackup, savePhoto } from './lib/files';
 import { isNative, platform } from './lib/platform';
 import { log, logsAsText, setDebugEnabled } from './lib/debug';
 import { DebugPanel } from './components/DebugPanel';
 import { DEBUG_AVAILABLE } from './lib/buildFlags';
 import { playSound, type SoundName } from './lib/sounds';
-import { buildWords, wordsFromText, type RawWord, type Word } from './lib/words';
+import { buildWords, doubtfulIndexes, myWordOf, replaceWord, wordsFromText, type RawWord, type Word } from './lib/words';
+import { consumeBack } from './lib/backHandler';
 import { CameraScreen } from './screens/Camera';
 import { End } from './screens/End';
 import { Home } from './screens/Home';
@@ -28,14 +30,14 @@ interface ReaderState {
   autoPlay: boolean;
 }
 
-const SETTINGS_PAGES: Screen[] = ['settings', 'lang', 'backup', 'backupDone', 'backupError', 'logs', 'legal'];
+const SETTINGS_PAGES: Screen[] = ['settings', 'words', 'lang', 'backup', 'backupDone', 'backupError', 'logs', 'legal'];
 
 export default function App() {
   const [prefs, setPrefs] = useState<Prefs | null>(null);
   const [sessions, setSessions] = useState<Session[]>([]);
+  const [myWords, setMyWords] = useState<MyWord[]>([]);
   const [screen, setScreen] = useState<Screen>('home');
   const [reader, setReader] = useState<ReaderState | null>(null);
-  const [speed, setSpeed] = useState(1);
   const [exporting, setExporting] = useState(false);
   const readerRef = useRef(reader);
   useEffect(() => {
@@ -45,12 +47,13 @@ export default function App() {
   /* ---------- Chargement ---------- */
   useEffect(() => {
     (async () => {
-      const defaults: Prefs = { lang: detectLang(), soundOn: true, totalWordsRead: 0, cameraPermission: 'unknown', debugOn: false };
+      const defaults: Prefs = { lang: detectLang(), soundOn: true, totalWordsRead: 0, cameraPermission: 'unknown', debugOn: false, speed: 1 };
       try {
-        const [p, s] = await Promise.all([loadPrefs(defaults), loadSessions()]);
+        const [p, s, w] = await Promise.all([loadPrefs(defaults), loadSessions(), loadMyWords()]);
         setDebugEnabled(DEBUG_AVAILABLE && p.debugOn);
         setPrefs(p);
         setSessions(s);
+        setMyWords(w);
         log('app', 'Démarrage', { platform, native: isNative, lang: p.lang, sessions: s.length, ua: navigator.userAgent });
       } catch (e) {
         log('app', 'Lecture de la base impossible', String(e), 'error');
@@ -62,6 +65,7 @@ export default function App() {
   const lang: Lang = prefs?.lang ?? 'fr';
   const soundOn = prefs?.soundOn ?? true;
   const debugOn = DEBUG_AVAILABLE && (prefs?.debugOn ?? false);
+  const speed = prefs?.speed ?? 1;
 
   const updatePref = useCallback(<K extends keyof Prefs>(key: K, value: Prefs[K]) => {
     setPrefs((p) => (p ? { ...p, [key]: value } : p));
@@ -108,19 +112,25 @@ export default function App() {
   );
 
   const openSession = (s: Session) => {
-    setReader({ key: Date.now(), words: wordsFromText(s.text), text: s.text, fromCapture: false, savedId: s.id, autoPlay: false });
+    setReader({ key: Date.now(), words: wordsFromText(s.text, s.doubtful), text: s.text, fromCapture: false, savedId: s.id, autoPlay: false });
     setScreen('reader');
   };
 
-  /** Sauvegarde automatique au premier ▶ (ou « Lire quand même »). */
-  const onStart = useCallback(() => {
+  /**
+   * Sauvegarde automatique au premier ▶ (ou « Lire quand même », ou ajout d'un mot à Mes mots).
+   * Renvoie l'identifiant de la session.
+   */
+  const ensureSaved = useCallback((): string | undefined => {
     const r = readerRef.current;
-    if (!r || !r.fromCapture || r.savedId) return;
+    if (!r) return undefined;
+    if (r.savedId) return r.savedId;
+    if (!r.fromCapture) return undefined;
     const session: Session = {
       id: newId(),
       createdAt: Date.now(),
       text: r.text,
       wordCount: r.words.length,
+      doubtful: doubtfulIndexes(r.words),
       tint: sessions.length % TINTS.length,
     };
     readerRef.current = { ...r, savedId: session.id };
@@ -133,7 +143,57 @@ export default function App() {
         if (uri) await db.sessions.update(session.id, { sourcePhotoUri: uri });
       }
     })().catch(() => {});
+    return session.id;
   }, [sessions.length]);
+
+  /* ---------- Mes mots ---------- */
+  const isInMyWords = useCallback(
+    (text: string) => {
+      const w = myWordOf(text);
+      const sid = readerRef.current?.savedId;
+      return !!w && !!sid && myWords.some((x) => x.key === w.key && x.sessionIds.includes(sid));
+    },
+    [myWords],
+  );
+
+  const onAddWord = useCallback(
+    (i: number) => {
+      const w = myWordOf(readerRef.current?.words[i]?.text ?? '');
+      if (!w) return;
+      const sid = ensureSaved();
+      const old = myWords.find((x) => x.key === w.key);
+      const entry: MyWord = old
+        ? { ...old, sessionIds: sid && !old.sessionIds.includes(sid) ? [...old.sessionIds, sid] : old.sessionIds }
+        : { key: w.key, text: w.text, addedAt: Date.now(), sessionIds: sid ? [sid] : [] };
+      setMyWords(old ? myWords.map((x) => (x.key === w.key ? entry : x)) : [entry, ...myWords]);
+      void db.words.put(entry).catch(() => {});
+      log('words', `Ajout : ${w.key}`);
+      ctx.sound('son-ok');
+    },
+    [ensureSaved, myWords, ctx],
+  );
+
+  const removeMyWord = (w: MyWord) => {
+    setMyWords((list) => list.filter((x) => x.key !== w.key));
+    void db.words.delete(w.key).catch(() => {});
+  };
+
+  /** Correction (ou suppression) d'un mot dans le Lecteur, enregistrée si la session existe déjà. */
+  const onCorrectWord = useCallback((i: number, value: string | null) => {
+    const r = readerRef.current;
+    if (!r) return;
+    const { text, words } = replaceWord(r.words, i, value);
+    if (!words.length) return;
+    log('reader', value === null ? `Mot ${i} supprimé` : `Mot ${i} corrigé`, { from: r.words[i]?.text, to: value });
+    readerRef.current = { ...r, text, words };
+    setReader(readerRef.current);
+    if (r.savedId) {
+      const patch = { text, wordCount: words.length, doubtful: doubtfulIndexes(words) };
+      const id = r.savedId;
+      setSessions((list) => list.map((s) => (s.id === id ? { ...s, ...patch } : s)));
+      void db.sessions.update(id, patch).catch(() => {});
+    }
+  }, []);
 
   const onFinish = useCallback(() => {
     const r = readerRef.current;
@@ -161,7 +221,7 @@ export default function App() {
   const doExport = async () => {
     if (exporting || !prefs) return;
     setExporting(true);
-    const res = await exportBackup(sessions, prefs.totalWordsRead);
+    const res = await exportBackup(sessions, prefs.totalWordsRead, myWords);
     setExporting(false);
     if (res === 'ok') {
       setScreen('backupDone');
@@ -216,6 +276,7 @@ export default function App() {
     let handle: { remove: () => void } | undefined;
     void import('@capacitor/app').then(async ({ App: CapApp }) => {
       handle = await CapApp.addListener('backButton', () => {
+        if (consumeBack()) return;
         const s = screenRef.current;
         if (s === 'home') void CapApp.minimizeApp();
         else if (SETTINGS_PAGES.includes(s)) settingsBack();
@@ -264,11 +325,14 @@ export default function App() {
             fromCapture={reader.fromCapture}
             autoPlay={reader.autoPlay}
             speed={speed}
-            onSpeed={setSpeed}
+            onSpeed={(v) => updatePref('speed', v)}
             onBack={goHome}
             onRescan={openCamera}
-            onStart={onStart}
+            onStart={ensureSaved}
             onFinish={onFinish}
+            onCorrectWord={onCorrectWord}
+            isInMyWords={isInMyWords}
+            onAddWord={onAddWord}
           />
         )}
 
@@ -280,6 +344,11 @@ export default function App() {
             soundOn={soundOn}
             debugOn={debugOn}
             sessionsCount={sessions.length}
+            myWords={myWords}
+            sessions={sessions}
+            onListenWord={(w) => void speaker.speak(w.text, speed, () => {})}
+            onOpenSession={openSession}
+            onRemoveWord={removeMyWord}
             totalWords={prefs.totalWordsRead}
             exporting={exporting}
             onBack={settingsBack}

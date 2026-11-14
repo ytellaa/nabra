@@ -24,8 +24,23 @@ export function buildWords(raw: RawWord[]): { text: string; words: Word[] } {
   return { text, words };
 }
 
-export function wordsFromText(text: string): Word[] {
-  return buildWords(text.split(/\s+/).map((t) => ({ text: t }))).words;
+/** Mots d'un texte enregistré ; `doubtful` : indices des mots douteux. */
+export function wordsFromText(text: string, doubtful: number[] = []): Word[] {
+  const set = new Set(doubtful);
+  return buildWords(text.split(/\s+/).filter(Boolean).map((t, i) => ({ text: t, doubtful: set.has(i) }))).words;
+}
+
+/** Indices des mots douteux (pour l'enregistrement). */
+export function doubtfulIndexes(words: Word[]): number[] {
+  return words.flatMap((w, i) => (w.doubtful ? [i] : []));
+}
+
+/** Remplace le mot `i` par `value` (plusieurs mots si espaces), ou le supprime si `value` est null. */
+export function replaceWord(words: Word[], i: number, value: string | null): { text: string; words: Word[] } {
+  const raw: RawWord[] = words.map((w) => ({ text: w.text, doubtful: w.doubtful }));
+  const repl = value === null ? [] : value.split(/\s+/).filter(Boolean).map((t) => ({ text: t, doubtful: false }));
+  raw.splice(i, 1, ...repl);
+  return buildWords(raw);
 }
 
 /** Les 4 premiers mots suivis de « … ». */
@@ -70,16 +85,45 @@ export function looksDoubtful(word: string): boolean {
   return false;
 }
 
-/** Découpe en phrases (indices de mots) pour lire par morceaux. */
-export function sentenceChunks(words: Word[], from: number): Array<[number, number]> {
-  const chunks: Array<[number, number]> = [];
-  let s = from;
-  for (let i = from; i < words.length; i++) {
-    const endsSentence = /[.!?…:;]["»”)]*$/.test(words[i].text);
-    if (endsSentence || i - s >= 30 || i === words.length - 1) {
-      chunks.push([s, i]);
+/** Abréviations courantes dont le point ne termine pas la phrase. */
+const ABBREVIATIONS = new Set(['m', 'mm', 'mme', 'mmes', 'mlle', 'mlles', 'dr', 'pr', 'me', 'st', 'ste', 'cf', 'ex', 'p', 'pp', 'av', 'apr', 'env', 'etc', 'n°', 'no', 'tél', 'vol', 'chap', 'fig']);
+
+function endsSentence(word: string, next: string | undefined): boolean {
+  if (!/[.!?…]["»”)]*$/.test(word)) return false;
+  if (/[!?…]["»”)]*$/.test(word)) return true;
+  const core = word.replace(/^[«"“'([]+/, '').replace(/\.["»”)]*$/, '');
+  const abbrev = ABBREVIATIONS.has(core.toLowerCase()) || /^[A-ZÀ-Ý]$/.test(core) || /^([A-Za-z]\.)+[A-Za-z]$/.test(core);
+  if (!abbrev) return true;
+  // « etc. » en fin de phrase : la suivante commence par une majuscule.
+  return core.toLowerCase() === 'etc' && !!next && /^[«"“(]?[A-ZÀ-Ý]/.test(next);
+}
+
+/** Phrases du texte (indices de mots [début, fin]), calculées depuis le début ; 30 mots au plus par morceau. */
+export function sentenceRanges(words: Word[]): Array<[number, number]> {
+  const ranges: Array<[number, number]> = [];
+  let s = 0;
+  for (let i = 0; i < words.length; i++) {
+    if (endsSentence(words[i].text, words[i + 1]?.text) || i - s >= 30 || i === words.length - 1) {
+      ranges.push([s, i]);
       s = i + 1;
     }
   }
-  return chunks;
+  return ranges;
+}
+
+/** Indice de la phrase qui contient le mot `i` (-1 si hors texte). */
+export function rangeIndexOf(ranges: Array<[number, number]>, i: number): number {
+  return ranges.findIndex(([a, b]) => i >= a && i <= b);
+}
+
+/**
+ * Forme d'un mot pour « Mes mots » : sans ponctuation autour ni élision (« l'école » → « école »).
+ * Renvoie null si rien ne reste (ponctuation seule, nombre).
+ */
+export function myWordOf(raw: string): { key: string; text: string } | null {
+  const text = raw
+    .replace(/^[«"“‘'([¿¡-]+|[»"”’',.;:!?)\]…-]+$/g, '')
+    .replace(/^(?:l|d|j|m|n|s|t|c|qu|jusqu|lorsqu|puisqu|quoiqu)['’](?=\S)/i, '');
+  if (!text || !/[A-Za-zÀ-ÖØ-öø-ÿŒœ]/.test(text)) return null;
+  return { key: text.toLowerCase(), text };
 }

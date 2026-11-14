@@ -36,6 +36,11 @@ android {
         }
     }
     buildTypes {
+        // APK de test signé avec la même clé que les versions publiées : il se met à jour par-dessus
+        // la version installée (et inversement) sans désinstaller, donc sans perdre l'historique.
+        debug {
+            if (keystorePropsFile.exists()) signingConfig signingConfigs.release
+        }
         release {
             debuggable false
             if (keystorePropsFile.exists()) signingConfig signingConfigs.release

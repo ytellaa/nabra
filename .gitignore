@@ -18,9 +18,8 @@ GoogleService-Info.plist
 
 # Configuration locale (chemin du SDK Android, outils de l'éditeur)
 local.properties
-.claude/*
-!.claude/skills/
-!.claude/launch.json
+# Outils de développement locaux (skills, aperçu) : hors dépôt
+.claude/
 .vscode/*
 !.vscode/extensions.json
 .idea/

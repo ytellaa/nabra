@@ -1,4 +1,4 @@
-import { db, type Session } from './db';
+import { db, type MyWord, type Session } from './db';
 import { log, logError } from './debug';
 import { isNative } from './platform';
 
@@ -45,14 +45,15 @@ export async function savePhoto(id: string, photo: Blob | string): Promise<strin
 
 export type ExportResult = 'ok' | 'cancel' | 'error';
 
-/** Exporte un fichier JSON contenant `sessions` et `totalWordsRead`, via la feuille de partage. */
-export async function exportBackup(sessions: Session[], totalWordsRead: number): Promise<ExportResult> {
+/** Exporte un fichier JSON contenant `sessions`, `totalWordsRead` et `words` (Mes mots), via la feuille de partage. */
+export async function exportBackup(sessions: Session[], totalWordsRead: number, words: MyWord[]): Promise<ExportResult> {
   const payload = {
     app: 'Nabra',
-    version: 1,
+    version: 2,
     exportedAt: new Date().toISOString(),
     totalWordsRead,
     sessions,
+    words,
   };
   const json = JSON.stringify(payload, null, 2);
   const name = `nabra-${new Date().toISOString().slice(0, 10)}.json`;

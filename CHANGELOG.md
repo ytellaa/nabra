@@ -4,6 +4,16 @@ Format : [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) · Versions : 
 
 ## [Non publié]
 
+### Ajouté
+- « Mes mots » (dans les Réglages) : garder un mot depuis sa fiche, l'écouter, rouvrir les lectures où il apparaît, le retirer. Les mots sont inclus dans la sauvegarde.
+- Fiche du mot (appui long sur un mot du Lecteur) : écouter le mot, le corriger, le séparer en deux ou le supprimer ; la correction est enregistrée.
+
+### Modifié
+- Les mots douteux restent signalés quand on rouvre une lecture.
+- Lecture : la phrase en cours est surlignée, et les abréviations (« M. », « Mme »…) ne coupent plus la phrase.
+- Vitesse de lecture : barre à crans de 0,5x à 1x (tortue / lièvre), vitesse enregistrée.
+- Mentions légales : lien vers le code source sur GitHub, contact (dépôt GitHub) et auteur des illustrations renseignés.
+
 ## [0.1.0] — 2026-11-08
 Première version de test.
 

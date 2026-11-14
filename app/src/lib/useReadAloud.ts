@@ -1,6 +1,6 @@
-import { useCallback, useEffect, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { speaker } from './speech';
-import { sentenceChunks, type Word } from './words';
+import { rangeIndexOf, sentenceRanges, type Word } from './words';
 
 /** Délai de base par mot à vitesse 1x (maquette), utilisé si la voix ne donne pas la position. */
 export const BASE_WORD_MS = 420;
@@ -23,6 +23,8 @@ export function useReadAloud(words: Word[], text: string, speed: number, onFinis
     finishRef.current = onFinish;
   });
 
+  const ranges = useMemo(() => sentenceRanges(words), [words]);
+
   const setIndex = (i: number) => {
     idxRef.current = i;
     setIdx(i);
@@ -41,12 +43,15 @@ export function useReadAloud(words: Word[], text: string, speed: number, onFinis
       const alive = () => token.current === my;
       const rate = speedRef.current;
       const cur = idxRef.current;
-      const start = from ?? (cur < 0 || cur >= words.length - 1 ? 0 : cur);
       if (!words.length) return;
+      const start = Math.min(words.length - 1, from ?? (cur < 0 || cur >= words.length - 1 ? 0 : cur));
       setPlaying(true);
       setIndex(start);
 
-      for (const [a, b] of sentenceChunks(words, start)) {
+      const k = Math.max(0, rangeIndexOf(ranges, start));
+      const chunks: Array<[number, number]> = [[start, ranges[k][1]], ...ranges.slice(k + 1)];
+
+      for (const [a, b] of chunks) {
         if (!alive()) return;
         let at = a;
         const advance = (i: number) => {
@@ -78,9 +83,9 @@ export function useReadAloud(words: Word[], text: string, speed: number, onFinis
           await speaker.speak(chunkText, rate, (ci) => {
             gotBoundary = true;
             const abs = base + ci;
-            let k = a;
-            while (k < b && words[k + 1].start <= abs) k++;
-            advance(k);
+            let i = a;
+            while (i < b && words[i + 1].start <= abs) i++;
+            advance(i);
           });
         } else {
           await new Promise<void>((resolve) => {
@@ -98,7 +103,7 @@ export function useReadAloud(words: Word[], text: string, speed: number, onFinis
         finishRef.current();
       }
     },
-    [words, text],
+    [words, text, ranges],
   );
 
   const reset = useCallback(() => {
@@ -108,5 +113,7 @@ export function useReadAloud(words: Word[], text: string, speed: number, onFinis
 
   useEffect(() => () => stop(), [stop]);
 
-  return { idx, playing, play, pause: stop, reset };
+  const sentence = idx >= 0 ? (ranges[rangeIndexOf(ranges, idx)] ?? null) : null;
+
+  return { idx, playing, sentence, play, pause: stop, reset };
 }

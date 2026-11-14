@@ -1,15 +1,15 @@
-import { useEffect, useRef, useState } from 'react';
+import { useCallback, useEffect, useRef, useState, type PointerEvent } from 'react';
 import { useApp } from '../context';
 import { BackButton, Parrot } from '../components/ui';
 import { useReadAloud } from '../lib/useReadAloud';
-import type { Word } from '../lib/words';
-import type { TKey } from '../i18n';
+import { myWordOf, type Word } from '../lib/words';
+import { SpeedSlider } from '../components/SpeedSlider';
+import { WordSheet } from '../components/WordSheet';
+import { speaker } from '../lib/speech';
 
-const SPEEDS: Array<{ value: number; key: TKey }> = [
-  { value: 0.5, key: 'reader.speed.slow' },
-  { value: 0.8, key: 'reader.speed.medium' },
-  { value: 1, key: 'reader.speed.normal' },
-];
+/** Durée d'appui pour ouvrir la fiche du mot, et mouvement toléré (px). */
+const LONG_PRESS_MS = 500;
+const MOVE_TOLERANCE = 10;
 
 interface Props {
   words: Word[];
@@ -23,15 +23,63 @@ interface Props {
   /** Appelé au premier ▶ : la session est alors enregistrée. */
   onStart: () => void;
   onFinish: () => void;
+  onCorrectWord: (i: number, value: string | null) => void;
+  isInMyWords: (text: string) => boolean;
+  onAddWord: (i: number) => void;
 }
 
-export function Reader({ words, text, fromCapture, autoPlay, speed, onSpeed, onBack, onRescan, onStart, onFinish }: Props) {
+export function Reader({
+  words,
+  text,
+  fromCapture,
+  autoPlay,
+  speed,
+  onSpeed,
+  onBack,
+  onRescan,
+  onStart,
+  onFinish,
+  onCorrectWord,
+  isInMyWords,
+  onAddWord,
+}: Props) {
   const { t, sound } = useApp();
   const doubtCount = fromCapture ? words.filter((w) => w.doubtful).length : 0;
   const [showBanner, setShowBanner] = useState(doubtCount > 0);
-  const { idx, playing, play, pause } = useReadAloud(words, text, speed, onFinish);
+  const { idx, playing, sentence, play, pause } = useReadAloud(words, text, speed, onFinish);
   const wordRefs = useRef<Array<HTMLSpanElement | null>>([]);
   const reading = idx >= 0;
+  const [sheet, setSheet] = useState<number | null>(null);
+  const press = useRef<{ x: number; y: number; timer: ReturnType<typeof setTimeout>; fired: boolean } | null>(null);
+
+  const openSheet = (i: number) => {
+    pause();
+    setSheet(i);
+    navigator.vibrate?.(15);
+  };
+  const closeSheet = useCallback(() => setSheet(null), []);
+
+  const onPointerDown = (i: number, e: PointerEvent) => {
+    if (e.button !== 0) return;
+    if (press.current) clearTimeout(press.current.timer);
+    const p = {
+      x: e.clientX,
+      y: e.clientY,
+      fired: false,
+      timer: setTimeout(() => {
+        p.fired = true;
+        openSheet(i);
+      }, LONG_PRESS_MS),
+    };
+    press.current = p;
+  };
+  const onPointerMove = (e: PointerEvent) => {
+    const p = press.current;
+    if (p && !p.fired && Math.hypot(e.clientX - p.x, e.clientY - p.y) > MOVE_TOLERANCE) clearTimeout(p.timer);
+  };
+  const endPress = () => {
+    if (press.current) clearTimeout(press.current.timer);
+  };
 
   const start = (from?: number) => {
     setShowBanner(false);
@@ -68,7 +116,7 @@ export function Reader({ words, text, fromCapture, autoPlay, speed, onSpeed, onB
         </div>
       </div>
 
-      {showBanner && (
+      {showBanner && doubtCount > 0 && (
         <section className="doubt" aria-live="polite">
           <div className="row" style={{ gap: 12 }}>
             <Parrot pose="doute" size={56} bg="#fff" />
@@ -90,7 +138,8 @@ export function Reader({ words, text, fromCapture, autoPlay, speed, onSpeed, onB
           const cls = ['word'];
           if (reading && i === idx) cls.push('current');
           else if (reading && i < idx) cls.push('done');
-          if (w.doubtful && fromCapture && !(reading && i === idx)) cls.push('doubt');
+          if (sentence && i >= sentence[0] && i <= sentence[1]) cls.push('in-sentence');
+          if (w.doubtful && !(reading && i === idx)) cls.push('doubt');
           return (
             <span
               key={i}
@@ -101,7 +150,22 @@ export function Reader({ words, text, fromCapture, autoPlay, speed, onSpeed, onB
               role="button"
               tabIndex={0}
               aria-current={reading && i === idx ? 'true' : undefined}
+              onPointerDown={(e) => onPointerDown(i, e)}
+              onPointerMove={onPointerMove}
+              onPointerUp={endPress}
+              onPointerCancel={endPress}
+              onPointerLeave={endPress}
+              onContextMenu={(e) => {
+                // Appui long Android / clic droit : fiche du mot (une seule fois).
+                e.preventDefault();
+                if (sheet === null && !press.current?.fired) openSheet(i);
+                if (press.current) press.current.fired = true;
+              }}
               onClick={() => {
+                if (press.current?.fired) {
+                  press.current = null;
+                  return;
+                }
                 sound('son-mot');
                 start(i);
               }}
@@ -109,6 +173,9 @@ export function Reader({ words, text, fromCapture, autoPlay, speed, onSpeed, onB
                 if (e.key === 'Enter' || e.key === ' ') {
                   e.preventDefault();
                   start(i);
+                } else if (e.key === 'ContextMenu' || (e.shiftKey && e.key === 'F10')) {
+                  e.preventDefault();
+                  openSheet(i);
                 }
               }}
             >
@@ -119,23 +186,7 @@ export function Reader({ words, text, fromCapture, autoPlay, speed, onSpeed, onB
       </div>
       <div className="hint">{t('reader.tapHint')}</div>
 
-      <div className="speeds" role="radiogroup" aria-label={t('reader.speed')}>
-        {SPEEDS.map((s) => (
-          <button
-            key={s.value}
-            type="button"
-            role="radio"
-            aria-checked={speed === s.value}
-            className={`speed${speed === s.value ? ' active' : ''}`}
-            onClick={() => onSpeed(s.value)}
-          >
-            <span className="name">{t(s.key)}</span>
-            <span className="val" dir="ltr">
-              {String(s.value).replace('.', ',')}x
-            </span>
-          </button>
-        ))}
-      </div>
+      <SpeedSlider value={speed} onChange={onSpeed} />
 
       <div className="play-row">
         <Parrot pose="lit" size={72} />
@@ -158,6 +209,21 @@ export function Reader({ words, text, fromCapture, autoPlay, speed, onSpeed, onB
         </button>
         <div style={{ width: 72 }} />
       </div>
+      {sheet !== null && words[sheet] && (
+        <WordSheet
+          key={sheet}
+          word={words[sheet].text}
+          canDelete={words.length > 1}
+          inMyWords={isInMyWords(words[sheet].text)}
+          onAdd={myWordOf(words[sheet].text) ? () => onAddWord(sheet) : undefined}
+          onListen={() => void speaker.speak(words[sheet].text, speed, () => {})}
+          onCorrect={(value) => {
+            onCorrectWord(sheet, value);
+            setSheet(null);
+          }}
+          onClose={closeSheet}
+        />
+      )}
     </main>
   );
 }

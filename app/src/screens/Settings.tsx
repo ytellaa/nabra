@@ -1,5 +1,5 @@
 import { useState, type SyntheticEvent } from 'react';
-import { Bug, Check, ChevronRight, Globe, Scale, ScrollText, Upload, Volume2 } from 'lucide-react';
+import { BookMarked, Bug, Check, ChevronRight, Globe, Scale, ScrollText, Upload, Volume2 } from 'lucide-react';
 import { LEGAL, OPEN_SOURCE } from '../legal';
 import { DEBUG_AVAILABLE } from '../lib/buildFlags';
 import { LogLine, useLogs } from '../components/DebugPanel';
@@ -7,14 +7,21 @@ import { clearLogs } from '../lib/debug';
 import { useApp } from '../context';
 import { BackButton, Bubble, Parrot } from '../components/ui';
 import type { Lang } from '../i18n';
+import type { MyWord, Session } from '../lib/db';
+import { MyWordsList } from '../components/MyWordsList';
 
-export type SettingsPage = 'settings' | 'lang' | 'backup' | 'backupDone' | 'backupError' | 'logs' | 'legal';
+export type SettingsPage = 'settings' | 'words' | 'lang' | 'backup' | 'backupDone' | 'backupError' | 'logs' | 'legal';
 
 interface Props {
   page: SettingsPage;
   soundOn: boolean;
   debugOn: boolean;
   sessionsCount: number;
+  myWords: MyWord[];
+  sessions: Session[];
+  onListenWord: (w: MyWord) => void;
+  onOpenSession: (s: Session) => void;
+  onRemoveWord: (w: MyWord) => void;
   totalWords: number;
   exporting: boolean;
   onBack: () => void;
@@ -29,16 +36,17 @@ interface Props {
 export function Settings(p: Props) {
   const { t, lang } = useApp();
   const logs = useLogs();
-  const title =
-    p.page === 'settings'
-      ? t('settings.title')
-      : p.page === 'lang'
-        ? t('settings.language')
-        : p.page === 'logs'
-          ? t('settings.logs')
-          : p.page === 'legal'
-            ? t('settings.legal')
-            : t('settings.backup');
+  const titles: Record<SettingsPage, string> = {
+    settings: t('settings.title'),
+    words: t('settings.myWords'),
+    lang: t('settings.language'),
+    logs: t('settings.logs'),
+    legal: t('settings.legal'),
+    backup: t('settings.backup'),
+    backupDone: t('settings.backup'),
+    backupError: t('settings.backup'),
+  };
+  const title = titles[p.page];
 
   return (
     <main className="screen settings">
@@ -52,6 +60,15 @@ export function Settings(p: Props) {
       {p.page === 'settings' && (
         <>
           <div className="settings-list">
+            <button type="button" className="setting-row" onClick={() => p.onNavigate('words')}>
+              <div className="tile" style={{ background: 'var(--yellow-bold)' }}>
+                <BookMarked size={22} aria-hidden="true" />
+              </div>
+              <span className="name">{t('settings.myWords')}</span>
+              <span className="value latin">{p.myWords.length}</span>
+              <ChevronRight size={20} className="chevron flip-rtl" aria-hidden="true" />
+            </button>
+
             <button type="button" className="setting-row" onClick={() => p.onNavigate('lang')}>
               <div className="tile" style={{ background: 'var(--sky)' }}>
                 <Globe size={22} aria-hidden="true" />
@@ -122,6 +139,16 @@ export function Settings(p: Props) {
           <div className="spacer" />
           <div className="version">Nabra · {__APP_VERSION__}</div>
         </>
+      )}
+
+      {p.page === 'words' && (
+        <MyWordsList
+          words={p.myWords}
+          sessions={p.sessions}
+          onListen={p.onListenWord}
+          onOpenSession={p.onOpenSession}
+          onRemove={p.onRemoveWord}
+        />
       )}
 
       {p.page === 'lang' && (

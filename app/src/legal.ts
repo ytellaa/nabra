@@ -10,15 +10,15 @@ export const LEGAL = {
    *  peut ne publier que le nom de l'hébergeur — laisser vide dans ce cas). */
   address: '',
   /** Adresse e-mail ou URL de contact. */
-  contact: '',
+  contact: 'https://github.com/ytellaa/nabra',
   /** Auteur / ayant droit des illustrations (mascotte, logo). */
-  illustrations: '',
+  illustrations: 'ytellaa',
   /** Hébergeur de la version web (PWA) : nom, adresse, téléphone. Vide si pas de version web publiée. */
   host: '',
   /** Dépôt du code source (ex. https://github.com/…/nabra). */
-  sourceUrl: '',
+  sourceUrl: 'https://github.com/ytellaa/nabra',
   /** Date de dernière mise à jour de ces mentions (AAAA-MM-JJ). */
-  updated: '2026-11-11',
+  updated: '2026-11-14',
 };
 
 /** Logiciels libres embarqués dans l'application, avec leur licence (textes complets : public/licenses.txt). */
