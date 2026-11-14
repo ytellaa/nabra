@@ -4,6 +4,8 @@ Format : [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) · Versions : 
 
 ## [Non publié]
 
+## [0.2.0] — 2026-11-14
+
 ### Ajouté
 - « Mes mots » (dans les Réglages) : garder un mot depuis sa fiche, l'écouter, rouvrir les lectures où il apparaît, le retirer. Les mots sont inclus dans la sauvegarde.
 - Fiche du mot (appui long sur un mot du Lecteur) : écouter le mot, le corriger, le séparer en deux ou le supprimer ; la correction est enregistrée.
