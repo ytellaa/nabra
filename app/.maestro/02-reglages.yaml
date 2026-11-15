@@ -1,0 +1,31 @@
+# Réglages : navigation dans les réglages, page légale, bouton Retour de l'app
+# et bouton retour Android (géré par @capacitor/app).
+appId: app.nabra
+name: Réglages et navigation
+tags:
+  - smoke
+---
+- launchApp:
+    clearState: true
+- extendedWaitUntil:
+    visible: ".*Nouvelle lecture.*"
+    timeout: 60000
+- tapOn: "Réglages"
+- assertVisible: ".*Mes mots.*"
+- assertVisible: ".*Langue.*"
+- assertVisible: ".*Sons.*"
+- assertVisible: ".*Sauvegarde.*"
+- takeScreenshot: 02-reglages
+- tapOn: ".*Mentions légales.*"
+- extendedWaitUntil:
+    visible: ".*Licence.*"
+    timeout: 10000
+- takeScreenshot: 02-mentions-legales
+# Bouton Retour de l'application : revient aux réglages
+- tapOn: "Retour"
+- assertVisible: ".*Mes mots.*"
+# Bouton retour Android : revient à l'accueil
+- back
+- extendedWaitUntil:
+    visible: ".*Nouvelle lecture.*"
+    timeout: 10000

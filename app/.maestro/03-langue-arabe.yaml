@@ -1,0 +1,20 @@
+# Langue : bascule en arabe (affichage de droite à gauche, police arabe) puis retour au français.
+appId: app.nabra
+name: Bascule français / arabe
+tags:
+  - smoke
+---
+- launchApp:
+    clearState: true
+- extendedWaitUntil:
+    visible: ".*Nouvelle lecture.*"
+    timeout: 60000
+- tapOn: "عربي"
+- extendedWaitUntil:
+    visible: ".*قراءة جديدة.*"
+    timeout: 10000
+- takeScreenshot: 03-accueil-arabe
+- tapOn: "Français"
+- extendedWaitUntil:
+    visible: ".*Nouvelle lecture.*"
+    timeout: 10000

@@ -1,0 +1,15 @@
+# Démarrage : l'application s'ouvre et l'écran d'accueil s'affiche.
+# Détecte : crash au lancement, écran blanc (WebView trop ancienne), JavaScript incompatible.
+appId: app.nabra
+name: Démarrage
+tags:
+  - smoke
+---
+- launchApp:
+    clearState: true
+- extendedWaitUntil:
+    visible: ".*premier texte.*"
+    timeout: 60000
+- assertVisible: ".*Nouvelle lecture.*"
+- assertVisible: "Réglages"
+- takeScreenshot: 01-accueil

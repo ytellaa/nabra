@@ -31,6 +31,9 @@ npm run android:apk
 
 Détails : [app/README.md](app/README.md).
 
+## Compatibilité
+Android 7.0 (API 24) à Android 16 (API 36), testé automatiquement sur émulateurs : voir [COMPATIBILITY.md](COMPATIBILITY.md).
+
 ## Versions
 Versionnage [SemVer](https://semver.org/lang/fr/) — voir [CHANGELOG.md](CHANGELOG.md). La version est définie dans `app/package.json` et reportée automatiquement sur Android, iOS et dans l'application.
 
