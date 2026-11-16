@@ -8,6 +8,7 @@ Ce fichier dit sur quelles versions d'Android Nabra fonctionne, comment c'est v�
 |---|---|---|
 | Android minimum (`minSdk`) | **7.0 — API 24** | [`app/android/variables.gradle`](app/android/variables.gradle) |
 | Android ciblé (`targetSdk`) | **16 — API 36** | idem |
+| WebView minimum | **Chrome 91 vérifié** (Chrome 80 au minimum en théorie) | Exigence : voir plus bas |
 | SDK de compilation (`compileSdk`) | API 36 | idem |
 | Orientation | Portrait uniquement | [`AndroidManifest.xml`](app/android/app/src/main/AndroidManifest.xml) |
 | Architectures (ABI) | Toutes (pas de filtre) | [`app/android/app/build.gradle`](app/android/app/build.gradle) |
@@ -19,7 +20,7 @@ Tous les plugins (Capacitor 8, ML Kit, synthèse vocale, scanner de documents) a
 
 | Dépendance | Effet | Appareils concernés |
 |---|---|---|
-| **WebView système** | Toute l'interface (React) tourne dans la WebView. Une WebView trop ancienne affiche un écran blanc ou une erreur JavaScript. | Android 7 à 9 dont la WebView n'a jamais été mise à jour par le Play Store. |
+| **WebView système** | Toute l'interface (React) tourne dans la WebView. Une WebView trop ancienne ne peut pas lancer Nabra : un message demande de la mettre à jour. | Android 7 à 9 dont la WebView n'a jamais été mise à jour par le Play Store. |
 | **Google Play Services** | Le scanner de page (ML Kit Document Scanner) en a besoin. | Téléphones sans services Google (Huawei récents, certaines ROM). |
 | **Moteur de synthèse vocale** | La voix vient du téléphone. La qualité et les langues disponibles varient. | Tous : à vérifier, surtout pour l'arabe. |
 | **Mémoire** | La reconnaissance de texte (ML Kit, Tesseract en WebAssembly) consomme beaucoup. | Téléphones d'entrée de gamme (≤ 2 Go de RAM). |
@@ -34,11 +35,12 @@ Le job `compat` de [`.github/workflows/ci.yml`](.github/workflows/ci.yml) instal
 
 **Scénarios :**
 
-| Fichier | Vérifie |
-|---|---|
-| `01-demarrage.yaml` | L'app démarre et l'écran d'accueil s'affiche. |
-| `02-reglages.yaml` | Navigation dans les Réglages, mentions légales, bouton Retour de l'app et bouton retour Android. |
-| `03-langue-arabe.yaml` | Bascule français → arabe (droite à gauche) → français. |
+| Fichier | Versions | Vérifie |
+|---|---|---|
+| `01-demarrage.yaml` | API 31, 34, 36 | L'app démarre et l'écran d'accueil s'affiche. |
+| `02-reglages.yaml` | API 31, 34, 36 | Navigation dans les Réglages, mentions légales, bouton retour Android et bouton Retour de l'app. |
+| `03-langue-arabe.yaml` | API 31, 34, 36 | Bascule français → arabe (droite à gauche) → français. |
+| `webview-ancienne/01-message-mise-a-jour.yaml` | API 24, 28 | La WebView d'origine de ces images est trop ancienne : Nabra affiche « Mise à jour nécessaire » au lieu d'un écran blanc. |
 
 **Résultats :** le résumé du run GitHub affiche, pour chaque version, le nombre de scénarios réussis et la version de la WebView de l'émulateur. Les captures d'écran et le rapport sont dans les artefacts `compat-api-XX`.
 
@@ -61,20 +63,17 @@ Légende : ✅ tous les scénarios passent · ⚠️ échec partiel · ❌ l'app
 
 | Release | API 24 (7.0) | API 28 (9) | API 31 (12) | API 34 (14) | API 36 (16) | Vrais appareils | Remarques |
 |---|---|---|---|---|---|---|---|
-| 0.2.0 | ❌ | ❌ | ✅ | ✅ | ✅ | — | Premier run (PR ytellaa/nabra#10). API 24 et 28 : écran blanc, voir « Problème connu ». |
+| 0.2.0 | ❌ | ❌ | ✅ | ✅ | ✅ | — | Premier run (PR ytellaa/nabra#10). API 24 et 28 : écran blanc (WebView trop ancienne). |
 
-## Problème connu : écran blanc avec une WebView ancienne
+## Exigence : une WebView récente
 
-Constaté le 2026-11-15 sur les émulateurs API 24 (Android 7.0) et API 28 (Android 9, WebView Chrome 69).
+Décidé le 2026-11-16 : Nabra exige une WebView récente plutôt que de prendre en charge les très anciennes.
 
-- **Symptôme :** l'application reste sur un écran blanc.
-- **Cause :** le JavaScript produit par Vite 8 vise les navigateurs récents. Les WebView antérieures à Chrome 80 ne comprennent pas l'opérateur `??` et s'arrêtent : `SyntaxError: Unexpected token ?`.
-- **Appareils touchés :** les téléphones dont la WebView (ou Chrome) n'a pas été mise à jour depuis 2020. Un Android 7 à 9 dont la WebView est à jour via le Play Store n'est pas concerné.
-- **Versions de WebView mesurées :** API 28 → Chrome 69, API 31 → 91, API 34 → 113, API 36 → 133.
-
-Deux options, à décider :
-1. Rendre l'application compatible avec les anciennes WebView (cible de build plus ancienne et polyfills).
-2. Exiger une WebView récente et le documenter, en gardant les tests API 24 et 28 comme indicateurs.
+- **Constat :** le JavaScript produit par Vite 8 vise les navigateurs récents. Les WebView antérieures à Chrome 80 ne comprennent pas l'opérateur `??` et s'arrêtent (`SyntaxError: Unexpected token ?`). Avant le correctif, l'app restait sur un écran blanc.
+- **Versions de WebView des émulateurs :** API 28 → Chrome 69 (trop ancienne), API 31 → 91, API 34 → 113, API 36 → 133.
+- **Appareils touchés :** les téléphones dont la WebView n'a pas été mise à jour depuis 2020. Un Android 7 à 9 qui reçoit les mises à jour du Play Store n'est pas concerné.
+- **Comportement :** au lieu d'un écran blanc, Nabra affiche « Mise à jour nécessaire » (en français ou en arabe) avec un lien vers « Android System WebView » sur le Play Store. Le code est dans [`app/index.html`](app/index.html) : un script ES5 qui s'affiche si le code de l'app ne démarre pas.
+- **Tests :** sur API 24 et 28, le CI vérifie ce message. Sur API 31 et plus, il vérifie l'app complète.
 
 ## Règle pour chaque évolution
 

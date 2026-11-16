@@ -63,12 +63,14 @@ jobs:
     strategy:
       fail-fast: false # une version en échec n'arrête pas les autres
       matrix:
+        # flows : scénarios à jouer. Les images API 24 et 28 ont une WebView d'origine trop ancienne
+        # (avant Chrome 80) : on vérifie que Nabra affiche le message « Mise à jour nécessaire ».
         include:
-          - { api-level: 24, android: '7.0' } # minSdk : version minimale supportée
-          - { api-level: 28, android: '9' }
-          - { api-level: 31, android: '12' }
-          - { api-level: 34, android: '14' }
-          - { api-level: 36, android: '16' } # targetSdk
+          - { api-level: 24, android: '7.0', flows: app/.maestro/webview-ancienne } # minSdk
+          - { api-level: 28, android: '9', flows: app/.maestro/webview-ancienne }
+          - { api-level: 31, android: '12', flows: app/.maestro }
+          - { api-level: 34, android: '14', flows: app/.maestro }
+          - { api-level: 36, android: '16', flows: app/.maestro } # targetSdk
     env:
       MAESTRO_VERSION: 2.12.1
     steps:
@@ -130,7 +132,7 @@ jobs:
           script: |
             echo "WebView API ${{ matrix.api-level }} : $(adb shell "dumpsys webviewupdate | grep -i 'current webview package' || dumpsys package com.android.webview | grep -m1 versionName")" | tee -a "$GITHUB_STEP_SUMMARY"
             adb install -r app-debug.apk
-            maestro test app/.maestro --format junit --output maestro-report.xml --test-output-dir maestro-output
+            maestro test ${{ matrix.flows }} --format junit --output maestro-report.xml --test-output-dir maestro-output
 
       - name: Résumé
         if: always()

@@ -1,0 +1,16 @@
+# WebView trop ancienne (émulateurs API 24 et 28, WebView d'origine jamais mise à jour) :
+# Nabra ne peut pas démarrer et doit afficher comment mettre à jour, pas un écran blanc.
+# Ce dossier n'est lancé que pour les versions marquées « webview-ancienne » dans la matrice CI.
+appId: app.nabra
+name: Message WebView trop ancienne
+tags:
+  - webview-ancienne
+---
+- launchApp:
+    clearState: true
+- extendedWaitUntil:
+    visible: ".*Mise à jour nécessaire.*"
+    timeout: 60000
+- assertVisible: ".*Android System WebView.*"
+- assertVisible: ".*Ouvrir le Play Store.*"
+- takeScreenshot: webview-ancienne

@@ -11,6 +11,56 @@
   </head>
   <body>
     <div id="root"></div>
+    <!--
+      WebView ou navigateur trop ancien (voir COMPATIBILITY.md) : le code de l'appli ne se charge pas
+      (modules JavaScript non pris en charge, ou erreur avant le démarrage). Au lieu d'un écran blanc,
+      on affiche comment mettre à jour. Script volontairement en ES5 pour tourner partout.
+    -->
+    <script>
+      (function () {
+        var shown = false;
+        function show(e) {
+          // Ignorer les erreurs de chargement d'image ou de fichier (pas de message) : seules les erreurs JavaScript comptent
+          if (e && !e.message) return;
+          if (shown || window.__nabraReady) return;
+          shown = true;
+          var ar = /^ar/i.test(navigator.language || '');
+          var webview = /Android/.test(navigator.userAgent) && /; wv\)/.test(navigator.userAgent);
+          var t = ar
+            ? {
+                title: 'يجب تحديث الهاتف',
+                body: webview
+                  ? 'يحتاج نبرة إلى نسخة حديثة من «Android System WebView». حدِّثها من متجر Play ثم أعد فتح التطبيق.'
+                  : 'يحتاج نبرة إلى متصفح حديث. حدِّث متصفحك ثم أعد فتح الصفحة.',
+                link: 'فتح متجر Play',
+              }
+            : {
+                title: 'Mise à jour nécessaire',
+                body: webview
+                  ? 'Nabra a besoin d’une version récente de « Android System WebView ». Mets-la à jour depuis le Play Store, puis relance l’application.'
+                  : 'Nabra a besoin d’un navigateur récent. Mets ton navigateur à jour, puis recharge la page.',
+                link: 'Ouvrir le Play Store',
+              };
+          var root = document.getElementById('root');
+          root.setAttribute('dir', ar ? 'rtl' : 'ltr');
+          root.innerHTML =
+            '<div id="webview-obsolete" style="font-family:sans-serif;padding:32px 24px;color:#1c1917;line-height:1.5">' +
+            '<h1 style="font-size:24px;margin:0 0 16px">' + t.title + '</h1>' +
+            '<p style="font-size:18px;margin:0 0 24px">' + t.body + '</p>' +
+            (webview
+              ? '<a href="https://play.google.com/store/apps/details?id=com.google.android.webview" style="display:inline-block;padding:14px 20px;border-radius:14px;background:#1c1917;color:#fff;font-size:18px;text-decoration:none">' + t.link + '</a>'
+              : '') +
+            '</div>';
+        }
+        // Erreur JavaScript avant le démarrage de l'appli (ex. « SyntaxError: Unexpected token ? »)
+        window.addEventListener('error', show);
+        // Navigateur sans modules JavaScript : le script ci-dessous (nomodule) est le seul à s'exécuter
+        window.__nabraObsolete = show;
+      })();
+    </script>
+    <script nomodule>
+      window.__nabraObsolete();
+    </script>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

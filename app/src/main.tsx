@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import { isNative } from './lib/platform';
 
+// Le code a bien démarré : désactive l'écran « Mise à jour nécessaire » d'index.html.
+(window as Window & { __nabraReady?: boolean }).__nabraReady = true;
+
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <App />

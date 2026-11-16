@@ -7,6 +7,9 @@ Format : [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) · Versions : 
 ### Ajouté
 - Tests de compatibilité automatiques : à chaque release et pull request, l'APK est testé avec Maestro sur des émulateurs Android 7, 9, 12, 14 et 16. Voir [COMPATIBILITY.md](COMPATIBILITY.md).
 
+### Modifié
+- Compatibilité : Nabra exige une WebView récente (Chrome 80 minimum). Sur un téléphone dont la WebView est trop ancienne, l'app affiche « Mise à jour nécessaire » avec un lien vers le Play Store, au lieu d'un écran blanc.
+
 ## [0.2.0] — 2026-11-14
 
 ### Ajouté
