@@ -4,6 +4,8 @@ Format : [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) · Versions : 
 
 ## [Non publié]
 
+## [0.3.0] — 2026-11-16
+
 ### Ajouté
 - Mes mots : définition (en français) et traduction (en arabe) de chaque mot, récupérées sur le Wiktionnaire après accord, puis consultables hors connexion. Les cartes de Mes mots arrivent pliées (le mot seul) et se déplient avec une flèche. En cas de problème (pas de connexion, dictionnaire occupé, mot introuvable), un message clair et un bouton Réessayer, sans gêner le reste de l'application.
 
