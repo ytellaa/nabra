@@ -1,0 +1,83 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr|16 décembre 1995}} De ''[[Europe]]'', proposé par {{w|Germain Pirlot|lang=en}}, accepté par décision du Conseil européen, réuni à Madrid les 15 et 16 décembre 1995. Ce nom de monnaie avait déjà été utilisé dans un roman de [[w:fr:Jean-Pierre Andrevon|Jean-Pierre Andrevon]], ''Le Travail du furet'', paru aux éditions ''Le Livre de poche'' en 1990.
+:* ''Le Conseil européen a décidé de nommer « euro » la monnaie qui sera utilisée à partir du {{1er|janvier}} 1999{{réf|1}}.''
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ø.ʁo}}
+[[File:Euro banknotes 2002.png|vignette|Les billets de banque en '''euros''' de la première série.]]
+'''euro''' {{pron|ø.ʁo|fr}} {{m}}
+# [[monnaie|Monnaie]] [[scriptural]]e depuis 1999 et [[fiduciaire]] à partir de 2002, ayant cours dans l’[[Eurozone]], aussi adoptée par d’autres États de l’Europe, mais non membres de l’Union (la Principauté d’Andorre, Monaco, le Vatican, le Monténégro et le Kosovo). Son symbole est '''{{graphie|[[€]]}}''' (U+20AC).
+# [[pièce|Pièce]] de cette monnaie.
+
+==== {{S|notes}} ====
+: Un avis paru au ''Journal officiel de la République française'' en date du 2 décembre 1997 décrète que les termes ''euro'' et ''cent'' doivent, en français, prendre la marque du pluriel (des euros, des cents). Il n’y a pas d’''s'' sur les billets car les billets ne sont pas rédigés dans une langue précise, et donc pas en français.
+: En français de France, la centième partie de l’euro est le ''{{l|centime|fr}}''. En Belgique, c’est ''{{l|cent|fr}}'' qui est plus utilisé.
+
+==== {{S|abréviations}} ====
+* [[EUR]] (code ISO 4217)
+
+==== {{S|synonymes}} ====
+* [[monnaie commune]]
+* [[monnaie européenne]]
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[centime d’euro]]
+* [[euro symbolique]]
+* [[eurocalculette]]
+* [[eurocent]]
+* [[eurocentime]]
+* [[eurocycleur]], [[Eurocycleur]]
+* [[euroïsation]]
+* [[euroland]]
+* [[Euroland]]
+* [[Eurolandais]]
+* [[Eurolande]]
+* [[eurozone]]
+* [[gigaeuro]] ([[G€]])
+* [[kiloeuro]] ([[k€]])
+* [[mégaeuro]] ([[M€]])
+* [[mileuriste]]
+* [[narco-euro]]
+* [[téraeuro]] ([[T€]])
+* [[zone euro]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|Union européenne}}
+* {{l|cent|fr}}
+* {{l|centime|fr}}
+* [[💶]] (U+1F4B6)
+
+==== {{S|traductions}} ====
+{{trad-début|Monnaie européenne|1}}
+* {{T|ar}} : {{trad+|ar|يورو|R=ywrw}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|ø.ʁo|fr}}
+* {{écouter|lang=fr|France (Paris)|ø.ʁo|audio=Fr-Paris--euro.ogg}}
+* {{écouter|lang=fr|France|œ̃.n‿ø.ʁo|audio=Fr-euro.ogg}}
+* Franche-Comté : {{phon|øː.ʁɔ|fr}}
+* {{écouter|lang=fr|Suisse (Lausanne)|ø.ʁo|audio=LL-Q150 (fra)-Eihel-euro.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-euro.wav}}
+
+==== {{S|notes}} ====
+: Certaines personnes traitent le mot ''euro'' comme s’il commençait par un h aspiré, et ne font pas la liaison, spécialement lorsqu’il s’agit d'un s ou d’un x, par exemple dans ''deux euros'' {{pron|dø ʔø.ʁo|fr}}, ''trois euros'' {{pron|tʁwa ʔø.ʁo|fr}}, ''six euro'' {{pron|si ʔø.ʁo|fr}}, ''dix euros'' {{pron|di ʔø.ʁo|fr}}, et bien sûr également avec le t de ''vingt euros'' {{pron|vɛ̃ ʔø.ʁo|fr}}. La liaison pour ''cent euros'', est parfois prononcée comme ''cenz euros'' {{pron|sɑ̃.z‿ø.ʁo|fr}} et ''vingt euros''  est parfois prononcé ''vinz euros'' {{pron|vɛ̃.z‿ø.ʁo|fr}}.
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{WQ}}
+* [http://www.tv5monde.com/cms/chaine-francophone/lf/Merci-Professeur/p-17081-Euro.htm?episode=215 Explication de Bernard Cerquiglini en images]
+
+=== {{S|références}} ===
+* {{RÉF|1}} [http://www.europarl.europa.eu/summits/mad1_fr.htm Décision du Conseil européen de Madrid], 15 et 16 décembre 1995
+* {{R:GDT}}
+* {{R:TLFi}}
+
+[[Catégorie:Monnaies en français]]
+

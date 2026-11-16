@@ -1,0 +1,294 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|XII}} De l’{{étyl|fro|fr|mot=pere}}, du {{étyl|la|fr|mot=pater}}, de l’{{étyl|indo-européen commun|fr}} {{recons|lang-mot-vedette=fr|[[Reconstruction:indo-européen commun/*ph₂tḗr|ph₂tḗr]]}}. {{siècle|lang=fr|fin XI}} ''[[pedre]]''. {{date|lang=fr|vers 980}} ''[[paire]]''.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|pɛʁ}}
+[[Image:Father with child.jpg|thumb|right|Un '''père''' avec son enfant.]]
+'''père''' {{pron|pɛʁ|fr}} {{m}} {{équiv-pour|lang=fr|une femme|mère}}
+# [[mâle|Mâle]] [[féconder|ayant fécondé]] un [[ovule]] qui [[donner naissance|a donné naissance]] à un [[enfant]] ; [[géniteur]].
+# [[individu|Individu]] mâle qui a pris le [[rôle]] et la [[responsabilité]] [[paternelle]] dans la [[vie]] d’un [[enfant]].
+# {{par extension|fr}} ''(Souvent au pluriel)'' [[ascendant|Ascendant]], quel que [[être|soit]] le [[degré]] de [[parenté]].
+# {{figuré|fr}} Celui qui a [[beaucoup]] fait pour la [[prospérité]], pour le [[salut]], pour le [[bonheur]] d’un [[peuple]] ou d’une [[classe]] nombreuse de personnes, qui agit envers ceux dont il [[prendre soin|prend soin]] comme un père [[agirait]] envers ses [[enfant]]s.
+# {{lexique|religion|fr}} {{term|surtout au pluriel}} {{ellipse|fr}} [[père de l’Église|Père de l’Église]].
+# Homme ayant inventé ou fait naître une science, un art, une technique.
+# [[titre|Titre]] donné aux [[dignitaire]]s des [[congrégation]]s et des [[ordre]]s [[religieux]].
+# {{lexique|religion|fr}} [[première|Première]] [[personne]] de la [[sainte]] [[trinité]], dans la [[doctrine]] [[chrétien]]ne [[trinitaire]].
+# {{vieilli|fr}} {{figuré|fr}} {{familier|fr}} [[homme|Homme]] d’un [[certain]] âge que l’on [[traite]] avec [[familiarité]]. Dans certains cas cette appellation peut contenir une [[nuance]] de [[déférence]] voire d’[[admiration]] [[affectueux|affectueuse]].
+# [[fête|Fête]] (souvent [[bachique]]), apparue dans l’[[armée]] pour célébrer un certain nombre de jours avant la [[quille]]. {{note}} Cette fête est aujourd’hui présente dans certains [[lycée]]s un certain nombre de jours avant le [[baccalauréat]], et dans quelques autres écoles un certain nombre de jours avant le diplôme.
+
+==== {{S|synonymes}} ====
+* [[dab]] ou [[dabe]] {{argot|nocat=1}}
+* [[daron]] {{argot|nocat=1}}, uniquement pour un mâle humain
+* [[géniteur]]
+* [[papa]] {{familier|nocat=1}}
+* [[pater]]
+* [[vieux]] {{argot|nocat=1}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[apprendre à son père à faire des enfants]]
+* [[beau-père]]
+** [[le beau-père]]
+* [[célibapère]]
+* [[coup du père François]]
+* [[de père en fils]]
+* [[Dieu le Père]]
+* [[grand-père]] (''et ses [[grand-père#Dérivés|dérivés]]'')
+* [[fourchette du père Adam]]
+* [[mon père]] {{info lex|religion}}
+* [[montrer à son père à faire des enfants]]
+* [[mouchoir du père Adam]]
+* [[neiger comme le père du loup]] (''Auvergne'')
+* [[Notre Père]] {{info lex|religion}}
+* [[pépé]]
+* [[pépère]]
+* [[père abbé]] {{info lex|religion}}
+* [[père adoptif]]
+* [[père au foyer]]
+* [[père biologique]]
+* [[père blanc]] {{info lex|religion}}
+* [[père célibataire]]
+* [[père cent]], [[Père Cent]]
+* [[père commanditaire]]
+* [[père conscrit]] {{info lex|Antiquité}}
+* [[père de cœur]]
+* [[père de famille]] (''et ses [[père de famille#Dérivés|dérivés]]'')
+* [[père de la psychanalyse]]
+* [[père de l’Église]], [[père de l’église]] {{info lex|religion}}
+* [[Père de l’Église universelle]] ''(le pape)''
+* [[père des cieux]] {{info lex|religion}}
+* [[père des croyants]] {{info lex|religion}}
+* [[père des dieux et des hommes]] {{info lex|mythologie}}
+* [[père des fidèles]] {{info lex|religion}}
+* [[père d’intention]] {{info lex|droit}}
+* [[père du concile]] {{info lex|religion}}
+* [[père du désert]] {{info lex|religion}}
+* [[père et mère]]
+* [[père éternel]]
+* [[père fondateur]]
+* [[père fouettard]]
+* [[père fouetteur]]
+* [[père-grand]]
+* [[père heureux dans ses enfants]]
+* [[père heureux en enfants]]
+* [[père Joseph]]
+* [[père-lachaiserie]]
+* [[père-la-colique]]
+* [[père-la-pudeur]], [[père la pudeur]]
+* [[père la rigueur]]
+* [[père légitime]]
+* [[père Lustucru]]
+* [[père naturel]]
+* [[père noble]] {{info lex|théâtre}}
+* [[père Noël]] (''et ses [[père Noël#Dérivés|dérivés]]'')
+* [[père noir]], [[père-noir]], [[pèrenoir]] {{info lex|ornithologie}}
+* [[père nourricier]]
+* [[père pélican]]
+* [[père porteur]]
+* [[père poule]]
+* [[père putatif]]
+* [[père spirituel]]
+* [[père temporel]] {{info lex|religion}}
+* [[père tranquille]]
+* [[pères de la foi]] {{info lex|christianisme}}
+* [[petit père]]
+* [[petit-père]]
+* [[petit père des peuples]]
+* [[processus père]] {{info lex|informatique}}
+* [[révérend père]] {{info lex|religion}}
+* [[saint-père]], [[Saint-père]] {{info lex|religion}}
+* [[son père]] (''Québec'') (''Vieilli'')
+* [[très saint-père]] {{info lex|catholicisme}}
+* [[tuer le père]]
+* [[vendre père et mère]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[à père avare, enfant prodigue]]
+* [[à père avare, enfant prodigue, à mère avare, galant escroc]]
+* [[à père avare, fils prodigue]]
+* [[et allez donc c’est pas ton père]]
+* [[tel père, tel fils]]
+* [[ton père n’est pas vitrier]]
+
+==== {{S|apparentés}} ====
+{{(}}
+* [[antipatriote]]
+* [[antipatriotique]]
+* [[antipatriotisme]]
+* [[apatride]]
+* [[compaternité]]
+* [[compatriote]]
+* [[compère]]
+* [[dépatrier]]
+* [[expatriation]]
+* [[expatrier]]
+* [[parent]]
+* [[parentage]]
+* [[parentaille]]
+* [[parentales]]
+* [[parentalies]]
+* [[parenté]]
+* [[parrain]]
+* [[parrainage]]
+* [[parrainer]]
+* [[parricide]]
+* [[pater]]
+* [[pater familias]]
+* [[Pater Noster]]
+* [[paternaliser]]
+* [[paternalisme]]
+* [[paternaliste]]
+* [[paterne]]
+* [[paternel]]
+* [[paternellement]]
+* [[paternité]]
+* [[patriarcal]]
+* [[patriarcalement]]
+* [[patriarcat]]
+* [[patriarche]]
+* [[patriarchie]]
+* [[patrice]]
+* [[patricial]]
+* [[patriciat]]
+* [[patricien]]
+* [[patrie]]
+* [[patrilinéaire]]
+* [[patrilinéarité]]
+* [[patrimoine]]
+* [[patrimonial]]
+* [[patrimonialement]]
+* [[patrimonialiser]]
+* [[patrimonialité]]
+* [[patriotard]]
+* [[patriote]]
+* [[patrioterie]]
+* [[patriotique]]
+* [[patriotiquement]]
+* [[patriotisme]]
+* [[patripassien]]
+* [[patristique]]
+* [[patron]]
+* [[patronage]]
+* [[patronal]]
+* [[patronat]]
+* [[patroneux]]
+* [[patronner]]
+* [[patronnesse]]
+* [[patronnet]]
+* [[patronneur]]
+* [[patronnier]]
+* [[patronymique]]
+* [[patropassien]]
+* [[rapatriement]]
+* [[rapatrier]]
+* [[rapatronnage]]
+* [[rapatronner]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|Mithra|autorat|famille|généalogie|peuple|religion chrétienne|sociologie de la famille|parenté|grossesse|archétype narratif}}
+* [[enfant]]
+* [[fille]]
+* [[fils]]
+* [[mère]]
+
+==== {{S|traductions}} ====
+{{trad-début|Géniteur|1}}
+* {{T|ar}} : {{trad+|ar|اب|R=āb|m}}, {{trad+|ar|والد|tr=wālid}}
+{{trad-fin}}
+
+{{trad-début|Mâle assumant un rôle paternel|2}}
+{{trad-fin}}
+
+{{trad-début|Ascendant|3}}
+{{trad-fin}}
+
+{{trad-début|Créateur ; fondateur ; protecteur}}
+{{trad-fin}}
+
+{{trad-début|Titre donné aux dignitaires des congrégations et des ordres religieux|7}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+==== {{S|hyperonymes}} ====
+* [[parent]]
+
+==== {{S|hyponymes}} ====
+; Géniteur (1)
+* [[père biologique]]
+* [[père naturel]] : Celui qui a eu un enfant d’une femme avec laquelle il n’était pas marié
+* [[père légitime]] : Celui qui a eu un enfant issu de son mariage légitime
+* [[père putatif]] : Celui qui est réputé légalement le père d’un enfant
+
+; Mâle assumant un rôle paternel (2)
+* [[père adoptif]] : Celui qui a adopté quelqu’un pour son enfant
+* [[père nourricier]] : Mari de la femme chez qui un enfant a été mis en nourrice
+* [[père spirituel]] : Personne qui dirige la conscience d’une autre
+
+=== {{S|prononciation}} ===
+* {{pron|pɛʁ|fr}}
+** {{écouter|France (Paris)|lø pɛʁ|titre=le père|audio=Fr-père.ogg|lang=fr}}
+** {{écouter||pɛʁ|lang=fr|audio=LL-Q150 (fra)-Guilhelma-père.wav}}
+** {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-père.wav}}
+* Français méridional : {{pron|ˈpɛ.ʁə|fr}}
+* Canada : {{pron|pɛːʁ|fr}}, {{phon|paɛ̯ʁ|fr}}
+** {{écouter|Canada (Montréal)|paɛ̯ʁ|audio=Qc-père.ogg|lang=fr}}
+** {{écouter|lang=fr|Canada (Québec, Mauricie, Shawinigan)||audio=Le père.ogg}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Fhala.K-père.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-père.wav}}
+* {{écouter|lang=fr|Suisse (Genève)|audio=LL-Q150 (fra)-Nattes à chat-père.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-père.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-père.wav}}
+* {{écouter|lang=fr|France (Grenoble)|audio=LL-Q150 (fra)-GAllegre-père.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-père.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-père.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-père.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-père.wav}}
+* {{écouter|lang=fr|France (Montpouillan)|audio=LL-Q150 (fra)-Yug-père.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-père.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-père.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-père.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-père.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-père.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-père.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-père.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-père.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-Loizbec-père.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-père.wav}}
+* {{écouter|Montpellier (France)||lang=fr|audio=LL-Q150 (fra)-GeoMechain-père.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-père.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-père.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Lunagrouh-père.wav}}
+* {{écouter|Évreux (France)||lang=fr|audio=LL-Q150 (fra)-X-Javier-père.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-père.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-père.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-père.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-père.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-père.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)||lang=fr|audio=LL-Q150 (fra)-Helenou66-père.wav}}
+==== {{S|homophones|fr}} ====
+* [[pair]] (nom commun)
+* [[paire]] (nom commun)
+* [[perd]], [[perds]] (formes du verbe ''[[perdre]]'')
+* [[pers]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* [[Annexe:Famille en français]]
+* {{WP}}
+* {{Wikiquote}}
+
+=== {{S|références}} ===
+* {{R:Littré}}
+* {{R:DAF8}}
+
+[[Catégorie:Lexique en français de la famille]]
+[[Catégorie:Lexique en français de la religion]]
+

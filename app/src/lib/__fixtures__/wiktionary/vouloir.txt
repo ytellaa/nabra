@@ -1,0 +1,140 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|X}} Du latin vulgaire {{recons|lang-mot-vedette=fr|volere}} (relevé sous la forme du gérondif ''{{lien|volendi|la}}'' ; de l’indicatif présent {{2e|pers.}} : ''si voles'' VIII{{e}} siècle), réfection du latin classique ''[[volo#la|volo]]'' d’après les formes du radical ''vol-''.
+
+=== {{S|verbe|fr}} ===
+'''vouloir''' {{pron|vu.lwaʁ|fr}} {{tr-dir|fr}} {{conjugaison|fr|groupe=3}}
+# Avoir l’[[intention]], la [[volonté]] de [[faire]] [[quelque chose]], s’y [[déterminer]].
+# {{en particulier}} Avoir une volonté [[agissant]]e, [[efficace]].
+# [[commander|Commander]], [[exiger]] [[avec]] [[autorité]].
+# [[avoir|Avoir]] [[autorité]] sur l’[[homme]], [[parler|en parlant]] des [[chose]]s.
+# [[désirer|Désirer]] ; [[souhaiter]].
+# [[permettre|Permettre]] ; [[consentir]].
+# [[prétendre|Prétendre]] ; [[affirmer]] [[avec]] une grande [[insistance]].
+# [[demander|Demander]] un [[prix]] d’une chose qu’on veut [[vendre]].
+# ''(Sujet chose)'' Nécessiter, avoir besoin de.
+# ''(Sujet chose)'' En tournure négative, indique qu'une chose résiste à une volonté humaine.
+
+==== {{S|antonymes}} ====
+* [[nouloir]] {{très rare|nocat=1}}
+
+==== {{S|notes}} ====
+# Les impératifs « Veux ! », « Voulez ! », ne s’utilisent que dans le cas où l’ordre ou le conseil incitent à un effort de la faculté de vouloir (et non pour enjoindre de faire ce à quoi la volonté pourrait s'appliquer). Ils ne s’emploient guère qu’absolument.
+# Pour exprimer modestement le désir d’obtenir une chose, l'on emploie le conditionnel.
+# Il s’emploie à ce mode, dans certaines phrases, pour exprimer une sorte de défi.
+# Il s’emploie, par politesse, comme seconde personne du pluriel de l’impératif et signifie Ayez la [[bonté]], la [[complaisance]] de.
+# Il s’emploie encore, dans ce mode, dans un sens d’exigence, de commandement exprimés poliment.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à bouche que veux-tu]]
+* [[à qui veut l’entendre]]
+* [[bien vouloir]]
+* [[Dieu le veut]]
+* [[en temps voulu]]
+* [[en vouloir]]
+* [[se vouloir]]
+* [[entre-vouloir]]
+* [[je veux]] ''(Locution interjective)''
+* [[je veux, mon neveu]] ''(Locution interjective)''
+* [[ne pas vouloir de]]
+* [[ne pas vouloir la mort du pécheur]]
+* [[ne pas vouloir regarder]]
+* [[ne pas savoir ce qu’on veut]]
+* [[ne plus vouloir entendre parler]]
+* [[ne rien vouloir savoir]]
+* [[ne vouloir voir qu’une tête]]
+* [[savoir ce que parler veut dire]]
+* [[vouleur]]
+* [[vouloir#Nom commun|vouloir]] ''(nom commun)''
+* [[vouloir bien]]
+* [[vouloir c’est pouvoir]]
+* [[vouloir dire]]
+* [[vouloir disparaître sous la table]]
+* [[vouloir-être]]
+* [[vouloir-faire]]
+* [[vouloir le beurre et l’argent du beurre]]
+* [[vouloir mal de mort]]
+* [[vouloir-penser]]
+* [[vouloir tout savoir sans rien payer]]
+* [[vouloir une médaille]]
+* [[vouloir-vivre]]
+{{)}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[ce que femme veut, Dieu le veut]] ''(les femmes veulent ardemment ce qu’elles veulent et elles viennent ordinairement à bout de l’obtenir)''
+* [[Dieu le veuille]], [[Dieu veuille]]
+* [[en veux-tu en voilà]]
+* [[il n’est pire aveugle que celui qui ne veut pas voir]]
+* [[il n’est pire sourd que celui qui ne veut pas entendre]]
+* [[le roi dit : Nous voulons]]
+* [[ne fais pas à autrui ce que tu ne voudrais pas qu’on te fît]]
+* [[on veut pas le savoir, on veut le voir]]
+* [[quand on veut, on peut]]
+* [[qu’est-ce que tu veux]]
+* [[que veux-tu que la bonne y fasse]]
+* [[que voulez-vous que la bonne y fasse]]
+* [[qui veut faire l’ange fait la bête]]
+* [[qui veut la fin veut les moyens]]
+* [[qui veut la paix, prépare la guerre]]
+* [[qui veut noyer son chien l’accuse de la rage]]
+* [[qui veut tuer son chien l’accuse de la rage]]
+* [[qui veut voyager loin ménage sa monture]]
+* [[si tu veux la paix prépare la guerre]]
+* [[vouloir, c’est pouvoir]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Avoir l’intention, la volonté de faire quelque chose, s’y déterminer|1}}
+* {{T|ar}} : {{trad-|ar|أراد|R=arâda}}
+{{trad-fin}}
+
+{{trad-début|Avoir une volonté agissante, efficace|2}}
+{{trad-fin}}
+
+{{trad-début|Désirer, souhaiter|5}}
+{{trad-fin}}
+
+{{trad-début|Prétendre ; affirmer avec une grande insistance|7}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|vu.lwaʁ}}
+'''vouloir''' {{pron|vu.lwaʁ|fr}} {{m}}
+# [[volonté|Volonté]], [[faculté]] de '''vouloir'''.
+# {{term|Avec les adjectifs [[bon]] ou [[mauvais]]}} [[bienveillance|Bienveillance]], [[malveillance]].
+
+==== {{S|antonymes}} ====
+* [[aboulie]]
+* [[non-vouloir]]
+* [[nouloir]]
+
+==== {{S|apparentés}} ====
+* [[dévouloir]]
+
+==== {{S|dérivés}} ====
+* {{lien|bon vouloir|fr}}
+* [[mauvais vouloir]]
+
+==== {{S|traductions}} ====
+{{trad-début|Volonté, faculté de vouloir.}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|vu.lwaʁ|fr}}
+* {{pron|vu.lwaʁ|fr}}
+** {{écouter|France (Paris)|vu.lwaʁ|audio=Fr-vouloir.ogg|lang=fr}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-vouloir.wav}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)|audio=LL-Q150 (fra)-Pamputt-vouloir.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-vouloir.wav}}
+* {{écouter|lang=fr|France (Toulouse)||audio=LL-Q150 (fra)-Lepticed7-vouloir.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-vouloir.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-vouloir.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-DSwissK-vouloir.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-vouloir.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-vouloir.wav}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+

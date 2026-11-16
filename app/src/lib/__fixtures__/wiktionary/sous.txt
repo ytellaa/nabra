@@ -1,0 +1,140 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|mot=subtus|sens=en dessous, par-dessous}}, devenu, en bas-latin, une [[préposition]] qui entre en concurrence avec ''{{lien|sub|la}}'' lequel ne subsiste que dans le roumain ''{{lien|sub|ro}}'', l’espagnol et l’ancien portugais ''so'' ; ''subtus'' a donné le roumain ''{{lien|supt|ro}}'', l’italien ''{{lien|sotto|it}}'' et l’ancien occitan ''{{lien|sotz|pro}}''.
+
+=== {{S|préposition|fr}} ===
+{{fr-inv|su}}
+[[Image:Debajo.png|vignette|Le poivron est '''sous''' le cadre.]]
+'''sous''' {{pron|su|fr}} {{invar}}
+# Sert à marquer la situation d’une chose à l’égard d’une autre qui est [[au-dessus]], [[par-dessus]], qui la [[couvrir|couvre]] en totalité ou en partie.
+# [[dans#fr|Dans]].
+# Marque la [[situation]] d’un [[lieu]] par [[rapport]] à un autre plus [[élever|élevé]] ou en [[amont]], s’ils sont au [[bord]] d’une [[rivière]].
+# Marque la [[subordination]] ou la [[dépendance]].
+# Se dit de ce qui recouvre, de ce qui cache.
+# [[moyennant|Moyennant]], [[avec]].
+# Indique la [[cause]].
+# Marque le [[temps]] [[durant]] [[lequel]] un [[souverain]] a [[régner|régné]], un [[gouvernement]], un [[régime]] a [[durer|duré]], etc.
+# {{lexique|informatique|fr}} [[avec|Avec]].
+# {{ellipse|fr}} Sous l’emprise ou l’empire de.
+# Sert à marquer l'[[infériorité]] de quelque chose, de quelqu'un par rapport à une référence
+# ''Cette recherche explique la '''sous'''-évaluation des entreprises de la "nouvelle économie" lors de leur introduction en bourse (IPO) et leur '''sous'''-performance boursière ultérieure.'' {{source|Samer Saade, ''Sous-évaluation et sous-performance des introductions en bourse des entreprises de la "nouvelle économie"'', Éd. Atelier de reproduction des thèses'', 2013}}
+
+==== {{S|abréviations}} ====
+* [[ss]]
+* [[/s]]
+* [[s/s]]
+
+==== {{S|dérivés}} ====
+* {{cf|sous-|lang=fr}}
+* [[abri-sous-roche]]
+* [[cacher la poussière sous le tapis]]
+* [[en avoir sous le pied]]
+* [[libération sous contrainte]] 
+* [[mettre sous le tapis]]
+* [[passer sous silence]]
+* [[prendre sous un chapeau]]
+* [[rire sous cape]]
+* [[sous bonne escorte]]
+* [[sous clef]], [[sous clé]]
+* [[sous cloche]], [[mettre sous cloche]]
+* [[sous d’heureux auspices]]
+* [[sous figure de]]
+* [[sous l’aile de]]
+* [[sous l’égide de]]
+* [[sous l’emprise de]]
+* [[sous la couette]]
+* [[sous la coupe de]]
+* [[sous la dent]]
+** ''N’avoir rien à se mettre '''sous la dent''''' : N’avoir rien à manger
+** ''Se mettre quelque chose '''sous la dent''''' : Manger
+* [[sous la lame]] (sous la pierre tombale)
+* [[sous la main]]
+* [[sous la table]]
+* [[sous le choc]]
+* [[sous le feu]]
+* [[sous le sceau du secret]]
+* [[sous le soleil]]
+* [[sous le vent]] {{info lex|marine}}
+* [[sous les armes]]
+* [[sous les drapeaux]]
+* [[sous les ors de la république]]
+* [[sous les pas de]]
+* [[sous les verrous]]
+* [[sous les yeux de]]
+* [[sous scellés]] :Enfermé dans un meuble, dans une chambre où l’on a mis les scellés
+* [[sous un nouveau jour]]
+* [[sous vide]]
+* [[sous voiles]] : {{info lex|marine}} Se dit d’un bâtiment qui a ses voiles déployées
+* [[sous pavillon]] : Avec le pavillon
+** ''Naviguer '''sous pavillon''' neutre'' : Se mettre sous la protection d’un pavillon neutre
+* [[sous pression]]
+* [[sous votre respect]]
+
+==== {{S|apparentés}} ====
+* [[dessous]]
+* [[sousbande]]
+* [[souscripteur]]
+* [[souscription]]
+* [[souscrire]]
+* [[souscrivant]]
+* [[soussigner]]
+* [[soustractif]]
+* [[soustraction]]
+* [[soustraire]]
+
+==== {{S|traductions}} ====
+{{trad-début|En position inférieure ''(Sens général)''}}
+* {{T|ar}} : {{trad+|ar|تحت|tr=taḥta}}
+{{trad-fin}}
+
+{{trad-début|Dans|2}}
+{{trad-fin}}
+
+{{trad-début|Marque la subordination, la dépendance|4}}
+{{trad-fin}}
+
+{{trad-début|Marque le temps durant lequel un souverain a régné, un gouvernement, un régime a duré|8}}
+{{trad-fin}}
+
+=== {{S|nom|fr|flexion}} ===
+{{fr-rég|su|s=sou}}
+'''sous''' {{pron|su|fr}} {{m}}
+# ''Pluriel de'' [[sou]].
+# {{lexique|argent|fr}} {{familier|fr}} Argent.
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|grp=3|soudre|ind.p.1s=oui|ind.p.2s=oui|imp.p.2s=oui}}
+'''sous''' {{pron|su|fr}}
+# ''Première personne du singulier de l’indicatif présent de'' [[soudre]].
+# ''Deuxième personne du singulier de l’indicatif présent de'' [[soudre]].
+# ''Deuxième personne du singulier de l’impératif de'' [[soudre]].
+
+=== {{S|prononciation}} ===
+* {{pron|su|fr}}
+** {{écouter|lang=fr|France|su|audio=Fr-sous.ogg}}
+** {{écouter|lang=fr|France (Muntzenheim)|su|audio=LL-Q150 (fra)-0x010C-sous.wav}}
+** {{écouter|lang=fr|Suisse (canton du Valais)|su|audio=LL-Q150 (fra)-DSwissK-sous.wav}}
+** {{écouter|lang=fr|France (Vosges)|su|audio=LL-Q150 (fra)-LoquaxFR-sous.wav}}
+** {{écouter|lang=fr|France (Vosges)|su|audio=LL-Q150 (fra)-Poslovitch-sous.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-sous.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-sous.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[Saou]], [[Saoû]]
+* [[saoul]], [[saoûl]], [[saouls]], [[saoûls]]
+* [[soue]], [[soues]]
+* [[soul]] {{ortho1990}}, [[soûl]], [[souls]] {{ortho1990}}, [[soûls]]
+* [[sout]] {{cf|soudre}}
+* [[Sue]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{R:Littré}}
+* {{R:DAF8}}
+* {{R:TLFi}}
+

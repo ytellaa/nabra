@@ -1,0 +1,130 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr|1809}} {{R|TLFi}} {{composé de|lang=fr|télé-|-phone|m=oui}}, affixes dérivés du {{étyl|grc|fr}}, respectivement de {{lien|τῆλε|grc|tr=tễle|sens=loin}} et de {{lien|φωνή|grc|tr=phônế|sens=voix}}{{R|Littré}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|te.le.fɔn}}
+[[Fichier:Telephone.jpg|vignette|160px|Un '''téléphone''' filaire (1)]]
+'''téléphone''' {{pron|te.le.fɔn|fr}} {{m}}
+# {{lexique|téléphonie|fr}} [[appareil|Appareil]] utilisé par deux personnes ou plus, pour mener une [[conversation]] à distance, qu'il soit fixe (relié à un réseau câblé) ou mobile (communiquant via des ondes radio).
+/>— Mais qu’est-ce qu’elle fabrique !…'' {{source|{{w|Victor Margueritte}}, ''Un cœur farouche'', Paris : Ernest Flammarion, 1921 p. 147}}
+# {{vieilli|fr}} [[service|Service]] [[public]] qui [[assurer|assure]] les [[communication]]s par téléphone.
+# [[bureau|Bureau]] où l’on peut se [[servir]] du téléphone.
+# {{informel|fr}} [[appel|Appel]] téléphonique.
+# {{vieilli|fr}} {{argot|fr}} {{salles|fr}} [[toilettes|Toilettes]].
+
+==== {{S|abréviations}} ====
+* [[Tél.]], [[tél.]], [[℡]]
+* [[tph]] {{rare|nocat=1}}
+* [[phone]]
+{{symboles téléphone}}
+
+==== {{S|synonymes}} ====
+* [[appareil]]
+* {{familier|nocat=1}} [[bigophone]], bigo
+* {{argot|nocat=1}} [[biniou]], [[bignou]]
+* {{familier|nocat=1}} {{ironique|nocat=1}} [[dinosaurophone]] (téléphone archaïque ou démodé)
+* {{argot|nocat=1}} [[tube]]
+* {{argot|nocat=1}} {{l|turelu|fr}}
+
+==== {{S|hyponymes}} ====
+* {{par métonymie|nocat=1}} {{l|cellulaire|fr}} (1)
+* {{ellipse|nocat=1}} {{l|fixe|fr}} (1)
+* {{ellipse|nocat=1}} {{l|mobile|fr}} (1)
+* {{par métonymie|nocat=1}} {{l|combiné|fr}}
+* {{l|smartphone|fr}}
+* {{l|taxiphone|fr}} (3)
+* {{l|téléphone à clapet|fr}}
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[au téléphone]]
+* [[carte de téléphone]]
+* [[coup de téléphone]]
+* [[demoiselle du téléphone]]
+* [[donner un coup de téléphone]]
+* [[être pendu au téléphone]]
+* [[jeton de téléphone]]
+* [[jeu du téléphone]]
+* [[numéro de téléphone]]
+* [[par téléphone]]
+* [[petit pois téléphone]]
+* [[réunion par téléphone]]
+* [[téléphone arabe]]
+* [[téléphone auto-générateur]]
+* [[téléphone cellulaire]]
+* [[téléphone fixe]]
+* [[téléphone grave danger]]
+* [[téléphone intelligent]]
+* [[téléphone mobile]]
+* [[téléphone portable]]
+* [[téléphone public]]
+* [[téléphone rose]]
+* [[téléphone rouge]]
+* [[téléphone sans cordon]]
+* [[téléphone sans fil]]
+* [[téléphone tachyonique]]
+* [[téléphoner]]
+* [[téléphoneur]]
+* [[téléphonie]]
+* [[téléphonique]]
+* [[téléphoniste]]
+* [[téléphonite]]
+{{)}}
+
+==== {{S|méronymes}} ====
+* [[combiné téléphonique]]
+* [[cadran]]
+* [[clavier]]
+* [[écouteur]]
+
+==== {{S|vocabulaire}} ====
+* {{Thésaurus|fr|téléphone}}
+* {{voir thésaurus|fr|reproduction du son|bureau (pièce)|télétravail|visioconférence|batterie (électricité)|wikipermanence|communication|téléphone}}
+* [[🤙]] (signe de main « appelle-moi », U+1F919)
+* [[cabine téléphonique]] (3)
+* [[PTT]], [[P&T]]
+* {{l|vidéophone|fr}}
+* {{l|visiophone|fr}}
+
+==== {{S|traductions}} ====
+{{trad-début|Appareil utilisé pour mener une conversation à distance|1}}
+* {{T|ar}} : {{trad+|ar|هاتف|tr=hātif}}, {{trad+|ar|هَاتِف}}
+{{trad-fin}}
+
+{{cf|lang=fr|coup de téléphone}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|téléphoner|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui}}
+'''téléphone''' {{pron|te.le.fɔn|fr}}
+# ''Première personne du singulier de l’indicatif présent de'' [[téléphoner]].
+# ''Troisième personne du singulier de l’indicatif présent de'' [[téléphoner]].
+# ''Première personne du singulier du subjonctif présent de'' [[téléphoner]].
+# ''Troisième personne du singulier du subjonctif présent de'' [[téléphoner]].
+# ''Deuxième personne du singulier de l’impératif de'' [[téléphoner]].
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|te.le.fɔn|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|te.le.fɔn|audio=Fr-téléphone.ogg}}
+* {{écouter|lang=fr|France (Paris)|te.le.fɔn|audio=LL-Q150 (fra)-GrandCelinien-téléphone.wav}}
+* {{écouter|lang=fr|France (Vosges)|te.le.fɔn|audio=LL-Q150 (fra)-LoquaxFR-téléphone.wav}}
+* {{écouter|lang=fr|France (Vosges)|te.le.fɔn|audio=LL-Q150 (fra)-Poslovitch-téléphone.wav}}
+* {{écouter|lang=fr|Canada (Québec, Beauce)||audio=lyly-téléphone.ogg}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-LuneMarine (DSwissK)-téléphone.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-DSwissK-téléphone.wav}}
+* {{écouter|lang=fr|France (Canet-en-Roussillon)|te.le.fɔn|audio=LL-Q150 (fra)-Damian B. (BiblioCanet66)-téléphone.wav}}
+* {{écouter|Somain (France)|te.le.fɔn|lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-téléphone.wav}}
+* {{écouter|Vendée (France)|te.le.fɔn|lang=fr|audio=LL-Q150 (fra)-Sartus85-téléphone.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Vikidia}}
+* {{Le Dico des Ados}}
+* {{Wikiquote}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+{{Bonne entrée|français}}
+[[Catégorie:Appareils électroménagers en français]]
+[[Catégorie:Mots en français préfixés avec télé-]]
+[[Catégorie:Mots en français suffixés avec -phone]]

@@ -1,0 +1,171 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{laé|fr|nom|1}} {{date|lang=fr|1160}} Du {{étyl|la|fr|mot=advocatus|sens=défenseur, avoué}}.
+: {{laé|fr|nom|2}} {{laé|fr|adj}} {{date|lang=fr|1771}} De l’{{étyl|en|fr|avocado}} (Sir Hans Sloan, 1699), lui-même en provenance de l’{{étyl|es|fr|aguacate}} (1640), issu du {{étyl|nci|fr|ahuacatl}} (de même sens){{R|etymonline|avocado}}.
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|a.vɔ.ka|pron2=a.vɔ.kɑ}}
+'''avocat''' {{pron|a.vɔ.ka|a.vɔ.kɑ|fr}} {{m}} {{équiv-pour|une femme|avocate|lang=fr}}
+# {{métiers|fr|spéc=du droit}} {{lexique|justice|fr}} [[professionnel|Professionnel]] du [[droit]], inscrit à un [[barreau]], chargé de [[défendre]], d’[[assister]] une [[partie]] dans un [[procès]] et de plaider devant un tribunal.
+}}
+# {{par extension}} Celui qui [[intercéder|intercède]] pour un autre, qui la [[soutenir|soutient]], qui en défend les intérêts auprès de quelqu’un.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[avocaillon]]
+* [[avocasser]]
+* [[avocasserie]]
+* [[avocassier]]
+* [[avocasson]]
+* [[avocat à la Cour]]
+* [[avocat au Barreau]]
+* [[avocat de la Couronne]] {{Canada|nocat=1}}
+* [[avocat de la défense]]
+* [[avocat de service]]
+* [[avocat du diable]]
+* [[avocat général]]
+* [[avocatie]]
+* [[avocatiser]]
+* [[avocat of counsel]]
+* {{lien|avocate des pécheurs|fr}} {{info lex|catholicisme}} : nom parfois donné à la Vierge Marie.
+* [[avocat sans causes]] : {{familier|nocat=1}} avocat qui ne trouve pas de causes à plaider.
+* [[avocature]]
+
+* [[cabinet d’avocat]]
+* [[cabinet d’avocats]]
+
+* [[faire l’avocat]]
+* [[se faire l’avocat du diable]]
+{{)}}
+
+==== {{S|synonymes}} ====
+* [[homme de loi]]
+* [[bavard]] {{argot|nocat}}
+* [[débarbot]] {{argot|nocat}}
+
+==== {{S|hyperonymes}} ====
+* [[juriste]]
+
+==== {{S|hyponymes}} ====
+* [[civiliste]]
+* [[criminaliste]]
+* [[bâtonnier]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|justice|prison|voix|droit de la santé|procès|confiance}}
+* [[avoué]]
+* [[barreau]]
+* [[CAPA]]
+* [[procureur]]
+
+==== {{S|traductions}} ====
+{{trad-début|Expert juridique qui assiste une personne dans un procès}}
+* {{T|ar}} : {{trad+|ar|محامي|m|tr=muhami}}
+{{trad-fin}}
+
+{{trad-début|Avocat commis d’office}}
+* {{T|ar}} : {{trad+|ar|محامي}}
+{{trad-fin}}
+
+{{trad-début|Celui qui intercède en faveur d’une personne ou soutient une cause}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|a.vɔ.ka|pron2=a.vɔ.kɑ}}
+[[Fichier:Avocado Hass - single and halved.jpg|vignette|redresse|Un '''avocat''' entier et en coupe]]
+'''avocat''' {{pron|a.vɔ.ka|a.vɔ.kɑ|fr}} {{m}}
+# {{fruits|fr}} Fruit de l’[[avocatier]] : [[baie]] ressemblant à une [[poire]] à la [[peau]] [[verte]], la [[chair]] [[fondante]], et une grosse [[graine]] [[central]]e communément appelée « noyau », dont le [[goût]] rappelle celui de l’[[artichaut]] et qui est employé comme [[légume]]. Anciennement nommée ''poire d’avocat''.
+}}
+
+==== {{S|synonymes}} ====
+* {{lien|poire avocat}}, {{lien|poire-avocat}}
+* {{lien|poire d’avocat}}
+
+==== {{S|dérivés}} ====
+* [[avocatier]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|fruit|savon}}
+* [[🥑]] (U+1F951)
+
+==== {{S|hyperonymes}} ====
+* [[baie]]
+* [[légume-fruit]]
+
+==== {{S|traductions}} ====
+{{trad-début|Fruit de l’avocatier}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=3}} ===
+{{fr-rég|a.vɔ.ka|pron2=a.vɔ.kɑ}}
+'''avocat''' {{pron|a.vɔ.ka|a.vɔ.kɑ|fr}} {{m}} {{invariable}}<ref name="Accord">{{Accord des couleurs}}</ref>
+# {{couleurs|fr|spéc=vertes}} [[couleur|Couleur]] [[vert]] [[sombre]] [[soutenu]] tirant sur le [[jaune]]. {{couleur|#568203}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|couleur}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|adjectif|fr}} ===
+{{fr-rég|a.vɔ.ka|pron2=a.vɔ.kɑ}}
+'''avocat''' {{pron|a.vɔ.ka|a.vɔ.kɑ|fr}} {{invariable}}<ref name="Accord" />
+# De [[couleur]] '''avocat'''.
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|a.vɔ.ka|fr}}
+* {{pron|a.vɔ.ka|fr}}
+** {{écouter|France (Paris)|æ̃.ˈn‿a.vo.ka|lang=fr|audio=Fr-avocat.ogg|titre=un avocat}}
+** {{écouter|France (Paris)|ˈa.vɔ.ka|lang=fr|audio=LL-Q150 (fra)-PJLC-Wiki-avocat.wav}}
+** {{écouter|France (Paris)||lang=fr|audio=LL-Q150 (fra)-Aemines1-avocat.wav}}
+** {{écouter|France (Paris)||lang=fr|audio=LL-Q150 (fra)-Aemines2-avocat.wav}}
+** {{écouter|France (Paris)||lang=fr|audio=LL-Q150 (fra)-Aemines3-avocat.wav}}
+** {{écouter|France (Paris)||lang=fr|audio=LL-Q150 (fra)-Aemines5-avocat.wav}}
+** {{écouter|France (Paris)||lang=fr|audio=LL-Q150 (fra)-Aemines6-avocat.wav}}
+** {{écouter|Poissy (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Denel WMFr-avocat.wav}}
+** {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Aemines4-avocat.wav}}
+** {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Mecanautes-avocat.wav}}
+** {{écouter|France (Saint-Laurent-de-Cerdans)|ˈa.vo.kɑ|lang=fr|audio=LL-Q150 (fra)-Helenou66-avocat (le métier).wav}}
+** {{écouter|France (Saint-Nazaire)|ˈa.vɔ.ka|lang=fr|audio=LL-Q150 (fra)-Amélia S. (BiblioCanet66)-avocat.wav}}
+** {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-C. (Hildepont)-avocat.wav}}
+** {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-avocat.wav}}
+* {{term|Sud de la France}} {{phon|a.vo.ˈka|fr}}
+** {{écouter|France (Canet)|ˈa.vo.ka|lang=fr|audio=LL-Q150 (fra)-Guilhelma-avocat.wav}}
+** {{écouter|France (Nouvelle-Aquitaine)|ˈa.vɔ.kʲa|lang=fr|audio=LL-Q150 (fra)-Kiminou1-avocat.wav}}
+* {{term|Nord de la France}} {{term|Suisse}} {{QC|nocat=1}} {{phon|a.vɔ.ˈkɑ|fr}}, {{phon|a.voː.ˈkɑ|fr}}, {{phon|a.vɔ.ˈkɔ|fr}} ou {{phon|a.voː.ˈkɔ|fr}}
+** {{écouter|France (Hauts-de-France)|ɑ.voː.ˈkɔ|lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-avocat.wav}}
+** {{écouter|France (Vosges)|ˈa.vo.kɑ|lang=fr|audio=LL-Q150 (fra)-Poslovitch-avocat.wav}}
+** {{écouter|France (Lyon)|ˈa.vo.kʲɑ|lang=fr|audio=LL-Q150 (fra)-Ltrlg-avocat.wav}}
+** {{écouter|France (Lyon)|ˈa.vo.kɑ|lang=fr|audio=LL-Q150 (fra)-WikiLucas00-avocat.wav}}
+** {{écouter|Suisse (Genève)|a.vo.ˈkɑ|lang=fr|audio=LL-Q150 (fra)-Nattes à chat-avocat.wav}}
+** {{écouter|Canada (Montréal)|ˈa.vɔ.kɔ|lang=fr|audio=Qc-avocat.ogg}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+* {{Vikidia}}
+* {{WP|Avocat (fruit)|titre=avocat (fruit)}}
+* {{WP|Avocat (couleur)|titre=avocat (couleur)}}
+* {{merci professeur}}
+
+=== {{S|références}} ===
+==== {{S|sources}} ====
+{{Références}}
+
+==== {{S|bibliographie}} ====
+* {{Import:DAF8}}
+* {{R:Huguet16e|article=advocat|pages=87, tome I|lien=https://fr.wikisource.org/wiki/Dictionnaire_de_la_langue_fran%C3%A7aise_du_seizi%C3%A8me_si%C3%A8cle/Advocat}}
+* {{R:TLFi}}
+
+[[Catégorie:Adjectifs invariables en français]]
+[[Catégorie:Légumes en français]]
+[[Catégorie:Mots désignant une personne pouvant aussi désigner une chose en français]]
+

@@ -1,0 +1,592 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|IX}} Du {{étyl|frm|fr|prendre}}, de l’{{étyl|fro|fr|prendre}}, ''{{lien|prindre|fro}}'' {{date|lang=fr|842}}, du {{étyl|la|fr|mot=prendere|dif=prēndĕre|sens=prendre, saisir}}, de ''{{lien|prehendo|dif=prĕhendĕre|la}}''. Il a éliminé le classique ''{{lien|capio|dif=capĕre|la}}'' en bas latin. Cognat de l’italien ''{{lien|prendere|it}}''.
+
+=== {{S|verbe|fr}} ===
+'''prendre''' {{pron|pʁɑ̃dʁ|fr}} {{t|fr}} {{perfectif|fr}} {{conjugaison|grp=3}} {{lien pronominal}}
+# [[saisir|Saisir]], [[mettre]] en sa [[main]].
+# [[saisir|Saisir]] une chose, l’[[enlever]], la [[tirer]] à soi [[autrement]] qu’[[avec]] la [[main]].
+# [[saisir|Saisir]] les choses [[avec]] [[leur]] [[gueule]], leur bec, leurs [[griffe]]s, etc., [[parler|en parlant]] des [[animaux]].
+# [[mettre|Mettre]] sur [[soi]], en parlant des [[habit]]s, des [[vêtement]]s.
+# {{vieilli|fr}} [[commencer|Commencer]] à [[porter]].
+# [[emporter|Emporter]] [[avec]] soi [[certain]]es choses par [[besoin]] ou par [[précaution]].
+# [[emporter|Emporter]] en [[cachette]] ou de [[force]], [[ôter]] à [[quelqu’un]] ce qu’il [[posséder|possède]], le [[lui]] [[dérober]].
+# S’[[emparer]], se [[saisir]] par [[force]] d’une [[chose]] ou d’une [[personne]].
+# {{par extension|fr}} {{très familier|fr}} [[dominer|Dominer]] [[sexuellement]].
+# {{lexique|jeux|fr}} [[enlever|Enlever]] à l’[[adversaire]].
+# Faire des [[levée]]s d’[[homme]]s.
+# [[arrêter|Arrêter]] quelqu’un pour le [[conduire]] en [[prison]].
+# [[butiner|Butiner]] à la [[guerre]], y faire des [[prisonnier]]s.
+# {{lexique|militaire|fr}} [[se rendre maître|Se rendre maître]] par la [[force]] des [[arme]]s ou [[autrement]], d’une [[place forte]].
+# {{lexique|chasse|pêche|fr}} [[attraper|Attraper]] à la [[chasse]] ou à la [[pêche]].
+# [[poursuivre|Poursuivre]] et [[saisir]] un [[gibier]], en parlant des [[animaux]] de [[chasse]], des [[oiseaux de proie]], des [[prédateur]]s.
+# {{figuré|fr}} S’[[emparer]] de quelqu’un, [[gagner]] quelqu’un [[attaquer|en s’attaquant]] à son [[esprit]], à son [[cœur]], à ses [[sens]].
+# [[surprendre|Surprendre]].
+# [[attaquer|Attaquer]] ; [[aborder]].
+# [[manger|Manger]], [[boire]], [[avaler]], [[absorber]], en parlant des [[aliment]]s, des [[boisson]]s, des [[médicament]]s [[solide]]s ou [[liquide]]s.
+# Faire [[usage]] pour sa [[santé]], pour son [[agrément]], etc.
+# {{vieilli|fr}} Se faire [[contaminer]] par [[contagion]], en parlant des [[maladie]]s.
+# [[atteindre|Atteindre]] par [[surprise]].
+# [[fixer|Fixer]] sur le [[corps]].
+# [[contracter|Contracter]] ; [[adopter]].
+# Se [[donner]], [[employer]], en parlant de [[titre]]s, de [[qualité]]s, de [[nom]]s.
+# [[acquérir|Acquérir]], [[acheter]].
+# [[demander|Demander]], [[percevoir]] un [[prix]] pour [[quelque chose]] que l’on [[vendre|vend]].
+# [[recevoir|Recevoir]] ; [[accepter]].
+# [[bénéficier|Bénéficier]] de.
+# [[emprunter|Emprunter]], [[tirer]] de.
+# {{en particulier|fr}} {{lexique|famille|fr}} [[recevoir|Recevoir]] des [[traits]] [[psychologiques]] ou [[physiques]] de son [[ascendance]].
+# [[engager|Engager]] des personnes, ou s’engager [[avec]] [[elles]], [[sous]] [[certain]]es [[condition]]s.
+# [[joindre|Joindre]] [[quelqu’un]] en quelque [[endroit]], pour se [[rendre]] [[ailleurs]] [[avec]] [[lui]].
+# [[emmener|Emmener]] [[avec]] [[soi]].
+# [[recueillir|Recueillir]], [[donner]] l’[[hospitalité]].
+# [[ôter|Ôter]], [[retirer]], [[retrancher]] une [[partie]] d’un [[tout]].
+# Retrancher de [[quelque chose]] pour [[subvenir]] à autre [[chose]].
+# Se [[charger]] d’une chose, [[entrer]] en [[possession]], en [[jouissance]] d’une chose à [[certain]]es [[condition]]s.
+# {{lexique|marine|fr}} [[charger|Charger]] [[quelque chose]], [[recevoir]] [[quelqu’un]], [[à bord]].
+# [[engager|Engager]] et [[conduire]], en parlant d’une [[affaire]].
+# [[choisir|Choisir]], [[préférer]] ou [[adopter]] de [[préférence]] ; se [[décider]] pour.
+# [[choisir|Choisir]] une [[route]], un [[chemin]], s’[[y]] [[mettre]] en [[marche]], en parlant [[particulièrement]] de [[ceux]] qui [[voyager|voyagent]], qui [[cheminer|cheminent]].
+# {{par extension|fr}} {{absolument}} Choisir d’[[entrer]] dans un [[chemin]] quand on a le choix entre plusieurs.
+# {{par extension|fr}} [[utiliser|Utiliser]] un [[mode]] de [[locomotion]] qui se présente au choix.
+# {{en particulier}} [[couper|Couper]], [[utiliser]], [[façonner]], de [[certaines]] [[façon]]s, en parlant des [[étoffe]]s, des [[viande]]s, et plus [[généralement]] ce que l’on [[couper|coupe]] ou [[trancher|tranche]] avec [[art]].
+# {{figuré|fr}} [[entendre|Entendre]], [[comprendre]], [[concevoir]], [[expliquer]], [[interpréter]], [[considérer]] d’une [[certain]]e [[manière]].
+# {{figuré|fr}} [[adopter|Adopter]] ou [[soutenir]] [[avec]] [[chaleur]] ou [[conviction]].
+# [[éprouver|Éprouver]], [[parler|en parlant]] des [[sentiment]]s, des [[passion]]s, des [[affection]]s et des [[répugnance]]s.
+# [[obtenir|Obtenir]], [[recueillir]].
+# [[fixer|Fixer]], en parlant d’une date.
+# [[déterminer|Déterminer]] par la [[mesure]], les [[dimension]]s, la [[grandeur]] d’une chose.
+# [[rédiger|Rédiger]], [[relever]], [[fixer]] sur le [[papier]].
+# {{ellipse|fr}} [[prendre du temps|Prendre du temps]] ; [[durer]].
+# {{intransitif|fr}} S’[[enraciner]], [[pousser]], [[croître]].
+# {{intransitif|fr}} {{figuré|fr}} [[réussir|Réussir]], [[trouver]] son [[lectorat]], son [[auditoire]], en parlant d’un [[ouvrage]] de l’[[esprit]], d’une [[proposition]], d’un [[compliment]], [[etc.]]
+# {{intransitif|fr}} [[adhérer|Adhérer]], s’[[attacher]], [[produire]] son [[effet]].
+/>Quand il commença à '''prendre''', elle remonta dans la voiture.'' {{source|{{w|Hector Malot}}, ''{{w|En famille (roman)|En famille}}'', 1893}}
+# {{intransitif|fr}} Faire une [[impression]] [[trop]] [[fort]]e à la [[gorge]], au [[nez]].
+# {{intransitif|fr}} Se [[geler]] ; se [[coaguler]] ; s’[[épaissir]] ; se [[solidifier]].
+# {{intransitif|fr}} [[contribuer|Contribuer]] à un [[bon]] ou à un [[mauvais]] [[résultat]]. {{cf|bien en prendre|mal en prendre}}
+# Atteindre une année de plus en âge.
+# {{intransitif|fr}} [[atteindre|Être atteint]].
+# Subir.
+/>— Oui.<br
+/>— Oh pardon ! dit le soldat, qu’est-ce qu’ils '''prennent''', les gars !'' {{source|{{w|Robert Merle}}, ''Week-end à Zuydcoote'', 1949, réédition Le Livre de Poche, page 133}}
+# Affecter, entamer, gagner sur quelque chose.
+# {{pronl|fr}} S’[[attacher]], s’[[accrocher]].
+# {{pronl|fr}} [[concevoir|Concevoir]] un [[sentiment]] pour [[quelqu’un]].
+# {{pronl|fr}} [[provoquer|Provoquer]], s’[[attaquer]] à quelqu’un.
+# {{pronl|fr}} Se [[contracter]], en parlant de [[maladie]]s.
+# {{pronl|fr}} Se [[figer]], se [[solidifier]].
+# [[émouvoir|Émouvoir]], provoquer une [[émotion]].
+
+==== {{S|synonymes}} ====
+; Acte de justice (12)
+: {{cf|lang=fr|arrêter}}.
+; Autres
+* [[emprunter]]
+* [[attraper]]
+
+==== {{S|apparentés}} ====
+{{(}}
+* [[apprendre]]
+* [[comprendre]]
+* [[déprendre]]
+* [[emprendre]]
+* [[entreprendre]]
+* [[éprendre]]
+* [[méprendre]]
+* [[reprendre]]
+* [[surprendre]]
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3|fermer=1}}
+* [[à prendre ou à laisser]]
+* [[à tout prendre]]
+* [[avoir un train à prendre]]
+* [[bien en prendre]]
+* [[c'est bon à prendre]]: c'est un plus
+* [[en prendre et en laisser]]
+* [[en prendre pour son grade]]
+* [[en prendre pour son rhume]]
+* [[en prendre pour]]
+* [[être pris comme une mouche dans de la crème]]
+* [[faire prendre le change]]
+* [[jouer sans prendre]]
+* [[mal en prendre]] <!--- Antonyme de [[bien en prendre]] ---> 
+* [[n’avoir qu’à se baisser et à prendre]]
+* [[ne pas être à prendre avec des pincettes]]
+* [[ne savoir par où le prendre]]
+* [[prendre à cœur]]
+* [[prendre à contre-poil]]
+* [[prendre à ferme]]
+* [[prendre à forfait]]
+* [[prendre à intérêt]]
+* [[prendre à la gorge]]
+* [[prendre à la lettre]]
+* [[prendre à la tâche]]
+* [[prendre à part]]
+* [[prendre à partie]]
+* [[prendre à pied la route]]
+* [[prendre à pleine main]]
+* [[prendre à pleines mains]]
+* [[prendre à ses risques et périls]]
+* [[prendre à tâche]]
+* [[prendre à témoin]]
+* [[prendre à toutes mains]]
+* [[prendre à travers champs]]
+* [[prendre à travers les terres labourées]]
+* [[prendre acte]]
+* [[prendre amener]]
+* [[prendre appui]]
+* [[prendre au dépourvu]]
+* [[prendre au mot]]
+* [[prendre au pied de la lettre]]
+* [[prendre au pied levé]]
+* [[prendre au saut du lit]]
+* [[prendre au sérieux]]
+* [[prendre au tragique]]
+* [[prendre au trébuchet]]
+* [[prendre aux cheveux]]
+* [[prendre aux entrailles]]
+* [[prendre aux tripes]]
+* [[prendre avis]]
+* [[prendre barre]]
+* [[prendre chair]]
+* [[prendre chaud]]
+* [[prendre circonstance]]
+* [[prendre congé]]
+* [[prendre connaissance]]
+* [[prendre contact]]
+* [[prendre corps]]
+* [[prendre couleur]]
+* [[prendre courage]]
+* [[prendre d’assaut]]
+* [[prendre dans ses filets]]
+* [[prendre date]]
+* [[prendre de certains airs]]
+* [[prendre de force]]
+* [[prendre de haut]]
+* [[prendre de la vitesse]]
+* [[prendre de l’âge]]
+* [[prendre de l’avance]]
+* [[prendre de l’avancement]]
+* [[prendre de plus haut]]
+* [[prendre de toutes mains]]
+* [[prendre de vitesse]]
+* [[prendre des airs]]
+* [[prendre des cartes]]
+* [[prendre des couleurs]]
+* [[prendre des grands airs]]
+* [[prendre des informations]]
+* [[prendre des libertés]]
+* [[prendre des mesures]]
+* [[prendre des nouvelles]]
+* [[prendre des poses]]
+* [[prendre des renseignements]]
+* [[prendre des ris]]
+* [[prendre des vessies pour des lanternes]]
+* [[prendre du bon côté]]
+* [[prendre du bon temps]]
+* [[prendre du champ]]
+* [[prendre du délai]]
+* [[prendre du galon]]
+* [[prendre du jeu]]
+* [[prendre du mauvais côté]]
+* [[prendre du poison]]
+* [[prendre du recul]]
+* [[prendre du repos]]
+* [[prendre du souci]]
+* [[prendre du temps]]
+* [[prendre effet]]
+* [[prendre en affection]]
+* [[prendre en bonne part]]
+* [[prendre en charge]]
+* [[prendre en chasse]]
+* [[prendre en compte]]
+* [[prendre en considération]]
+* [[prendre en défaut]]
+* [[prendre en faute]]
+* [[prendre en flagrant délit]]
+* [[prendre en grippe]]
+* [[prendre en main]]
+* [[prendre en mauvaise part]]
+* [[prendre en mépris]]
+* [[prendre en otage]]
+* [[prendre en pitié]]
+* [[prendre en riant]]
+* [[prendre en sandwich]]
+* [[prendre en toute rigueur]]
+* [[prendre en traitre]] {{ortho1990}}
+* [[prendre en traître]]
+* [[prendre exemple]]
+* [[prendre façade]]
+* [[prendre fait et cause]]
+* [[prendre femme]]
+* [[prendre feu]]
+* [[prendre fin]]
+* [[prendre flamme]]
+* [[prendre forme]]
+* [[prendre froid]]
+* [[prendre garde]]
+* [[prendre gout]] {{ortho1990}}
+* [[prendre goût]]
+* [[prendre haleine]]
+* [[prendre hauteur]]
+* [[prendre intérêt]]
+* [[prendre jour]]
+* [[prendre la balle à la volée]]
+* [[prendre la balle au bond]]
+* [[prendre la balle de volée]]
+* [[prendre la bonne voie]]
+* [[prendre la chèvre]]
+* [[prendre la clé des champs]]
+* [[prendre la clef des champs]]
+* [[prendre la discipline]]
+* [[prendre la file]]
+* [[prendre la fuite]]
+* [[prendre la haire]]
+* [[prendre la haute mer]]
+* [[prendre la hauteur du soleil]]
+* [[prendre la liberté]]
+* [[prendre la ligne 11]]
+* [[prendre la livrée]]
+* [[prendre la lune avec les dents]]
+* [[prendre la main]]
+* [[prendre la main dans le sac]]
+* [[prendre la main de quelqu’un sur la gueule]]
+* [[prendre la mauvaise voie]]
+* [[prendre la mer]]
+* [[prendre la mesure]]
+* [[prendre la mort]]
+* [[prendre la mouche]]
+* [[prendre la parole]]
+* [[prendre la pluie]]
+* [[prendre la porte]]
+* [[prendre la pose]]
+* [[prendre la poudre d’escampette]]
+* [[prendre la poussière]]
+* [[prendre la robe]]
+* [[prendre la roue]]
+* [[prendre la route]]
+* [[prendre la suite]]
+* [[prendre la tête]]
+* [[prendre la vache et le veau]]
+* [[prendre l’air]]
+* [[prendre langue]]
+* [[prendre le bois]]
+* [[prendre le bonnet]]
+* [[prendre le bord]] {{Québec|nocat=1}}
+* [[prendre le change]]
+* [[prendre le chemin]]
+* [[prendre le chou]]
+* [[prendre le collier]]
+* [[prendre le coup]]
+* [[prendre le dessus]]
+* [[prendre le deuil]]
+* [[prendre le frais]]
+* [[prendre le froc]]
+* [[prendre le galop]]
+* [[prendre le haut bout]]
+* [[prendre le jour pour la nuit]]
+* [[prendre le large]]
+* [[prendre le lead]]
+* [[prendre le lit]]
+* [[prendre le maquis]]
+* [[prendre le masque]]
+* [[prendre le mors aux dents]]
+* [[prendre le P2]]
+* [[prendre le pas]]
+* [[prendre le petit collet]]
+* [[prendre le plaisir]]
+* [[prendre le plus court]]
+* [[prendre le plus long]]
+* [[prendre le pouls]]
+* [[prendre le pouvoir]]
+* [[prendre le relai]] {{ortho1990}}
+* [[prendre le relais]]
+* [[prendre le sein]]
+* [[prendre le sel]]
+* [[prendre le taureau par les cornes]]
+* [[prendre le temps comme il vient]]
+* [[prendre le temps]]
+* [[prendre le trot]]
+* [[prendre le vent]]
+* [[prendre le voile]]
+* [[prendre l’eau]]
+* [[prendre légèrement]]
+* [[prendre les armes]]
+* [[prendre les choses comme elles viennent]]
+* [[prendre les devants]]
+* [[prendre les eaux]]
+* [[prendre les hommes comme ils sont]]
+* [[prendre les ordres]]
+* [[prendre les patins de]]
+* [[prendre les poussières]]
+* [[prendre les voiles]]
+* [[prendre l’habit]]
+* [[prendre l’initiative]]
+* [[prendre l’occasion aux cheveux]]
+* [[prendre l’ordre]]
+* [[prendre martre pour renard]]
+* [[prendre médecine]]
+* [[prendre mesure]]
+* [[prendre naissance]]
+* [[prendre note]]
+* [[prendre occasion]]
+* [[prendre par derrière ]]
+* [[prendre par force]]
+* [[prendre par le plus court]]
+* [[prendre par le plus long]]
+* [[prendre par son faible]]
+* [[prendre part]]
+* [[prendre parti]]
+* [[prendre patience]]
+* [[prendre peine]]
+* [[prendre pied]]
+* [[prendre pied et langue]]
+* [[prendre pitié]]
+* [[prendre place]]
+* [[prendre plaisir]]
+* [[prendre port]]
+* [[prendre position]]
+* [[prendre possession]]
+* [[prendre pour]]
+* [[prendre pour cible]]
+* [[prendre pour époux]], [[prendre pour épouse]]
+* [[prendre pour femme]]
+* [[prendre pour mari]]
+* [[prendre pour soi]]
+* [[prendre pour un con]]
+* [[prendre pour un lapin de six semaines]]
+* [[prendre pour une bille]]
+* [[prendre prétexte]]
+* [[prendre racine]]
+* [[prendre rage]]
+* [[prendre rang]]
+* [[prendre sa bonne part]]
+* [[prendre sa droite]]
+* [[prendre sa gauche]]
+* [[prendre sa longitude]]
+* [[prendre sa revanche]]
+* [[prendre sa source]]
+* [[prendre sans vert]]
+* [[prendre séance]]
+* [[prendre sens]]
+* [[prendre sérieusement]]
+* [[prendre ses degrés]]
+* [[prendre ses gouttes]]
+* [[prendre ses jambes à son cou]]
+* [[prendre ses mesures]]
+* [[prendre ses précautions]]
+* [[prendre ses quartiers]]
+* [[prendre ses quartiers d’hiver]]
+* [[prendre ses suretés]] {{ortho1990}}
+* [[prendre ses sûretés]]
+* [[prendre soin]]
+* [[prendre son bonnet rouge]] 
+* [[prendre son cœur à deux mains]]
+* [[prendre son courage à deux mains]]
+* [[prendre son cours]]
+* [[prendre son élan]]
+* [[prendre son essor]]
+* [[prendre son mal en patience]]
+* [[prendre son parti]]
+* [[prendre son pied]]
+* [[prendre son pied la route]]
+* [[prendre son pli]]
+* [[prendre son temps]]
+* [[prendre son trou]]
+* [[prendre son vol]]
+* [[prendre souffle]]
+* [[prendre sous sa protection]]
+* [[prendre sous son aile]]
+* [[prendre sous son bonnet]]
+* [[prendre sous un chapeau]]
+* [[prendre sur le fait]]
+* [[prendre sur sa tête]]
+* [[prendre sur soi]]
+* [[prendre terre]]
+* [[prendre tournure]]
+* [[prendre un air de bureau]]
+* [[prendre un avis]]
+* [[prendre un bon tour]]
+* [[prendre un divertissement]]
+* [[prendre un engagement]]
+* [[prendre un intérêt]]
+* [[prendre un mauvais tour]]
+* [[prendre un nouveau départ]]
+* [[prendre un parti]]
+* [[prendre un pas de recul]]
+* [[prendre un ris]]
+* [[prendre un siège]]
+* [[prendre un tour]]
+* [[prendre un va-te-laver]]
+* [[prendre un verre]]
+* [[prendre un virage à la corde]]
+* [[prendre une attitude]]
+* [[prendre une bâche]]
+* [[prendre une bonne tournure]]
+* [[prendre une caisse]]
+* [[prendre une chasse]]
+* [[prendre une cuite]]
+* [[prendre une débarque]]
+* [[prendre une détermination]]
+* [[prendre une douche]]
+* [[prendre une femme]]
+* [[prendre une gamelle]]
+* [[prendre une idée]]
+* [[prendre une mauvaise tournure]]
+* [[prendre une posture]]
+* [[prendre une résolution]]
+* [[prendre vue sur]]
+* [[pris au dépourvu]]
+* [[pris comme une mouche dans la crème]]
+* [[pris dans la gorge]]
+* [[pris de court]]
+* [[pris de vin]]
+* [[quitter le brodequin pour prendre le cothurne]]
+* [[reprendre haleine]]
+* [[reprendre son souffle]]
+* [[sans prendre une ride]]
+* [[savoir prendre]]
+* [[se laisser prendre à l’hameçon]]
+* [[se laisser prendre au piège]]
+* [[se prendre à]]
+* [[se prendre aux cheveux]]
+* [[se prendre de bec]]
+* [[se prendre de querelle]]
+* [[se prendre la porte]]
+* [[se prendre la tête]]
+* [[se prendre la tête dans les mains]]
+* [[se prendre les pieds dans le tapis]]
+* [[se prendre pour un autre]]
+* [[se prendre une gamelle]]
+* [[s’en prendre à]]
+* [[s’en prendre plein les moustaches]]
+* [[sitôt pris, sitôt pendu]]
+* [[sortir d'en prendre]]
+* [[s’y prendre]]
+{{)}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[c’est autant de pris sur l’ennemi]]
+* [[c’est toujours autant de pris]]
+* [[c’est toujours ça de pris]]
+* [[ce qui est pris n’est plus à prendre]]
+* [[chacun prend son plaisir où il le trouve]]
+* [[Dieu l’a pris]]
+* [[Franklin prend son thé chaud]]
+* [[il a battu les buissons et un autre a pris les oiseaux]]
+* [[il faut prendre le bénéfice avec les charges]]
+* [[l’aigle ne s’amuse point à prendre les mouches]]
+* [[la mayonnaise prend]]
+* [[laissez-lui prendre un pied, il en prendra quatre]]
+* [[ne pas se prendre pour de la merde]]
+* [[ne pas se prendre pour rien]]
+* [[on ne prend pas les mouches avec du vinaigre]]
+* [[on prend les mêmes et on recommence]]
+* [[pas vu, pas pris]]
+* [[prends ton courage à deux mains mon cousin]]
+* [[prenez mon ours]]
+* [[se prendre pour le sel de la terre]]
+* [[tel est pris qui croyait prendre]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|café (établissement)|dames|pause|pouls|soleil|échecs}}
+
+==== {{S|traductions}} ====
+{{trad-début|Saisir, mettre en sa main|1}}
+* {{T|ar}} : {{trad+|ar|أَخَذَ|tr=akhadha}}
+{{trad-fin}}
+
+{{trad-début|Mettre sur soi.|4}}
+{{trad-fin}}
+
+{{trad-début|Emporter avec soi certaines choses par besoin ou par précaution.|6}}
+{{trad-fin}}
+
+{{trad-début|Emporter en cachette ou de force, ôter à quelqu’un ce qu’il possède, le lui dérober.|7}}
+{{trad-fin}}
+
+{{trad-début|S’emparer, se saisir par force d’une chose ou d’une personne.|8}}
+{{trad-fin}}
+
+{{trad-début|S’emparer d’une pièce adverse.|10}}
+{{trad-fin}}
+
+{{trad-début|(Militaire) Se rendre maître par la force des armes ou autrement, d’une place forte.|13}}
+{{trad-fin}}
+
+{{trad-début|Attraper à la chasse ou à la pêche.|14}}
+{{trad-fin}}
+
+{{trad-début|Manger, boire, avaler, absorber, en parlant des aliments, des boissons, des médicaments solides ou liquides.|19}}
+{{trad-fin}}
+
+{{trad-début|Atteindre par surprise.|22}}
+{{trad-fin}}
+
+{{trad-début|Fixer sur le corps.|23}}
+{{trad-fin}}
+
+{{trad-début|Contracter, adopter.|24}}
+{{trad-fin}}
+
+{{trad-début|Acquérir, acheter.|26}}
+{{trad-fin}}
+
+{{trad-début|Recueillir, donner l’hospitalité.|34}}
+{{trad-fin}}
+
+{{trad-début|Ôter, retirer, retrancher une partie d’un tout.|35}}
+{{trad-fin}}
+
+{{trad-début|(Marine) Charger quelque chose, recevoir quelqu’un, à bord.|38}}
+{{trad-fin}}
+
+{{trad-début|Choisir, préférer, adopter de préférence, se décider pour.|40}}
+{{trad-fin}}
+
+{{trad-début|Choisir une route, un chemin, s’y mettre en marche, en parlant particulièrement de ceux qui voyagent, qui cheminent.|41}}
+{{trad-fin}}
+
+{{trad-début|Entrer dans un chemin qui se présente au choix.|42}}
+{{trad-fin}}
+
+{{trad-début|Utiliser un mode de locomotion qui se présente au choix.|43}}
+{{trad-fin}}
+
+{{trad-début|Couper, utiliser, façonner, de certaines façons, en parlant des étoffes, des viandes, et plus généralement ce que l’on coupe ou tranche avec art.|44}}
+{{trad-fin}}
+
+{{trad-début|(Par extension) Utiliser un mode de locomotion qui se présente au choix.|45}}
+{{trad-fin}}
+
+{{trad-début|Éprouver, en parlant des sentiments, des passions, des affections et des répugnances.|47}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|pʁɑ̃dʁ|fr}}
+** {{écouter|lang=fr|France|pʁɑ̃dʁ|audio=Fr-prendre.ogg}}
+** {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-prendre.wav}}
+* Français méridional : {{pron|ˈpʁan.dʁə|fr}}
+* Canada : {{pron|pʁãdʁ|fr}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)|audio=LL-Q150 (fra)-Pamputt-prendre.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-prendre.wav}}
+* {{écouter|lang=fr|France (Toulouse)||audio=LL-Q150 (fra)-Lepticed7-prendre.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-prendre.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-prendre.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-prendre.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-DSwissK-prendre.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-prendre.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-prendre.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{R:DAF8}}
+

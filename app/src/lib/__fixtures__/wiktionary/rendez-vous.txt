@@ -1,0 +1,72 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: [[substantivation|Substantivation]] du verbe ''[[se rendre]]'' conjuguée à la deuxième personne du pluriel ou à la deuxième personne du singulier (forme polie) de l’[[impératif présent]].
+
+=== {{S|nom|fr}} ===
+{{fr-inv|ʁɑ̃.de.vu}}
+[[Image:Astronaut Gibson Shakes Hands with Cosmonaut Dezhurov - GPN-2002-000062.jpg|vignette|'''Rendez-vous''' spatial entre un astronaute et un cosmonaute. (1)]]
+'''rendez-vous''' {{pron|ʁɑ̃.de.vu|fr}} {{m}} {{sp}}
+# [[convention|Convention]] que [[deux]] ou [[plusieurs]] [[personne]]s [[faire|font]] de se [[trouver]] [[ensemble]] un [[certain]] [[jour]], à une certaine [[heure]], en un [[lieu]] [[désigner|désigné]].
+# {{en particulier}} [[réunion|Réunion]] entre deux [[amoureux]].
+# [[lieu|Lieu]] où l’on [[doit]] se rendre.
+# {{par extension|fr}} Lieu où certaines personnes [[avoir coutume|ont coutume]] de se [[réunir]].
+# {{par extension|fr}} Il se dit en parlant des animaux.
+# Il se dit en parlant d'un appel vidéo via Internet.
+
+==== {{S|abréviations}} ====
+* [[RDV]], [[rdv]]
+
+==== {{S|synonymes}} ====
+* [[avoir messe promise|messe promise]]
+* {{familier|nocat=1}} [[rancard]]
+* [[date]]
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[être au rendez-vous]]
+* [[maison de rendez-vous]]
+* [[ne pas être au rendez-vous]]
+* [[rendez-vous à l’aveugle]]
+* [[rendez-vous d’affaires]]
+* [[rendez-vous de chantier]]
+* [[rendez-vous de chasse]]
+* [[rendez-vous galant]]
+* [[rendez-vous manqué]]
+* [[rendez-vous spatial]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Réunion prévue entre plusieurs personnes}}
+* {{T|ar}} : {{trad-|ar|موعد}}
+{{trad-fin}}
+
+{{trad-début|Réunion galante entre amoureux}}
+* {{T|ar}} : {{trad+|ar|لقاء}}
+{{trad-fin}}
+
+{{trad-début|Lieu}}
+{{trad-fin}}
+
+=== {{S|interjection|fr}} ===
+'''rendez-vous''' {{pron|ʁɑ̃.de.vu|fr}}
+# Ordre pour exiger une [[capitulation]] de l’ennemi ou de l’adversaire.
+
+=== {{S|prononciation}} ===
+* {{écouter|France|ʁɑ̃.de.vu|lang=fr}}
+** {{écouter|France (Paris)|ʁɑ̃.de.vu|audio=Fr-rendez-vous-fr-Paris.ogg|lang=fr}}
+* {{écouter|Belgique||lang=fr}}
+** {{écouter|Belgique (Bruxelles)|ʀɑ̃.de.vu|audio=Fr-Rendez-vous.ogg|lang=fr}}
+* {{écouter|Québec|ʁã.de.vu|lang=fr}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-rendez-vous.wav}}
+* {{écouter|Normandie (France)||lang=fr|audio=LL-Q150 (fra)-Roptat-rendez-vous.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-rendez-vous.wav}}
+
+=== {{S|voir aussi}} ===
+{{Autres projets
+|w=Rendez-vous
+|s=Rendez-vous
+|q=Rendez-vous}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+

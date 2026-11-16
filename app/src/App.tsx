@@ -3,6 +3,7 @@ import { Ctx, type AppCtx } from './context';
 import { detectLang, translate, type Lang } from './i18n';
 import { db, loadMyWords, loadPrefs, loadSessions, newId, savePref, type MyWord, type Prefs, type Session } from './lib/db';
 import { speaker } from './lib/speech';
+import { lookupWord, needsAutoLookup } from './lib/dictionary';
 import { exportBackup, savePhoto } from './lib/files';
 import { isNative, platform } from './lib/platform';
 import { log, logsAsText, setDebugEnabled } from './lib/debug';
@@ -36,6 +37,11 @@ export default function App() {
   const [prefs, setPrefs] = useState<Prefs | null>(null);
   const [sessions, setSessions] = useState<Session[]>([]);
   const [myWords, setMyWords] = useState<MyWord[]>([]);
+  const myWordsRef = useRef(myWords);
+  useEffect(() => {
+    myWordsRef.current = myWords;
+  }, [myWords]);
+  const [lookingUp, setLookingUp] = useState<ReadonlySet<string>>(new Set());
   const [screen, setScreen] = useState<Screen>('home');
   const [reader, setReader] = useState<ReaderState | null>(null);
   const [exporting, setExporting] = useState(false);
@@ -47,7 +53,7 @@ export default function App() {
   /* ---------- Chargement ---------- */
   useEffect(() => {
     (async () => {
-      const defaults: Prefs = { lang: detectLang(), soundOn: true, totalWordsRead: 0, cameraPermission: 'unknown', debugOn: false, speed: 1 };
+      const defaults: Prefs = { lang: detectLang(), soundOn: true, totalWordsRead: 0, cameraPermission: 'unknown', debugOn: false, speed: 1, dictionaryConsent: 'unknown' };
       try {
         const [p, s, w] = await Promise.all([loadPrefs(defaults), loadSessions(), loadMyWords()]);
         setDebugEnabled(DEBUG_AVAILABLE && p.debugOn);
@@ -147,6 +153,26 @@ export default function App() {
   }, [sessions.length]);
 
   /* ---------- Mes mots ---------- */
+  /** Recherche Wiktionnaire en arrière-plan ; un résultat obtenu n'est jamais remplacé par un échec. */
+  const lookingRef = useRef(new Set<string>());
+  const runLookup = useCallback((w: MyWord) => {
+    if (lookingRef.current.has(w.key)) return;
+    lookingRef.current.add(w.key);
+    setLookingUp(new Set(lookingRef.current));
+    void lookupWord(w.key, w.text)
+      .then((info) => {
+        const cur = myWordsRef.current.find((x) => x.key === w.key);
+        if (!cur || (cur.info?.status === 'ok' && info.status !== 'ok')) return;
+        log('dict', `Recherche « ${w.key} » : ${info.status}`);
+        setMyWords((list) => list.map((x) => (x.key === w.key ? { ...x, info } : x)));
+        void db.words.update(w.key, { info }).catch(() => {});
+      })
+      .finally(() => {
+        lookingRef.current.delete(w.key);
+        setLookingUp(new Set(lookingRef.current));
+      });
+  }, []);
+
   const isInMyWords = useCallback(
     (text: string) => {
       const w = myWordOf(text);
@@ -167,11 +193,18 @@ export default function App() {
         : { key: w.key, text: w.text, addedAt: Date.now(), sessionIds: sid ? [sid] : [] };
       setMyWords(old ? myWords.map((x) => (x.key === w.key ? entry : x)) : [entry, ...myWords]);
       void db.words.put(entry).catch(() => {});
+      if (prefs?.dictionaryConsent === 'yes' && needsAutoLookup(entry.info)) runLookup(entry);
       log('words', `Ajout : ${w.key}`);
       ctx.sound('son-ok');
     },
-    [ensureSaved, myWords, ctx],
+    [ensureSaved, myWords, ctx, prefs?.dictionaryConsent, runLookup],
   );
+
+  // À l'ouverture de Mes mots : nouvelle tentative (une par mot) pour les recherches à refaire.
+  useEffect(() => {
+    if (screen !== 'words' || prefs?.dictionaryConsent !== 'yes' || !navigator.onLine) return;
+    myWordsRef.current.filter((w) => needsAutoLookup(w.info)).forEach(runLookup);
+  }, [screen, prefs?.dictionaryConsent, runLookup]);
 
   const removeMyWord = (w: MyWord) => {
     setMyWords((list) => list.filter((x) => x.key !== w.key));
@@ -349,6 +382,10 @@ export default function App() {
             onListenWord={(w) => void speaker.speak(w.text, speed, () => {})}
             onOpenSession={openSession}
             onRemoveWord={removeMyWord}
+            lookingUp={lookingUp}
+            dictionaryConsent={prefs.dictionaryConsent}
+            onDictionaryConsent={(yes) => updatePref('dictionaryConsent', yes ? 'yes' : 'no')}
+            onLookupWord={runLookup}
             totalWords={prefs.totalWordsRead}
             exporting={exporting}
             onBack={settingsBack}

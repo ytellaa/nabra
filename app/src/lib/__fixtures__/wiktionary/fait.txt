@@ -1,0 +1,224 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: ''([[#fr-adj-1|Adjectif]])'' {{date|lang=fr}} Participe passif adjectivé de ''{{lien|faire|fr}}''.
+: ''([[#fr-nom-1|Nom]])'' {{date|lang=fr}} Du {{étyl|la|fr|mot=factum|sens=fait, action}}, participe passé de ''[[facio#la|facere]]'' (« faire »).
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-cons|fɛ|t}}
+'''fait''' {{pron|fɛ|fr}} {{m}}
+# [[réalisé|Réalisé]] ; [[construit]] ; [[confectionné]] ; [[fabriqué]] ; [[exécuté]].
+# {{term|avec un adverbe de manière ou un comparatif}} [[constitué|Constitué]], [[conformé]].
+/>Me montraient son pied '''fait''' au tour ;<br
+/>Sa jupe semblait relevée<br
+/>Par le petit doigt de l’amour.'' {{source|{{w|Victor Hugo}}, ''Les Chansons des rues et des bois'', 1865, page 109}}
+## Se dit dans le même sens de l’[[esprit]], de la [[pensée]].
+##* {{exemple | lang=fr
+ | Tête bien '''faite''' vaut mieux que tête bien pleine.
+ | source={{w|Montaigne}}, ''Essais'', I 25}}
+##* ''Avoir l’esprit bien '''fait''''' : Avoir l’esprit juste, qui raisonne bien.
+# {{vieilli|fr}} [[accoutré|Accoutré]], [[arrangé]].
+# [[achevé|Achevé]], [[comme ça]] (et on ne peut le changer).
+# {{term|avec [[pour]]}} [[apte|Apte]] à, [[prédisposé]] à.
+# [[convenant|Convenant]] à, [[destiné]] à.
+# [[recommandé|Recommandé]] à tel ou tel usage.
+# [[maquillé|Maquillé]], [[fardé]], [[vernis]], [[soigné]].
+# [[adulte|Adulte]], qui est parvenu à maturité.
+# [[mûr|Mûr]], [[faisandé]], parvenu à un certain degré de [[maturation]].
+# {{argot|fr}} [[ivre|Ivre]].
+# Qualifie un lit convenablement remis en ordre, après qu’on y a couché.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[fait comme un rat]]
+* [[fait pour valoir ce que de droit]]
+* [[ni fait ni à faire]]
+* [[phrase toute faite]]
+* [[service fait]]
+* [[tout compte fait]]
+* [[tout fait]]
+* [[tout-fait]]
+* [[vent fait]]
+* [[y avoir du mal de fait]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[aussitôt dit, aussitôt fait]]
+* [[sitôt dit, sitôt fait]]
+* [[vite fait, bien fait]]
+* [[vite fait sur le gaz]]
+* [[vite fait, bien fait sur le gaz]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|fɛ}}
+'''fait''' {{pron|fɛ|fr}} ou {{pron|fɛt|fr}} {{m}}
+# Ce que quelqu’un [[faire|fait]], a fait ou [[faire|fera]], [[action]].
+# Toute chose qui [[arriver|arrive]], qui [[avoir lieu|a lieu]], qui a eu lieu.
+# Donnée observable de l’[[expérience]], souvent invoquée, en vertu de son [[objectivité]], comme [[preuve]] indiscutable. En particulier en [[droit]] et dans la [[jurisprudence]].
+# {{lexique|journalisme|fr}} [[information|Information]] [[brut]]e [[dénué]]e de [[commentaire]].
+# {{en particulier}} {{lexique|droit|fr}} [[événement|Événement]] ou [[cas]] d’[[espèce]] dont il s’agit. — {{note}} Il s’emploie surtout dans les [[discussion]]s, les [[contestation]]s ou les [[plaidoirie]]s.
+# {{lexique|droit|fr}} Qui n’a pas [[faire l’objet|fait l’objet]] d’un [[acte]] [[juridique]] ; par opposition au [[droit]].
+# {{lexique|philosophie|fr}} Qui établit l’[[existence]] de telle ou telle [[donnée]] [[constatable]], contrairement à la question de [[droit]] qui en établit la [[légitimité]].
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[aller au fait]]
+* [[au fait et au prendre]]
+* [[au fait]]
+* [[convenir de ses faits]]
+* [[dans le fait]]
+* [[dans les faits]]
+* [[dans son fait]]
+* [[de fait]]
+* [[dire son fait]]
+* [[en fait]]
+* [[en fait de]]
+* [[en venir au fait]]
+* [[entendre bien son fait]]
+* [[être sûr de son fait]]
+* [[fait à fait]]
+* [[fait à fait que]]
+* [[fait accompli]]
+* [[fait d’armes]]
+* [[fait de société]]
+* [[fait divers]]
+* [[fait historique]]
+* [[fait justificateur]]
+* [[fait maison]]
+* [[fait marquant]]
+* [[fait nouveau]]
+* [[fait religieux]]
+* [[fait social]]
+* [[fait urbain]]
+* [[faits et articles]]
+* [[faits et gestes]]
+* [[haut fait]]
+* [[hauts faits]]
+* [[il est de fait que]]
+* [[le fait est que]]
+* [[mettre au fait]]
+* [[mettre en fait]]
+* [[outre le fait que]]
+* [[poser en fait]]
+* [[prendre fait et cause]]
+* [[prendre sur le fait]]
+* [[propagande par le fait]]
+* [[question de fait]]
+* [[tout à fait]]
+* [[venir au fait]]
+* [[voie de fait]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[l’intention est réputée pour le fait]]
+* [[les faits sont les faits]]
+* [[les faits sont têtus]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|ébriété|fromage|soleil|ontologie (philosophie)|représentation des connaissances}}
+
+==== {{S|traductions}} ====
+{{trad-début|Ce que quelqu’un fait, a fait ou fera|1}}
+{{trad-fin}}
+
+{{trad-début|Toute chose qui arrive, qui a lieu, qui a eu lieu|2}}
+{{trad-fin}}
+
+{{trad-début|Donnée observable de l’expérience, en particulier en droit et dans la jurisprudence|3}}
+{{trad-fin}}
+
+{{trad-début|Conclusion}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|faire|grp=3|pp=oui|ind.p.3s=oui}}
+'''fait''' {{pron|fɛ|fr}}
+# ''Participe passé masculin singulier de'' [[faire]].
+# ''Troisième personne du singulier du présent de l’indicatif de'' [[faire]].
+
+{{note}} lorsque le participe passé ''fait'' est placé devant un infinitif, il reste invariable et ne s'accorde pas avec son sujet, même si celui-ci est placé devant.<ref>Alice Develey, [https://www.lefigaro.fr/langue-francaise/expressions-francaises/2017/08/13/37003-20170813ARTFIG00001-elle-s-est-faite-faire-ne-faites-plus-la-faute.php « Langue française »], ''Le Figaro'', 13 août 2017.</ref> Exemple : ''Elle s'est fait remplacer pendant son absence.''
+
+==== {{S|dérivés}} ====
+* [[avec des yeux de chat qui fait dans la braise]]
+* [[GCRQFPP]] ''(gros camion rouge qui '''fait''' pimpon)
+* [[la goutte d’eau qui fait déborder le vase]]
+* [[mettre le doigt là où ça fait mal]] {{cf|faire mal}}
+
+==== {{S|phrases}} ====
+* [[argent comptant fait content]]
+* [[c’est dans les vieux pots qu’on fait la meilleure soupe]]
+* [[c’est dans les vieux pots qu’on fait les meilleures confitures]]
+* [[ça fait deux]]
+* [[ça fait du bien par où ça passe]]
+* [[ce n’est pas en cassant le thermomètre qu’on fait tomber la fièvre]]
+* [[ça ne fait rien]]
+* [[ce qui est fait est fait]]
+* [[ce qui est fait n’est plus à faire]]
+* [[comme on fait son lit on se couche]]
+* [[l’argent ne fait pas le bonheur]]
+* [[l’habit fait l’homme]]
+* [[l’habit fait le moine]]
+* [[l’habit ne fait pas le moine]]
+* [[l’occasion fait le larron]]
+* [[la faim fait sortir le loup du bois]]
+* [[le malheur des uns fait le bonheur des autres]]
+* [[lorsqu’un vieux fait l’amour, la mort court alentour]] {{cf|faire l’amour|lang=fr}}
+* [[nécessité fait loi]] ({{cf|faire loi}})
+* [[on fait de bonne soupe dans un vieux pot]]
+* [[on ne fait pas d’omelette sans casser des œufs]]
+* [[petit à petit, l’oiseau fait son nid]] {{cf|faire son nid}}
+* [[qui fait le malin tombe dans le ravin]] {{cf|faire le malin}}
+* [[qui veut faire l’ange fait la bête]]
+* [[si le chapeau te fait, mets-le]]
+* [[un bon bâilleur en fait bâiller sept]]
+* [[une hirondelle ne fait pas le printemps]]
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|fɛ|fr}}
+; Nom commun
+* {{pron|fɛ|fr}}
+** {{écouter|lang=fr|France (Muntzenheim)|fɛ|audio=LL-Q150 (fra)-0x010C-fait.wav}}
+** {{écouter|lang=fr|France (Vosges)|fɛ̝|audio=LL-Q150 (fra)-Poslovitch-fait.wav}}
+** {{écouter|lang=fr|France (Vosges)|fɛ̝|audio=LL-Q150 (fra)-LoquaxFR-fait.wav}}
+** {{écouter|lang=fr|Canada (Shawinigan)|fɛ̝|audio=LL-Q150 (fra)-DenisdeShawi-fait (nom).wav}}
+* {{pron|fe|fr}}
+** {{écouter|lang=fr|France (Brétigny-sur-Orge)|fe|audio=LL-Q150 (fra)-Pamputt-fait.wav}}
+* {{pron|fɛt|fr}} (voir aussi {{lien|au fait|fr}}, {{lien|en fait|fr}}, et {{lien|de fait|fr}})
+** {{écouter|lang=fr|France (Paris)|fɛt|audio=LL-Q150_(fra)-Fred_(Titoufred)-fait.wav}}
+* Français méridional : {{phono|fe|fr}}
+** {{écouter|lang=fr|France (Cesseras)|fe̞|audio=LL-Q150 (fra)-Guilhelma-fait.wav}}
+* Canada : {{phono|fɛt|fr}}
+; Adjectif ou participe passé
+* {{pron|fɛ|fr}}
+** {{écouter|lang=fr|Canada (Shawinigan)|fɛ̝|audio=LL-Q150 (fra)-DenisdeShawi-fait (verbe).wav}}
+* {{pron|fe|fr}}
+* Français méridional : {{phono|fe|fr}}
+* Canada : {{phono|fɛt|fr}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Fred (Titoufred)-fait.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-fait.wav}}
+
+==== {{S|paronymes}} ====
+* ''les faits'' {{pron|le.fɛ|fr}} est paronyme de ''l’[[effet]]'' {{pron|lɛ.fɛ|fr}}.
+
+==== {{S|homophones|fr}} ====
+* [[faîte]] {{term|partiellement}}
+* [[fée]] {{term|chez certains locuteurs}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+{{références}}
+* {{R:DAF8}}
+* {{R:TLFi}}
+
+[[Catégorie:Homographes non homophones en français]]
+[[Catégorie:-t prononcés /t/ en français]]
+

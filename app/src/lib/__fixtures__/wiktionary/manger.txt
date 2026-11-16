@@ -1,0 +1,328 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{refnec|lang=fr}} Du {{étyl|frm|fr|manger}}, de l’{{étyl|fro|fr|mot=mangier}}, issu du {{étyl|la|fr|mot=manducare|sens=[[mâcher]] » et « manger » en latin populaire}}, lui-même issu de ''[[mandere]]'' (« manger »). L’italien ''[[mangiare]]'' est sans conteste d’origine gallo-romane. Une évolution de ''[[manducare]]'' conforme aux lois de l’évolution phonétique de l’italien aurait donné {{recons|lang-mot-vedette=fr|mandocare}}. De même, en occitan, ''[[manjar]]'' est dû à la langue d’oïl.
+
+=== {{S|verbe|fr}} ===
+[[File:Fernand Besnier-Illustration-Les Contes de nos Aïeux-Albert Meyrac-03-Du vilain qui mangea le pain.jpg|vignette|Le vilain qui '''mangea''' le pain.]]
+'''manger''' {{pron|mɑ̃.ʒe|fr}} {{conj|grp=1|fr}}
+# [[mâcher|Mâcher]] et [[avaler]] un [[aliment]] dans le [[but]] de se [[nourrir]].
+# {{intransitif|fr}} {{par extension}} Prendre un [[repas]].
+# {{figuré|fr}} [[consumer|Consumer]], [[dissiper]] en [[folle]]s [[dépense]]s.
+# {{figuré|fr}} Consumer [[absorber|en absorbant]], [[ronger|en rongeant]], [[miner|en minant]], [[détruire|en détruisant]] d’[[autre]]s [[chose]]s, en parlant des choses.
+# {{familier|fr}} Témoigner une vive hostilité envers quelqu'un.
+# {{par analogie|fr}} Occuper une grande partie de quelque chose.
+# {{pronl|fr}} Manger les autres qui peuvent nous manger aussi.
+# {{pronl|fr}} Être [[comestible]].
+# {{pronl|fr}} Être habituellement mangé.
+# {{pronl|fr}} {{familier|fr}} Se faire du [[souci]].
+# {{figuré|fr}} Être frappé, s’en prendre plein la tête.
+
+==== {{S|synonymes}} ====
+{{(}}
+; ''Mâcher, avaler pour se nourrir (1)''
+* [[bouffer]] {{familier|nocat=1}}
+; ''Prendre un repas (2)''
+* [[becqueter]] {{France|nocat=1}}
+* [[bouffer]] {{familier|nocat=1}}
+* [[daba]] {{Côte d'Ivoire|nocat=1}}
+* [[grailler]] {{France|nocat=1}}
+* [[miamer]]
+* [[damer]] {{argot|nocat=1}}
+* [[s’alimenter]]
+* [[se nourrir]]
+* [[se réfecter]]
+* [[se restaurer]]
+* [[se sustenter]]
+* [[tchoper]]
+{{)}}
+
+==== {{S|quasi-synonymes}} ====
+; ''Manger avec excès'' {{péjoratif|nocat=1}} (1)
+* [[bâfrer]] {{France|nocat=1}}
+* [[ingurgiter]]
+* [[se goinfrer]]
+* [[s’empiffrer]]
+
+==== {{S|antonymes}} ====
+; ''Prendre un repas (2)''
+* [[jeûner]]
+* [[se serrer la ceinture]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[arum mange-mouches]]
+* [[avoir mangé de la vache enragée]]
+* [[avoir mangé du lion]]
+* [[avoir mangé son pain blanc]] (avoir été dans un état heureux, agréable, et n’y être plus)
+* [[avoir quelqu’un à manger]]
+* [[bête à manger de l’herbe]]
+* [[bête à manger du foin]]
+* [[col à manger de la tarte]]
+* [[donner à manger]]
+* [[entremanger]]
+* [[entremangerie]]
+* [[être bête à manger de l’avoine]]
+* [[être bête à manger de la paille]]
+* [[être bête à manger du foin]]
+* [[être du pain bien dur à manger]]
+* [[faire à manger]]
+* [[mangé aux mites]]
+* [[mangé aux vers]]
+* [[mange-bourgeons]]
+* [[mange-Canayen]]
+* [[mange-debout]]
+* [[mange-disques]]
+* [[mange-merde]]
+* [[mange-piles]]
+* [[mange-rave]]
+* [[mange-tout]]
+* [[mangeable]]
+* [[mangeaille]]
+* [[mangeailler]]
+* [[mangeoire]]
+* [[mangeotter]]
+* [[manger à jeun]]
+* [[manger à sa faim]]
+* [[manger à s’en faire péter la sous-ventrière]]
+* [[manger à s’en faire péter la souventrière]]
+* [[manger à tous les râteliers]]
+* [[manger avec le loup et pleurer avec le berger]]
+* [[manger avec un lance-pierre]]
+* [[manger bien]] (manger de bonnes choses, d’une nourriture abondante et de bonne qualité)
+* [[manger comme des cochons]]
+* [[manger comme quatre]]
+* [[manger comme cinq]]
+* [[manger comme un chancre]]
+* [[manger comme un cochon]]
+* [[manger comme un loup]]
+* [[manger comme un moineau]]
+* [[manger comme un ogre]]
+* [[manger comme un porc]]
+* [[manger comme une mauviette]]
+* [[manger dans la main de]]
+* [[manger dans les mains de]]
+* [[manger de baisers]]
+* [[manger de caresses]] (faire de grandes caresses)
+* [[manger de la marde]] {{Canada|nocat=1}}
+* [[manger de la vache enragée]]
+* [[manger de toutes ses dents]]
+* [[manger des beignets après la Pentecôte]]
+* [[manger des yeux]] (regarder avidement quelqu’un, quelque chose)
+* [[manger du bout des dents]]
+* [[manger du curé]]
+* [[manger du prêtre]]
+* [[manger du lotus]]
+* [[manger du nègre]]
+* [[manger du sable]] ''(Marine)''
+* [[manger en juif]]
+* [[manger l’oie]]
+* [[manger l’oreiller]]
+* [[manger la consigne]]
+* [[manger la feuille]]
+* [[manger la feuille de match]]
+* [[manger la grenouille]]
+* [[manger la puck]]
+* [[manger le diable et ses cornes]]
+* [[manger le micro]]
+* [[manger le morceau]]
+* [[manger le mot d’ordre]]
+* [[manger les grillots avec le Tac-Tac]]
+* [[manger les pissenlits par la racine]]
+* [[manger maigre]]
+* [[manger main]], [[manger-main]], [[manger mains]], [[manger-mains]]
+* [[manger sa langue]]
+* [[manger ses croutes]] {{ortho1990}}
+* [[manger ses croûtes]]
+* [[manger ses morts]]
+* [[manger ses mots]] ''(omettre des lettres ou des syllabes en prononçant)''
+* [[manger ses bas]] {{Québec|nocat=1}}
+* [[manger ses quatre sous]]
+* [[manger son argent]]
+* [[manger son bien en herbe]]
+* [[manger son blé en herbe]]
+* [[manger son blé en vert]]
+* [[manger son chapeau]]
+* [[manger son frein]]
+* [[manger son pain à la fumée du rôt]]
+* [[manger son pain blanc]]
+* [[manger son pain blanc le premier]]
+* [[manger son pain noir]]
+* [[manger sur le pouce]]
+* [[manger sur les brouillards du Rhône]]
+* [[manger un clown]]
+* [[manger un morceau]]
+* [[manger un rat]]
+* [[manger un rat mort]]
+* [[manger une balle]]
+* [[manger une bouchée]]
+* [[manger une volée]]
+* [[mangerie]]
+* [[mangeur]]
+* [[mangeure]]
+* [[mangeüre]] {{ortho1990}}
+* [[mangeuse]]
+* [[mangeux]] {{QC|nocat=1}}
+* [[ne pas manger]]
+* [[ne pas manger de ce pain-là]]
+* [[ne valoir pas le pain qu’on mange]]
+* [[pois mange-tout]]
+* [[remanger]]
+* [[salle à manger]]
+* [[se faire manger la cenne]]
+* [[se faire manger la graine]]
+* [[se faire manger la laine sur le dos]]
+* [[se laisser manger]]
+* [[se laisser manger la laine sur le dos]]
+* [[se manger les couilles]]
+* [[se manger les foies]]
+* [[se manger le sang]]
+* [[se manger les sangs]]
+* [[se manger un mur]]
+* [[s’en manger une]]
+* [[si les petits cochons ne le mangent pas]]
+* [[table à manger]]
+{{)}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[à défaut de grives on mange des merles]]
+* [[à petit manger, bien boire]]
+* [[ça mange pas de pain]]
+* [[ça ne mange pas de pain]]
+* [[ça ne mange pas de pain, ça ne boit pas de vin]]
+* [[celui louer devons, de qui le pain mangeons]]
+* [[chien mange pas chien]]
+* [[faute de grives on mange des merles]]
+* [[il faut manger pour vivre, et non pas vivre pour manger]]
+* [[il faut manger pour vivre, et non vivre pour manger]]
+* Ils n’ont pas de pain, [[qu’ils mangent de la brioche]]
+* [[il y a à boire et à manger]]
+* [[l’appétit vient en mangeant]]
+* [[la petite bête ne mangera pas la grosse]]
+* [[la vengeance est un plat qui se mange froid]]
+* [[la vengeance se mange froide]]
+* [[les gros poissons mangent les petits]]
+* [[les loups ne se mangent pas entre eux]]
+* [[les petites bêtes ne mangent pas les grosses]]
+* [[mangeons les riches]]
+* [[qui se fait brebis, le loup le mange]]
+{{)}}
+
+==== {{S|troponymes}} ====
+{{(}}
+'''Mâcher, avaler pour se nourrir''' (1) :
+* [[avaler]]
+* [[ingérer]]
+* [[ingurgiter]]
+* [[mâcher]]
+* [[mastiquer]]
+* [[s’empiffrer]]
+* [[se bâfrer]]
+* [[se goinfrer]]
+'''Prendre un repas''' (2) :
+* [[déjeuner]]
+* [[dîner]]
+* [[faire bombance]]
+* [[faire bonne chère]]
+* [[faire ripaille]]
+* [[festoyer]]
+* [[pique-niquer]]
+* [[ripailler]]
+* [[se réfecter]]
+* [[souper]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[manducateur]]
+* [[manducation]]
+* [[manducatoire]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|dames|fourchette|café (établissement)|faim|nourriture|oignon|barbecue|anniversaire|repas|manger|dinosaure|tortue|régime alimentaire|alimentation}}
+
+==== {{S|traductions}} ====
+{{trad-début|Mâcher et avaler un aliment dans le but de se nourrir|1}}
+* {{T|ar}} : {{trad+|ar|أكل|R=ʾakala|dif=أَكَلَ}}
+* talien: magnar
+{{trad-fin}}
+
+{{trad-début|Prendre un repas|2}}
+* {{T|ar}} : {{trad+|ar|أكل|R=ʾakala|dif=أَكَلَ}}
+{{trad-fin}}
+
+{{trad-début|Dissiper en folles dépenses|3}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|mɑ̃.ʒe}}
+'''manger''' {{pron|mɑ̃.ʒe|fr}} {{m}}
+# Ce qu’on [[#Verbe|mange]], ce dont on se [[nourrir|nourrit]].
+/>Alors lui, parti dans les grandeurs, millionnaire, reprend :<br
+/>— Hein ? c’est pas du '''manger''' d’ouvrier !'' {{source|{{w|Léon Frapié}}, ''{{ws|La maternelle/Texte entier|La maternelle}}'', Librairie Universelle, 1908}}
+# {{familier|fr}} Fait de se nourrir.
+
+==== {{S|dérivés}} ====
+* [[blanc-manger]]
+* [[en oublier le boire et le manger]]
+* [[garde-manger]]
+* [[perdre le boire et le manger]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad-|ar|تناول الطعام}}, {{trad+|ar|طَعَام}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|mɑ̃.ʒe|fr}}
+** {{écouter|lang=fr|France (Paris)|mɑ̃ː.ˈʒe|audio=Fr-manger-fr-FR-Paris.ogg}}
+** {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|mɑ̃.ʒe|audio=Fr-manger.ogg}}
+* {{CA|nocat=1}} {{pron|mã.ʒe|fr}}
+* {{écouter||mɑ̃.ʒe|lang=fr|audio=LL-Q150 (fra)-Guilhelma-manger.wav}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-manger.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-manger.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-manger.wav}}
+* {{écouter|lang=fr|Suisse (Genève)|audio=LL-Q150 (fra)-Nattes à chat-manger.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-manger.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-manger.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-manger.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-manger.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-manger.wav}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)||audio=LL-Q150 (fra)-Pamputt-manger.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-manger.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-manger.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-Lyokoï-manger.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-manger.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-manger.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-manger.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-manger.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-manger.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-manger.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-Loizbec-manger.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Julien Baley-manger.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-manger.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-Vampiro (ClasseNoes)-manger.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-manger.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-manger.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-manger.wav}}
+* {{écouter|Vosges (France)||lang=fr|audio=LL-Q150 (fra)-LoquaxFR-manger.wav}}
+* {{écouter|Canet-en-Roussillon (France)|mɑ̃.ʒe|lang=fr|audio=LL-Q150 (fra)-Mathias G. (BiblioCanet66)-manger.wav}}
+* {{écouter|Perpignan (France)|mɑ̃.ʒe|lang=fr|audio=LL-Q150 (fra)-Laszlo Cárdenas (Culex)-manger.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-manger.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-manger.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-manger.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+
+[[Catégorie:Verbes inergatifs en français]]
+

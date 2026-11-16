@@ -1,0 +1,75 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: (''[[#Adverbe|Adverbe]]'') {{date|lang=fr}} Du {{étyl|la|fr|mot=heri}}.
+: (''[[#fr-nom|Nom commun]]'') {{date|lang=fr}} Par [[substantivation]] de l’adverbe.
+: (''[[#Verbe|Verbe]]'') {{siècle|lang=fr|XIII}} Du moyen néerlandais ''[[heien]]'' (même sens).
+
+=== {{S|adverbe|fr}} ===
+'''hier''' {{pron|jɛʁ|fr}} ou {{h muet}}{{pron|i.jɛʁ|fr}} {{adverbe de temps|fr}}
+# Le [[jour]] qui [[précéder|précède]] [[immédiatement]] celui où l’on est. [[il y a|Il y a]] un jour.
+# {{figuré|fr}} Une [[époque]] [[indéterminé]]e, [[mais]] qui n’[[passer|est passée]] que [[depuis]] peu.
+
+==== {{S|synonymes}} ====
+* [[veille]]
+
+==== {{S|antonymes}} ====
+* [[demain]]
+* [[lendemain]]
+
+==== {{S|dérivés}} ====
+* [[avant-hier]]
+* [[hier au soir]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|temps|avant}}
+{{tableau-aujourd’hui}}
+
+==== {{S|traductions}} ====
+{{trad-début|Il y a un jour}}
+* {{T|ar}} : {{trad-|ar|يوم أمس|tr=yawma ʾamsi}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|pron=jɛʁ|préfpron2={{h muet}}|pron2=i.jɛʁ}}
+'''hier''' {{pron|jɛʁ|fr}} ou {{h muet}}{{pron|i.jɛʁ|fr}} {{m}}
+# {{figuré|fr}} [[passé|Passé]], temps [[passé]].
+
+=== {{S|verbe|fr}} ===
+'''hier''' {{h aspiré}}{{pron|je|fr}} ou {{h aspiré}}{{pron|i.je|fr}} {{t|fr}} {{conj|grp=1|fr}}
+# {{désuet|fr}} [[enfoncer|Enfoncer]] avec une [[hie]].
+
+==== {{S|synonymes}} ====
+* [[damer]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* ([[#Adverbe|Adverbe]])
+** {{écouter|France|jɛʁ], [i.jɛʁ|lang=fr}}
+*** {{écouter|lang=fr|France (Paris)|i.jɛʁ|audio=Fr-hier.ogg}}
+** {{écouter|lang=fr|Québec|jaɛ̯ʁ], [i.jaɛ̯ʁ}}
+* ([[#fr-verb|Verbe]])
+** {{h aspiré}}{{pron|je|fr}}, {{h aspiré}}{{pron|i.je|fr}}
+* {{écouter||jɛʁ|lang=fr|audio=LL-Q150 (fra)-Guilhelma-hier.wav}}
+* {{écouter||i.jɛʁ|lang=fr|audio=LL-Q150 (fra)-Jules78120-hier.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-hier.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-hier.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-hier.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-hier.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-hier.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-hier.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-hier.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[hièrent]]
+* [[Hyères]]
+
+==== {{S|paronymes}} ====
+* [[Yerres]]
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+* ([[#fr-verb|Verbe]]) {{R:Larousse2vol1922}}
+

@@ -1,0 +1,157 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|?}} Du {{étyl|la|fr|mot=pretium}}.
+
+=== {{S|nom|fr}} ===
+{{fr-inv|pʁi|sp=1}}
+'''prix''' {{pron|pʁi|fr}} {{m}}, {{sp}}
+# [[estimation|Estimation]] d’une [[chose]], ce qu’elle se [[vendre|vend]], ce qu’on l’[[acheter|achète]], ce qu’on la [[payer|paie]].
+# Valeur [[financier|financière]] donnée à un [[objet]] exprimée en unité [[monétaire]] d’un [[pays]].
+# Ce qu’il faut payer en [[contrepartie]] d’un [[bien]] ou d’un [[service]].
+# {{figuré|fr}} [[coût|Coût]], [[dépense]], pour [[obtenir]] quelque [[avantage]].
+# {{figuré|fr}} [[mérite|Mérite]] d’une [[personne]], [[excellence]] d’une [[chose]].
+# {{figuré|fr}} [[récompense|Récompense]].
+## {{spécialement}} [[récompense|Récompense]] [[accorder|accordée]] au [[vainqueur]] d’une [[compétition]] ou d’un [[concours]].
+##* {{exemple | lang=fr
+ | Les compliments de ce maire quand Pasteur obtint, à la fin de la rhétorique, plus de '''prix''' qu’il ne pouvait en porter; les nouveaux conseils de Romanet réveillèrent l’ambition normalienne.
+ | source={{w|René Vallery-Radot}}, ''La vie de Pasteur'', Hachette, 1900, Flammarion, 1941, page 18}}
+## [[joint|Joint]] à la [[désignation]] de la [[récompense]], se dit aussi du [[gagnant]] ou de l’[[ouvrage]] qui a [[remporter|remporté]] cette [[récompense]].
+##* {{exemple | lang=fr | Ce peintre est un '''prix''' de Rome.}}
+## [[compétition|Compétition]] ou [[concours]] où est offerte cette récompense.
+##* {{exemple | lang=fr
+ | Nos pères étaient donc plus sages que nous lorsqu’ils repoussaient l’idée des courses. En 1820 il se présentait seulement sur nos hippodromes 120 concurrents se disputant 60 '''prix'''.
+ | source=Jean Déhès, ''{{ws|Essai sur l’amélioration des races chevalines de la France}}'', École impériale vétérinaire de Toulouse, Thèse de médecine vétérinaire, 1868}}
+##* {{exemple | lang=fr
+ | Chaque dernier jeudi d'octobre, l’Académie française ouvre le bal des '''prix''' littéraires d'automne en décernant son Grand Prix du roman. Une semaine après, viennent le Goncourt et le Renaudot. Puis le Fémina et l’Interallié.
+ | source=Daniel Garcia, ''Coupole et dépendances: Enquête sur l'Académie française'', Éditions du Moment, 2014, chapitre 7}}
+# [[châtiment|Châtiment]], [[expiation]].
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à aucun prix]]
+* [[à bas prix]]
+* [[à grand prix]]
+* [[à prix d’or]]
+* [[à tout prix]]
+* [[à vil prix]]
+* [[au prix de]]
+* [[au prix fort]]
+* [[compagnie à bas prix]]
+* [[de prix]] ''(de grande valeur, en parlant de choses)''
+* [[distribution des prix]]
+* [[évaluation au prix de marché]]
+* [[évalué à prix de marché]]
+* [[faire un prix]]
+* [[flambée des prix]]
+* [[hausse des prix]]
+* [[hors de prix]]
+* [[indication de prix]] {{info lex|télécommunications}}
+* [[juste prix]] ''(prix convenable, prix modéré)''
+* [[livre de prix]]
+* [[magasin à prix unique]]
+* [[payer le prix]]
+* [[payer le prix fort]]
+* [[premier prix]]
+* [[prix barré]]
+* [[prix bloqué]]
+* [[prix cassé]]
+* [[prix catalogue]]
+* [[prix-choc]]
+* [[prix courant]] ''(prix qui a cours sur le marché à un moment donné)''
+* [[prix coutant]] {{ortho1990}}
+* [[prix coûtant]]
+* [[prix d’acceptabilité]]
+* [[prix d’achat]]
+* [[prix d’appel]]
+* [[prix d’écrémage]]
+* [[prix d’équilibre]]
+* [[prix d’éviction]]
+* [[prix d’excellence]]
+* [[prix d’honneur]]
+* [[prix d’intervention]]
+* [[prix de base d’abonnement]]
+* [[prix de couverture]]
+* [[prix de Diane]]
+* [[prix de fabrique]]
+* [[prix de lancement]]
+* [[prix de marché]]
+* [[prix de référence]]
+* [[prix de réserve]]
+* [[prix de revient]]
+* [[prix de vente]]
+* [[prix du marché]]
+* [[prix du sang]]
+* [[prix en trompe-l’œil]]
+* [[prix fait]] ''(prix commun ou prix convenu d’une chose)''
+* [[prix fixe]] ''(prix fixé d’avance par le marchand et dont il n’y a rien à rabattre)''
+* [[prix forfaitaire]]
+* [[prix fort]]
+* [[prix Goncourt]]
+* [[prix jamais rond]]
+* [[prix magique]]
+* [[prix marchand]]
+* [[prix naturel]]
+* [[prix net]]
+* [[prix politique]]
+* [[prix pour prix]]
+* [[prix prédateur]]
+* [[prix public conseillé]], [[PPC]]
+* [[prix rond]]
+* [[prix sacrifié]]
+* [[prix unitaire]]
+* [[rapport qualité prix]]
+* [[rapport qualité-prix]]
+* [[rapport qualité / prix]]
+* [[sans prix]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[précieux]]
+* [[prisé]] (adjectif)
+* [[prisée]] (nom commun)
+* [[priser]] (verbe 2, « aimer »)
+* [[commissaire-priseur]]
+
+; Anglais
+* {{lien|praise|en}}
+
+==== {{S|phrases}} ====
+* [[c’est le même prix]]
+* [[n’avoir pas de prix]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|bagarre|comptabilité|cyclisme|macroéconomie}}
+
+==== {{S|traductions}} ====
+{{trad-début|Valeur financière d’un objet.}}
+* {{T|ar}} : {{trad-|ar|ثمن|tr=ṯaman|dif=ثَمَن}}
+{{trad-fin}}
+
+{{trad-début|Récompense.}}
+* {{T|ar}} : {{trad-|ar|جَائِزَة (جمع جَوَائِز )}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr||audio=Fr-prix.ogg}}
+* {{écouter|lang=fr|France (Île-de-France)|pʁi|audio=Fr-Paris--pris.ogg}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-prix.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-prix.wav}}
+* {{écouter|Montpouillan (France)||lang=fr|audio=LL-Q150 (fra)-Yug-prix.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)||lang=fr|audio=LL-Q150 (fra)-Helenou66-prix.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[prie]], [[prient]], [[pries]] (formes du verbe ''[[prier]]'')
+* [[pris]], [[prit]], [[prît]] (formes du verbe ''[[prendre]]'')
+
+=== {{S|voir aussi}} ===
+* {{Wikipédia|Prix (homonymie)}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+[[Catégorie:Lexique en français du commerce]]
+[[Catégorie:Noms communs ayant une orthographe invariable en français]]

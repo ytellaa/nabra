@@ -1,0 +1,192 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|XII}}{{R|TLFi}} Du {{étyl|frm|fr|train}}, de l’{{étyl|fro|fr|train}}.
+: {{déverbal|de=traîner|lang=fr|m=1}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|tʁɛ̃}}
+[[Image:Tile Hill train 727.jpg|vignette|Un '''train''' transportant des voyageurs. ''(11)'']]
+'''train''' {{pron|tʁɛ̃|fr}} {{m}}
+# [[allure#fr|Allure]], [[vitesse]] de chevaux et autres bêtes de [[trait]].
+# {{par extension|fr}} Allure, vitesse d’une [[marche]] ou d’un [[déplacement]].
+# {{lexique|athlétisme|fr}} Allure régulière dans une [[course de fond]] ou de [[demi-fond]].
+# [[courant|Courant]], [[marche]] des affaires, de la vie.
+# {{vieilli|fr}} Parties des bêtes de trait d’où partent les mouvements.
+# {{familier|fr}} [[arrière-train|Arrière-train]], [[postérieur]] d’une personne.
+# {{lexique|technique|fr}} Partie d’un [[véhicule]] comprenant les [[roues]] et les [[suspensions]] et qui porte la [[caisse]], le [[corps]] du véhicule.
+# [[file|File]], [[suite]] de personnes, d’animaux ou de choses allant d’un même [[mouvement]].
+# {{en particulier}} {{lexique|exploitation forestière|fr}} Long [[assemblage]] de [[bois]], de rondins, en forme de [[radeau]] et qu’on fait [[flotter]] sur un canal ou une rivière.
+# {{en particulier}} {{lexique|cyclisme|fr}} [[file|File]] de [[coureur]]s d'une même [[équipe]] formée dans le but de lancer le [[sprinter]] avant la [[ligne d'arrivée]].
+# {{lexique|chemin de fer|fr}} [[convoi|Convoi]] [[ferroviaire]] constitué d’au moins une [[motrice]] et de [[wagons]]. {{note}} S’emploie, plus rarement, en [[astronautique]] et dans les [[transport]]s [[routier]]s.
+# {{familier|fr}} Bruit, [[tapage]], [[vacarme]].
+|source={{w|Comtesse de Ségur}}, ''[[s:L’Auberge de l’Ange Gardien|L’Auberge de l’Ange-Gardien]]'', 1888.
+}}
+# {{lexique|militaire|fr}} Partie de l’[[armée]] spécialisée dans les transports. {{note}} Le mot prend souvent dans ce cas une majuscule, troupe qui conduit les engins d’[[artillerie]].
+# {{lexique|élevage|fr}} Action de [[traire]] ; [[traite#fr|traite]].
+
+==== {{S|synonymes}} ====
+{{(|défilement, file}}
+* [[convoi]], [[cortège]], [[défilé]], [[défilement]], [[procession]]
+{{)}}
+{{(|série d’objets de même type}}
+* [[ensemble]], [[série]]
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3|allure, suite, file}}
+* [[à fond de train]]
+* [[à grand train]]
+* [[aller bon train]]
+* [[aller son train]]
+* [[arrière-train]]
+* [[au train où vont les choses]]
+* [[avant-train]]
+* [[avoir un train de retard]]
+* [[botter le train]]
+* [[boute-en-train]]
+* [[entrain]]
+* [[être en train de]]
+* [[en train]]
+* [[en train de]]
+* [[grand train]]
+* [[mal en train]]
+* [[mener bon train]], [[mener grand train]]
+* [[mener le train]]
+* [[mettre en train]]
+* [[mise en train]]  
+* [[petit train]]
+* [[petit-train]]
+* [[remettre en train]]
+* [[se casser le train]]
+* [[train à crémaillère]]
+* [[train d’atterrissage]]
+* [[train d’enfer]]
+* [[train de gaz naturel liquéfié]]
+* [[train de GNL]]
+* [[train de liquéfaction]]
+* [[train de maison]]
+* [[train de sénateur]]
+* [[train de vagues]]
+* [[train de vie]]
+* [[train des équipages]]
+* [[train double]]
+* [[train du diable]]
+* [[train fantôme]]
+* [[train routier]]
+* [[train-train]]
+{{)}}
+{{(|colonnes=3|chemin de fer}}
+* [[aérotrain]]
+* [[avoir un train à prendre]]
+* [[avoir un train de retard]]
+* [[chef de train]]
+* [[gyrotrain]]
+* [[mal de train]]
+* [[petit train]]
+* [[prendre le train en marche]]
+* [[train à grande vitesse]] ''ou'' [[TGV]]
+* [[train à vapeur]]
+* [[train auto-couchettes]] ''ou'' [[TAC]]
+* [[train autonome]]
+* [[train couchette]]
+* [[train de ceinture]]
+* [[train de nuit]]
+* [[train de plaisir]]
+* [[train des cocus]]
+* [[train électrique]]
+* [[train mixte]]
+* [[train postal]]
+* [[train-poste]]
+* [[train-tram]], [[train-tramway]]
+* [[tram-train]]
+* [[turbotrain]]
+{{)}}
+{{(|colonnes=3|arrière-train}}
+* [[botter le train]]
+* [[coller au train]]
+* [[filer le train]]
+* [[lèche-train]]
+* [[se magner le train]], [[se manier le train]]
+{{)}}
+
+==== {{S|apparentés}} ====
+{{(|voir ''[[traîner#fr|traîner]]''}}
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* [[💺]] (U+1F4BA)
+* [[🚂]] (U+1F682)
+* [[🚄]] (U+1F684)
+* [[🚅]] (U+1F685)
+* [[🚆]] (U+1F686)
+* [[🚇]] (métro, U+1F687)
+* [[🚉]] (U+1F689)
+* [[🚞]] (U+1F69E)
+* {{l|gare|fr}}
+* [[sidérodromophobie]]
+* [[tatac tatoum]]
+* [[tchou-tchou]]
+* {{voir thésaurus|fr|véhicule|avion|wagon|cyclisme|aéroport|sandwich|Toulouse|locomotion|écologie|absence|quai}}
+
+==== {{S|phrases}} ====
+* [[c’est le diable et son train]]
+* [[petit train va loin]]
+* [[un train peut en cacher un autre]]
+
+==== {{S|traductions}} ====
+{{trad-début|Assemblage de rondins flottants sur un cours d’eau|9}}
+{{trad-fin}}
+
+{{trad-début|Suite de wagons traînés sur des rails par une locomotive|11}}
+* {{T|ar}} : {{trad+|ar|قطار|R=qiṭār}}, {{trad+|ar|قِطَار}}
+{{trad-fin}}
+
+==== {{S|méronymes}} ====
+* [[locomotive]]
+* [[voiture]]
+* [[wagon]]
+
+=== {{S|prononciation}} ===
+* {{pron|tʁɛ̃|fr}}
+* Français méridional : {{pron|tʁɛŋ|fr}}
+* {{écouter|lang=fr|France|lə tʁɛ̃|audio=Fr-train.ogg|titre=le train}}
+* {{écouter||tʁɛ̃|lang=fr|audio=LL-Guilhelma-fr-train.wav}}
+* {{écouter||tʁɛ̃|lang=fr|audio=LL-Q150 (fra)-Jules78120-train.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-train.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-train.wav}}
+* {{écouter|lang=fr|France (Saint-Maurice-de-Beynost)|audio=LL-Q150 (fra)-Benoît Prieur-train.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines1-train.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines2-train.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines3-train.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines5-train.wav}}
+* {{écouter|lang=fr||audio=LL-Q150 (fra)-Aemines4-train.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines6-train.wav}}
+* {{écouter|lang=fr|France (Clermont-Ferrand)||audio=LL-Q150 (fra)-Aah Rix-train.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-train.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Anonymât (Kvardek du)-train.wav}}
+* {{écouter|lang=fr|France (Fontainebleau)||audio=LL-Q150 (fra)-Baidax-train.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Adélaïde Calais WMFr-train.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-train.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-train.wav}}
+* {{écouter|Cabestany (France)|tʁɛ̃|lang=fr|audio=LL-Q150 (fra)-Lilie B. (BiblioCanet66)-train.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-train.wav}}
+* {{écouter|Reims (France)||lang=fr|audio=LL-Q150 (fra)-Phmavipe-train.wav}}
+* {{écouter|Millau (France)||lang=fr|audio=LL-Q150 (fra)-Antochkat-train.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[Train]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+* {{Wikiquote}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+{{Références}}
+
+[[Catégorie:Véhicules en français]]
+

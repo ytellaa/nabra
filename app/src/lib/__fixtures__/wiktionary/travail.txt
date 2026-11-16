@@ -1,0 +1,242 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|1130-1140|lang=fr}} Du {{étyl|frm|fr|travail}}{{R|DMF}}, de l’{{étyl|fro|fr|traval}}, {{lien|''travail''|fro|sens=tourment, souffrance}}{{R|TLFi|travail}}, déverbal de {{lien|''traveillier''|fr|sens=faire souffrir}}{{R|TLFi|travailler}}, du latin vulgaire {{recons|lang-mot-vedette=fr|tripaliare|sens=torturer}}{{R|TLFi|travailler}}, du {{étyl|la|fr|tripalium|dif=tripālium}}, {{lien|trepalium|dif=''trepālium''|sens=instrument d’immobilisation et de torture à trois pieux|la}}{{R|TLFi|travailler}}{{R|DAF9}}, calqué du {{calque|grc}} {{lien|τριπάσσαλον|grc|tr=tripássalon}}{{R|DAF9}} de même sens, dérivé de {{lien|πάσσαλος|grc|sens=pieu|tr=pássalon}}{{R|DAF9}}, avec le préfixe {{lien|τρι-|grc|sens=trois|tr=tri-}}{{R|DAF9}}.
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-accord-mf|s=travail|p=travaux|p2=travails|ps=tʁa.vaj|pp=tʁa.vo|p2p=tʁa.vaj}}
+'''travail''' {{pron|tʁa.vaj|fr}} {{m}} (pluriel : [[travaux]], sauf dans le sens de ''activité professionnelle, emploi'', où c’est le pluriel ''travails'' qui est utilisé ; ''travails'' est aussi parfois utilisé pour d’autres sens)
+# [[labeur|Labeur]], [[application]] à une [[tâche]], [[effort]] [[soutenir|soutenu]] pour faire [[quelque chose]], [[parler|en parlant]] de l’[[esprit]] comme du [[corps]].
+# {{par extension|fr}} [[activité|Activité]] [[professionnel]]le ; [[emploi]].
+# [[manière|Manière]] dont on [[travailler|travaille]] [[habituellement]].
+# [[ouvrage|Ouvrage]] [[même]], de [[quelque]] [[nature]] qu’il [[être|soit]], qui [[produire|est produit]] par le [[labeur]].
+# {{spécialement}} [[ouvrage|Ouvrage]] de l’esprit, [[étude]] [[historique]], [[philosophique]] ou [[scientifique]]. — {{note}} Il est alors souvent au pluriel.
+# [[manière|Manière]] dont l’[[ouvrage]] est fait.
+# Ouvrage qui est à [[faire]] ou [[auquel]] on [[travailler|travaille]] [[présentement]].
+# {{par extension}} [[action|Action]] des [[force]]s de la [[nature]].
+# {{lexique|médecine|fr}} Première période de l’[[accouchement]] caractérisée par l’apparition de contractions douloureuses de l’[[utérus]] et l’effacement du col de l’utérus. Les [[douleur]]s de l’[[enfantement]].
+# {{lexique|mécanique|physique|fr}} [[produit|Produit]] d’une [[force]] [[appliquer|appliquée]] sur une [[distance]]. L’[[unité]] [[SI]] de travail (d’[[énergie]]) est le [[joule]].
+# {{lexique|économie|politique|fr}} [[labeur|Labeur]] [[humain]] [[considérer|considéré]] comme [[facteur]] [[essentiel]] de la [[production]].
+# {{lexique|droit|fr}} Labeur humain considéré [[sous]] le [[rapport]] des [[conflit]]s qu’il [[soulever|soulève]] et des [[règlement]]s qu’il y [[falloir|faut]] [[apporter]].
+# {{lexique|équitation|fr}} [[ensemble|Ensemble]] des [[exercice]]s que l’on fait [[faire]] à un [[cheval]], entraînement.
+
+==== {{S|notes}} ====
+* Seule une minorité de noms français en -''ail'' ont leur pluriel en -''aux'' au lieu de -''ails'' : → voir ''[[aspirail]], [[bail]], [[corail]], [[émail]], [[fermail]], [[gemmail]], [[soupirail]], '''travail''', [[vantail]], [[ventail]] et [[vitrail]]''. Le pluriel du mot ''ail'', quant à lui, peut être tout aussi bien ''ails'' que ''aulx''.
+* L’Académie française estime que le pluriel ''travails'' est réservé au « bâti servant à la contention des animaux » et qu’au sens d’« activité professionnelle », le mot ne s’emploie pas au pluriel selon elle. Néanmoins, on trouve parfois, de manière plus ou moins formelle, la forme ''travails'' au sens d’« activité professionnelle, emploi », sens dans lequel le pluriel ''travaux'' ne s’utilise jamais.
+
+==== {{S|synonymes}} ====
+{{(|Sens 2}}
+* [[boulot]] {{familier|nocat=1}}
+* [[chagrin]] {{familier|nocat=1}} {{term|ouvrier}}
+* [[emploi]]
+* [[gagne-pain]] {{familier|nocat=1}}
+* [[job]] {{familier|nocat=1}}
+* [[métier]]
+* [[profession]]
+* [[taf]] {{familier|nocat=1}}
+* [[turbin]] {{familier|nocat=1}}
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[accident du travail]]
+* [[antitravail]], [[anti-travail]]
+* [[antitravaillisme]]
+* [[antitravailliste]]
+* [[arrêt de travail]]
+* [[au travail]]
+* [[avoir du travail sur la planche]]
+* [[bleu de travail]]
+* [[bourreau de travail]]
+* [[bourse du travail]]
+* [[cabinet de travail]]
+* [[camp de travail]]
+* [[certificat de travail]]
+* [[chant de travail]]
+* [[charge de travail]]
+* [[chef de travaux]]
+* [[cheval de travail]]
+* [[code du travail]]
+* [[condition de travail]]
+* [[contrat de travail]]
+* [[cotravail]]
+* [[détravail]]
+* [[drogué du travail]]
+* [[droit du travail]]
+* [[entravaillé]]
+* [[et voilà le travail]]
+* [[inspecteur du travail]]
+* [[inspection du travail]]
+* [[inspectrice du travail]]
+* [[lieu de travail]]
+* [[logiciel de groupe de travail]]
+* [[mâcher le travail]]
+* [[marché du travail]]
+* [[médaille du travail]]
+* [[médecin du travail]]
+* [[médecine du travail]]
+* [[mémoire de travail]]
+* [[mettre au travail]]
+* [[organisation scientifique du travail]]
+* [[P.T.T.]]
+* [[peine de travail]]
+* [[plan de travail]]
+* [[poste de travail]]
+* [[preuve de travail]]
+* [[retravailler]]
+* [[salle de travail]]
+* [[sans-travail]]
+* [[santé au travail]]
+* [[sécurité au travail]]
+* [[STO]]
+* [[surtravail]]
+* [[télétravail]]
+* [[tenue de travail]]
+* [[tracances]]
+* [[travail à domicile]]
+* [[travail à façon]]
+* [[travail à la chaine]] {{ortho1990}}
+* [[travail à la chaîne]]
+* [[travail à la con]]
+* [[travail alimentaire]]
+* [[Travail allemand]]
+* [[travail au noir]]
+* [[travail bénévole]]
+* [[travail clandestin]]
+* [[travail d’aiguille]]
+* [[travail d’Arabe]]
+* [[travail d’arpète]]
+* [[travail d’artiste]]
+* [[travail d’équipe]]
+* [[travail d’extraction]]
+* [[travail d’intérêt général]] ([[TIG]])
+* [[travail d’orfèvre]]
+* [[travail de bagnard]]
+* [[travail de bénédictin]]
+* [[travail de bureau]]
+* [[travail de fourmi]]
+* [[travail de deuil]]
+* [[travail de mémoire]]
+* [[travail de moine]]
+* [[travail de nuit]]
+* [[travail de Pénélope]]
+* [[travail de Romain]]
+* [[travail de Romains]]
+* [[travail de séparation]]
+* [[travail de sortie]]
+* [[travail de Sisyphe]]
+* [[travail de tête]]
+* [[travail de Titan]]
+* [[travail détaché]]
+* [[travail dissimulé]]
+* [[travail du cuir]]
+* [[travail du sexe]]
+* [[travail en perruque]]
+* [[travail forcé]]
+* [[travail gratuit]]
+* [[travail gris]]
+* [[travail intellectuel]]
+* [[travail invisible]]
+* [[travail-machine]]
+* [[travail-main]]
+* [[travail manuel]]
+* [[travail mort]]
+* {{lien|travaillophobe|fr}}
+* {{lien|travaillophobie|fr}}
+* [[travail précaire]]
+* [[travail salarié]]
+* [[travail social]]
+* [[travail temporaire]]
+* [[travail vivant]]
+* [[travailler]]
+* [[travailleur]], [[travailleuse]]
+* [[travaillisation]]
+* [[travaillisme]]
+* [[travailliste]]
+* [[travaillomane]] {{rare|nocat=1}}
+* [[travaux de force]]
+* [[travaux dirigés]]
+* [[travaux forcés]]
+* [[travaux pratiques]]
+* [[travaux publics]]
+* unité de travail agricole ''ou'' [[UTA]]
+{{)}}
+
+==== {{S|hyponymes}} ====
+* [[McJob]] {{familier|nocat=1}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|unités de mesure|fatigue|droits humains|sociologie|sanglier|accouchement|vie quotidienne|philosophie sociale|analyse sociale}}
+{{cf|:Catégorie:Lexique en français du travail|vie quotidienne}}
+
+==== {{S|phrases}} ====
+* [[c’est du propre travail]]
+* [[le travail rend libre]]
+* [[tout travail mérite salaire]]
+* [[travail, famille, patrie]] {{info lex|histoire}}
+
+==== {{S|traductions}} ====
+{{trad-début|Labeur, tâche|1}}
+* {{T|ar}} : {{trad+|ar|عمل}}
+{{trad-fin}}
+
+{{trad-début|Activité professionnelle|2}}
+{{trad-fin}}
+
+{{trad-début|Manière de travailler|3}}
+{{trad-fin}}
+
+{{trad-début|Ouvrage|4}}
+{{trad-fin}}
+
+{{trad-début|Contractions de l’accouchement|8}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|tʁa.vaj}}
+'''travail''' {{pron|tʁa.vaj|fr}} {{m}}
+# {{lexique|équitation|médecine vétérinaire|fr}} [[bâti|Bâti]] [[servir|servant]] à la [[contention]] des [[cheval|chevaux]] et des [[bovin]]s, durant la [[pose]] des [[fer]]s, ou pour des [[opération]]s [[chirurgical]]es.
+
+==== {{S|synonymes}} ====
+* [[travail à ferrer]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France (Île-de-France)|tʁa.vaj|audio=Fr-Paris--travail.ogg}}
+* {{écouter|lang=fr|France (Île-de-France)|lə tʁa.vaj|titre=le travail|audio=Fr-travail.ogg}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Fhala.K-travail.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-travail.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-travail.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-travail.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-travail.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-travail.wav}}
+* {{écouter|lang=fr|France (Fontainebleau)||audio=LL-Q150 (fra)-Baidax-travail.wav}}
+* {{écouter|Strasbourg (France)||lang=fr|audio=LL-Q150 (fra)-Visiteur Journée 2 - 21 (Madehub)-travail.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-JEP2022-visiteur8 (Madehub)-travail.wav}}
+* {{écouter|Normandie (France)||lang=fr|audio=LL-Q150 (fra)-Roptat-travail.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-travail.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-travail.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[travaille]], [[travaillent]], [[travailles]] (formes du verbe ''[[travailler]]'')
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{thésaurus|fr|travail}}
+* {{WP}}
+* {{Wikiquote}}
+* {{wikisign|travail}} en Langue des signes française
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+* Site de l’Académie française : http://www.academie-francaise.fr/questions-de-langue#89_strong-em-travail-travaux-travails-em-strong
+
+==== {{S|sources}} ====
+{{Références}}
+
+[[Catégorie:Lexique en français du travail|*]]
+

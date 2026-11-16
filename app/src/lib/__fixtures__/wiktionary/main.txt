@@ -1,0 +1,502 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{laé|fr|nom|1}} Du {{étyl|frm|fr|mot=main}}, de l’{{étyl|fro|fr|mot=man}} {{date|lang=fr|980}}, ''{{lien|main|fro}}'', ''{{lien|mein|fro}}'', du {{étyl|la|fr|mot=manus|sens=manus}}, du {{étyl|proto-italique|fr}} {{recons|lang-mot-vedette=fr|manus|lang=proto-italique}}, ultimement de l’indo-européen {{recons|lang-mot-vedette=fr|man-|sens=main}}, d'où le verbe albanais {{lien|''man''|sq|sens=porter}} cognat de l’espagnol ''{{lien|mano|es}}'', de l’italien ''{{lien|mano|it}}'', du portugais ''{{lien|mão|pt}}''.
+: {{laé|fr|nom|2}} De l’{{étyl|en|fr|mot=main|sens=principal}}.
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|mɛ̃}}
+[[Fichier:Humbert 5.jpeg|vignette|Une '''main''' ouverte ''(sens 1)'']]
+[[Fichier:Aile (main).png|vignette|upright|Os de la '''main''' chez les oiseaux ''(sens 3)'']]
+[[Fichier:Main epicerie.jpg|vignette|'''Main''' pour saisir des marchandises ''(sens 9)'']]
+[[File:Banane frecinette-1.jpg|thumb|Une '''main''' de bananes dans une '''main''' humaine.]]
+'''main''' {{pron|mɛ̃|fr}} {{f}}
+# {{lexique|anatomie|fr}} Partie du [[corps]] [[humain]] située au bout du [[bras]], qui s’étend du [[poignet]] jusqu’au bout des [[doigt]]s, qui sert à la [[préhension]] et au [[toucher]].
+# {{par extension}} [[habileté|Habileté]] [[manuelle]].
+# {{par analogie|fr}} {{lexique|zoologie|fr}} Partie correspondante chez les [[animal|animaux]] dont l’extrémité du [[membre]] postérieur est douée de [[préhension]] avec un [[pouce]] opposé aux autres [[doigt]]s.{{?|définition trop restrictive|fr}}
+# {{par analogie|fr}} {{lexique|fauconnerie|fr}} [[doigt#fr|Doigt]]s des pattes postérieures des [[rapace]]s.
+# {{par analogie|fr}} [[filament|Filament]]s permettant à la vigne de s'accrocher à un support.
+# {{lexique|football|fr}} {{par métonymie|fr}} Fait de toucher un [[ballon]] avec la '''main''' ou le [[bras]] alors que c’est [[interdit]].
+# {{figuré|fr}} [[travailleur|Travailleur]].
+# {{figuré|fr}} [[écriture|Écriture]], [[caractère]] d’écriture d’une personne.
+# [[pelle|Pelle]] de [[tôle]], à [[manche]] de [[bois]] très [[court]], dont on se sert pour prendre et pour [[porter]] de la [[braise]], de la [[cendre]], etc.
+# Ustensile de bois ou de métal, lequel remplace la main humaine pour saisir une quantité de marchandises.
+# [[sorte|Sorte]] d’[[anneau]] de [[fer]] à [[ressort]], qui est au [[bout]] de la [[corde]] d’un [[puits]], et dans [[lequel]] on passe l’[[anse]] du [[seau]].
+# Sorte d’anneau qui est [[au-devant]] d’un [[tiroir]] et qui sert à le [[tirer]].
+# {{lexique|automobile|fr}} [[morceau|Morceau]] de [[galon]] [[plat]] attaché [[au-dedans]] d’une [[voiture]] et qu’on tient à la main pour se [[soutenir]].
+# {{lexique|architecture|fr}} [[partie|Partie]] d’une [[rampe]] d’[[escalier]] sur laquelle se [[pose]] la main.
+# [[assemblage|Assemblage]] de [[vingt-cinq]] [[feuille]]s de [[papier]] {{cf|lang=fr|main de papier}}.
+# {{lexique|technique|fr}} [[volume|Volume]] [[massique]] du [[papier]].
+# {{lexique|technique|fr}} Façon dont un [[tissu]] tombe ou glisse.
+# {{lexique|cartes à jouer|poker|fr}} Ensemble des [[carte]]s tenues par un [[joueur]].
+# {{lexique|cartes à jouer|poker|fr}} {{régional|Guérande}} [[levée|Levée]].
+# {{figuré|fr}} [[action|Action]] ; [[puissance]] ; [[influence]] ; [[pression]].
+# {{figuré|fr}} [[aide|Aide]] ; [[soutien]] ; [[secours]].
+# Symbole du [[mariage]].
+# {{info lex|métrologie}} {{Canada|nocat=1}} {{États-Unis|nocat=1}} {{Commonwealth|nocat=1}} [[unité de mesure|Unité de mesure]] de la [[hauteur]] d’un [[cheval]], du sol au sommet invariable, le [[garrot]].
+# [[Fichier:Blason ville fr Le-Chastang (Corrèze).svg|vignette|120px|Armoiries avec une '''main''' ''(sens héraldique)'']] {{meubles héraldiques|fr}} [[meuble|Meuble]] représentant une main (droite par défaut) dans les [[armoiries]]. Elle est généralement [[posé en|posée en]] [[en pal|pal]], les [[doigt]]s vers le [[chef]]. Si les doigts sont vers la pointe, on la dit [[renversé]]e. Il est possible de préciser dans le [[blasonnement]] s’il s’agit d’une main droite ([[dextre]]) ou gauche ([[senestre]]). De même, on précise généralement si elle est [[appaumé]]e ([[paume]] visible - seulement si la main est senestre) ou [[contre-appaumé]]e (dos de la main). À rapprocher de [[bras]], [[dextrochère]] et [[senestrochère]] ou [[sénestrochère]].
+# {{par analogie|fr}} Ce qui a la forme d’une main humaine.
+# Quantité de denrée pouvant tenir dans la main d’une personne.
+## {{en particulier|fr}} [[écheveau|Écheveaux]] de soie.
+
+==== {{S|synonymes}} ====
+* [[louche]] {{familier|nocat=1}}
+* [[manette]] {{familier|nocat=1}}
+* [[menotte]]
+* [[mimine]] {{enfantin|nocat=1}} {{familier|nocat=1}}
+* [[paluche]] {{familier|nocat=1}}
+* [[patoche]] {{familier|nocat=1}}
+* [[pince]]
+* [[pogne]] {{familier|nocat=1}}
+* [[torchecul|torcheculs]] {{au pluriel}} {{vulgaire|nocat=1}}
+
+==== {{S|dérivés}} ====
+{{(|colonnes=2}}
+* [[à belles mains]]
+* [[à deux mains]]
+* [[à quatre mains]]
+* [[à la main]]
+* [[à la main de]]
+* [[à main armée]]
+* [[à main droite]], [[à main gauche]]
+* [[à main levée]]
+* [[à main plate]]
+* [[à main nue]]
+* [[à mains jointes]]
+* [[à mains nues]]
+* [[à sa main]]
+* [[à toutes mains]]
+* [[accepter la main de]]
+* [[accorder la main de]]
+* [[alchémille à feuilles en forme de main]]
+* [[applaudir des deux mains]]
+* [[apposition des mains]]
+* [[appui-main]]
+* [[arrière-main]]
+* [[aux mains]]
+* [[avant-main]]
+* [[avoir dans la main]]
+* [[avoir des mains de beurre]]
+* [[avoir deux mains gauches]]
+* [[avoir du sang aux mains]]
+* [[avoir du sang sur les mains]]
+* [[avoir la haute main]] {{figuré|nocat=1}}
+* [[avoir la main]]
+* [[avoir la main à la pâte]] {{figuré|nocat=1}}
+* [[avoir la main bonne]] {{figuré|nocat=1}}
+* [[avoir la main chanceuse]] {{figuré|nocat=1}}
+* [[avoir la main dure]] {{figuré|nocat=1}}
+* [[avoir la main forcée]] {{figuré|nocat=1}}
+* [[avoir la main heureuse]] {{figuré|nocat=1}}
+* [[avoir la main large]] {{figuré|nocat=1}}
+* [[avoir la main légère]] {{figuré|nocat=1}}
+* [[avoir la main leste]] {{figuré|nocat=1}}
+* [[avoir la main levée sur]] (quelqu’un)
+* [[avoir la main longue]] {{figuré|nocat=1}}
+* [[avoir la main malheureuse]] {{figuré|nocat=1}}
+* [[avoir la main sûre]] {{figuré|nocat=1}}
+* [[avoir la main verte]] {{figuré|nocat=1}}
+* [[avoir le cœur sur la main]]
+* [[avoir le cœur sur la main et le poignet coupé]]
+* [[avoir l’entendement aux mains]]
+* [[avoir les mains libres]]
+* [[avoir les mains liées]] {{figuré|nocat=1}}
+* [[avoir les mains nettes]] {{figuré|nocat=1}}
+* [[avoir les mains percées]] {{figuré|nocat=1}}
+* [[avoir les mains pleines de pouces]]
+* [[avoir les mains sales]]
+* [[avoir sans cesse l’argent à la main]] {{figuré|nocat=1}}
+* [[avoir sous la main]]
+* [[avoir un baobab dans la main]] {{figuré|nocat=1}}
+* [[avoir un poil dans la main]] {{figuré|nocat=1}}
+* [[baisemain]]
+* [[baiser les mains à]] (quelqu’un) {{figuré|nocat=1}}
+* [[bas les mains]]
+* [[belle main]] (la main droite)
+* [[bien à la main]], [[bien en main]]
+* [[bonne-main]]
+* [[changement de main]]
+* [[chauffe-mains]]
+* [[cheval à deux mains]]
+* [[cheval à toutes mains]]
+* [[cheval de main]]
+* [[claquer dans la main]]
+* [[comme deux doigts de la main]]
+* [[comme les deux doigts de la main]]
+* [[contrat en main]]
+* [[coup de main]]
+* [[de la main]]
+* [[de main]]
+* [[de main de maitre]] {{ortho1990}}
+* [[de main de maître]]
+* [[de main d’homme]]
+* [[de main en main]]
+* [[de première main]]
+* [[de seconde main]]
+* [[de ses mains]]
+* [[demander la main de]]
+* [[donner d’une main et retenir de l’autre]]
+* [[donner la dernière main]]
+* [[donner la main]]
+* [[donner les mains à]]
+* [[donner sa main à]]
+* [[donner une main]]
+* [[double-main]]
+* [[en bonnes mains]]
+* [[en main propre]], [[en mains propres]]
+* [[en mettre sa main à couper]] {{par hyperbole|fr}}
+* [[en mettre sa main au feu]] {{par hyperbole|fr}}
+* [[en un tournemain]]
+* [[entre de bonnes mains]]
+* [[entre les mains]]
+* [[essuie-main]]
+* [[être dans la main de quelqu’un]]
+* [[être en main]]
+* [[être sous la main]]
+* [[face-à-main]]
+* [[faire des pieds et des mains]]
+* [[faire la main]]
+* [[faire main basse sur]]
+* [[faire sa main]]
+* [[faire tomber les armes des mains]]
+* [[faire une main]]
+* [[forcer la main]] (à quelqu’un)
+* [[frappe-main]]
+* [[frein à main]]
+* [[garde-main]]
+* [[garder la main]]
+* [[garder les mains aux poches]]
+* [[gens de main]]
+* [[gens de tête et main]]
+* [[glisser dans la main]]
+* [[glisser des mains]]
+* [[glisser entre les mains]]
+* [[guide-main]]
+* [[hache à main]]
+* [[haut la main]]
+* [[haut les mains]]
+* [[haute main]]
+* [[homme de main]]
+* [[homme toute main]]
+* [[hors la main]]
+* [[imposer les mains]]
+* [[imposition des mains]]
+* [[kit main libre]]
+* [[kit mains libres]]
+* [[la main de Dieu]]
+* [[lave-main]] {{ortho1990}}
+* [[lave-mains]]
+* [[le cœur sur la main]]
+* [[les deux doigts de la main]]
+* [[les mains vides]]
+* [[lever la main]]
+* [[main-arrière]]
+* [[main au cul]]
+* [[main-avant]]
+* [[main baladeuse]]
+* [[main-brune]]
+* [[main chaude]]
+* [[main-coulante]]
+* [[main-coupée]]
+* [[main-courante]]
+* [[main courante]]
+* [[main d’accoucheur]]
+* [[main-d’œuvre]]
+* [[main de bois]]
+* [[main de fer]]
+* [[main de justice]]
+* [[main de l’homme]]
+* [[main-de-Mars]]
+* [[main de papier]]
+* [[main de pont]]
+* [[main-découpée]]
+* [[main-éponge]]
+* [[main ferme]]
+* [[main-forte]]
+* [[main invisible du marché]]
+* [[main-militaire]]
+* [[main morte]]
+* [[main pleine]]
+* [[main-poseur]]
+* [[main tendue]]
+* [[main-tierce]]
+* [[mainlevée]]
+* [[mainmettre]]
+* [[mainmise]]
+* [[mainmortable]]
+* [[mainmorte]]
+* [[mainmuable]]
+* [[maintenage]]
+* [[maintenance]]
+* [[mainteneur]]
+* [[maintenir]]
+* [[maintien]]
+* [[manger dans la main de]] {{figuré|nocat=1}}
+* [[manger dans les mains de]]
+* [[manger main]], [[manger-main]], [[manger mains]], [[manger-mains]]
+* [[maniforme]]
+* [[manuel]]
+* [[mariage de la main gauche]]
+* [[mettre la dernière main]]
+* [[mettre la main]] (à quelque chose) (sur quelque chose)
+* [[mettre la main à la pâte]] {{figuré|nocat=1}}
+* [[mettre la main à la plume]]
+* [[mettre la main à la poche]]
+* [[mettre la main à l’œuvre]], [[mettre la main à l’ouvrage]]
+* [[mettre la main au collet]] (à quelqu’un)
+* [[mettre la main au porte-monnaie]]
+* [[mettre la main au portefeuille]]
+* [[mettre la main sur la conscience]]
+* [[mettre le fleuret à la main]]
+* [[mettre le marché à la main]] {{figuré|nocat=1}}
+* [[mettre le violon à la main]]
+* [[mettre l’épée à la main]]
+* [[mettre les armes à la main]]
+* [[mettre les deux mains]]
+* [[mettre les mains dans le cambouis]]
+* [[mettre ses deux mains au feu]]
+* [[mordre la main qui nourrit]]
+* [[muscle fléchisseur profond des doigts de la main]]
+* [[ne pas y aller de main morte]]
+* [[nouvelle à la main]]
+* [[nu comme la main]]
+* [[offrir sa main]]
+* [[opération mains propres]]
+* [[pare-main]]
+* [[pas plus grand que la main]]
+* [[passer la main]]
+* [[perdre la main]]
+* [[petite main]], [[petite-main]]
+* [[plat de la main]]
+* [[poignée de main]]
+* [[porter la main]] (sur quelqu’un)
+* [[première main]], [[seconde main]]
+* [[prendre la main]]
+* [[prendre la main dans le sac]]
+* [[prendre la main de quelqu’un sur la gueule]]
+* [[prendre par la main]]
+* [[présenter la main]]
+* [[prêter la main à]] (à quelqu’un, quelque chose)
+* [[prêter main forte]]
+* [[protège-main]]
+* [[refuser la main]] (à quelqu’un)
+* [[sac à main]]
+* [[saisir entre les mains]]
+* [[se faire la main]]
+* [[se payer par ses mains]]
+* [[se prendre la tête dans les mains]]
+* [[se prendre par la main]]
+* [[se salir les mains]] {{figuré|nocat=1}}
+* [[se tenir par la main]]
+* [[sèche-main]] {{ortho1990}}
+* [[sèche-mains]]
+* [[seconde main]]
+* [[seiche à grandes mains]]
+* [[seiche petites mains]]
+* [[s’en laver les mains]]
+* [[serrer la main]]
+* [[sous la main]]
+* [[sous-main]]
+* [[suivi des mains]]
+* [[tendre la main]]
+* [[tenir dans sa main]] {{figuré|nocat=1}}
+* [[tenir la main]] {{figuré|nocat=1}}
+* [[tenir la main haute]] 
+* [[tomber aux mains]]
+* [[tomber en de mauvaises mains]]
+* [[tomber des mains]]
+* [[tomber sous la main]]
+* [[toucher dans la main]] (à ou de quelqu’un)
+* [[tournemain]]
+* [[une main devant, une main derrière]]
+* [[vide-main]]
+{{)}}
+
+==== {{S|apparentés}} ====
+{{(|colonnes=3}}
+* [[centimane]]
+* [[maniabilité]]
+* [[maniable]]
+* [[maniage]]
+* [[manicle]]
+* [[maniement]]
+* [[manier]]
+* [[manière]]
+* [[maniérer]]
+* [[maniérisme]]
+* [[maniériste]]
+* [[maniette]]
+* [[manieur]]
+* [[manifestant]]
+* [[manifestatif]]
+* [[manifestation]]
+* [[manifestement]]
+* [[manifester]]
+* [[maniforme]]
+* [[manille]]
+* [[maniller]]
+* [[manilleur]]
+* [[manillon]]
+* [[maniotte]]
+* [[manipulaire]]
+* [[manipulateur]]
+* [[manipulation]]
+* [[manipuler]]
+* [[manipuleur]]
+* [[manique]]
+* [[manivelle]]
+* [[manœuvrable]]
+* [[manœuvrant]]
+* [[manœuvre]]
+* [[manœuvrée]]
+* [[manœuvrer]]
+* [[manœuvrerie]]
+* [[manœuvrier]]
+* [[manoque]]
+* [[manoquer]]
+* [[manubaliste]]
+* [[manucaude]]
+* [[manucure]]
+* [[manucurer]]
+* [[manuducteur]]
+* [[manuduction]]
+* [[manuel]]
+* [[manuellement]]
+* [[manufacturable]]
+* [[manufacturer]]
+* [[manufacturier]]
+* [[manuluve]]
+*[[manu militari]]
+* [[manumis]]
+* [[manumission]]
+* [[manuscription]]
+* [[manuscrit]]
+* [[manustupration]]
+* [[manutention]]
+* [[manutentionnaire]]
+* [[manutentionnel]]
+* [[manutentionner]]
+* [[manuterge]]
+* [[quadrumane]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[donner sa main à couper]]
+* [[donnez-moi la main]]
+* [[fais du bien à un vilain, il te chie dans la main]]
+* [[jeu de main, jeu de vilain]]
+* [[l’argent lui fond dans les mains]]
+* [[l’argent ne lui tient pas dans les mains]]
+* [[les mains lui démangent]]
+* [[les mains m’en tombent]]
+* [[ne mords pas la main qui te nourrit]]
+* [[parle à ma main]]
+* [[rien dans les mains, rien dans les poches]]
+* [[un bon conseil vaut un œil dans la main]]
+* [[une main lave l’autre]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|cinq|jeu de cartes|masturbation|idée|lecture|baiser|doigt|K-Pop}}
+{{symboles main}}
+
+;''unité de mesure de la hauteur d’un cheval''
+:[[hauteur au garrot]]
+* {{voir thésaurus|fr|main|bras|football|corps humain|squelette|héraldique|anatomie humaine}}
+
+==== {{S|holonymes}} ====
+* [[bras]]
+
+==== {{S|méronymes}} ====
+* [[doigt]]
+* [[dos]] (de la main)
+* [[paume]]
+* [[poignet]]
+* [[pouce]]
+
+==== {{S|traductions}} ====
+{{trad-début|Partie du corps humain située au bout du bras}}
+* {{T|ar}} : {{trad+|ar|يَد|R=yad|f}}
+{{trad-fin}}
+
+{{trad-début|Au football}}
+{{trad-fin}}
+
+{{trad-début|Unité de mesure}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|mɛjn|pron2=mɛn}}
+'''main''' {{pron|mɛjn|fr}} ou {{pron|mɛn|fr}} {{m}}
+# {{anglicismes informatiques|fr}} {{lexique|programmation|fr}} Première fonction invoquée dans un programme, depuis laquelle on appelle toutes les autres.
+
+==== {{S|notes}} ====
+: {{refnec|lang=fr|Le pluriel est inusité.}}
+
+=== {{S|prononciation}} ===
+* {{pron|mɛ̃|fr}}
+** {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|mɛ̃|audio=Fr-main.ogg}}
+** {{écouter||mɛ̃|lang=fr|audio=LL-Q150 (fra)-Guilhelma-main.wav}}
+** {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-main.wav}}
+* Français méridional : {{pron|mɛŋ|fr}}
+* Canada : {{pron|mẽ|fr}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-main.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-main.wav}}
+* {{écouter|lang=fr|Suisse (Genève)|audio=LL-Q150 (fra)-Nattes à chat-main.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-main.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-main.wav}}
+* {{écouter|lang=fr|France (Quimper)|audio=LL-Q150 (fra)-Vaulque-main.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-main.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines1-main.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines2-main.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines3-main.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines5-main.wav}}
+* {{écouter|lang=fr||audio=LL-Q150 (fra)-Aemines4-main.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines6-main.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-main.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-main.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-main.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-main.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-main.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-main.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-main.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-main.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-main.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-main.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-main.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-Loizbec-main.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-main.wav}}
+* {{écouter|lang=fr|Tchad||audio=LL-Q150 (fra)-Abakar B-main.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-main.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-main.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-main.wav}}
+* {{écouter|Céret (France)|mɛ̃|lang=fr|audio=LL-Q150 (fra)-Fabricio Cardenas (Culex)-main.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-main.wav}}
+* {{écouter|Liège (Belgique)||lang=fr|audio=LL-Q150 (fra)-Shareculture-main.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-main.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-main.wav}}
+
+==== {{S|homophones|fr}} ====
+* {{pron|mɛ̃|fr}}
+** [[maint]], [[maints]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{R:Littré}}
+* {{R:DAF8}}
+
+[[Catégorie:Noms multigenres en français]]
+[[Catégorie:Homographes non homophones en français]]
+[[Catégorie:Unités de mesure en français]]
+[[Catégorie:Outils en français]]
+[[Catégorie:Lexique en ngambay de l’anatomie]]
+[[Catégorie:Lexique en ancien français de l’habitat]]
+[[Catégorie:Lexique en ancien français du temps]]
+[[Catégorie:Lexique en ngambay de la cardiologie]]
+

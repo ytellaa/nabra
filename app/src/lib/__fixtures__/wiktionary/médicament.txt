@@ -1,0 +1,137 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr|1314}} Du {{étyl|la|fr|mot=medicamentum}} (même sens), fait de ''[[medicare]]'' (« donner des [[remède]]s »), dérivé du grec [[μηδος]]{{refnec|lang=fr}} (« [[soin]] »).
+
+=== {{S|nom|fr}} ===
+{{fr-rég|me.di.ka.mɑ̃}}
+[[Fichier:Medicaments tractament hiperuricèmia i gota.jpg|vignette|Des boîtes de '''médicaments'''.]]
+'''médicament''' {{pron|me.di.ka.mɑ̃|fr}} {{m}}
+# {{info lex|médecine}} [[substance|Substance]] ou [[composition]] possédant des propriétés [[curatif|curatives]] ou [[préventif|préventives]], destinées à [[guérir]], à [[soulager]] ou à [[prévenir]] des [[maladie]]s [[humain]]es ou [[animal]]es.
+
+==== {{S|synonymes}} ====
+* [[cachet]] {{par métonymie|nocat=1}}
+* [[comprimé]] {{par métonymie|nocat=1}}
+* [[médoc]] {{familier|nocat=1}}
+* [[pilule]] {{par métonymie|nocat=1}}
+* [[poutingue]] {{région}}
+* [[remède]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[alicament]] ''(Mot-valise)''
+* [[bébé médicament]] ''ou'' [[bébé-médicament]]
+* [[médicament antisénescence]]
+* [[médicament conseil]]
+* [[médicament générique]]
+* [[médicament orphelin]]
+* [[médicament sénolytique]]
+* [[médicamentaire]]
+* [[médicamenter]]
+* [[médicamenteux]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|bipolarité|don du sang|chimie pharmaceutique|momie égyptienne|protection|urgence}}
+* [[médecin]]
+* [[pharmacien]]
+
+==== {{S|hyperonymes}} ====
+* [[cure]]
+* [[soin]]
+
+==== {{S|hyponymes}} ====
+* {{cf|:Catégorie:Médicaments en français}}
+{{(|Par fonction ou mode d’action}}
+* [[anesthésiant]]
+* [[analgésique]], [[antalgique]]
+* [[antiacide]]
+* [[antiépileptique]]
+* [[antibiotique]]
+* [[anticoagulant]]
+* [[anti-diurétique]]
+* [[anti-inflammatoire]]
+* [[antipsychotique]]
+* [[antispasmodique]]
+* [[antihistaminique]]
+* [[anti-hypertenseur]]
+* [[antipyrétique]]
+* [[antiviral]]
+* [[antirétroviral]]
+* [[antitussif]]
+* [[anxiolytique]]
+* [[bêta-bloquant]]
+* [[bronchodilatateur]]
+* [[cardiotonique]]
+* [[diurétique]]
+* [[hypoglycémiant]]
+* [[laxatif]]
+* [[psychotrope]]
+** [[antidépresseur]]
+** [[neuroleptique]]
+** [[anxiolytique]]
+** [[hypnotique]], [[somnifère]]
+** [[sédatif]]
+* [[vasopresseur]]
+{{)}}
+{{(|Par voie d’administration ou présentation}}
+* [[aérosol]]
+* [[ampoule]]
+* [[baume]]
+* [[cachet]]
+* [[capsule]]
+* [[comprimé]]
+* [[collyre]]
+* [[crème]]
+* [[décoction]]
+* [[errhin]]
+* [[gel]]
+* [[gélule]]
+* [[goutte]]
+* [[granulé]]
+* [[inhalateur]]
+* [[lyophilisat]]
+* [[ovule]]
+* [[pastille]]
+* [[patch]]
+* [[perfusion]]
+* [[pilule]]
+* [[pommade]]
+* [[poudre]]
+* [[sirop]]
+* [[solution]]
+* [[spray]]
+* [[suppositoire]]
+* [[vaccin]]
+{{)}}
+
+==== {{S|holonymes}} ====
+* [[médication]]
+
+==== {{S|méronymes}} ====
+* [[excipient]]
+* [[principe actif]]
+
+==== {{S|traductions}} ====
+{{trad-début|Substance médicinale curative|1}}
+* {{T|ar}} : {{trad-|ar|دَوَاء}}, {{trad-|ar|عَقَّار}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|me.di.ka.mɑ̃|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|ɛ̃ me.di.ka.mɑ̃|titre=un médicament|audio=Fr-médicament.ogg}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-médicament.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-médicament.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-médicament.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-médicament.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-médicament.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-ClasseNoes-médicament.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-médicament.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)||lang=fr|audio=LL-Q150 (fra)-Helenou66-médicament.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-médicament.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+
+[[Catégorie:Médicaments en français|*]]
+[[Catégorie:Lexique en français de la pharmacie]]

@@ -1,0 +1,104 @@
+== {{langue|fr}} ==
+
+=== {{S|étymologie}} ===
+: {{date||lang=fr}}{{R|TLFi}} Du {{étyl|la|fr|mot=signatura}}{{R|Littré}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|si.ɲa.tyʁ}}
+[[Image:Autograf, Zola, Nordisk familjebok.png|thumb|La '''signature''' d’{{w|Émile Zola}}. (1)]]
+'''signature''' {{pron|si.ɲa.tyʁ|fr}} {{f}}
+# Nom d’une personne [[écrit]] de sa [[main]], mis à la fin d’une [[lettre]], d’un [[contrat]], ou d’un [[acte]] quelconque, pour le [[certifier]], pour le [[confirmer]], pour le rendre [[valable]].
+# Action de [[signer]].
+# {{figuré|fr}} {{par extension|fr}} Marque distinctive, manière de faire ou résultat particulier auxquels on reconnaît l’auteur d’une œuvre ou d’un acte.
+# {{figuré|fr}} {{par extension|fr}} Signe qui révèle la présence d’une personne ou d’une chose cachée.
+# {{lexique|militaire|fr}} Ensemble des caractéristiques d’un signal qui permettent l’identification d’une cible.
+# {{lexique|cartographie|imprimerie|fr}} [[lettre|Lettre]], [[chiffre]] ou signe que l’on met au bas des [[feuille]]s [[imprimer|imprimées]], pour en [[reconnaître]] l’[[ordre]] quand il s’[[agir|agit]] de les [[assembler]] et d’en former un [[volume]] à partir de différents cahiers.
+# {{lexique|publicité|fr}} Slogan publicitaire accolé au nom d’une marque et la caractérisant.
+# {{lexique|informatique|fr}} [[modèle|Modèle]] utilisé pour [[assortir]] l’[[identité]] d’un [[virus]], ou des [[type]]s de [[comportement]].
+# {{apposition|fr}} Ce qui démarque, qui est [[empreint]] d’un certain [[prestige]].
+
+==== {{S|synonymes}} ====
+* {{lien|seing|fr}}
+
+==== {{S|méronymes}} ====
+* {{lien|paraphe|fr}}
+
+==== {{S|dérivés}} ====
+{{(|Signature manuscrite certifiant un document|1}}
+* [[co-signature]], [[cosignature]]
+* [[contresignature]]
+* [[sous-signature]]
+* [[signature privée]] {{info lex|droit}}
+{{)}}
+{{(|Extension en informatique}}
+* [[signature aveugle]] {{info lex|cryptographie}}
+* [[signature de cercle]] {{info lex|cryptographie}}
+* [[signature électronique]], [[e-signature]] {{info lex|informatique|droit}}
+* [[signature numérique]] {{info lex|informatique|droit}}
+{{)}}
+
+{{(|Marque ou empreinte caractéristique, emblématique, distinctive / Signe révélateur}}
+* [[biosignature]], [[bio-signature]] {{info lex|biologie}}
+* [[cybersignature]]
+* [[plat signature]] {{info lex|gastronomie}}
+* [[signature de type]] {{info lex|programmation}}
+* [[signature de virus]], [[signature virale]] {{info lex|Internet}}
+* [[signature isotopique]]
+* [[signature lumineuse]] {{info lex|automobile}}
+* [[signature spectrale]] {{info lex|télédétection spatiale}}
+* [[signature thermique]]
+* [[signature vocale]]
+* [[technosignature]], [[techno-signature]] {{info lex|astronomie}}
+{{)}}
+
+==== {{S|apparentés}} ====
+* {{lien|signataire|fr}}
+* {{lien|signe|fr}}
+* {{lien|signer|fr}}
+* {{lien|signet|fr}}
+* {{lien|signeur|fr}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|document|langage de programmation|monument aux morts|écriture}}
+* {{lien|autographe|fr|sens=nom d’une personne écrit de sa main}}
+* {{lien|accroche|fr}}
+* {{lien|corps d’annonce|fr}}
+
+==== {{S|traductions}} ====
+{{trad-début|nom d’une personne écrit de sa main}}
+{{trad-fin}}
+
+{{trad-début|action de signer}}
+* {{T|ar}} : {{trad+|ar|تَوْقِيع}}, {{trad-|ar|إِمْضَاء}}
+{{trad-fin}}
+
+{{trad-début|mercatique}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France|si.ɲa.tyʁ|audio=Fr-signature.ogg}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-signature.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-signature.wav}}
+* {{écouter|Vosges (France)||lang=fr|audio=LL-Q150 (fra)-LoquaxFR-signature.wav}}
+* {{écouter|Aude (France)||lang=fr|audio=LL-Q150 (fra)-Lepticed7-signature.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)||lang=fr|audio=LL-Q150 (fra)-Helenou66-signature.wav}}
+* {{écouter|Vosges (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-signature.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-signature.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-signature.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{R:FranceTerme}}
+* {{R:DAF8}}
+* {{Import:CFC}}
+{{Références}}
+[[Catégorie:Néologismes recommandés en français]]
+[[Catégorie:Lexique en français de la calligraphie]]
+[[Catégorie:Lexique en anglais de la calligraphie]]
+

@@ -1,0 +1,398 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{refnec|lang=fr|{{date|lang=fr|842}} Du {{étyl|frm|fr|donner}}, de l'{{étyl|fro|fr|doner}}, du {{étyl|la|fr|mot=donare|dif=dōnāre|sens=offrir, faire un don}}.}}
+: {{refnec|lang=fr|Pour une raison difficile à cerner, le classique {{lien|dare|dif=''dăre''|sens=donner|la}} a été totalement éliminé en Gaule, contrairement à l’Italie et à la péninsule ibérique, vraisemblablement de bonne heure, puisqu’en occitan, ''donner'' se dit aussi ''{{lien|donar|oc}}'' et que le verbe ''dar'' est archaïque et ne s'emploie couramment seulement en gascon. Issu du [[w:Indo-européen_commun|proto-indo-européen]] ''*deh₃- (« donner »)'' d’où le Sanskrit {{lien|दा|sa}}, ''dā'' (« donner »).}}
+
+=== {{S|verbe|fr}} ===
+[[Image:Thats what friends are for… (3712070530).jpg|vignette|'''Donner''' à boire. (sens {{numéro|1}})]]
+'''donner''' {{pron|dɔ.ne|fr}} {{t|fr}} {{conj|grp=1|fr}} {{lien pronominal}}
+# Faire un [[don]] ; [[transférer]], sans [[rétribution]], la [[propriété]] d’une chose que l’on [[posséder|possède]] ou dont on [[jouir|jouit]], à une autre personne.
+## [[offrir|Offrir]] à des [[invité]]s un [[dîner]], une [[fête]], un [[bal]], etc.
+##* {{exemple | lang=fr
+ | Elle s’enjoyait des après-midi à leur courir après, jouer avec eux dans le parc, leur '''donner''' à manger, les dorloter.
+ | source=Céline Chevet, ''La fille qui tressait les nuages'', Éditions du Chat Noir, 2018, chapitre 4}}
+##* {{exemple | lang=fr | '''Donner''' un dîner, une soirée, une fête, une matinée musicale, dansante, un bal, un concert, la comédie.}}
+## Offrir ; [[présenter]].
+##* {{exemple|[…], et elle lui fit signe d'attendre qu'elle eût fini de '''donner''' à boire à cet affligé, un malheureux couvreur qui s'était cassé les deux bras en tombant d'un toit.  |source={{w|Fortuné du Boisgobey}}, ''Double-Blanc'', tome 2, Paris : chez Plon & Nourrit, 1889, page 44|lang=fr}}
+##* {{exemple | lang=fr
+ | Elles mangent des sandwichs, des wraps et des chips, rient avec leurs collègues et amis, qui sont parfois au bout du fil. Et visiblement désopilants. Des écureuils et des pigeons attendent qu'on leur '''donne''' les restes.
+ | source=Justin Cartwright, ''Au paradis par la voie des eaux'', traduit de l'anglais par France Camus-Pichon, Éditions Jacqueline Chambon (Actes Sud), 2017, chapitre 8}}
+# [[livrer|Livrer]], [[mettre]] entre les [[main]]s, [[remettre]], [[confier]].
+# [[transmettre|Transmettre]] en [[échange]], en [[retour]] de [[quelque chose]], de quelque [[service]].
+# [[fournir|Fournir]], surtout en parlant de [[garantie]]s, de [[gage]]s, de [[preuve]]s.
+# [[administrer|Administrer]].
+# [[infliger|Infliger]], en parlant de [[supplice]]s, de [[châtiment]]s, de [[mauvais]] [[traitement]]s.
+# [[livrer|Livrer]] un [[assaut]], une [[bataille]].
+# [[diriger|Diriger]], [[appliquer]] l’[[action]], l’[[impression]], l’[[effet]] de quelque chose sur un [[objet]].
+# [[accorder|Accorder]] ; [[octroyer]].
+# {{figuré|fr}} {{familier|fr}} [[sacrifier|Sacrifier]] par [[dévouement]] pour [[quelqu’un]], pour [[quelque chose]].
+# {{figuré|fr}} [[mettre|Mettre]] sous la [[direction]] d’un [[précepteur]], d’un [[gouverneur]], d’un [[maître]].
+# {{familier|fr}} {{par hyperbole|fr}} [[vendre|Vendre]] à [[bas]] [[prix]].
+# {{familier|fr}} [[payer|Payer]] un [[salaire]], des [[appointement]]s.
+# [[conférer|Conférer]].
+# [[représenter|Représenter]] [[devant]] le [[public]].
+# [[faire|Faire]] représenter une [[pièce]] de [[théâtre]].
+# [[prononcer|Prononcer]] devant un [[auditoire]].
+# [[publier|Publier]] ; faire [[imprimer]].
+# {{figuré|fr}} [[annoncer|Annoncer]] ou [[présenter]] une [[personne]] ou une [[chose]] pour [[telle]] ou telle, comme telle ou telle.
+# [[indiquer|Indiquer]].
+# [[passer|Passer]] du [[temps]] avec [[quelqu’un]].
+# [[employer|Employer]], [[consacrer]] du [[temps]].
+# [[exposer|Exposer]], [[énoncer]], [[communiquer]], faire [[connaître]] par le [[discours]] ou [[autrement]].
+# [[imposer|Imposer]], [[prescrire]], [[établir]] ou [[indiquer]].
+# [[attribuer|Attribuer]].
+# {{en particulier}} [[faire|Faire]] [[prendre]] à une [[chose]], par un [[travail]], par une [[action]], par un [[moyen]] [[quelconque]], une [[situation]], une [[forme]], des [[dimension]]s, une [[apparence]], des [[qualité]]s.
+# [[fournir|Fournir]], [[produire]], [[rapporter]].
+/>— Cela '''a''' trop '''donné''' !'' {{source|{{w|Georges Simenon}}, ''Le fou de Bergerac'', Fayard, 1932, réédition Le Livre de Poche, page 60}}
+# [[enfanter|Enfanter]], [[procréer]].
+# [[causer|Causer]] ; [[procurer]] ; [[faire avoir]].
+# {{par hyperbole|fr}} {{term|surtout au [[conditionnel]]}} S’[[engager]] à faire de grands [[sacrifice]]s pour qu’une [[chose]] fût ou ne [[fût]] pas.
+# [[communiquer|Communiquer]] à quelqu’un une [[maladie]] [[contagieux|contagieuse]] dont on [[atteindre|est atteint]].
+# [[faire|Faire]] [[contracter]] [[parler|en parlant]] des [[goût]]s, des [[inclination]]s, etc., que l’on a [[soi-même]].
+# {{argot|fr}} [[dénoncer|Dénoncer]] ; [[trahir]].
+/>— C’est mon affaire et j’peux le '''donner'''…<br
+/>— Tu le '''donnerais''' ?<br
+/>— Ah ! Fernande… à toi seule ; j’ai mes raisons…'' {{source|{{Citation/Francis Carco/Jésus-la-Caille/1914||V}}}}
+# {{intransitif|fr}} Faire la [[charité]], l’[[aumône]].
+# {{intransitif|fr}} [[distribuer|Distribuer]] les [[cartes à jouer]].
+# {{intransitif|fr}} [[heurter|Heurter]] ; [[frapper]].
+# [[Fichier:A window on the nile.jpg|vignette|redresse|Fenêtre '''donnant''' sur le Nil. (sens 37)]] {{intransitif|fr}} Avoir [[vue]] [[sur]].
+# {{intransitif|fr}} Avoir [[issue]].
+# {{intransitif|fr}} [[tomber|Tomber]], se [[jeter]], se [[porter]] [[dans]] ou [[à]].
+# {{intransitif|fr}} {{lexique|militaire|fr}} {{absolument}} [[aller|Aller]] à la [[charge]] [[contre]] l’[[ennemi]].
+# {{intransitif|fr}} Se [[livrer]], par [[goût]], à une [[activité]].
+# {{pronl|fr}}
+# {{pronl|fr}} S’[[attacher]] à [[quelqu’un]] ; se [[dévouer]] à [[lui]].
+# {{pronl|fr}} {{figuré|fr}} Annoncer ou présenter une personne ou une chose pour telle ou telle, comme telle ou telle.
+# {{pronl|fr}} Se [[mettre]] sous la [[domination]] de [[quelqu’un]].
+# {{pronl|fr}} [[vouer|Vouer]] à [[quelqu’un]] toute son [[affection]].
+# {{pronl|fr}} [[accorder|Accorder]] les [[dernières]] [[faveur]]s, [[coucher]] avec un [[homme]], [[parler|en parlant]] d’une [[femme]].
+# ''(Suivi de « du » et d'un complément indirect)'' [[désigner|Désigner]] une autre personne ; s’[[appeler]] entre personnes.
+# Avoir l’occasion.
+# Apporter de la nourriture à un animal de ferme.
+# [[porter|Porter]], se faire entendre à distance, en parlant du son.
+
+==== {{S|synonymes}} ====
+* [[bailler]] {{désuet|nocat=1}}
+* [[céder]]
+* [[fournir]]
+* [[offrir]]
+
+==== {{S|antonymes}} ====
+* [[garder]]
+* [[retenir]]
+* [[vendre]]
+
+==== {{S|apparentés}} ====
+* [[don]]
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[à donner de la tête contre les murs]]
+* [[abandonner]]
+* [[adonner]]
+* [[cadonner]]
+* [[dans un espace donné]]
+* [[dans un temps donné]]
+* [[donateur]]
+* [[donation]]
+* [[donnable]]
+* [[donnant]]
+* [[donnant-donnant]]
+* [[donné]]
+* [[donnée]]
+* [[donner à courir]]
+* [[donner à deviner]]
+* [[donner à entendre]]
+* [[donner à faire]]
+* [[donner à ferme]]
+* [[donner à l’essai]]
+* [[donner à manger]]
+* [[donner à penser]]
+* [[donner à rire]]
+* [[donner à songer]]
+* [[donner à travailler]]
+* [[donner assignation]]
+* [[donner assurance]]
+* [[donner attention]]
+* [[donner au diable]]
+* [[donner avec usure]]
+* [[donner avis]]
+* [[donner barre]]
+* [[donner beau]]
+* [[donner beau jeu]]
+* [[donner bonne conscience]]
+* [[donner carrière]]
+* [[donner carte blanche]]
+* [[donner chasse]]
+* [[donner congé]]
+* [[donner contre]]
+* [[donner cours]]
+** [[donner cours à l’eau]]
+* [[donner créance]]
+* [[donner dans]]
+* [[donner dans le godant]]
+* [[donner dans le panneau]]
+* [[donner dans le piège]]
+* [[donner dans l’œil]]
+* [[donner dans un ridicule]]
+* [[donner de l’encensoir par le nez]]
+* [[donner de l’oreille]]
+* [[donner de l’oxygène]]
+* [[donner de l’urticaire]]
+* [[donner de la confiture à des cochons]]
+* [[donner de la confiture à un cochon]]
+* [[donner de la confiture aux cochons]]
+* [[donner des confitures à un cochon]]
+* [[donner de la gabatine]]
+* [[donner de la langue]]
+* [[donner de la lumière]]
+* [[donner de la tablature]]
+* [[donner de la tête]]
+* [[donner de la voie]]
+* [[donner de la voix]]
+* [[donner de sa personne]]
+* [[donner dedans]]
+* [[donner des ailes]]
+* [[donner des bornes]]
+* [[donner des boutons]]
+* [[donner des deux]]
+* [[donner des éperons]]
+* [[donner des idées]]
+* [[donner des jambes]]
+* [[donner des limites]]
+* [[donner des marques]]
+* [[donner des preuves]]
+* [[donner des ridicules]]
+* [[donner des signes d’embarras]]
+* [[donner des signes d’impatience]]
+* [[donner des signes d’inquiétude]]
+* [[donner des soins]]
+* [[donner des témoignages]]
+* [[donner des verges pour se faire battre]]
+* [[donner des verges pour se faire fouetter]]
+* [[donner des verges pour se fouetter]]
+* [[donner du cor]]
+* [[donner du corps]]
+* [[donner du feu]]
+* [[donner du fil à retordre]]
+* [[donner du gaz]]
+* [[donner du grain à moudre]]
+* [[donner du poing sur la table]]
+* [[donner du tu]]
+* [[donner du vous]]
+* [[donner en cent]]
+* [[donner en dix]]
+* [[donner en mariage]]
+* [[donner en mille]]
+* [[donner en vingt]]
+* [[donner exemple]]
+* [[donner froid dans le dos]]
+* [[donner l’accolade]]
+* [[donner l’alarme]]
+* [[donner l’alerte]]
+* [[donner l’eau à la bouche]]
+* [[donner l’éveil]]
+* [[donner l’exemple]]
+* [[donner la botte aux puces]]
+* [[donner la chair de poule]]
+* [[donner la comédie]]
+* [[donner la dent]]
+* [[donner la main]]
+* [[donner la meute]]
+* [[donner la note]]
+* [[donner le bâton pour se faire battre]]
+* [[donner le bâton pour se faire frapper]]
+* [[donner le bon Dieu sans confession]]
+* [[donner le bonjour]]
+* [[donner le bonsoir]]
+* [[donner le branle]]
+* [[donner le bras]]
+* [[donner le cerf aux chiens]]
+* [[donner le change]]
+* [[donner le coup de Jarnac]]
+* [[donner le denier à Dieu]]
+* [[donner le départ]]
+* [[donner le go]]
+* [[donner le jardin]] {{info lex|fauconnerie}}
+* [[donner le la]]
+* [[donner le signal]]
+* [[donner le ton]]
+* [[donner le tournis]]
+* [[donner les chiens]]
+* [[donner les mains]] à quelque chose
+* [[donner libre cours]]
+* [[donner lieu]]
+* [[donner matière à faire]]
+* [[donner naissance]]
+* [[donner occasion]]
+* [[donner ordre]] ''(pourvoir à quelque chose)''
+* [[donner parole]]
+* [[donner pour épouse]], [[donner pour époux]]
+* [[donner pratique]]
+* [[donner prise]]
+* [[donner sa langue au chat]]
+* [[donner sa main]]
+* [[donner sa parole]] ''(promettre)''
+* [[donner sa parole d’honneur]]
+* [[donner raison]]
+* [[donner signe de vie]]
+* [[donner son congé]]
+* [[donner suite]]
+* [[donner sujet]]
+* [[donner sur]]
+* [[donner sur les doigts]] à quelqu’un
+* [[donner sur le nez]]
+* [[donner sur les nerfs]]
+* [[donner sur les oreilles]]
+* [[donner tête baissée]]
+* [[donner un bal]]
+* [[donner un coup d’épaule]]
+* [[donner un coup de collier]]
+* [[donner un coup de coude]]
+* [[donner un coup de fil]]
+* [[donner un coup de main]]
+* [[donner un coup de pied]]
+* [[donner un coup de pied à l’armoire]]
+* [[donner un coup de pied dans la fourmilière]]
+* [[donner un coup de pouce]]
+* [[donner un coup de téléphone]]
+* [[donner un œuf pour avoir un bœuf]]
+* [[donner un violon à un manchot]]
+* [[donner une culotte]] ''(adresser des reproches)''
+* [[donner une danse]] à quelqu’un
+* [[donner une main]]
+* [[donneur]]
+* [[donneur d’ordre]]
+* [[donneur de sang]]
+* [[donneur de sperme]]
+* [[en donner]] à quelqu’un
+* [[en donner à garder]]
+* [[en donner sa tête à couper]]
+* [[en un point donné]]
+* [[étant donné]]
+* [[étant donné que]]
+* [[le donner au plus habile à mieux faire]]
+* [[le donner en cent]]
+* [[le donner en mille]]
+* [[lui en donner d’une]]
+* [[lui en donner d’une bonne]]
+* [[ne pas donner sa place pour un boulet de canon]]
+* [[ne pas donner signe de vie]]
+* [[ne pas en donner un kopeck]]
+* [[ne pas en donner un sou]]
+* [[ne pas donner deux sous]]
+* [[ne savoir où donner de la tête]]
+* [[pardonner]]
+* [[redonner]]
+* [[se donner]]
+* [[se donner au diable]]
+* [[se donner de garde]]
+* [[se donner de l’air]]
+* [[se donner des airs]]
+* [[se donner du bon temps]]
+* [[se donner en spectacle]]
+* [[se donner garde]]
+* [[se donner la peine]]
+* [[se donner le mal]]
+* [[se donner l’air]]
+* [[se donner le mot]]
+* [[se donner pour]] ''(se faire passer pour)''
+* [[se donner toutes les chances]]
+* [[se donner une contenance]]
+* [[s’en donner]]
+* [[s’en donner à cœur joie]]
+* [[s’en donner les gants]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[caresse de chien donne des puces]]
+* [[donnant donnant]]
+* [[donner c’est donner, reprendre c’est voler]]
+* [[donner et retenir ne vaut]] : Celui qui fait une donation ne peut, sous peine de nullité de l’acte, y ajouter une clause qui en détruise l’effet
+* [[la façon de donner vaut mieux que ce qu’on donne]]
+* [[la peur donne des ailes]]
+* [[la plus belle fille du monde ne peut donner que ce qu’elle a]]
+* [[on ne donne rien pour rien]]
+* [[qui donne aux pauvres prête à Dieu]]
+* [[qui donne tôt donne deux fois]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|cadeau|baiser|bras|dames|jeu de cartes}}
+
+==== {{S|traductions}} ====
+{{trad-début|Transférer sans rétribution la propriété d’une chose à une autre personne|1}}
+* {{T|ar}} : {{trad+|ar|آتى|tr=ʾātā|dif=آتَى}}
+{{trad-fin}}
+
+{{trad-début|Livrer, mettre entre les mains|2}}
+{{trad-fin}}
+
+{{trad-début|Transmettre en échange, en retour de quelque chose, de quelque service|3}}
+{{trad-fin}}
+
+{{trad-début|Fournir, surtout en parlant de garanties, de gages, de preuves|4}}
+{{trad-fin}}
+
+{{trad-début|Diriger, appliquer l’action, l’impression, l’effet de quelque chose sur un objet|8}}
+{{trad-fin}}
+
+{{trad-début|Accorder, octroyer|9}}
+{{trad-fin}}
+
+{{trad-début|{{figuré|fr}} {{familier|nocat=1}} Sacrifier par dévouement pour quelqu’un, pour quelque chose|10}}
+{{trad-fin}}
+
+{{trad-début|Énoncer, faire connaître par le discours|23}}
+{{trad-fin}}
+
+{{trad-début|Imposer, prescrire|24}}
+{{trad-fin}}
+
+{{trad-début|Fournir, produire, rapporter|27}}
+{{trad-fin}}
+
+{{trad-début| {{intransitif|fr}} Avoir vue sur|37}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|dɔ.ne|fr}}
+* {{écouter|France (Paris)|do.ne|audio=Fr-donner.ogg|lang=fr}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-donner.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-donner.wav}}
+* {{écouter|lang=fr|Suisse (Genève)|audio=LL-Q150 (fra)-Nattes à chat-donner.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-donner.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-donner.wav}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)|audio=LL-Q150 (fra)-Pamputt-donner.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-donner.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-donner.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-donner.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-donner.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-donner.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)||audio=LL-Q150 (fra)-0x010C-donner.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-donner.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-donner.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-donner.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-donner.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-donner.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-donner.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-donner.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-donner.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-donner.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-LuneMarine (DSwissK)-donner.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-donner.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-donner.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-donner.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-donner.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{R:DAF8|donner}}
+

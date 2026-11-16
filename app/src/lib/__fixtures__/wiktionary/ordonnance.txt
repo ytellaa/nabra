@@ -1,0 +1,100 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{lien-ancre-étym|fr|nom|1}} {{date|1287|lang=fr}} {{composé de|ordonner|-ance|lang=fr|m=1}}.
+: {{lien-ancre-étym|fr|nom|2}} {{date|1752|lang=fr}} [[ellipse|Ellipse]] de la locution ''{{lien|officier d’ordonnance|fr}}''.
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|ɔʁ.dɔ.nɑ̃s}}
+'''ordonnance''' {{pron|ɔʁ.dɔ.nɑ̃s|fr}} {{f}} ''(parfois masculin au pluriel)''
+# [[disposition|Disposition]] des [[chose]]s selon l’[[ordre]], la [[convenance]].
+# [[prescription|Prescription]], [[règlement]] fait par une ou [[plusieurs]] [[personne]]s qui ont [[droit]] et [[pouvoir]] de le [[faire]].
+# {{lexique|droit|fr}} Décision judiciaire qui soit tend à mettre fin précocement à la procédure, soit règle une question de procédure, soit présente un caractère urgent et provisoire.
+# {{lexique|droit|histoire|fr}} [[règlement|Règlement]] et [[acte]] qui [[faire|était fait]] par le [[roi]] pour l’[[exécution]] des [[loi]]s ou pour des [[objet]]s d’[[administration]] qui ne [[devoir|doivent]] pas être la [[matière]] d’une loi.
+# {{lexique|législation|fr}} {{France|fr}} [[acte|Acte]] [[législatif]] pris par le [[gouvernement]], sous [[habilitation]] du [[Parlement]] et [[ratifier|ratifié]] par ce dernier.
+## [[acte|Acte]] [[législatif]] du Comité français de libération nationale puis du Gouvernement provisoire de la République française (1943-1945).
+# {{lexique|législation|fr}} {{Belgique|fr}} [[acte|Acte]] [[législatif]] voté par le Parlement de la région de Bruxelles-Capitale.
+# {{lexique|administration|fr}} [[avis|Avis]] [[donné]] de [[payer]] une [[certain]]e [[somme]], [[mandat]] de [[paiement]].
+# Chose [[conforme]] à ce qui est [[prescrit]].
+# {{lexique|médecine|fr}} [[prescription|Prescription]] d’un [[médecin]], soit pour le [[régime]] à [[suivre]], soit pour les [[remède]]s à prendre.
+# {{lexique|médecine|fr}} {{par extension}} Écrit par lequel le médecin [[ordonner|ordonne]] quelque chose.
+
+==== {{S|dérivés}} ====
+* '''''ordonnance''' de non-lieu.'' Voyez « [[non-lieu]] ».
+* [[ordonnance de police]] (les règlements, les arrêtés d’un préfet de police)
+* [[ordonnance pénale]]
+* [[ordonnance restrictive]]
+* [[ordonnance souveraine]]
+* [[ordonnancier]] {{info lex|médecine}}
+
+==== {{S|quasi-synonymes}} ====
+* ''Prescription, règlement, acte''
+** [[décret]] (3)
+* ''Acte législatif pris par le gouvernement''
+** [[décret-loi]] {{désuet|nocat=1}}
+* ''Acte législatif du Parlement de la région de Bruxelles-Capitale''
+** [[décret]] (4) ''(dans les autres entités fédérées)''
+
+==== {{S|traductions}} ====
+'''Ordonnance''' ''féminin''
+{{trad-début|Disposition des choses selon l’ordre, la convenance.}}
+{{trad-fin}}
+
+{{trad-début|Prescription, règlement fait par une ou plusieurs personnes qui ont droit et pouvoir de le faire.}}
+{{trad-fin}}
+
+{{trad-début|Acte du Parlement de la région de Bruxelles-Capitale.}}
+{{trad-fin}}
+
+{{trad-début|Prescription d’un médecin.}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|ɔʁ.dɔ.nɑ̃s}}
+'''ordonnance''' {{pron|ɔʁ.dɔ.nɑ̃s|fr}} {{mf}}
+# {{lexique|militaire|fr}} [[soldat|Soldat]] [[attacher|attaché]] à la [[personne]] d’un [[officier]] pour l’[[entretien]] de ses [[effet]]s, de ses [[arme]]s et de son [[cheval]].
+|lang=fr}}
+
+==== {{S|vocabulaire}} ====
+* [[compagnie d’ordonnance]] {{info lex|histoire}} Se disait autrefois de certaines compagnies de cavalerie qui ne faisaient partie d’aucun régiment et dont les premières avaient été créées par une '''ordonnance''' de Charles VII.
+* [[instrument d’ordonnance]]
+* [[musique d’ordonnance]]
+* [[officier d’ordonnance]] {{info lex|militaire}} Officier subalterne au service d’un chef militaire ou de ses aides de camp notamment pour des missions d’intendance.
+* [[revolver d’ordonnance]]
+* [[tambour d’ordonnance]]
+
+==== {{S|traductions}} ====
+{{trad-début|Soldat attaché à la personne d’un officier.}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|ordonnancer|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui|'=oui}}
+'''ordonnance''' {{pron|ɔʁ.dɔ.nɑ̃s|fr}}
+# ''Première personne du singulier de l’indicatif présent du verbe'' [[ordonnancer]].
+# ''Troisième personne du singulier de l’indicatif présent du verbe'' [[ordonnancer]].
+# ''Première personne du singulier du subjonctif présent du verbe'' [[ordonnancer]].
+# ''Troisième personne du singulier du subjonctif présent du verbe'' [[ordonnancer]].
+# ''Deuxième personne du singulier de l’impératif du verbe'' [[ordonnancer]].
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|ɔʁ.dɔ.nɑ̃s|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|ɔʁ.dɔ.nɑ̃s|audio=Fr-ordonnance.ogg}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-ordonnance.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-ordonnance.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-ordonnance.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-ordonnance.wav}}
+* {{écouter|France (Lyon)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-ordonnance.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-ordonnance.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-ordonnance.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-ordonnance.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-ordonnance.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Wikipédia|Ordonnance (militaire)}}
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+* {{merci professeur|ordonnance-et-sentinelle|Ordonnance et sentinelle}}
+* {{R:Littré}}
+* {{R:TLFi}}

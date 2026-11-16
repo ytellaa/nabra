@@ -1,0 +1,56 @@
+== {{langue|fr}} ==
+
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|XIV}}{{R|TLFi}} Du {{étyl|la|fr|mot=formularius}}{{R|Littré}} ou {{composé de|formule|-aire|lang=fr}}{{R|TLFi}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|fɔʁ.my.lɛʁ}}
+'''formulaire''' {{pron|fɔʁ.my.lɛʁ|fr}} {{m}}
+# [[recueil|Recueil]], [[répertoire]] de [[formule]]s, [[dresser|dressé]] [[soit]] par l’[[autorité]] [[publique]], soit par un [[particulier]] [[en vue de]] l’[[usage]] [[pratique]].
+# Tout ce qui [[contenir|contient]] [[quelque]] [[formule]], quelque [[formalité]] à [[observer]], quelque [[profession de foi]].
+# {{en particulier}} {{lexique|religion|fr}} {{absolument}} [[bref|Bref]] [[émaner|émané]] de la [[cour]] de Rome au [[sujet]] du [[livre]] de Jansénius.
+# {{lexique|informatique|fr}} Fenêtre d'interface homme machine demandant une saisie de la part de l’utilisateur.
+# {{lexique|administration|fr}} Imprimé comportant des {{lien|rubriques}} destinées à être renseignées pour effectuer certaines démarches administratives.
+
+==== {{S|dérivés}} ====
+* [[détournement de formulaire]]
+* [[formulaire pharmaceutique]], Nomenclature des médicaments simples et recueil des formules concernant les préparations officinales.
+
+==== {{S|traductions}} ====
+{{trad-début|Répertoire de formule dressé en vue de l’usage pratique}}
+* {{T|ar}} : {{trad-|ar|استمارة|f}}, {{trad-|ar|إِسْتِمَارَة}}
+{{trad-fin}}
+
+{{trad-début|Tout ce qui contient des formules à observer}}
+{{trad-fin}}
+
+{{trad-début|Émané de la cour de Rome au sujet du livre de Jansénius}}
+{{trad-fin}}
+
+{{trad-début|Fenêtre d’interface homme machine demandant une saisie d’un opérateur}}
+{{trad-fin}}
+
+{{trad-début|Imprimé}}
+* {{T|ar}} : {{trad-|ar|إِسْتِمَارَة|tr=istimaèra}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|fɔʁ.my.lɛʁ|fr}}
+** {{écouter|France (Paris)|ɛ̃ fɔʁ.my.lɛʁ|audio=Fr-formulaire.ogg|titre=un formulaire|lang=fr}}
+** {{écouter|Québec {{popu|nocat=1}}|fɔʁ.my.laɛ̯ʁ|lang=fr}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-formulaire.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-formulaire.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-formulaire.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-formulaire.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-formulaire.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+{{Références}}

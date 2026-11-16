@@ -1,0 +1,964 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|XI|lang=fr}} Du {{étyl|frm|fr|eaue}}, ''{{lien|eau|frm}}'', de l’{{étyl|fro|fr|eaue}}, ''{{lien|ewe|fro}}'', du {{étyl|la|fr|aqua}}, du {{étyl|proto-italique|fr}} {{recons|lang-mot-vedette=la|akʷā|lang=proto-italique|sens=eau}}, de l’{{étyl|proto-indo-européen|fr}} {{recons|lang-mot-vedette=la|h₂ékʷeh₂|lang=proto-indo-européen|sens=eau}}{{R|DeVaan|aqua}}. La prononciation {{phon|akwa|la}} de ''aqua'' a évolué vers le VI{{e}} siècle en {{phon|agwa|fro}}, puis {{phon|awa|la}}. Aux XI{{e}} et XII{{e}}, la forme ''{{lien|ewe|fro}}'' {{phon|ɛwə|la}} et les variantes ''{{lien|egua|fro}}'',  ''{{lien|aigue|fro}}'' (qui donna [[aigue-marine]]) et ''{{lien|eve|fro}}'' (qui donna ''[[évier]]'') sont attestées en ancien français{{R|DAF9}}. Au XII{{e}} et XIII{{e}}, la forme ''{{lien|eaue|fro}}'' {{phon|eovə|fr}} apparait. Au XVII{{e}}, le ''e'' final disparait entièrement, ce qui donne l’orthographe actuelle (prononcée {{phon|eo|fr}} à l’époque) et la prononciation se simplifia en {{phon|o|fr}}. À noter que l’on pouvait retrouver jusqu’au XVIII{{e}} à Paris la prononciation {{phon|jo|fr}}{{R|Orthodidacte|''[https://dictionnaire.orthodidacte.com/article/etymologie-eau Étymologie du mot eau]'', dictionnaire.orthodidacte.com (consulté le 17 février 2025)}}.
+: À noter qu’en français, ''[[aqua]]'' se retrouve en [[composition]], comme [[préfixe]]&nbsp;: ''[[aqu-]]'', ''[[aqui-]]''.
+: Le mot a entre autres [[cognat]]s, l’occitan ''{{lien|aiga|oc}}'', l’italien ''{{lien|acqua|it}}'', le catalan {{lien|aigua|ca}}, l’espagnol ''{{lien|agua|es}}'', le portugais ''{{lien|água|pt}}'' et le roumain ''{{lien|apă|ro}}''.
+:: → voir aussi les [[hydronyme]]s {{lien|Aa|code=nom-pr-1|de}} en allemand et {{lien|Aa|code=nom-pr-1|fr}} en français, pour l’évolution similaire de {{recons|lang-mot-vedette=de|h₂ékʷeh₂|sens=eau|indo-européen commun}} via l’allemand.
+
+=== {{S|nom|fr}} ===
+{{fr-rég-x|o}}
+[[Image:Stilles Mineralwasser.jpg|vignette|redresse|'''Eau''' versée dans un verre. (1)]]
+[[Image:POL rain 00001.JPG|vignette|redresse|'''Eau''' qui tombe dru. (2)]]
+[[Image:Icebergs at cape york 2.JPG|vignette|redresse|'''Eau''' sous forme liquide et solide. (3)]]
+[[Image:Lago Nahuel Huapi.jpg|vignette|redresse|Les '''eaux''' d’un lac (4)]]
+[[File:Agua, Fuente de los Cuatro Elementos (Antequera).jpg|vignette|redresse|Allégorie de l’'''eau''' de la fontaine des Quatre Éléments (13) à Antequera.]]
+'''eau''' {{pron|o|fr}} {{f}}
+# [[liquide|Liquide]] [[transparent]], [[incolore]], [[inodore]] et [[insipide]] à l’[[état]] [[pur]], qui [[est]] le [[principal]] [[constituant]] des [[lac]]s, [[rivière]]s, [[mer]]s et [[océan]]s.
+# {{en particulier}} [[pluie|Pluie]].
+# {{substances|fr}} {{term|[[nom UICPA préféré#fr|nom UICPA préféré]]}} [[corps composé|Corps composé]] de [[formule brute]] {{fchim|H|2|O|lien=H₂O}} existant surtout sous forme de [[glace#fr-nom|glace]], d’'''eau''' [[liquide]] ou de [[vapeur]], mais aussi d’[[eau de constitution]].
+# {{par extension|fr}} {{au pluriel}} [[quantité|Quantités]] ou [[étendue]]s liquides [[naturel]]les.
+# {{par métonymie|fr}} {{au pluriel}} [[zone|Zone]] [[maritime]] [[considérée]] comme un [[territoire]] [[appartenant]] à [[tel ou tel]] pays que [[baigne]] cette [[mer]].
+# {{lexique|marine|fr}} {{au pluriel}} [[sillage|Sillage]], [[houaiche]].
+# {{lexique|physiologie|fr}} [[fluide|Fluides]], [[sérosité]]s qui se trouvent ou qui se forment dans le [[corps]] de l’[[être humain]] ou de l’[[animal]].
+## [[salive|Salive]].
+##* {{exemple|Comme un flot grossi par la fonte<br>Des glaciers grondants,<br>Quand l’'''eau''' de ta bouche remonte<br>Au bord de tes dents,<br>Je crois boire un vin de bohême,<br>Amer et vainqueur,<br>Un ciel liquide qui parsème<br>D’étoiles mon cœur&nbsp;!|source={{w|Charles Baudelaire}}, ''{{w|Le Serpent qui danse}}'', dans {{w|Les Fleurs du mal}}, éd. 1861|lang=fr}}
+## {{lexique|reproduction|fr}} {{au pluriel}} [[liquide amniotique|Liquide amniotique]] qui est [[exhalé]] par l’[[amnios]] et qui [[environne]] le [[fœtus]] pendant toute la durée de la [[gestation]].
+##* {{exemple|La face interne de l’amnios est libre, lisse, semblable à la face interne des séreuses&nbsp;; c’est elle qui sécrète probablement les '''eaux''' de l’amnios, qui remplissent la poche que forme cette membrane et dans lesquelles nage le foetus. |source=Ernest-Alexandre Lauth, ''Nouveau manuel de l’anatomiste'',2e édition, Paris & Strasbourg : chez Berger-Levrault, 1835, page 597|lang=fr}}
+##* {{exemple|J’avais perdu les '''eaux''' mais y avait rien. J’étais pas trempée, rien. Mais j’étais allée aux toilettes avant de partir à l’hôpital, donc peut-être que c’est là que j’ai perdu les '''eaux''', sans m’en rendre compte. |source=Julie Ancian, ''Les Violences inaudibles: Récits d’infanticides'', Éditions du Seuil, 2022|lang=fr}}
+## [[sueur|Sueur]].
+##* {{exemple|Lui qui transpire si peu de manière générale, est en '''eau'''. La sueur suinte de son front, lui pique les yeux. |source=Richard Caron, ''De la poudre et des balles'', Éditions Fleuve Noir, 1967, chapitre 9|lang=fr}}
+##* {{exemple|Le cheval était en '''eau'''&nbsp;; la sueur et la poussière lui dégoulinaient des flancs en une pommade crayeuse. | source=Gérard Boutet, ''La guerre en sabots'', Éditions Jean-Cyrille Godefroy, 1984, chapitre 12|lang=fr}}
+# {{au pluriel}} {{lexique|médecine|fr}} [[sources|Sources]] qui, [[passer|en passant]] dans l’[[intérieur]] de la [[terre]] [[au travers de]]s [[minéraux]], [[contracter|ont contracté]] quelque [[vertu]] [[médicinale]], et dont on fait [[usage]], soit en s’y baignant, soit en les prenant comme [[boisson]]. {{par extension|fr}} [[lieu|Lieu]] où l’on va prendre ces eaux.
+# [[liquide|Liquide]] [[artificiel]] [[extrait]] d’une substance par [[distillation]], [[décoction]], ou [[expression]], ou [[composé]] de [[différent]]es substances.
+# {{figuré|fr}} [[flux|Flux]]&nbsp;; [[flot]]&nbsp;; [[courant]].
+# Désigne des couleurs, en particulier un [[vert]] pâle et doux. {{couleur|#B0F2B6}} . —&nbsp;{{note}} Voyez ''[[couleur d’eau]] ''et ''[[vert d’eau]]''.
+# [[lustre|Lustre]], [[brillant]] qu’ont les [[perle]]s, les [[diamant]]s et quelques autres [[pierreries]].
+# {{désuet|nocat}}<!-- Est-ce vraiment un sens distinct? Chealer 20250408 --> {{w|Élément primordial}} de l’univers, dans certaines [[cosmogonie]]s.
+
+==== {{S|synonymes}} ====
+{{(|Liquide}}
+* [[agoua]] {{archaïsme|nocat=1}} {{argot|nocat=1}}
+* [[château la pompe]] {{par plaisanterie|nocat=1}}
+* [[flotte]] {{familier|nocat=1}}
+* [[jus de parapluie]] {{par plaisanterie|nocat=1}}
+* [[sirop d’ablette]] {{par plaisanterie|nocat=1}}
+* [[sirop de parapluie]] {{par plaisanterie|nocat=1}}
+{{)}}
+{{(|Étendues liquides naturelles}}
+* [[flotte]] {{familier|nocat=1}}
+* [[baille]] {{argot|nocat=1}}
+* [[onde]] {{poétique|nocat=1}}
+{{)}}
+{{(|Composé chimique}}
+* {{lien|acide hydroxyque}} {{rare|nocat=1}} {{par plaisanterie|nocat=1}}
+* {{lien|acide oxhydrique}} {{rare|nocat=1}} {{par plaisanterie|nocat=1}}
+* [[hydrogénol]]  {{par plaisanterie|nocat=1}}
+* {{lien|hydroxyde d’hydrogène}} {{rare|nocat=1}} {{par plaisanterie|nocat=1}}
+* {{lien|hydroxyde d’oxonium}} {{rare|nocat=1}} {{par plaisanterie|nocat=1}}
+* {{lien|monoxyde de dihydrogène}} {{rare|nocat=1}} {{par plaisanterie|nocat=1}}
+* {{lien|oxyde d’hydrogène}} {{rare|nocat=1}}
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(|largeur=16em|Ne commençant pas par EAU|fermer=1}}
+* [[à fleur d’eau]]
+* [[à grande eau]]
+* [[à l’eau de rose]]
+* [[abeille d’eau]]
+* [[adoucisseur d’eau]]
+* [[aller à la bonne eau]]
+* [[aller à vau-l’eau]]
+* [[aller aux eaux]]
+* [[apporter de l’eau à son moulin]]
+* [[araignée d’eau]]
+* [[arrivée d’eau]]
+* [[aspic d’eau]]
+* [[aspirateur eau et poussière]]
+* [[au fil de l’eau]]
+* [[avion bombardier d’eau]]
+* [[avoine d’eau]]
+* [[avoir bu l’eau des nouilles]]
+* [[avoir de l’eau dans la cave]]
+* [[azolla fougère d’eau]]
+* [[ballon d’eau chaude]]
+* [[banane d’eau]]
+* [[bar à eau]], [[bar à eaux]]
+* [[basses eaux]]
+* [[battre l’eau]]
+* [[battre l’eau avec un bâton]]
+* [[battre l’eau dans un mortier]]
+* [[bélier à eau]]
+* [[benoîte d’eau]] / [[benoite d’eau]]
+* [[blanc d’eau]]
+* [[bloc-eau]]
+* [[bois d’eau]]
+* [[boite à eau]] {{ortho1990}}
+* [[boîte à eau]] 
+* [[bombe à eau]]
+* [[Bonneuil-les-Eaux]]
+* [[bouillon d’eau]]
+* [[brède liseron d’eau]]
+* [[buffle d’eau]]
+* [[buveur d’eau]]
+* [[canon à eau]]
+* [[Capesterre-Belle-Eau]]
+* [[carafe d’eau]]
+* [[carré d’eau]]
+* [[carrosse d’eau]]
+* [[centimètre d’eau]]
+* [[cerf d’eau]]
+* [[cerf d’eau chinois]]
+* [[cerf d’eau de Chine]]
+* [[Challes-les-Eaux]]
+* [[chambre d’eau]]
+* [[chanvre d’eau]]
+* [[chardonneret d’eau]]
+* [[chasse d’eau]]
+* [[châtaigne d’eau]]
+* [[châtaigne d’eau chinoise]]
+* [[château d’eau]]
+* [[chauffe-eau]]
+* [[chef d’eau]]
+* [[chenille d’eau]]
+* [[Chèvre d’Eau]]
+* [[chie-dans-l’eau]]
+* [[chien d’eau]]
+* [[chien d’eau américain]]
+* [[chien d’eau espagnol]]
+* [[chien d’eau frison]]
+* [[chien d’eau portugais]]
+* [[chute d’eau]]
+* [[clair comme de l’eau de roche]]
+* [[cluster d’eau]]
+* [[cobra d’eau]]
+* [[coche d’eau]]
+* [[cochon d’eau]]
+* [[colibri vert-d’eau]]
+* [[colonne d’eau]]
+* [[compteur à eau]]
+* [[compteur d’eau]]
+* [[couleur d’eau]]
+* [[couleuvre d’eau]]
+* [[coup d’épée dans l’eau]]
+* [[cours d’eau]]
+* [[coûter sang et eau]]
+* [[criquet d’eau]]
+* [[crochet goutte d’eau]]
+* [[cruche à eau]]
+* [[cuve à eau]]
+* [[cycle de l’eau]]
+* [[daim d’eau]]
+* [[dame des eaux]]
+* [[dans ces eaux-là]]
+* [[dans les mêmes eaux]]
+* [[découvrir que l’eau mouille]]
+* [[dégâts des eaux]]
+* [[de la même eau]]
+* [[de la plus belle eau]]
+* [[de l’eau à boire]]
+* [[donner cours à l’eau]]
+* [[dragon d’eau]]
+* [[dragon vert d’eau]]
+* [[droit d’eau]]
+* [[écuelle d’eau]]
+* [[écuelle d’eau américaine]]
+* [[écuelle d’eau du Brésil]]
+* [[électrolyse alcaline de l’eau]]
+* [[en eau]]
+* [[en eau de boudin]]
+* [[en feuille d’eau]]
+* [[en deux eaux]]
+* [[entre deux eaux]]
+* [[épagneul d’eau irlandais]]
+* [[épancher de l’eau]] ''(uriner)''
+* [[épée d’eau]]
+* [[épée d’eau à large feuille]]
+* [[épée d’eau cordiforme]]
+* [[épée d’eau de Grisebach]]
+* [[épée d’eau naine]]
+* [[épreuve de l’eau bouillante]]
+* [[épreuve de l’eau froide]]
+* [[escalier d’eau]]
+* [[esprit de l’eau]]
+* [[esprit des eaux]]
+* [[étendue d’eau]]
+* [[être à l’eau]]
+* [[être au pain et à l’eau]]
+* [[être au pain sec et à l’eau]]
+* [[être clair comme de l’eau de roche]]
+* [[être comme un poisson dans l’eau]]
+* [[être le bec dans l’eau]], à l’eau
+* [[extincteur à eau]]
+* [[faire eau]]
+* [[faire de l’eau]]
+* [[faire de l’eau claire]]
+* [[faire des ronds dans l’eau]]
+* [[faire venir l’eau au moulin]]
+* [[faisan d’eau]]
+* [[faux rat d’eau]]
+* [[fenêtre de l’eau]]
+* [[fenouil d’eau]]
+* [[feuille d’eau]]
+* [[fil d’eau]]
+* [[filet d’eau]]
+* [[filtre à eau]]
+* [[fine à l’eau]]
+* [[flambe d’eau]]
+* [[flaque d’eau]]
+* [[flèche d’eau]]
+* [[fleur d’eau d’algues bleu-vert]]
+* [[fondre en eau]]
+* [[fontaine à eau]]
+* [[Forges-les-Eaux]]
+* [[Fort-de-l’Eau]]
+* [[fougère d’eau]]
+* [[fougère d’eau à poils rudes]]
+* [[fougère d’eau à quatre feuilles]]
+* [[fougère d’eau alpine]]
+* [[fougère d’eau de Nouvelle-Zélande]]
+* [[front d’eau]]
+* [[fuite d’eau]]
+* [[fusée à eau]]
+* [[gallinule poule d’eau]]
+* [[garder la tête hors de l’eau]]
+* [[gare d’eau]]
+* [[gens de de-là l’eau]]
+* [[gestion de l’eau]]
+* [[gibier d’eau]]
+* [[glace à l’eau]]
+* [[glissade d’eau]]
+* [[glissoire d’eau]]
+* [[goutte d’eau]]
+* [[goutte d’eau dans la mer]]
+* [[grandes eaux]]
+* [[gros de l’eau]]
+* [[guêpe d’eau]]
+* [[guib d’eau]]
+* [[guide-eau]]
+* [[heureux comme un poisson dans l’eau]]
+* [[hautes eaux]]
+* [[hauteur d’eau]]
+* [[herbe d’eau]]
+* [[hibiscus d’eau]]
+* [[horloge à eau]]
+* [[hors d’eau]]
+* [[hysope d’eau]]
+* [[hysope d’eau d’Afrique]]
+* [[igname d’eau]]
+* [[iris d’eau]]
+* [[jacinthe d’eau]]
+* [[jardin d’eau]]
+* [[jet d’eau]]
+* [[jet d’eau marin]]
+* [[jonc d’eau]]
+* (donner, faire venir, avoir) [[l’eau à la bouche]]
+* [[la goutte d’eau qui fait déborder le vase]]
+* [[lac du Coq d’Eau]]
+* [[lâcher de l’eau]]
+* [[laisser courir l’eau]]
+* [[laitue d’eau]]
+* [[lame d’eau]]
+* [[Le Revest-les-Eaux]]
+* [[lentille-d’eau]], [[lentille d’eau]]
+* [[lentille d’eau à nombreuses racines]]
+* [[lentille d’eau bossue]]
+* [[lentille d’eau sans racines]]
+* [[les-Eaux]], [[des-Eaux]]
+* [[lézard d’eau]]
+* [[liane d’eau]]
+* [[lièvre d’eau]]
+* [[ligne d’eau]]
+* [[ligne de partage des eaux]]
+* [[limace d’eau]]
+* [[lis d’eau]]
+* [[liseron d’eau]]
+* [[lit à eau]]
+* [[literie à eau]]
+* [[lustre d’eau]]
+* [[lys d’eau]]
+* [[lys d’eau de Thaïlande]]
+* [[lys d’eau rhéophyte]]
+* [[macaron d’eau]]
+* [[main d’eau]]
+* [[Marcols-les-Eaux]]
+* [[masse d’eau]]
+* [[matelas à eau]]
+* [[mauvaises eaux]]
+* [[melon d’eau]]
+* [[menthe à l’eau]]
+* [[menthe d’eau]]
+* [[merle d’eau]]
+* [[mettre de l’eau dans son vin]]
+* [[mettre l’eau à la bouche]]
+* [[miroir d’eau]]
+* [[mise en eau]]
+* [[mite d’eau]]
+* [[mocassin d’eau]]
+* [[montée des eaux]]
+* [[morte eau]]
+* [[morte-eau]]
+* [[Morteau]]
+* [[moteur à eau]]
+* [[moto d’eau]]
+* [[mouche d’eau]]
+* [[moulin à eau]]
+* [[mouron d’eau]]
+* [[nage en eau libre]]
+* [[nager entre deux eaux]]
+* [[natation en eau libre]]
+* [[ne pas avoir inventé l’eau chaude]]
+* [[ne pas avoir inventé l’eau sucrée]]
+* [[ne pas avoir inventé l’eau tiède]]
+* [[ne pas gagner l’eau qu’on boit]]
+* [[ne pas voir l’eau dans le Rhône]]
+* [[niveau à eau]]
+* [[Notre-Dame-sur-l’Eau]]
+* [[noyé-d’eau]]
+* [[noyer son vin d’eau]]
+* [[oiseau d’eau]]
+* [[orchidée d’eau]]
+* [[pare-eau]]
+* [[passage d’eau]]
+* [[patience d’eau]]
+* [[patineur d’eau]]
+* [[pêcher en eau trouble]]
+* [[peinture à l’eau]]
+* [[pente d’eau]]
+* [[perdre les eaux]]
+* [[perroquet d’eau]]
+* [[peste-d’eau]]
+* [[petite lentille d’eau]]
+* [[pièce d’eau]]
+* [[pieds dans l’eau]], [[les pieds dans l’eau]]
+* [[pierre à eau]]
+* [[pile à eau]]
+* [[piler de l’eau dans un mortier]]
+* [[pipe à eau]]
+* [[pipe d’eau]]
+* [[piste d’eau]]
+* [[pistolet à eau]]
+* [[plan d’eau]]
+* [[plantain d’eau]]
+* [[plantain d’eau à feuilles de graminées]]
+* [[plantain d’eau à feuilles lancéolées]]
+* [[plantain d’eau commun]]
+* [[plongée d’eau]]
+* [[poche à eau]]
+* [[poche des eaux]]
+* [[point d’eau]]
+* [[poire à eau]]
+* [[poivre d’eau]]
+* [[pomme d’eau]]
+* [[pommier d’eau]]
+* [[pompe à eau]]
+* [[porter de l’eau à la mer]]
+* [[porter de l’eau à la rivière]]
+* [[porteur d’eau]]
+* [[poste d’eau]]
+* [[pot à eau]]
+* [[pou d’eau]]
+* [[poudrerie d’eau]]
+* [[Pougues-les-Eaux]]
+* [[poule d’eau]]
+* [[poule d’eau noire]]
+* [[première eau]]
+* [[prendre l’eau]]
+* [[prendre les eaux]]
+* [[prise d’eau]]
+* [[puce d’eau]]
+* [[puceron d’eau]]
+* [[puits à eau]]
+* [[punaise d’eau]]
+* [[rabat-eau]]
+* [[radiateur à eau]]
+* [[râle d’eau]]
+* [[rat d’eau]]
+* [[rat d’eau australien]]
+* [[rat d’eau de Gojan]]
+* [[réacteur à eau bouillante]]
+* [[réacteur à eau sous pression]]
+* [[réacteur refroidi à l’eau supercritique]]
+* [[relever l’eau]]
+* [[remontée d’eau]]
+* [[remontée des eaux froides]] {{info lex|océanographie}}
+* [[remonter sur l’eau]]
+* [[renard d’eau]]
+* [[RESC]] ([[réacteur refroidi à l’eau supercritique]])
+* [[revenir sur l’eau]]
+* [[rideau d’eau]]
+* [[Riel-les-Eaux]]
+* [[rompre l’eau]]
+* [[rompre l’eau à un cheval]]
+* [[roue à eau]]
+* [[route d’eau]]
+* [[rubanier d’eau]]
+* [[sac à eau]]
+* [[Saint-Alban-les-Eaux]]
+* [[Saint-Amand-les-Eaux]]
+* [[Saint-André-des-Eaux]]
+* [[Saint-Martin-les-Eaux]]
+* [[salade d’eau]]
+* [[salle d’eau]]
+* [[saphir d’eau]]
+* [[sapin d’eau]]
+* [[sarigue d’eau]]
+* [[sauce d’eau]]
+* [[scie à eau]]
+* [[scierie à eau]]
+* [[scooter d’eau]]
+* [[scorpion d’eau]]
+* [[sortir la tête de l’eau]]
+* [[se jeter à l’eau]]
+* [[se noyer dans un plat d’eau]]
+* [[se noyer dans un verre d’eau]]
+* [[se sortir la tête de l’eau]]
+* [[se ressembler comme deux gouttes d’eau]]
+* [[serpent d’eau]]
+* [[serpent maître des eaux]]
+* [[servitude d’eau]]
+* [[signe d’eau]]
+* [[ski d’eau]]
+* [[souris d’eau]]
+* [[souris d’eau éthiopienne]]
+* [[stade d’eau vive]]
+* [[suer sang et eau]]
+* [[supplice de l’eau]]
+* [[tapis d’eau]]
+* [[taro d’eau]] 
+* [[tâter l’eau]]
+* [[tarte à l’eau]]
+* [[tempête dans un verre d’eau]]
+* [[tenir l’eau]]
+* [[tenir le bec dans l’eau]]
+* [[thermomètre à eau]]
+* [[tirant d’eau]]
+* [[tirant d’eau critique]]
+* [[tirer de l’eau]]
+* [[tomber à l’eau]]
+* [[tomber de l’eau]]
+* [[tonne à eau]]
+* [[tortue d’eau]]
+* [[train d’eau]]
+* [[traitement de l’eau]]
+* [[trèfle d’eau]]
+* [[trompe à eau]]
+* [[trou d’eau]]
+* [[troubler l’eau]]
+* [[tulipe d’eau]]
+* [[vache à eau]]
+* [[vapeur d’eau]]
+* [[vélo d’eau]]
+* [[ver d’eau]]
+* [[véronique mouron d’eau]]
+* [[véronique faux mouron d’eau]]
+* [[verre à eau]]
+* [[verre d’eau]] (= [[glace amorphe]])
+* [[Verseau]]
+* [[vert d’eau]]
+* [[vif de l’eau]]
+* [[ville d’eau]], [[ville d’eaux]]
+* [[vis à eau]]
+* [[vive eau]]
+* [[vive-eau]]
+* [[vivre d’amour et d’eau fraîche]]
+* [[voie d’eau]]
+* [[voiture d’eau]]
+* [[y avoir de l’eau dans le gaz]]
+{{)}}
+{{(|largeur=16em|Commençant par EAU|fermer=1}}
+* [[eau à ressort]]
+* [[eau allante]]
+* [[eau alumineuse]]
+* [[eau anglaise]]
+* [[eau ardente]]
+* [[eau aromatique]]
+* [[eau attisée]]
+* [[eau baptismale]]
+* [[eau battue]]
+* [[eau bénite]]
+* [[eau bénite de cave]]
+* [[eau bénite de cour]]
+* [[eau blanche]]
+* [[Eau Blanche]]
+* [[eau boriquée]]
+* [[Eau Bourde]]
+* [[eau capillaire]]
+* [[eau céleste]]
+* [[eau chargée]]
+* [[eau chaude]]
+* [[eau clairette]]
+* [[eau cordiale]]
+* [[eau cosmétique]]
+* [[eau courante]]
+* [[eau croupie]]
+* [[eau d’abricots]]
+* [[eau d’alun]]
+* [[eau d’ammoniaque]]
+* [[eau d’ange]]
+* [[eau d’angélique]]
+* [[eau d’anis]]
+* [[eau d’arquebusade]]
+* [[eau de betterave]]
+* [[eau de blanc d’œuf]]
+* [[eau de blanchiment]]
+* [[eau de boisson]]
+* [[eau de boule]]
+* [[eau de bouleau]]
+* [[eau de cannelle]], [[eau de canelle]]
+* [[eau de cerfeuil]]
+* [[eau de cerise]], [[eau de cerises]]
+* [[eau de cète]]
+* [[eau de chaux]]
+* [[eau de chicorée]]
+* [[eau de chlore]]
+* [[eau de citron]]
+* [[eau de clou de girofle]]
+* [[eau de coco]]
+* [[eau de Cologne]]
+* [[eau de concombre]]
+* [[eau de constitution]]
+* [[eau de coquelicot]]
+* [[eau de coriandre]]
+* [[eau de corne de cerf]]
+* [[eau de départ]]
+* [[eau de fenouil]]
+* [[eau de feu]]
+* [[eau de fleur d’orange]]
+* [[eau de fleur d’oranger]]
+* [[eau de fleurs d’oranger]]
+* [[eau de fonte]]
+* [[eau de forage]]
+* [[eau de fraise]]
+* [[eau de framboise]]
+* [[eau de frangipane]]
+* [[eau de genevre]]
+* [[eau de goudron]]
+* [[eau de Goulard]]
+* [[eau de groseille]]
+* [[eau de Hongrie]]
+* [[eau de Javel]]
+* [[eau de jouvence]]
+* [[eau de la reine de Hongrie]]
+* [[eau de Labarraque]]
+* [[eau de lavande]]
+* [[eau de légumes]]
+* [[eau de lessive]]
+* [[eau de lune]], [[eau de Lune]]
+* [[eau de mélisse]]
+* [[eau de mer]]
+* [[eau de mer salée]] (urine)
+* [[eau de miel]]
+* [[eau de naffe]]
+* [[eau de naphe]]
+* [[eau de Noël]]
+* [[eau de noyau]]
+* [[eau de Pâques]]
+* [[eau de parfum]]
+* [[eau de pesches]]
+* [[eau de pimprenelle]]
+* [[eau de plantain]]
+* [[eau de pluie]]
+* [[eau de poires musquées]]
+* [[eau de Portugal]]
+* [[eau de potasse]]
+* [[eau de poulet]]
+* [[eau de process]]
+* [[eau de Rabel]]
+* [[eau de réglisse]]
+* [[eau de repassage]]
+* [[eau de rétention]]
+* [[eau de riz]]
+* [[eau de riz brûlé]]
+* [[eau de roche]]
+* [[eau de rose]]
+* [[eau de roussie]]
+* [[eau de ruissellement]]
+* [[eau de sainte Geneviève]]
+* [[eau de Saturne]]
+* [[eau de saule]]
+* [[eau de savon]]
+* [[eau de Seltz]], [[eau de Selz]], [[eau de selz]]
+* [[eau de senteur]]
+* [[eau de séparation]]
+* [[eau de soude]]
+* [[eau de soufre]]
+* [[eau de source]]
+* [[eau de suie]]
+* [[eau de tabac]]
+* [[eau de table]]
+* [[eau de toilette]]
+* [[eau de tremble]]
+* [[eau de vaches]]
+* [[eau de vaisselle]]
+* [[eau de veau]]
+* [[eau de Vichy]]
+* [[eau-de-vie]], [[eau de vie]]
+* [[eau de ville]]
+* [[eau de Villée]]
+* [[eau de violette]]
+* [[eau d’église]]
+* [[eau déminéralisée]]
+* [[eau d’érable]]
+* [[eau des Carmes]]
+* [[eau des deux champions]]
+* [[eau des équinoxes]]
+* [[eau des Hunzas]]
+* [[eau des microcosmes]]
+* [[eau des philosophes]]
+* [[eau des sases]]
+* [[eau d’exhaure]]
+* [[Eau d’Heure]]
+* [[eau distillée]]
+* [[eau divine]]
+* [[eau dorée]]
+* [[eau d’or]]
+* [[eau d’orange]]
+* [[eau d’orge]]
+* [[eau dormante]]
+* [[eau douce]]
+* [[eau du robinet]]
+* [[eau dure]]
+* [[eau écarlate]]
+* [[eau éclairée]]
+* [[eau embrassée]]
+* [[eau en bouteille]]
+* [[eau enthousiaste]]
+* [[eau ferrée]]
+* [[eau ferrugineuse]]
+* [[eau florale]]
+* [[eau-forte]]
+* [[eau-fortier]]
+* [[eau fossile]]
+* [[Eau Froide]]
+* [[eau gallée]]
+* [[Eau Gallée]]
+* [[eau gazeuse]]
+* [[eau glycolée]]
+* [[eau gommée]]
+* [[eau gravitaire]]
+* [[eau hydrogénée]]
+* [[eau hygroscopique]]
+* [[eau hyperlourde]]
+* [[eau impériale]]
+* [[eau industrielle]]
+* [[eau iodée]]
+* [[eau japonaise]]
+* [[eau légère]]
+* [[eau libre]]
+* [[eau liée]]
+* [[eau lourde]]
+* [[eau marine]]
+* [[eau mère]]
+* [[eau météorique]]
+* [[eau minérale]]
+* [[eau micellaire]]
+* [[eau mondifiée]]
+* [[eau morte]]
+* [[eau mouillante]]
+* [[eau mouillée]]
+* [[eau naturelle]]
+* [[Eau Noire]]
+* [[eau osmosée]]
+* [[eau oxygénée]]
+* [[eau panée]]
+* [[eau pétillante]]
+* [[eau phagidénique]]
+* [[eau philosophique]]
+* [[eau phlegmatique]]
+* [[eau plate]]
+* [[eau pluviale]]
+* [[eau polluée]]
+* [[eau potable]]
+* [[eau pure]]
+* [[eau régale]]
+* [[eau repassée]]
+* [[eau rose]]
+* [[Eau Rouge]]
+* [[eau rouillée]]
+* [[eau salée]]
+* [[eau sanitaire]]
+* [[eau saumâtre]]
+* [[eau seconde]]
+* [[eau sédative]]
+* [[eau semi-lourde]]
+* [[eau simple]]
+* [[eau somache]]
+* [[eau souriante]]
+* [[eau stagnante]]
+* [[eau stygienne]]
+* [[eau styptique]]
+* [[eau super-lourde]]
+* [[eau thermale]]
+* [[eau thiriacale]]
+* [[eau tonique]]
+* [[eau tritiée]]
+* [[eau trouble]]
+* [[eau végétale]]
+* [[eau-versant]]
+* [[eau vinaigrée]]
+* [[eau vive]]
+* [[eau vulnéraire]]
+* [[Eaubonne]]
+* [[eaux alexitères]]
+* [[eaux arthritiques]]
+* [[Eaux-Bonnes]]
+* [[eaux cardiaques]]
+* [[eaux céphaliques]]
+* [[eaux colorées]]
+* [[eaux cordiales]]
+* [[Eaux et Forêts]]
+* [[eaux glacées]]
+* [[eaux grasses]]
+* [[eaux grises]]
+* [[eaux hépatiques]]
+* [[eaux hystériques]]
+* [[eaux intérieures]]
+* [[eaux-mères]]
+* [[eaux internationales]]
+* [[eaux néphrétiques]]
+* [[eaux noires]]
+* [[eaux ophtalmiques]]
+* [[eaux pluviales]]
+* [[eaux primordiales]]
+* [[eaux résiduaires]]
+* [[eaux spécifiques]]
+* [[eaux splenitiques]]
+* [[eaux stomachiques]]
+* [[eaux temporaires]]
+* [[eaux territoriales]]
+* [[eaux usées]]
+* [[eaux-vannes]]
+{{)}}
+
+==== {{S|apparentés}} ====
+{{(}}
+* [[éveux]]
+* [[évier]]
+* [[gouache]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+{{(}}
+* [[aqu-]]
+* [[aqua-]]
+* [[aqui-]]
+* [[déverser]]
+* [[hydr-]]
+* [[hydro-]]
+* [[submerger]]
+{{)}}
+
+* {{voir thésaurus|fr|automobile|bière (boisson)|boisson|eau|pluie|pain|champignon|urine|quenelle|manioc|pâtes alimentaires|vase grec|thé|sauce|maçonnerie|cure thermale|café (boisson)|tonneau|Mars (planète)|matière fécale|opale|vodka|cocktail (boisson)|soda|saké|châtaigne|lait|pieuvre|fleuve|pompiers|humidité|saucisse|rose (fleur)|nutrition|vie quotidienne|écologie végétale|sacrifice|pinceau|écologie|traitement de l’eau|divination|mésologie|écosystème|environnement|oasis|succession écologique|paysage aquatique|ressources naturelles|eau potable|milieu naturel|hydrographie|Terre|écotoxicologie|hydrologie|savonnerie|parfumerie|salaison|photosynthèse|cycle de l’eau|enseignement agricole|politique agricole|économie agricole|télédétection|incendie|irrigation|hydraulique|drainage|racisme|sécheresse|tisane|tofu|viennoiserie|hygiène des mains|biofilm|pollution de l’eau|protection de l’environnement|croissance végétale}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[c’est le feu et l’eau]]
+* [[chat échaudé craint l’eau froide]]
+* [[compte là-dessus et bois de l’eau]]
+* [[de l’eau a coulé sous les ponts]]
+* [[de l’eau est passée sous les ponts]]
+* [[gare l’eau]]
+* [[il faut se méfier de l’eau qui dort]]
+* [[il ne faut pas dire : fontaine, je ne boirai pas de ton eau]]
+* [[il n’est pire eau que l’eau qui dort]]
+* [[il n’y a pas de l’eau à boire]]
+* [[il n’y a pire eau que l’eau qui dort]]
+* [[l’eau coule sous les ponts]]
+* [[l’eau va toujours à la rivière]]
+* [[tant va la cruche à l’eau qu’à la fin elle se brise]]
+* [[tant va la cruche à l’eau qu’à la fin elle se casse]]
+{{)}}
+
+==== {{S|hyperonymes}} ====
+* élément primordial
+
+: ''Liquide'' (1) <nowiki>:</nowiki>
+* [[liquide]]
+: ''Substance pure'' (3) <nowiki>:</nowiki>
+* [[oxyde]]
+
+==== {{S|hyponymes}} ====
+{{(|liquide}}
+* [[eau continentale]]
+* [[eau de forage]]
+* [[eau de mer]]
+* [[eau de pluie]]
+* [[eau douce]]
+* [[eau salée]]
+* [[eau minérale]]
+* [[eau gazeuse]]
+* [[eau plate]]
+* [[eau vive]]
+{{)}}
+{{(|liqueur artificielle}}
+* [[eau de boule]]
+* [[eau de Cologne]]
+* [[eau de feu]]
+* [[eau de goudron]]
+* [[eau de Javel]]
+* [[eau de rose]]
+* [[eau de toilette]]
+* [[eau-de-vie]]
+* [[eau hyperlourde]]
+* [[eau lourde]]
+* [[eau mère]]
+* [[eau oxygénée]]
+* [[eau semi-lourde]]
+{{)}}
+
+==== {{S|holonymes}} ====
+: ''Substance pure'' (3) :
+* [[solution aqueuse]]
+
+==== {{S|méronymes}} ====
+{{(|substance pure}}
+* [[hydrogène]]
+* [[oxygène]]
+{{)}}
+
+==== {{S|dérivés autres langues}} ====
+{{(}}
+* {{L|gcf}} : {{lien|dlo|gcf}}
+* {{L|gcr}} : {{lien|dlo|gcr}}
+* {{L|ht}} : {{lien|dlo|ht}}
+* {{L|lou}} : {{lien|dlo|lou}}
+* {{L|rcf}} : {{lien|dlo|rcf}}
+* {{L|acf}} : {{lien|dlo|acf}}
+* {{L|kmv}} : {{lien|dlo|kmv}}, {{lien|djilo|kmv}}
+* {{L|crg}} : {{lien|lo|crg}}
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Liquide transparent|1|fermer=1}}
+* {{T|ar}} : {{trad+|ar|ماء|R=māʾ}}
+{{trad-fin}}
+
+{{trad-début|Pluie|2}}
+* {{T|ar}} : {{trad+|ar|مطر|R=maṭar|dif=مَطَر}}
+{{trad-fin}}
+
+{{trad-début|Substance pure de formule brute H<sub>2</sub>O|3}}
+{{trad-fin}}
+
+{{trad-début|Quantités ou étendues liquides naturelles|4}}
+{{trad-fin}}
+
+{{trad-début|Zone maritime considérée comme un territoire appartenant à tel ou tel pays|5}}
+{{trad-fin}}
+
+{{trad-début|Sillage, houaiche|6}}
+{{trad-fin}}
+
+{{trad-début|Fluides qui se trouvent ou qui se forment dans le corps de l’être humain ou de l’animal|7}}
+{{trad-fin}}
+
+{{trad-début|Salive|7a}}
+* {{T|ar}} : {{trad-|ar|لعم|tr=la'am}}, {{trad-|ar|لعاب|tr=lu'aèb}}
+{{trad-fin}}
+
+{{trad-début|Liquide amniotique|7b}}
+* {{cf|lang=fr|liquide amniotique}}
+{{trad-fin}}
+
+{{trad-début|Sueur|7c}}
+* {{T|ar}} : {{trad-|ar|عَرَق|tr='araq}}
+{{trad-fin}}
+
+{{trad-début|Sources qui ont contracté quelque vertu médicinale|8}}
+{{trad-fin}}
+
+{{trad-début|Liquide artificiel extrait d’une substance par distillation|9}}
+{{trad-fin}}
+
+{{trad-début|Flux ; flot ; courant|10}}
+{{trad-fin}}
+
+{{trad-début|Vert pâle et doux|11}}
+{{trad-fin}}
+
+{{trad-début|Lustre, brillant qu’ont les perles, les diamants, etc.|12}}
+{{trad-fin}}
+
+{{trad-début|Élément constitutif de l’univers dans certaines cosmologies|13}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|o|fr}}
+* {{écouter|lang=fr||o|audio=LL-Guilhelma-fr-eau.wav}}
+* {{écouter|lang=fr|France|o|audio=LL-Q150 (fra)-Fhala.K-eau.wav}}
+* {{écouter|lang=fr|France (Paris)|o|audio=LL-Q150 (fra)-GrandCelinien-eau.wav}}
+* {{écouter|lang=fr|France (Toulouse)|o|audio=LL-Q150 (fra)-Lepticed7-eau.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)|o|audio=LL-Q150 (fra)-0x010C-eau.wav}}
+* {{écouter|lang=fr|France (Vosges)|o|audio=LL-Q150 (fra)-Penegal-eau.wav}}
+* {{écouter|lang=fr||o|audio=LL-Q150 (fra)-DSwissK-eau.wav}}
+* {{écouter|lang=fr||o|audio=LL-Q150 (fra)-GAllegre-eau.wav}}
+* {{écouter|lang=fr||o|audio=LL-Q150 (fra)-WikiLucas00-eau.wav}}
+* {{écouter|lang=fr|France (Paris)|o|audio=LL-Q150 (fra)-Aemines1-eau.wav}}
+* {{écouter|lang=fr|France (Paris)|o|audio=LL-Q150 (fra)-Aemines2-eau.wav}}
+* {{écouter|lang=fr|France (Paris)|o|audio=LL-Q150 (fra)-Aemines3-eau.wav}}
+* {{écouter|lang=fr|France (Paris)|o|audio=LL-Q150 (fra)-Aemines5-eau.wav}}
+* {{écouter|lang=fr||o|audio=LL-Q150 (fra)-Aemines4-eau.wav}}
+* {{écouter|lang=fr|France (Paris)|ɔ|audio=LL-Q150 (fra)-Aemines6-eau.wav}}
+* {{écouter|lang=fr|France (Vosges)|o|audio=LL-Q150 (fra)-Poslovitch-eau.wav}}
+* {{écouter|lang=fr|France (Paris)|o|audio=LL-Q150 (fra)-Ash Crow-eau.wav}}
+* {{écouter|lang=fr|France (Vosges)|o|audio=LL-Q150 (fra)-LoquaxFR-eau.wav}}
+* {{écouter|lang=fr||o|audio=LL-Q150 (fra)-Madehub-eau.wav}}
+* {{écouter|lang=fr|France (Hérault)|o|audio=LL-Q150 (fra)-T. Le Berre-eau.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)|o|audio=LL-Q150 (fra)-Eihel-eau.wav}}
+* {{écouter|lang=fr||o|audio=LL-Q150 (fra)-Kaderousse-eau.wav}}
+* {{écouter|lang=fr|France (Metz)|o|audio=LL-Q150 (fra)-val (Eavq)-eau.wav}}
+* {{écouter|lang=fr|France|o|audio=LL-Q150 (fra)-Mecanautes-eau.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-eau.wav}}
+* {{écouter|lang=fr|France (Grabels)||audio=LL-Q150 (fra)-X3 (Destraak)-eau.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-eau.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-eau.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Roll-Morton-eau.wav}}
+* {{écouter|Évreux (France)||lang=fr|audio=LL-Q150 (fra)-X-Javier-eau.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-eau.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-eau.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-eau.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-eau.wav}}
+* {{écouter|Abidjan (Côte d'Ivoire)||lang=fr|audio=LL-Q150 (fra)-Axel toualy-eau.wav}}
+==== {{S|homophones|fr}} ====
+{{(}}
+* [[au]], [[aux]]
+* [[Aue]]
+* [[aulx]] (pluriel de ''[[ail]]'')
+* [[hau]]
+* [[haut]], [[hauts]]
+* [[ho]]
+* [[o]], [[O]]
+* [[ô]]
+* [[oh]]
+* [[Oh]]
+* [[Oô]]
+{{)}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Vikidia}}
+* {{Le Dico des Ados}}
+* [https://web.archive.org/web/20160609172154/https://sites.google.com/site/vocabulairealecole/familles-de-mots/famille-du-mot-eau famille du mot eau]
+* {{thésaurus|fr|eau}}
+* [[:Catégorie:Mythes et légendes en lien avec l’eau en français]]
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+==== {{S|sources}} ====
+{{Références}}
+
+==== {{S|bibliographie}} ====
+* {{R:Index-FEW|25|63|mot=aqua|ref=oui}}
+* {{R:TLFi}}
+
+{{Très bonne entrée|français}}
+
+[[Catégorie:Boissons en français]]
+[[Catégorie:Mots sans consonne en français]]
+[[Catégorie:Couleurs vertes en français]]
+[[Catégorie:Lexique en français de l’eau|*]]
+

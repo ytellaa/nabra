@@ -1,0 +1,131 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: ''([[#fr-nom-1|Nom 1]])'' {{siècle|lang=fr|X}} Du {{étyl|la|fr|mot=amicus|dif=amīcus}} de même sens, dérivé de ''[[amo#la|amare]]'' (« aimer »). Le féminin ''amie'' s’utilisait en ancien français avec les adjectifs possessifs ''[[ma]], [[ta]], [[sa]]'', qui subissaient alors normalement l’[[élision]] et l’on disait « m’amie », noté plus tard « ma [[mie]] ».
+: ''([[#fr-nom-2|Nom 2]])'' De l’{{étyl|en|fr|mot=Ami}}.
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-rég|a.mi}}
+'''ami''' {{pron|a.mi|fr}} {{m}}
+# Qui est [[bienveillant]], [[obligeant]], [[amical]].
+# [[propice|Propice]], [[favorable]]. {{note}} Ce sens n’est guère usité qu’en [[poésie]].
+# {{spécialement}} Qualifie des [[couleur]]s qui vont bien [[ensemble]] et dont l’[[union]] produit un effet agréable.
+
+==== {{S|antonymes}} ====
+* [[ennemi]]
+* [[inamical]]
+* [[hostile]]
+
+==== {{S|dérivés}} ====
+* [[feu ami]]
+* [[tir ami]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|amitié|média social|pique-nique|baiser|vie quotidienne}}
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|a.mi}}
+'''ami''' {{pron|a.mi|fr}} {{m}} {{équiv-pour|lang=fr|une femme|amie|2egenre=une personne non-binaire|2egenre1=amix|2egenre2=ami·e}}
+# Personne avec laquelle on est lié d’[[amitié]].
+# [[amoureux|Amoureux]], [[ami de cœur]], généralement avec qui l’on n’habite pas.
+# Celui qui a beaucoup d’[[attachement]] pour une chose, ou qui en a le [[goût]], la [[passion]].
+# [[allié|Allié]] ; [[personne]] ou chose qui est [[d’accord]].
+# {{vieilli|fr}} {{familier|fr}} Terme de [[condescendance]] dont on se sert en parlant à des [[inférieur]]s.
+# [[animal|Animal]] qui a de l’[[affection]] pour les [[homme]]s, ou pour qui l’homme a de l’affection.
+
+==== {{S|synonymes}} ====
+; ''Au sens de « compagnon de vie » ou d’« amoureux »'' :
+* [[achate]]
+* [[amant]], [[maîtresse]]
+* [[ami de cœur]]
+* [[chum]], [[blonde]] {{Québec|nocat=1}}
+* [[compagnon]]
+* [[concubin]] {{désuet|nocat=1}}
+* [[conjoint]]
+* [[conjoint de fait]] {{info lex|droit}}
+* [[copain]]
+* [[mari]], [[femme]]
+* [[petit ami]]
+
+==== {{S|antonymes}} ====
+* [[ennemi]]
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[ami-ami]]
+* [[ami de cœur]]
+* [[ami de la famille]]
+* [[ami Facebook]]
+* [[ami imaginaire]]
+* [[amiable]]
+* [[amical]]
+* [[amicale]]
+* [[amicalement]]
+* [[amitié]]
+* [[bon ami]], [[bonne amie]]
+* [[chambre d’ami]]
+* [[conseil d’ami]]
+* [[faux-ami]]
+* [[le meilleur ami de l’homme]]
+* [[petit ami]], [[petite amie]]
+* [[réami]]
+* [[se quitter bons amis]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[c’est dans le besoin que l’on reconnait ses amis]] {{ortho1990}}
+* [[c’est dans le besoin que l’on reconnaît ses amis]]
+* [[les amis de mes amis ne sont pas forcément mes amis]]
+* [[les amis de mes amis sont mes amis]]
+* [[les bons comptes font les bons amis]]
+* [[c’est pour un ami]]
+
+==== {{S|traductions}} ====
+{{trad-début|Personne avec laquelle on est lié d’amitié}}
+* {{T|ar}} : {{trad-|ar|صديق|m|tr=ṣadīq|dif=صَدِيق}}
+{{trad-fin}}
+
+{{trad-début|À trier}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+'''ami''' {{pron|a.mi|fr}} {{m}}, {{au singulier uniquement|fr}}
+# {{langues|fr}} Langue aborigène d’[[Australie]] parlée sur la côte d’Anson Bay au sud-ouest de [[Darwin]].
+
+==== {{S|notes}} ====
+: {{note code langue}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|a.mi|fr}}
+* {{écouter|lang=fr|France|ɛ̃n‿a.mi|titre=un ami|audio=Fr-ami.ogg}}
+* {{écouter|lang=fr|France (Lyon)|amiç|audio=LL-Q150 (fra)-Ltrlg-ami.wav}}
+* {{écouter|lang=fr|France (Vosges)|ami|audio=LL-Q150 (fra)-LoquaxFR-ami.wav}}
+* {{écouter|lang=fr|Belgique (Bruxelles)|ami|audio=Lang-fr-be ami.ogg}}
+* {{écouter|Québec (Canada)|ami|lang=fr|audio=LL-Q150 (fra)-Estrie-ami.wav}}
+* {{écouter|canton du Valais (Suisse)|ämi|lang=fr|audio=LL-Q150 (fra)-DSwissK-ami.wav}}
+* {{écouter|Cabestany (France)|a.mi|lang=fr|audio=LL-Q150 (fra)-Adem M. (BiblioCanet66)-ami.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-ami.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[ammi]]
+* [[amict]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+* {{catégorie langue|spéc1=d’Australie}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+{{Références}}
+

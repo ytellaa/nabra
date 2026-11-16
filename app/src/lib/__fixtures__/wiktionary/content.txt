@@ -1,0 +1,107 @@
+== {{langue|fr}} ==
+
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|mot=contentus|sens=content, satisfait}}.
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-cons|kɔ̃.tɑ̃|t}}
+'''content''' {{pron|kɔ̃.tɑ̃|fr}}
+# [[satisfait|Satisfait]], [[heureux]].
+# S’[[estimer|estimant]] [[beaucoup]], [[au-dessus]] de son [[mérite]].
+# Ne [[désirer|désirant]] [[rien]] de [[plus]] ou de [[mieux]].
+
+==== {{S|synonymes}} ====
+{{(}}
+* [[béat]]
+* [[bienheureux]]
+* [[comblé]]
+* [[enchanté]]
+* [[épanoui]]
+* [[gai]]
+* [[heureux]]
+* [[joyeux]]
+* [[ravi]]
+* [[réjoui]]
+* [[satisfait]]
+* [[jovial]]
+{{)}}
+
+==== {{S|antonymes}} ====
+* [[malheureux]]
+* [[mécontent]]
+* [[triste]]
+
+==== {{S|dérivés}} ====
+* [[contenter]]
+* [[contentement]]
+* [[hypercontent]]
+* [[malcontent]]
+* [[mécontent]]
+* [[mécontentement]]
+* [[non content de]]
+
+==== {{S|phrases}} ====
+* [[argent comptant fait content]]
+* [[le roi n’est pas plus content]]
+
+==== {{S|traductions}} ====
+{{trad-début|Satisfait, heureux|1}}
+* {{T|ar}} : {{trad+|ar|مسرور}}
+{{trad-fin}}
+
+{{trad-début|S’estimant beaucoup, au-dessus de son mérite|2}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début|À trier}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|kɔ̃.tɑ̃}}
+'''content''' {{pron|kɔ̃.tɑ̃|fr}} {{m}} {{s}}
+# Toute la [[quantité]] que l’on [[désire]].
+
+==== {{S|variantes orthographiques}} ====
+* [[comptant]]
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|conter|ind.p.3p=oui|sub.p.3p=oui}}
+'''content''' {{pron|kɔ̃t|fr}}
+# ''Troisième personne du pluriel de l’indicatif présent de'' [[conter]].
+# ''Troisième personne du pluriel du subjonctif présent de'' [[conter]].
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|kɔ̃.tɑ̃|fr}}
+{{note}} Un des rares [[:Catégorie:Homographes non homophones en français|exemples de mot français ayant deux prononciations]].
+
+''([[#fr-adj|Adjectif]], [[#fr-nom|Nom]])''
+* {{pron|kɔ̃.tɑ̃|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|kɔ̃.tɑ̃|audio=Fr-content.ogg}}
+
+''([[#fr-flex-verb|Forme de verbe]])''
+* {{pron|kɔ̃t|fr}}
+* {{écouter|lang=fr|France (Occitanie)|audio=LL-Q150 (fra)-Arthur Crbz-content.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-content.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-content.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-content.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-content.wav}}
+
+==== {{S|homophones|fr}} ====
+''([[#fr-adj|Adjectif]], [[#fr-nom|Nom]])''
+* [[contant]]
+* [[comptant]]
+
+''([[#fr-flex-verb|Forme de verbe]])''
+* [[comte]]
+* [[conte]]
+* [[compte]], [[comptes]], [[comptent]] (formes du verbe ''[[compter]]'')
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+{{Autres projets|w=Content}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+
+[[Catégorie:Homographes non homophones en français]]
+

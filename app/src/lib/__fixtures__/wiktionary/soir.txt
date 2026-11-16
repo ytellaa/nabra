@@ -1,0 +1,87 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|mot=sero|dif=sērō|sens=tard}}, de ''{{lien|serus|la}}'' (« tardif »).
+
+=== {{S|nom|fr}} ===
+{{fr-rég|swaʁ}}
+'''soir''' {{pron|swaʁ|fr}} {{m}}
+# [[déclin|Déclin]] du [[jour]], dernières [[heure]]s de la [[journée]].
+# [[période|Période]] qui s’écoule entre le [[coucher de soleil]] et à [[minuit]].
+
+==== {{S|synonymes}} ====
+* [[soirée]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[bonsoir]]
+* [[chaque soir que le bon Dieu fait]]
+* [[d’un soir]]
+* [[être du soir]]
+* [[grand soir]]
+* [[histoire du soir]]
+* [[journal du soir]]
+* [[robe du soir]]
+* [[soirée]]
+* [[soireux]]
+* [[soiriste]]
+* [[un beau soir]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[araignée du matin, chagrin, araignée du midi, souci, araignée du soir, espoir]]
+* [[doucement le matin, pas trop vite le soir]]
+* [[vivement ce soir, qu’on se couche]]
+
+==== {{S|vocabulaire}} ====
+* [[vespéral]] {{soutenu|nocat=1}}
+
+==== {{S|traductions}} ====
+{{trad-début|Soirée}}
+{{trad-fin}}
+
+{{trad-début|Avec le cadran de 12 heures}}
+{{trad-fin}}
+
+=== {{S|verbe|fr}} ===
+'''soir''' {{pron|swaʁ|fr}} {{conj|fr|grp=3|déf=1}} {{ortho1990|fr}}
+# ''Variante orthographique de'' [[seoir]].
+==== {{S|notes}} ====
+: La Banque de dépannage linguistique de l’Office québécois de la langue française décrivent cet infinitif en se référant aux [[w:Rectifications orthographiques du français en 1990|Rectifications orthographiques de 1990]]<ref>{{Lien web|auteur=Office québécois de la langue française|titre=Rectifications liées à la suppression d’anomalies|url=https://vitrinelinguistique.oqlf.gouv.qc.ca/23175/lorthographe/rectifications-de-lorthographe/rectifications-liees-aux-anomalies/rectifications-liees-a-la-suppression-danomalies|éditeur=Banque de dépannage linguistique|site=vitrinelinguistique.oqlf.gouv.qc.ca|consulté le=3 décembre 2024}}.</ref>. La neuvième édition du ''Dictionnaire de l’Académie française'' ne mentionne que la forme « seoir »<ref>{{Lien web|auteur=Académie française|titre=seoir|url=https://www.dictionnaire-academie.fr/article/A9S1259|site=dictionnaire-academie.fr|consulté le=3 décembre 2024}}.</ref>, contrairement à « asseoir/assoir » et « surseoir/sursoir ».
+
+=== {{S|prononciation}} ===
+* {{pron|swaʁ|fr}}
+* Canada : {{pron|swaːʁ|fr}}<ref>{{Lien web|auteur=Office québécois de la langue française|titre=Prononciation de la suite de lettres oi|url=https://vitrinelinguistique.oqlf.gouv.qc.ca/24522/la-prononciation/prononciation-de-certaines-lettres/prononciation-de-la-suite-de-lettres-oi|éditeur=Banque de dépannage linguistique|site=vitrinelinguistique.oqlf.gouv.qc.ca|consulté le=3 décembre 2024}}.</ref> ou {{pron|swɑʁ|fr}}{{R|Usito}}, {{pron|swɛʁ|fr}} {{familier|nocat=1}}
+* {{écouter|France (Paris)|lø swaʁ|titre=le soir|audio=Fr-soir.ogg|lang=fr}}
+* {{écouter||swaʁ|lang=fr|audio=Qc-soir.ogg}}
+* {{écouter||swaʁ|lang=fr|audio=LL-Q150 (fra)-Guilhelma-soir.wav}}
+* {{écouter|Québec (Gaspésie) {{popu|nocat=1}}|swɛʁ|audio=FR-Soir (Gaspésie).ogg|lang=fr}}
+* {{écouter||swaʁ|lang=fr|audio=LL-Q150 (fra)-Jules78120-soir.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-soir.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-soir.wav}}
+* {{écouter|lang=fr|France (Saint-Maurice-de-Beynost)|audio=LL-Q150 (fra)-Benoît Prieur-soir.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-soir.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-soir.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-soir.wav}}
+* {{écouter|Normandie (France)||lang=fr|audio=LL-Q150 (fra)-Roptat-soir.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-soir.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-soir.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[soirs#fr-flex-nom|soirs]], [[seoir#fr-verb|seoir]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Wikipédia|Soir}}
+* {{Wikisource|Soir}}
+* {{Wikiquote|Soir}}
+
+=== {{S|références}} ===
+{{Références}}
+* {{R:TLFi}}
+* {{R:Robert}}
+* {{R:Larousse}}
+
+[[Catégorie:Lexique en français du temps]]
+

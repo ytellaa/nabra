@@ -1,0 +1,667 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|frm|fr|pied}}, de l’{{étyl|fro|fr|pié}}, du {{étyl|la|fr|mot=pedem|dif=pĕdem}}, accusatif singulier de ''{{lien|pes|dif=pēs|la}}'', (« pied », « patte »).
+
+=== {{S|nom|fr}} ===
+{{fr-rég|pje}}
+'''pied''' {{pron|pje|fr}} {{m}}
+[[Fichier:Bare feet.JPG|thumb|Deux '''pieds''' (1).]]
+[[Image:Archimollusc-num.svg|thumb|En 18 : le '''pied''' (5) d’un [[mollusque]] théorique.]]
+# {{lexique|anatomie|fr}} [[partie|Partie]] du [[corps]] [[humain]] située à l’[[extrémité]] des [[jambes]].
+# {{par métonymie|fr}} [[chaussure|Chaussure]] correspondant à un pied particulier.
+# {{par extension}} {{lexique|cuisine|fr}} Membre [[cuisiné]] d’un animal.
+# {{par extension|fr}} {{lexique|chasse|fr}} [[trace|Trace]] de la [[bête]] qu’on [[chasser|chasse]].
+# {{lexique|zoologie|fr}} Organe musculeux typique chez les [[mollusques]] [[permettre|permettant]] le [[déplacement]] ou de se fixer.
+# [[partie|Partie]] non [[séparable]] d’une [[chose]] située à la [[base]].
+# {{lexique|architecture|fr}} Partie d’une [[construction]] proche du sol.
+# {{lexique|géographie|fr}} [[endroit|Endroit]] le plus [[bas]] d’un [[site]].
+# {{lexique|botanique|fr}} [[partie|Partie]] du [[tronc]] ou de la [[tige]] en rapport avec le sol. [[Image:Confinement 2020 - un pied de tomate.jpg|vignette|Un '''pied''' de tomate dans un potager (2c).]]
+# {{lexique|géométrie|mathématiques|fr}} [[point|Point]] d’une [[droite]] située à l’[[intersection]] avec une droite [[perpendiculaire]].
+# [[élément|Élément]] séparable [[soutenir|soutenant]] une chose et la [[lier|liant]] avec le sol<ref>[http://justinstorck.free.fr/p/pied.php Le Dictionnaire Pratique de Menuiserie - Ebénisterie - Charpente Par J. Justin Storck, édition de 1900 ]</ref>.
+# {{lexique|botanique|fr}} {{par extension|fr}} [[ensemble|Ensemble]] de la [[plante]].
+# {{lexique|viticulture|fr}} [[plant|Plant]] de la [[vigne]], [[cep]] de vigne.
+# {{lexique|jardinage|fr}} [[plante|Plante]] dans son ensemble.
+# {{lexique|mycologie|fr}} Partie du [[carpophore]] entre le sol et le chapeau.
+# {{term|ameublement|fr}} [[partie|Partie]] qui [[servir|sert]] à [[soutenir]] un objet [[mobilier]].
+# {{term|décoration|fr}} Partie d’un objet servant de [[base]].
+# {{lexique|musique|fr}} [[base|Base]] des [[tuyaux parlant]] de la [[facture d’orgues]].
+# {{unités|fr|de longueur}} [[unité de mesure|Unité de mesure]] de [[longueur]] valant, selon les lieux et les époques, 26,5 ({{lien|pied italique|fr|nom}}) à {{unité|32.7|{{lien|centimètre|fr|nom|dif=centimètres}}}} ({{lien|pied-de-roi|fr|nom}} avant 1668, {{lien|pied dorien-pheidonique|fr|nom}}).
+# {{en particulier|fr}} {{unités|fr}} {{term|Commonwealth}} [[unité|Unité]] de [[longueur]] du [[système]] [[impérial]] [[britannique]] ([[symbole]]s : [[ft]], {{lien|′|conv|symb}}) valant {{unité|30.48|cm}} ({{lien|pied impérial|fr|nom}}) . {{cf|lang=fr|foot}}.
+# {{désuet|fr}} Ancienne unité de [[mesure de longueur]] française (symbole : [[P]]).
+# {{lexique|linguistique|poésie|fr}} Unité [[rythmique]] d’un [[vers]] ou d’une [[phrase]] permettant la [[scansion]], comprenant un nombre déterminé de [[syllabe]]s.
+# {{familier|fr}} {{France|fr}} [[plaisir|Plaisir]] [[extrême]].
+# [[inclinaison|Inclinaison]] que l’on donne à des [[objet]]s pour [[assurer]] leur [[assise]], leur [[stabilité]].
+# [[représentation|Représentation]] [[entière]] d’un [[être]].
+# {{lexique|héraldique|fr}} ''Ours en '''pied''''' : [[ours|Ours]] [[debout]] ; on dit plus fréquemment ''ours [[levé]]''.
+# {{lexique|photographie|fr}} [[portrait|Portrait]] [[debout]].
+# {{figuré|fr}} Place qu'on commence à occuper dans un endroit.
+# [[statut|Statut]] ; condition sociale.
+# Conformément à ce qui a été établi.
+
+==== {{S|abréviations}} ====
+{{(|[[émoji|Émoji]]}}
+* [[👣]] (U+1F463) 
+* [[🦶]] (U+1F9B6)
+{{)}}
+{{(|Unité de mesure}}
+* {{lien|′|conv|symb}} pour le  pied impérial
+* {{lien|ft|conv|symb}} pour le  pied impérial
+* {{lien|P|conv|symb-4}} pour le pied de Paris
+{{)}}
+
+==== {{S|synonymes}} ====
+''Partie inférieure :''
+{{argot|nocat=1}}
+* [[arpion]]
+* [[nougat]]
+* [[panard]]
+* [[paturon]]
+{{familier|nocat=1}}
+* [[peton]]
+* [[ripaton]]
+* [[pinceau]]
+
+''Organe musculeux chez les mollusques :''
+* [[sole pédieuse]]
+
+''Chose très agréable :''
+* [[bonheur]]
+* [[panard]] {{familier|nocat=1}}
+
+''Partie d’un végétal au contact du sol''
+''Plant de vigne :''
+* [[cep]]
+
+''Plant d’une plante :''
+* [[plant]]
+
+''Assise :''
+* [[inclinaison]]
+* [[écartement]]
+* [[fruit]]
+* [[pente]]
+
+==== {{S|dérivés}} ====
+{{(|colonnes=2}}
+* [[accroche-pied]] {{Belgique|nocat=1}}
+* [[à clochepied]]
+* [[à pied]]
+* [[à pied d’œuvre]]
+* [[à pied sec]]
+* [[à pieds joints]]
+* [[à pieds nus]]
+* [[aller du même pied]]
+* [[aller d’un pied léger]]
+* [[antipied]]
+* [[appel du pied]]
+* [[appui-pied]]
+* [[arrache-pied]]
+* [[au petit pied]] ''(en petit)''
+* [[au pied levé]] ''(sur-le-champ)''
+* [[au pied]], [[aux pieds]]
+* [[au pied de la lettre]]
+* [[au pied du mur]]
+* [[avancer pied à pied]]
+* [[avant-pied]]
+* [[avec des pieds de plomb]]
+* [[avec les pieds]], [[avec ses pieds]]
+* [[avoir bon pied, bon œil]]
+* [[avoir le pied à l’étrier]]
+* [[avoir le pied fourchu]]
+* [[avoir le pied marin]]
+* [[avoir les deux pieds dans le même sabot]]
+* [[avoir les deux pieds sur terre]]
+* [[avoir les doigts de pied en éventail]]
+* [[avoir les pieds carrés]]
+* [[avoir les pieds gelés]]
+* [[avoir les pieds sur terre]]
+* [[avoir pied]]
+* [[avoir quatre pieds gauches]]
+* [[avoir toujours un pied en l’air]]
+* [[avoir un pied dans]]
+* [[avoir un pied dans la fosse]]
+* [[avoir un pied dans la tombe]]
+* [[bain de pieds]]
+* [[balle au pied]]
+* [[bête comme ses pieds]]
+* [[bille de pied]]
+* [[bipied]]
+* [[bon pied bon œil]]
+* [[bute-pied]]
+* [[butée de pied]]
+* [[cale-pied]]
+* [[casse-pieds]]
+* [[casser les pieds]]
+* [[cent-pieds]]
+* [[c’est le pied]]
+* [[champignons aux pieds]]
+* [[changer de pied]]
+* [[chasseur à pied]]
+* [[chauffe-pied]]
+* [[chausse-pied]]
+* [[chercher chaussure à son pied]]
+* [[chèvre-pied]]
+* [[cloche-pied]]
+* [[colosse aux pieds d’argile]]
+* [[contre-pied]]
+* [[cortinaire à pied courbe]]
+* [[cou de pied]]
+* [[cou-de-pied]]
+* [[coup de pied]]
+* [[couper l’herbe sous le pied]]
+* [[course à pied]]
+* [[couvre-pied]]
+* [[croche-pied]]
+* [[cure-pied]]
+* [[de la tête aux pieds]]
+* [[de pied en cap]]
+* [[de pied en cape]]
+* [[de pied ferme]]
+* [[de plain-pied]]
+* [[depuis les pieds jusqu’à la tête]]
+* [[dessous-de-pied]]
+* [[doigt de pied]]
+* [[donner du pied]]
+* [[donner un coup de pied]]
+* [[emmerder à pied et à cheval]]
+* [[emmerder à pied, à cheval et en voiture]]
+* [[enlever une épine du pied]]
+* [[en avoir sous le pied]]
+* [[en pied]]
+* [[en pieds de chaussettes]]
+* [[entrepied]]
+* [[épervier à pieds courts]]
+* [[essuie-pieds]]
+* [[être à pied]]
+* [[être bête comme ses pieds]]
+* [[être déferré des quatre pieds]]
+* [[être en pied]]
+* [[être encore sur ses pieds]]
+* [[être le pied]]
+* [[être sur pied]]
+* [[être sur un bon pied]]
+* [[être sur un grand pied]]
+* [[faire des pieds et des mains]]
+* [[faire du pied]]
+* [[faire feu des quatre pieds]]
+* [[faire un pied de cochon]]
+* [[faucher l’herbe sous les pieds]]
+* [[flanquer son pied dans les fesses]]
+* [[fouler aux pieds]]
+* [[franc à pied]]
+* [[franc de pied]]
+* [[froidure de pieds]]
+* [[gagner au pied]]
+* [[gens de pied]]
+* [[gratte-pieds]]
+* [[hausse-pied]]
+* [[haut-le-pied]]
+* [[hochepied]]
+* [[homme de pied]]
+* [[honneurs du pied]] {{info lex|chasse}}
+* [[jouer des pieds et des coudes]]
+* [[jouer un pied de cochon]]
+* [[l’arme au pied]]
+* [[lâcher pied]]
+* [[lave-pieds]]
+* [[lèche-pieds]]
+* [[le pied sur le champignon]]
+* [[les deux pieds dans le béton]]
+* [[les pieds devant]]
+* [[levé du pied gauche]]
+* [[lever le pied]]
+* [[lotier faux pied d’oiseau]] (nom de plante)
+* [[marche à pied]]
+* [[marchepied]]
+* [[marcher sur la pointe des pieds]]
+* [[médecin aux pieds nus]]
+* [[médio-pied]]
+* [[mettre à pied]]
+* [[mettre le pied]]
+* [[mettre le pied à l’étrier]]
+* [[mettre le pied dans la porte]]
+* [[mettre le pied sur la gorge]]
+* [[mettre les pieds]]
+* [[mettre les pieds dans le plat]]
+* [[mettre les pieds quelque part]]
+* [[mettre les pieds sous la table]]
+* [[mettre pied à terre]]
+* [[mettre son orgueil sous ses pieds]]
+* [[mettre son pied quelque part]]
+* [[mettre sur pied]]
+* [[mettre sur le bon pied]], [[mettre sur un bon pied]]
+* [[mettre un pied]]
+* [[mettre un pied à terre]]
+* [[mille-pieds]]
+* [[mise à pied]]
+* [[mise sur pied]]
+* [[ne pas savoir sur quel pied danser]]
+* [[ne pas se moucher du pied]]
+* [[ne plus pouvoir mettre un pied devant l’autre]]
+* [[ne remuer ni pied ni patte]]
+* [[nez en pied de marmite]]
+* [[nu-pieds]]
+* [[ôter une épine du pied]]
+* [[pare-pied]]
+* [[partir du mauvais pied]]
+* [[passe-pied]]
+* [[perdre pied]]
+* [[petits pieds]]
+* [[photo en pied]]
+* [[pied à boule]]
+* [[pied à coulisse]]
+* [[pied à pied]]
+* [[pied-à-terre]]
+* [[pied au plancher]]
+* [[pied-bleu]], [[pied bleu]]
+* [[pied-bot]]
+* [[pied cornier]]
+* [[pied coupé]]
+* [[pied d’aigle]]
+* [[pied d’Alexandre]]
+* [[pied d’alouette]], [[pied-d’alouette]]
+* [[pied d’athlète]]
+* [[pied-d’étape]]
+* [[pied-de-banc]]
+* [[pied-de-biche]]
+* [[pied de bœuf]], [[pied-de-bœuf]]
+* [[pied de chameau]]
+* [[pied de chat]], [[pied-de-chat]]
+* [[pied de cheval]], [[pied-de-cheval]]
+* [[pied de chèvre]], [[pied-de-chèvre]]
+* [[pied de cochon]], [[pied-de-cochon]]
+* [[pied de coq]], [[pied-de-coq]]
+* [[pied-de-corbeau]]
+* [[pied de corneille]], [[pied-de-corneille]]
+* [[pied-de-cuve]]
+* [[pied de gazelle]], [[pied-de-gazelle]]
+* [[pied de griffon]], [[pied-de-griffon]]
+* [[pied de lièvre]], [[pied-de-lièvre]]
+* [[pied de lion]], [[pied-de-lion]]
+* [[pied de lit]]
+* [[pied de loup]], [[pied-de-loup]]
+* [[pied de nez]], [[pied-de-nez]]
+* [[pied de monnaie]]
+* [[pied de mouche]], [[pied-de-mouche]]
+* [[pied de mouton]], [[pied-de-mouton]]
+* [[pied de page]]
+* [[pied de pélican]], [[pied-de-pélican]]
+* [[pied de perfusion]]
+* [[pied-de-pigeon]]
+* [[pied de poule]], [[pied-de-poule]]
+* [[pied de stase]]
+* [[pied de tranchée]], [[pied des tranchées]]
+* [[pied de veau]], [[pied-de-veau]]
+* [[pied d'éléphant]], [[pied-d'éléphant]]
+* [[pied d’oiseau]], [[pied-d’oiseau]]
+* [[pied-droit]]
+* [[pied du montoir]]
+* [[pied égyptien]]
+* [[pied fiché]]
+* [[pied-fort]]
+* [[pied fourchu]]
+* [[pied grec]]
+* [[pied hors du montoir]]
+* [[pieds humides]]
+* [[pied-main-bouche]]
+* [[pied-mère]]
+* [[pied-module]]
+* [[pied-noir]]
+* [[pied noury]], [[pied nourri]]
+* [[pied nu]], [[pied-nu]], [[pieds nus]], [[pieds-nus]]
+* [[pied perdu]]
+* [[pied plat]], [[pied-plat]]
+* [[pied presseur]]
+* [[pied-rouge]]
+* [[pied talus]]
+* [[pied-tendre]]
+* [[pieds dans l’eau]], [[les pieds dans l’eau]]
+* [[pieds de mouche]]
+* [[pieds et paquets]], [[pieds paquets]], [[pieds-paquets]]
+* [[pieds et poings liés]]
+* [[pieds-inversés]]
+* [[pieds-mains-bouche]]
+* [[pieds nickelés]]
+* [[pieds nus]]
+* [[pieds panés]]
+* [[pieds paquets]], [[pieds-paquets]], [[pieds et paquets]]
+* [[pieds rouges]]
+* [[piètement]]
+* [[plain-pied]]
+* [[portrait en pied]]
+* [[poser le pied]]
+* [[pouce-pied]]
+* [[pousse-pied]]
+* [[pour mes pieds]]
+* [[prendre pied]]
+* [[prendre pied et langue]]
+* [[prendre le pied]]
+* [[prendre son pied]]
+* [[prendre son pied la route]]
+* [[puffin à pieds pâles]]
+* [[puffin à pieds roses]]
+* [[quatre-pieds]]
+* [[râle à pieds rouges]]
+* [[remettre les pieds]]
+* [[remettre sur pied]]
+* [[repose-pied]]
+* [[repousser du pied]]
+* [[rester les deux pieds dans le même sabot]]
+* [[retirer une épine du pied]]
+* [[retomber sur ses pieds]]
+* [[rince-pied]]
+* [[rogne-pied]]
+* [[Saint-Jean-Pied-de-Port]]
+* [[santé mais pas des pieds]]
+* [[se jeter aux pieds de]]
+* [[se lever du mauvais pied]]
+* [[se lever du pied gauche]]
+* [[se prendre les pieds dans le tapis]]
+* [[se tirer des pieds]]
+* [[se tirer une balle dans le pied]]
+* [[sécher sur pied]]
+* [[sentir le sol se dérober sous ses pieds]]
+* [[sous-pied]]
+* [[sur le même pied]]
+* [[sur le pied de]], [[sur le pied de guerre]], [[sur le pied de paix]]
+* [[sur pied]]
+* [[sur un bon pied]]
+* [[sur un pied d’égalité]]
+* [[sus-pied]]
+* [[s’enfuir un pied chaussé et l’autre nu]]
+* [[sur un grand pied]]
+* [[taper du pied]]
+* [[tendre les pieds et les poings]]
+* [[tenir pied]]
+* [[tenir pied à boule]]
+* [[tire-pied]]
+* [[tirer du pied]] ''(boiter)''
+* [[tirer par les pieds]]
+* [[tirer une épine du pied]]
+* [[tirer une gueule de six pieds de long]]
+* [[tomber aux pieds de]]
+* [[trainer les pieds]] {{ortho1990}}
+* [[traîner les pieds]]
+* [[traverser à pied sec]]
+* [[trépied]]
+* [[trois-pieds]]
+* [[trousse-pied]]
+* [[trouver chaussure à son pied]]
+* [[va-de-pied]]
+* [[va-nu-pieds]]
+* [[valet de pied]]
+* [[venir de son pied]]
+* [[verre à pied]]
+* [[vivre sur un grand pied]]
+* [[vivre sur un pied élevé]]
+* [[voter avec ses pieds]]
+{{)}}
+
+{{(|Unité de mesure|19, 20, 21|colonnes=2}}
+* [[à cent pieds sous terre]]
+* [[avoir cent pieds par-dessus la tête]]
+* [[huit-pieds]]
+* [[pied carré]]
+* [[pied cube]]
+* [[six pieds sous terre]]
+* [[trente-deux pieds]], [[trente-deux-pieds]]
+{{)}}
+
+==== {{S|apparentés}} ====
+{{(|colonnes=4}}
+* [[apode]]
+* [[apodidé]]
+* [[apodie]]
+* [[bipède]]
+* [[dépiéter]]
+* [[empiéger]]
+* [[empêchement]]
+* [[empêcher]]
+* [[empiétement]]
+* [[empiéter]]
+* [[gastéropode]]
+* [[péage]]
+* [[pédale]]
+* [[pédalo]]
+* [[pédauque]], [[Pédauque]]
+* [[pédestre]]
+* [[piédestal]]
+* [[pédicure]]
+* [[piedmont]]
+* [[piédouche]]
+* [[piedroit]]
+* [[piège]]
+* [[piégeage]]
+* [[piéger]]
+* [[piégeur]]
+* [[Piémont]]
+* [[Piémontais]]
+* [[piémontais]]
+* [[piémontite]]
+* [[piétage]]
+* [[piétaille]]
+* [[piètement]]
+* [[piéter]]
+* [[piéteur]]
+* [[piétin]]
+* [[piétinement]]
+* [[piétiner]]
+* [[piéton]], [[piétonne]]
+* [[piétonner]]
+* [[piétonnier]], [[piétonnière]]
+* [[piètre]]
+* [[piètrement]]
+* [[piètrerie]]
+* [[podagre]]
+* [[podaire]]
+* [[podalique]]
+* [[podalirius]]
+* [[podalyre]]
+* [[podarge]]
+* [[podétion]]
+* [[podien]]
+* [[podium]]
+* [[podocarpe]]
+* [[podocère]]
+* [[pododysodie]]
+* [[podolépis]]
+* [[podolite]]
+* [[podologie]]
+* [[podologue]]
+* [[podomètre]]
+* [[podométrique]]
+* [[podophobie]]
+* [[podophobe]]
+* [[podophthalme]]
+* [[podophylle]]
+* [[podophylleux]]
+* [[podophyllin]]
+* [[podoscaphe]]
+* [[podostémon]]
+* [[podologie]]
+* [[podologue]]
+* [[podure]]
+* [[rempiétement]]
+* [[rempiéter]]
+* [[tripode]] et ses multiples
+{{)}}
+
+==== {{S|phrases}} ====
+* c’est au pied du mur que l’on voit le maçon
+* [[ça lui fera les pieds]]
+* [[ça ne me fera pas de mal si ça me tombe sur le pied]]
+* en attendant les souliers des morts, on peut aller longtemps pieds nus
+* [[laissez-lui prendre un pied, il en prendra quatre]]
+* [[le pied lui a glissé]]
+* les vertus sont à pied et le vice à cheval
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|pied|corps humain|anatomie humaine|squelette|champignon|huître|lit|harpe|poésie|unités de mesure|vase grec|chandelier|vigne|cinq|escargot|siège (mobilier)|épilation|lampe|zombie|boucherie|verre (récipient)|charcuterie|locomotion|sanglier|bol|tortue|âne|table (mobilier)}}
+
+==== {{S|hyponymes}} ====
+{{(|Unité de mesure|19|colonnes=2}}
+* {{lien|pied anglais|fr|nom}}
+* {{lien|pied attique-olympique|fr|nom}}
+* {{lien|pied attique-solonique|fr|nom}}
+* {{lien|pied autrichien|fr|nom}}
+* {{lien|pied byzantin|fr|nom}}
+* {{lien|pied carolingien|fr|nom}}
+* {{lien|pied cyrénéen|fr|nom}}
+* {{lien|pied d’Abydos|fr|nom}}
+* {{lien|pied d’Aschaffenbourg|fr|nom}}
+* {{lien|pied de Bavière|fr|nom}}
+* {{lien|pied de Bourgogne|fr|nom}}
+* {{lien|pied de Brême|fr|nom}}
+* {{lien|pied de Darmstadt|fr|nom}}
+* {{lien|pied de Fribourg|fr|nom}}
+* {{lien|pied de Nuremberg|fr|nom}}
+* [[pied de roi]], [[pied-de-roi]]
+* {{lien|pied des bâtisseurs|fr|nom}}
+* {{lien|pied de Spire|fr|nom}}
+* {{lien|pied Drusien|fr|nom}}
+* {{lien|pied égyptien|fr|nom}}
+* {{lien|pied espagnol|fr|nom}}
+* {{lien|pied impérial|fr|nom}}
+* {{lien|pied ionien|fr|nom}}
+* {{lien|pied italique|fr|nom}}
+* {{lien|pied néo-romain|fr|nom}}
+* {{lien|pied osque de Hygin|fr|nom}}
+* {{lien|pied philétaire|fr|nom}}
+* {{lien|pied polonais|fr|nom}}
+* {{lien|pied-pygme ionien|fr|nom}}
+* [[pied romain]]
+* {{lien|pied romain de Hultsch|fr|nom}}
+* {{lien|pied suédois|fr|nom}}
+* {{lien|pied sumérien|fr|nom}}
+* {{lien|pied tyrolien|fr|nom}}
+{{)}}
+
+{{(|Poésie|22}}
+* [[pyrrhique]] (˘ ˘)
+* [[iambe]] (˘ ¯)
+* [[trochée]] (¯ ˘)
+* [[spondée]] (¯ ¯)
+* [[tribraque]] (˘ ˘ ˘)
+* [[dactyle]] (¯ ˘ ˘)
+* [[amphibraque]] (˘ ¯ ˘)
+* [[anapeste]] (˘ ˘ ¯)
+* [[bacchée]] (˘ ¯ ¯)
+* [[antibacchée]] (¯ ¯ ˘)
+* [[crétique]] (¯ ˘ ¯)
+* [[molosse]] (¯ ¯ ¯)
+{{)}}
+
+==== {{S|hyperonymes}} ====
+* [[extrémité]]
+
+==== {{S|holonymes}} ====
+* [[jambe]]
+**  [[membre inférieur]] / [[membre postérieur]] (Plus rare : [[membre caudal]], [[membre distal]])
+*** [[corps]]
+
+==== {{S|méronymes}} ====
+{{(|Anatomie|1|colonnes=2}}
+* {{lien|astragale|fr|nom}}, {{lien|talus|fr|nom}}
+* [[avant-pied]]
+* {{lien|calcanéus|fr|nom}}, {{lien|calcanéum|fr|nom}}
+* [[cou de pied]]
+* {{lien|cuboïde|fr|nom}}, {{lien|os cuboïde|fr|nom}}
+* {{lien|cunéiforme|fr|nom}}, {{lien|os cunéiforme|fr|nom}}
+* [[doigt de pied]]
+* {{lien|métatarse|fr|nom}}
+* [[orteil]]
+* {{lien|os naviculaire|fr|nom}}, {{lien|scaphoïde tarsien|fr|nom}}
+* {{lien|phalange|fr|nom}}
+* [[plante]]
+* {{lien|scaphoïde|fr|nom}}, {{lien|os carpien|fr|nom}}
+* {{lien|tarse|fr|nom}}
+* [[voûte plantaire]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Organe du corps humain|1}}
+* {{T|ar}} : {{trad+|ar|قدم|tr=qadam}}, {{trad+|ar|قَدَم}}
+{{trad-fin}}
+
+{{trad-début|Partie à l’extrémité des pattes des animaux}}
+{{trad-fin}}
+
+{{trad-début|Partie du corps d’un mollusque|5}}
+{{trad-fin}}
+
+{{trad-début|Endroit le plus bas d’un site|8}}
+{{trad-fin}}
+
+{{trad-début|Partie qui sert à soutenir|16}}
+{{trad-fin}}
+
+{{trad-début|Unité de mesure britannique|19}}
+{{trad-fin}}
+
+{{trad-début|Ancienne unité de mesure française|21}}
+{{trad-fin}}
+
+{{trad-début|(Poésie) Suite de syllabes regroupées dans la scansion|22}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|pje|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|pje|audio=Fr-pied.ogg}}
+* {{écouter||pje|lang=fr|audio=LL-Q150 (fra)-Guilhelma-pied.wav}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-pied.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-pied.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-pied.wav}}
+* {{écouter|lang=fr|Suisse (Genève)|audio=LL-Q150 (fra)-Nattes à chat-pied.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-pied.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-pied.wav}}
+* {{écouter|lang=fr|France (Quimper)|audio=LL-Q150 (fra)-Vaulque-pied.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-pied.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines1-pied.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines2-pied.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines3-pied.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines5-pied.wav}}
+* {{écouter|lang=fr||audio=LL-Q150 (fra)-Aemines4-pied.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines6-pied.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-pied.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-pied.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-pied.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-pied.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-pied.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-pied.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-pied.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-pied.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-pied.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-pied.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-pied.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-Loizbec-pied.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-pied.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-Vampiro (ClasseNoes)-pied.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-pied.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-pied.wav}}
+* {{écouter|||lang=fr|audio=Pied30-06.ogg}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-pied.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-pied.wav}}
+* {{écouter|Céret (France)|pje|lang=fr|audio=LL-Q150 (fra)-Fabricio Cardenas (Culex)-pied.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-pied.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-pied.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-pied.wav}}
+* {{écouter|Bordeaux (France)||lang=fr|audio=LL-Q150 (fra)-Bananax47-pied.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+* {{WP|Pied_(unité)|pied (unité)}}
+* [[orteil]]
+* [[plante]] du pied
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{R:Littré}}
+* {{R:DAF8}}
+<references/>
+
+[[Catégorie:Lexique en français de la versification]]
+

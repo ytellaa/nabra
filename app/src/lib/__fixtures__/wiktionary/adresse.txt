@@ -1,0 +1,126 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: ''([[#fr-nom-1|Nom 1]])'' : {{date|lang=fr}} [[déverbal#fr-nom|Déverbal]] de ''[[adresser#fr|adresser]]'' (l’idée sous-jacente est « [[droit]] au but »).
+: ''([[#fr-nom-2|Nom 2]])'' : {{date|lang=fr}} De l’ancien français [[adrece]], « bonne direction », avec influence de ''[[adroit]]''.
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|a.dʁɛs}}
+[[Fichier:Poil under the snow - 18 - Boîte aux lettres.JPG|vignette|L’'''adresse''' ''(1)'' est souvent indiquée sur la boîte aux lettres.]]
+'''adresse''' {{pron|a.dʁɛs|fr}} {{f}}
+# [[indication|Indication]], [[désignation]], [[soit]] du [[destinataire]], soit de la [[destination]] où il [[falloir|faut]] [[aller]] ou [[envoyer]].
+# {{par métonymie|fr}} [[lieu|Lieu]] indiqué par une adresse.
+# [[lettre|Lettre]] ayant [[pour]] [[objet]] une [[demande]], une [[adhésion]], des [[félicitation]]s, etc., [[présenter|présentées]] par un [[corps]] [[constitué]], par une [[réunion]] de [[citoyen]]s, à une [[autorité]].
+# {{lexique|informatique|fr}} [[code|Code]] indiquant le lieu de [[stockage]] d'un [[fichier]] sur [[disque dur]] ou autre [[support]], ou d'une [[donnée]] en [[mémoire vive]].
+# {{lexique|Internet|fr}} [[code|Code]] indiquant le lieu de [[stockage]] d'une [[page web]] ou d'un [[ordinateur]] relié à [[internet]] ''(Adresse [[IP]])''.
+# {{figuré|fr}} {{par métonymie|fr}} [[message|Message]] ; [[intention]] ; [[égard]].
+# {{term|Vallée d’Aoste}} [[conseil#fr|Conseil]].
+
+==== {{S|synonymes}} ====
+''Indication de lieu :''
+* [[localisation]], [[emplacement]], [[endroit]], [[lieu]]
+''Allusion qui vise quelqu’un :''
+* [[encontre]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à l’adresse de]]
+* [[adressage]]
+* [[adresse de courrier électronique]]
+* [[adresse de diffusion]]
+* [[adresse de messagerie]]
+* [[adresse de rebond]]
+* [[adresse électronique]]
+* [[adresse email]]
+* [[adresse informatique]]
+* [[adresse IP]]
+* [[adresse MAC]]
+* [[adresse mémoire]]
+* [[adresse postale]]
+* [[adresse physique]]
+* [[adresse réticulaire]]
+* [[adresse universelle]]
+* [[adresse web]], [[adresse Web]]
+* [[adresser]]
+* [[bureau d’adresse]], [[bureau d’adresses]] ''(lieu, établissement où l’on s’adressait pour obtenir certains renseignements)''
+* [[carnet d’adresses]]
+* [[faire tenir des lettres à leur adresse]], [[faire tenir des lettres à leurs adresses]] ''(envoyer des lettres à celui ou à ceux à qui elles sont adressées)''
+* [[fichier d’adresses]]
+* [[pavé d’adresse]]
+* [[porte-adresse]]
+* [[rayer de son carnet d’adresses]]
+* [[très humble adresse]]
+* [[très-humble adresse]]
+{{)}}
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|chevalier|main|goût}}
+
+==== {{S|traductions}} ====
+{{trad-début|Indication de lieu|1}}
+* {{T|ar}} : {{trad+|ar|عنوان|tr=ʿinwān}}
+{{trad-fin}}
+
+{{trad-début|Lettre|2}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|ad.ʁɛs}}
+'''adresse''' {{pron|ad.ʁɛs|fr}} {{f}}
+# [[caractéristique|Caractéristique]] de ce qui est [[adroit]].
+# [[façon|Façon]] ou [[manière]] adroite.
+
+==== {{S|synonymes}} ====
+* [[habileté]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[maladresse]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Caractère de ce qui est adroit}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|adresser|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui|'=oui}}
+'''adresse''' {{pron|a.dʁɛs|fr}}
+# ''Première personne du singulier de l’indicatif présent du verbe'' [[adresser]].
+# ''Troisième personne du singulier de l’indicatif présent du verbe'' [[adresser]].
+# ''Première personne du singulier du subjonctif présent du verbe'' [[adresser]].
+# ''Troisième personne du singulier du subjonctif présent du verbe'' [[adresser]].
+# ''Deuxième personne du singulier de l’impératif du verbe'' [[adresser]].
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|a.dʁɛs|fr}}
+* {{écouter|lang=fr|France (Muntzenheim)|a.dʁɛs|audio=LL-Q150 (fra)-0x010C-adresse.wav}}
+* {{écouter|lang=fr|France (Paris)|a.dʁɛs|audio=LL-Q150 (fra)-Aemines1-adresse.wav}}
+* {{écouter|lang=fr|France (Paris)|a.dʁɛs|audio=LL-Q150 (fra)-Aemines2-adresse.wav}}
+* {{écouter|lang=fr|France (Paris)|a.dʁɛs|audio=LL-Q150 (fra)-Aemines3-adresse.wav}}
+* {{écouter|lang=fr|France (Paris)|a.dʁɛs|audio=LL-Q150 (fra)-Aemines5-adresse.wav}}
+* {{écouter|lang=fr|France (Paris)|a.dʁɛs|audio=LL-Q150 (fra)-Aemines6-adresse.wav}}
+* {{écouter|lang=fr|France (Toulouse)|a.dʁɛsə|audio=LL-Q150 (fra)-Lepticed7-adresse.wav}}
+* {{écouter|lang=fr|France (Vosges)|a.dʁɛs|audio=LL-Q150 (fra)-Poslovitch-adresse.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-adresse.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Aemines4-adresse.wav}}
+* {{écouter|Vosges (France)||lang=fr|audio=LL-Q150 (fra)-LoquaxFR-adresse.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-adresse.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-adresse.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-adresse.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Vikidia}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+[[Catégorie:Lexique en français de la poste]]
+[[Catégorie:Mots en français suffixés avec -esse]]
+[[Catégorie:français de la Vallée d’Aoste]]
+

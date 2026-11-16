@@ -1,0 +1,956 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr|880}} De l’{{étyl|fro|fr|grant}} (forme [[épicène]]). Du {{étyl|la|fr|grandis|sens=grand », « avancé en âge}}, qui a éliminé le classique ''{{lien|magnus|la}}'' en bas latin. Pour les mots composés, les adjectifs comme {{lien|grand|fr}}, {{lien|loyal|fr}}, {{lien|immortel|fr}} ou {{lien|tel|fr}} étaient autrefois souvent attestés sous une forme invariable en genre, car comme l’écrit le grammairien {{w|Charles Marty-Laveaux}}, « il importe de se rappeler que les mots qui appartiennent à la troisième déclinaison latine n’ont qu’une seule forme pour les deux genres, et qu’il en est ainsi, dans notre ancienne langue, pour ceux qui en sont tirés »<ref>{{ouvrage|auteur={{w|Charles Marty-Laveaux}}|titre=La Pléiade françoise|tome=2|éditeur={{w|Alphonse Lemerre}}|lieu=Paris|date=1896-1898|passage=11|url=https://gallica.bnf.fr/ark:/12148/bpt6k9763220j/f23}}.</ref>.
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-cons|ɡʁɑ̃|d}}
+[[Fichier:Redwood National Park REDW9343.jpg|vignette|De '''grands''' arbres (1.a)]]
+'''grand''' {{pron|ɡʁɑ̃|fr}}
+# {{par analogie|fr}} De [[dimension]]s ([[hauteur]]/[[taille]], [[longueur]], [[profondeur]], etc.) importantes, qui dépassent celles de ses [[semblable]]s, ou de longue [[durée]]. Par exemple, de [[volume]] supérieur à la [[moyenne]] (ou [[normale]]) des individus de même espèce et sexe et d’âge similaire.
+## {{en particulier}} De [[hauteur]] [[important]]e.
+# Qui a [[grandir|grandi]].<!-- Voir page de discussion. Chealer 20250322 -->
+# {{Pas clair|En grande [[quantité]].}}<!-- Devrait-on plutôt dire « abondant », « important » ou « principal »? Davantage d'exemples aideraient. Ajouté dans Special:Diff/14042640. Chealer 2025-03-22 -->
+# {{par litote|fr}} ou {{par euphémisme|fr}}, {{informel|fr}} [[beaucoup|Beaucoup]] de. {{usage}} s’emploie dans une forme négative.
+# [[extrême|Extrême]] ; [[lointain]].<!-- Cela s'applique-t-il à autre chose que le Nord? Grand Nord est déjà recensé comme locution. Chealer 2025-03-22 -->
+# {{lexique|typographie|fr}} [[majuscule|Majuscule]] (en parlant d'une lettre).
+# {{figuré|fr}} [[célèbre|Célèbre]], [[réputé]], [[admirable]], [[noble]].
+# Utilisé pour former une locution employée comme [[titre]] honorifique, comme dans « [[grand-duc]] », « [[grand-vizir]] » ou « grand secrétaire ».
+
+==== {{S|notes}} ====
+: Le masculin singulier se prononce {{pron|ɡʁɑ̃t|fr}} devant un mot qui commence par une voyelle ou un [[h muet|''h'' muet]] : ''un grand homme'' se dit {{pron|œ̃ ɡʁɑ̃.t‿ɔm|fr}}.
+{{adj-antéposé-postposé|postposé|antéposé|ex1=Un homme '''grand''' est remarquable par sa taille.|ex2=Un '''grand''' homme est remarquable par le respect qu’il inspire.}}
+
+==== {{S|abréviations}} ====
+* {{lien|gd|fr}}
+* {{lien|grd|fr}}
+
+==== {{S|variantes orthographiques}} ====
+* {{lien|grãd|fr}} {{archaïsme|nocat=1}}
+* {{lien|grant|fr}} {{archaïsme|nocat=1}}
+
+==== {{S|synonymes}} ====
+{{(|Qui dépasse une mesure moyenne (1)}}
+* [[abondant]]
+* [[ample]]
+* [[considérable]]
+* [[copieux]]
+* [[étendu]]
+* [[gros]]
+* [[important]]
+* [[large]]
+* [[long]]
+* [[nombreux]]
+* [[vaste]]
+{{)}}
+
+{{(|Qui n’est pas enfant, qui a grandi (2)}}
+* [[adulte]]
+* [[âgé]]
+* [[majeur]]
+* [[mûr]]
+{{)}}
+
+==== {{S|antonymes}} ====
+{{(|Qui dépasse une mesure moyenne (1)}}
+* [[bref]]
+* [[court]]
+* [[exigu]]
+* [[faible]]
+* [[médiocre]]
+* [[minime]]
+* [[minuscule]]
+* [[modeste]]
+* [[petit]]
+* [[réduit]]
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(|largeur=16em}}
+* [[à grand frais]]
+* [[à grand-peine]]
+* [[à grand prix]]
+* [[à grand renfort de]]
+* [[à grand train]]
+* [[à grande eau]]
+* [[à grande échelle]]
+* [[à grandes eaux]]
+* [[à grandes guides]]
+* [[à grandes journées]]
+* [[à grands cris]]
+* [[à grands frais]]
+* [[à grands pas]]
+* [[à grands traits]]
+* [[à la grande]]
+* [[à la vitesse grand V]]
+* [[à son grand regret]]
+* [[à vitesse grand V]]
+* [[achigan à grande bouche]]
+* [[agrandir]]
+* [[agrandissement]]
+* [[agrandisseur]]
+* [[agranditif]]
+* [[aire de grand passage]]
+* [[aller grand train]]
+* [[argémone à grandes fleurs]]
+* [[ARN nucléaire de grande taille]]
+* [[arrière-grand-cousin]]
+* [[arrière-grand-cousine]]
+* [[arrière-grand-mamie]]
+* [[arrière-grand-mère]]
+* [[arrière-grand-oncle]]
+* [[arrière-grand-parent]]
+* [[arrière-grand-père]]
+* [[arrière-grand-tante]]
+* [[au grand complet]]
+* [[au grand dam de]]
+* [[au grand désespoir]]
+* [[au grand galop]]
+* [[au grand jamais]]
+* [[au grand jour]]
+* [[au grand soleil]]
+* [[avoir les yeux plus grands que la panse]]
+* [[avoir les yeux plus grands que le ventre]] ''(demander, se faire servir plus de nourriture qu’on n’en peut manger)''
+* [[avoir plus grands yeux que grand ventre]]
+* [[basset griffon vendéen de grande taille]]
+* [[black-bass à grande bouche]]
+* [[c’est grand-pitié]]
+* [[calament à grandes fleurs]]
+* [[canal grand palatin]]
+* [[canal grand rond]]
+* [[caucalis à grandes fleurs]]
+* [[dans les grandes largeurs]]
+* [[dans les grandes lignes]]
+* [[de grand cœur]]
+* [[de grand matin]]
+* [[de grande route]]
+* [[de très grand matin]]
+* [[demi-grand]]
+* [[demi-grand axe]]
+* [[demi-grand-cousin]]
+* [[demi-grand-cousine]]
+* [[demi-grand-oncle]]
+* [[demi-grand-tante]]
+* [[dix grandes fois et une petite]]
+* [[douze grandes fêtes]]
+* [[doronic à grandes fleurs]]
+* [[en grand]]
+* [[en grand dimanche]]
+* [[en grand nombre]]
+* [[en grand tralala]]
+* [[en grand uniforme]]
+* [[en grande partie]]
+* [[en grande pompe]]
+* [[en grande tenue]]
+* [[ensemble routier de grande capacité]] ''ou'' [[ERGC]]
+* [[épilobe à grandes fleurs]]
+* [[être grande fille]]
+* [[être sur un grand pied]]
+* [[faire grand bruit]]
+* [[faire grand cas]]
+* [[faire le loup plus grand qu’il n’est]]
+* [[faire les grands bras]]
+* [[faire les grands titres]]
+* [[faire suer le chêne sur le grand trimard]]
+* [[faire un grand pas]]
+* [[foramen grand palatin]]
+* [[frapper un grand coup]]
+* [[gestionnaire de grande fortune]]
+* [[grand … devant l’Éternel]]
+* [[grand admissible]]
+* [[grand âge]]
+* [[grand appareil]]
+* [[grand aigle]] ''(Format de papier)''
+* [[grand aigle de mer]]
+* [[grand air]]
+* [[grand amour]]
+* [[grand-angle]]
+* [[grand anglo-français]] (''Race de chien'')
+* [[grand anglo-français blanc et noir]] (''Race de chien'')
+* [[grand anglo-français blanc et orange]] (''Race de chien'')
+* [[grand anglo-français tricolore]] (''Race de chien'')
+* [[grand-angulaire]]
+* [[grand antique]]
+* [[grand apartheid]]
+* [[grand ara bleu]]
+* [[grand ara vert]]
+* [[grand arc]]
+* [[Grand Architecte de l’Univers]]
+* [[grand arrêt]]
+* [[grand art]]
+* [[grand auteur]]
+* [[grand axe]]
+* [[grand bain]]
+* [[grand banditisme]]
+* [[grand barracuda]]
+* [[grand basilic]]
+* [[grand basilic sauvage]]
+* [[grand basset griffon vendéen]]
+* [[grand bassin]]
+* [[grand beau]]
+* [[grand-beau]]
+* [[grand bec-scie]]
+* [[grand bénitier gaufré]]
+* [[grand bharal]]
+* [[grand bi]]
+* [[grand biniou]]
+* [[grand blanc]]
+* [[grand bleu]]
+* [[grand bleu de Gascogne]] ''(Race de chien)''
+* [[grand boulevardier]]
+* [[grand-boutiste]]
+* [[grand bouvier suisse]] ''(Race de chien)''
+* [[grand brochet]]
+* [[grand brulé]] {{ortho1990}}
+* [[grand brûlé]]
+* [[grand butor]]
+* [[grand cachalot]]
+* [[grand campagnol]]
+* [[grand caniche]]
+* [[grand capital]]
+* [[grand capucin du maïs]]
+* [[grand carénage]]
+* [[grand carotier]]
+* [[grand cercle]]
+* [[grand chambellan]]
+* [[grand-chambre]]
+* [[grand-chambrier]]
+* [[grand changement vocalique]]
+* [[grand-chantre]]
+* [[grand chelem]] ''ou'' [[grand-chelem]]
+* [[grand chemin]]
+* [[grand chervis]]
+* [[grand chevalier]]
+* [[grand chevalier à pattes jaunes]]
+* [[Grand Chien]]
+* [[grand chien courant lucernois]]
+* [[grand chien d’Artois]]
+* [[grand chien japonais]]
+* [[grand chinchilla]]
+* [[grand-chose]]
+* [[grand cobe des roseaux]]
+* [[grand cœur]]
+* [[grand collier argenté]] ''(Papillon)''
+* [[grand comme nature]]
+* [[grand comme une asperge]]
+* [[grand commis]]
+* [[grand commis de l’État]]
+* [[grand compte]]
+* [[grand-compte]]
+* [[Grand Confinement]]
+* [[grand coq de bruyère]]
+* [[grand corbeau]]
+* [[grand-cordon]] ''ou'' [[grand cordon]]
+* [[grand cormoran]]
+* [[grand-cousin]]
+* [[grand-cousine]]
+* [[grand crème]]
+* [[grand-croix]]
+* [[grand cupidon]]
+* [[grand cycas]]
+* [[grand danois]] (''Race de chien'')
+* [[grand damier]]
+* [[grand dauphin]]
+* [[grand départ]]
+* [[grand désert indien]]
+* [[grand diable]]
+* [[grand Dieu]] ''(exclamation d’étonnement, de crainte, etc.)''
+* [[grand droit]]
+* [[grand droit postérieur]]
+* [[grand-duc]]
+* [[grand-ducal]]
+* [[grand-duché]]
+* [[grand écart]]
+* [[grand écart facial]]
+* [[grand écart latéral]]
+* [[grand éclectus]]
+* [[grand écran]]
+* [[grand électeur]]
+* [[grand ensemble]]
+* [[grand épagneul de Münster]]
+* [[Grand Esprit]]
+* [[Grand Est]]
+* [[grand esturgeon]]
+* [[Grand et Saint Vendredi]]
+* [[grand exorcisme]]
+* [[grand-faim]] ''ou'' [[grand faim]]
+* [[grand favori]]
+* [[grand fessier]]
+* [[grand fer à cheval]]
+* [[grand filtre]]
+* [[grand finale]]
+* [[grand frais]] {{info lex|météorologie}}
+* [[grand frère]]
+* [[grand froid]]
+* [[grand fusil]]
+* [[grand-garde]]
+* [[grand gascon saintongeois]] ''(Race de chiens)''
+* [[grand glutéal]]
+* [[grand gravelot]]
+* [[grand grèbe]]
+* [[grand griffon vendéen]]
+* [[grand-guignol]]
+* [[grand-halte]]
+* [[grand hamster]]
+* [[grand harle]]
+* [[grand-hâte]]
+* [[grand-haut]]
+* [[grand héron]]
+* [[grand hocco]]
+* [[grand homme]]
+* [[grand-honte]]
+* [[grand huit]]
+* [[grand ious]]
+* [[grand ious yodisé]]
+* [[grand jour]]
+* [[grand jury]]
+* [[grand labbe]] 
+* [[grand largue]]
+* [[Grand-Liban]]
+* [[grand-lion]]
+* [[grand liseron]]
+* [[grand lissé]]
+* [[grand-livre]]
+* [[Grand Londres]]
+* [[Grand Lyon]]
+* [[grand-livre]]
+* [[grand loulou]]
+* [[grand magasin]]
+* [[grand maitre]] {{ortho1990}}
+* [[grand maître]]
+* [[grand mal]]
+* [[grand malade]]
+* [[grand-maman]]
+* [[grand-mamie]]
+* [[grand marchandage]]
+* [[Grand Marnier]]
+* [[grand mars changeant]] ''(Papillon)''
+* [[grand mât]]
+* [[grand-maternité]]
+* [[grand méchant loup]]
+* [[grand merci]]
+* [[grand-mère]]
+* [[grand-messe]]
+* [[grand millet]]
+* [[Grand Moghol]]
+* [[grand moment de solitude]]
+* [[grand monarque]] ''(Papillon)''
+* [[grand monde]]
+* [[grand monsieur]]
+* [[grand montain]] ''(Pinson)''
+* [[grand Montréal]]
+* [[grand mot]]
+* [[grand mufti]]
+* [[grand mur]]
+* [[grand murin]]
+* [[grand muscle de l’hélix]]
+* [[grand n’importe quoi]]
+* [[grand nacré]] ''(Papillon)''
+* [[grand natte]] {{Réunion|nocat=1}}
+* [[grand nègre des bois]] ''(Papillon)''
+* [[grand nègre hongrois]] ''(Papillon)''
+* [[grand nénufar]] {{ortho1990}}
+* [[grand nénuphar]]
+* [[grand noir]]
+* [[grand noir de la Calmette]]
+* [[Grand Nord]]
+* [[Grand-Océan]]
+* [[grand œuvre]] ''(la pierre philosophale, la prétendue transmutation des métaux en or)''
+* [[grand-oncle]]
+* [[Grand Onontio]]
+* [[grand opéra]]
+* [[grand oral]]
+* [[Grand Orient]] ''ou'' [[Grand-Orient]]
+* [[grand os]]
+* [[grand oyat]]
+* [[grand paon]] ''(Papillon)''
+* [[grand paon de nuit]] ''(Papillon)''
+* [[grand-papa]]
+* [[Grand Paradis]]
+* [[grand-parangon]]
+* [[Grand Pardon]]
+* [[grand-parent]]
+* [[grand-parentalité]]
+* [[Grand Paris]]
+* [[grand partage]]
+* [[grand-paternité]]
+* [[grand pavois]]
+* [[grand-peine]]
+* [[grand-père]]
+* [[grand pétasite]]
+* [[grand-peur]]
+* [[grand peut-être]]
+* [[grand pic]]
+* [[grand pingouin]]
+* [[grand-place]]
+* [[grand plantain]]
+* [[grand-plié]]
+* [[grand polycnème]] ''ou'' [[grand polycnémum]]
+* [[grand pont]] {{info lex|football}}
+* [[grand porc blanc anglais]]
+* [[grand porc rouge anglais]]
+* [[grand porte-queue]] ''(Papillon)''
+* [[grand pourceau]] ''(Papillon)''
+* [[grand prêtre]], [[grand-prêtre]]
+* [[grand-prince]]
+* [[Grand Prix]] ''ou'' [[GP]]
+* [[grand projet inutile et imposé]] ''ou'' [[GPII]]
+* [[grand public]]
+* [[grand puffin]]
+* [[grand rabbin]], [[grand-rabbin]]
+* [[grand raisin]] ''(Format de papier)''
+* [[grand rameau]]
+* [[grand récipient pour vrac souple]] ''ou'' [[GRVS]]
+* [[grand récit]]
+* [[grand rédunca]]
+* [[grand renfermement]]
+* [[grand rémora]]
+* [[grand remplacement]], [[Grand Remplacement]]
+* [[grand-remplacer]]
+* [[grand-renard]] ''(Papillon)''
+* [[grand renard volant]]
+* [[grand-repasse]]
+* [[grand requin blanc]]
+* [[grand requin-marteau]]
+* [[grand réséda]]
+* [[grand retour]]
+* [[grand rhinolophe]]
+* [[grand rhinolophe fer à cheval]]
+* [[grand rhinolophe obscur]]
+* [[grand rhinopome]]
+* [[grand rhombicuboctaèdre]]
+* [[grand roque]] {{info lex|échecs}}
+* [[grand-route]]
+* [[grand ruban]]
+* [[grand-rue]]
+* [[grand russe]] ''(Race de lapin)''
+* [[grand saint bon Dieu]]
+* [[grand-salle]]
+* [[grand Satan]]
+* [[grand saut]]
+* [[Grand Schtroumpf]]
+* [[grand sciatique]]
+* [[grand seigneur]]
+* [[grand sélésier]]
+* [[grand séminaire]]
+* [[grand serpent de mer]]
+* [[Grand Siècle]]
+* [[grand sifflet]]
+* [[grand silence]]
+* [[grand silure]]
+* [[grand singe]]
+* [[grand-soif]] ''ou'' [[grand soif]]
+* [[grand soir]]
+* [[Grand Soir]]
+* [[grand soleil]] {{plantes|nocat}}
+* [[grand soufflé]]
+* [[grand sphinx de la vigne]] ''(Papillon)''
+* [[grand spitz]]
+* [[grand sylvain]]
+* [[grand-tante]]
+* [[Grand Taxi]]
+* [[grand-teint]]
+* [[grand teint]]
+* [[grand ténia des poissons]]
+* [[grand tétras]]
+* [[grand théorème de Fermat]]
+* [[grand timonier]]
+* [[grand tour]]
+* [[grand Tour]]
+* [[grand train]]
+* [[grand trochanter]]
+* [[Grand Turc]]
+* [[grand urubu]]
+* [[grand usage]]
+* [[grand vaza]]
+* [[grand vendredi]]
+* [[Grand Vendredi]]
+* [[grand veneur]]
+* [[grand vicaire]]
+* [[grand-vizir]]
+* [[grand-vizirat]]
+* [[grand-voile]]
+* [[grand voyage]]
+* [[grand yang]]
+* [[grand yin]]
+* [[grand yousse]]
+* [[grand yousse yodisé]]
+* [[Grand Zimbabwe]]
+* [[grand zygomatique]]
+* [[Grande Abasie]]
+* [[grande absinthe]]
+* [[grande ache]]
+* [[grande aigrette]]
+* [[grande aiguille]]
+* [[grande airelle rouge d’Amérique du Nord]]
+* [[grande allache]]
+* [[grande alose]]
+* [[grande âme]]
+* [[grande anguille marbrée]]
+* [[grande année]]
+* [[grande argentine]]
+* [[grande armée]]
+* [[Grande Armée]]
+* [[grande asperge]]
+* [[grande astrance]]
+* [[grande aunée]]
+* [[grande autrice]]
+* [[Grande Baie australienne]]
+* [[grande baleine bleue]]
+* [[grande bardane]]
+* [[grande bleue]]
+* [[Grande Boucle]]
+* [[grande boule de boue]]
+* [[grande boulevardière]]
+* [[grande bourgeoisie]]
+* [[grande brème]]
+* [[Grande-Bretagne]]
+* [[grande bringue]]
+* [[grande calorie]]
+* [[grande camomille]]
+* [[Grande Canarie]]
+* [[Grande Casserole]]
+* [[grande castagnole]]
+* [[grande cavité sigmoïde]]
+* [[grande Champagne]] ''(AOC de cognac)''
+* [[grande ciguë]]
+* [[grande cigüe]] {{ortho1990}}
+* [[grande circulation]]
+* [[grande civette indienne]]
+* [[grande coalition]]
+* [[Grande-Colombie]] ''ou'' [[Grande Colombie]]
+* [[grande commission]]
+* [[Grande Comore]]
+* [[grande compagnie]]
+* [[grande conjonction]]
+* [[grande consoude]] {{info lex|botanique}}
+* [[grande cornemuse des Highlands]]
+* [[grande coryphène]]
+* [[grande coulemelle]]
+* [[grande couresse]]
+* [[grande couronne]] ''(autour de Paris)''
+* [[grande-cousine]]
+* [[grande couverture]], [[GC]]
+* [[grande cuiller]]
+* [[grande cuillère]]
+* [[grande culture]]
+* [[grande dame]]
+* [[grande dame de fer]] ''(tour Eiffel)''
+* [[grande demande]]
+* [[grande distribution]]
+* [[grande douve]]
+* [[grande douve du foie]]
+* [[grande-duchesse]]
+* [[grande échelle]]
+* [[grande école]]
+* [[grande écoute]]
+* [[grande électrice]]
+* [[grande émiaule]]
+* [[grande euphorbe des garrigues]]
+* [[Grande Faucheuse]]
+* [[grande férule]]
+* [[grande fille]]
+* [[grande flaque]]
+* [[grande fortune]]
+* [[grande fougère]]
+* [[grande gesse]]
+* [[grande gigue]]
+* [[grande glande vestibulaire]]
+* [[grande grallaire]]
+* [[Grande-Grèce]]
+* [[grande grive]]
+* [[grande gueule]]
+* [[Grande Guerre]]
+* [[Grande Guerre patriotique]]
+* [[grande harpie]]
+* [[Grande-Hesse]]
+* [[Grande Idée]]
+* [[Grande Île]] ''(Madagascar)''
+* [[grande île de la Terre de Feu]]
+* [[grande lamproie]]
+* [[grande langue]]
+* [[grande lavande]]
+* [[grande lingue]]
+* [[grande listère]]
+* [[Grande Loge]]
+* [[grande lysimaque]]
+* [[grande machine]]
+* [[grande maison]]
+* [[grande manière]]
+* [[grande marée]]
+* [[grande marguerite]]
+* [[grande marjolaine]]
+* [[grande mauve]]
+* [[Grande Miquelon]]
+* [[grande misère]]
+* [[grande muette]]
+* [[grande mulette]]
+* [[Grande Muraille]]
+* [[Grande Muraille de Chine]]
+* [[grande muraille de sable]]
+* [[grande musique]]
+* [[grande nacre]]
+* [[grande nasse]]
+* [[grande natice]] 
+* [[Grande Nation]]
+* [[grande nayade]] ''(Espèce de papillon)''
+* [[grande noirceur]]
+* [[Grande Noirceur]]
+* [[grande noix]]
+* [[grande oie des neiges]]
+* [[grande opération]]
+* [[grande ortie]]
+* [[Grande Ourse]]
+* [[grande outarde]]
+* [[grande passerage]]
+* [[grande pêche]]
+* [[grande personne]] ''(adulte)''
+* [[grande pervenche]]
+* [[Grande Peste]]
+* [[Grande-Pologne]]
+* [[grande prêtresse]], [[grande-prêtresse]]
+* [[grande prêtrise]], [[grande-prêtrise]]
+* [[grande-princesse]]
+* [[grande-principauté]]
+* [[grande puissance]]
+* [[grande radiaire]]
+* [[grande randonnée]]
+* [[grande raspoutitsa]]
+* [[grande réinitialisation]]
+* [[grande restauration]]
+* [[grande-rose]]
+* [[grande roue]]
+* [[grande roue spatiale]]
+* [[grande roussette]]
+* [[grande rue]]
+* [[Grande Russie]]
+* [[grande saperde]]
+* [[grande saperde du peuplier]]
+* [[grande sauterelle]]
+* [[grande section]]
+* [[grande sériole]]
+* [[grande sœur]]
+* [[Grande-Somalie]] ''ou'' [[Grande Somalie]]
+* [[grande surface]]
+* [[Grande Syrie]], [[Grande-Syrie]]
+* [[grande table]]
+* [[Grande Tache rouge]] ''(Sur Jupiter)'' 
+* [[grande tasse]]
+* [[grande tectrice]]
+* [[grande terre]]
+* [[grande tortue]]
+* [[grande transmission]], [[Grande Transmission]]
+* [[grande tubérosité]] {{info lex|anatomie}}
+* [[grande veneresse]]
+* [[grande violette]]
+* [[grande vive]]
+* [[grande vrillée]]
+* [[grandelet]]
+* [[grandement]]
+* [[Grandes Antilles]]
+* [[grandes corrections]] {{info lex|cartographie}}
+* [[grandes eaux]]
+* [[grandes entrées]]
+* [[grandes heures]]
+* [[Grandes Indes]]
+* [[grandes lèvres]]
+* [[grandes lignes]]
+* [[grandes manœuvres]]
+* [[grandes ondes]] ''ou'' [[GO]]
+* [[grandes oreilles]]
+* [[Grandes Plaines]]
+* [[grandes profondeurs]]
+* [[grandes vacances]]
+* [[grandesse]]
+* [[grandet]]
+* [[grandeur]]
+* [[grandguignolesque]]
+* [[grandir]]
+* [[grandissant]]
+* [[grandissement]]
+* [[grandissime]]
+* [[grands airs]]
+* [[Grands Boulevards]] ''(À Paris)''
+* [[grands dieux]]
+* [[grands fonds océaniques]]
+* [[grands hommes]]
+* [[Grands Lacs]]
+* [[grands mots]] ''(expressions exagérées, emphatiques)''
+* [[grands projets inutiles]]
+* [[grands Septentrions]]
+* [[grands travaux inutiles]] ''ou'' [[GTI]]
+* [[grands-yeux]] ''(Poisson)''
+* [[grandvillais]]
+* [[Grandville]]
+* [[granfluencer]]
+* [[granfluenceur]]
+* [[grantécrivain]]
+* [[heure de grande écoute]]
+* [[hiatus du canal du nerf grand pétreux]]
+* [[immeuble de grande hauteur]] ''ou'' [[IGH]]
+* [[infiniment grand]]
+* [[interférométrie à très grande base]] ''ou'' [[ITGB]]
+* [[jamais au grand jamais]]
+* [[jasmin à grandes fleurs]]
+* [[joubarbe à grandes fleurs]]
+* [[jurer ses grands dieux]]
+* [[Legrand]] ''(Nom de famille)''
+* [[le Grand]] ''(Surnom)''
+* [[lépidion à grands yeux]]
+* [[léser avec un grand B]]
+* [[ligne à grande vitesse]] ''ou'' [[LGV]]
+* [[ligne de plus grande pente]]
+* [[magnolia à grandes feuilles]]
+* [[magnolia à grandes fleurs]]
+* [[magnolier à grandes fleurs]]
+* [[masquer en grand]]
+* [[mener grand bruit]]
+* [[mener grand deuil]]
+* [[mener grand train]]
+* [[mère-grand]]
+* [[mettre les petits plats dans les grands]]
+* [[mettre les petits pots dans les grands]]
+* [[monter sur ses grands chevaux]]
+* [[muscle grand adducteur]]
+* [[muscle grand complexus]]
+* [[muscle grand dentelé]]
+* [[muscle grand dentelé du cou]]
+* [[muscle grand dorsal]]
+* [[muscle grand droit]]
+* [[muscle grand droit antérieur de la tête]]
+* [[muscle grand droit de l’abdomen]]
+* [[muscle grand droit postérieur]]
+* [[muscle grand droit postérieur de la tête]]
+* [[muscle grand fessier]]
+* [[muscle grand glutéal]]
+* [[muscle grand oblique]]
+* [[muscle grand oblique de l’abdomen]]
+* [[muscle grand oblique de l’œil]]
+* [[muscle grand palmaire]]
+* [[muscle grand pectoral]]
+* [[muscle grand psoas]]
+* [[muscle grand rhomboïde]]
+* [[muscle grand rond]]
+* [[muscle grand zygomatique]]
+* [[nager en grande eau]] ''(être dans l’abondance, jouir d’une grande fortune, se trouver dans de grandes occasions d’avancer ses affaires)''
+* [[nerf grand pétreux]]
+* [[oh grand jamais]]
+* [[orlaya à grandes fleurs]]
+* [[ouvrir de grands yeux]]
+* [[ouvrir grand la porte]]
+* [[ouvrir sa grande gueule]]
+* [[ouvrir ses oreilles toutes grandes]]
+* [[pas grand-chose]]
+* [[pas grand iaque]]
+* [[pas plus grand que la main]]
+* [[passage grande faune]]
+* [[père-grand]]
+* [[perruche grand-alexandre]] ''ou'' [[perruche Grand-Alexandre]]
+* [[plus grand commun diviseur]] ''ou'' [[PGCD]]
+* [[plus grand que nature]]
+* [[plus grande démocratie du monde]]
+* [[pluvier grand-gravelot]]
+* [[pouillot à grands sourcils]]
+* [[pourpier à grandes fleurs]]
+* [[prendre des grands airs]]
+* [[promettre ses grands dieux]]
+* [[que le grand crique me croque]]
+* [[ragrandir]]
+* [[regrandir]]
+* [[requin grande gueule]]
+* [[roussette à grandes taches]]
+* [[Saint et Grand Vendredi]]
+* [[seiche à grandes mains]]
+* [[sépiole grandes oreilles]]
+* [[sortir le grand jeu]]
+* [[sortir par la grande porte]]
+* [[supergrand]] ''ou'' [[super-grand]]
+* [[sur une grande échelle]]
+* [[tilleul à grandes feuilles]]
+* [[train à grande vitesse]] ''ou'' [[TGV]]
+* [[très grande fortune]]
+* [[tribunal de grande instance]] ''ou'' [[TGI]]
+* [[tritéléia à grandes fleurs]]
+* [[trou grand rond]]
+* [[vitesse grand V]]
+* [[vivre sur un grand pied]]
+* [[voir les choses en grand]]
+{{)}}
+
+==== {{S|apparentés}} ====
+{{(}}
+* [[grandiflore]]
+* [[grandifolié]]
+* [[grandiloque]]
+* [[grandiloquence]]
+* [[grandiloquent]]
+* [[grandiose]]
+* [[grandiosement]]
+* [[grandirostre]]
+* [[grandisol]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[aux grands maux les grands moyens]]
+* [[aux grands maux les grands remèdes]]
+* [[ce ne sont pas ceux qui ont de grandes oreilles qui entendent le mieux]]
+* [[ce ne sont pas ceux qui ont les plus grandes oreilles qui entendent le mieux]]
+* [[et c’est ainsi qu’Allah est grand]]
+* [[grand bien vous fasse]]
+* [[grand diseux, petit faiseux]]
+* [[grand parleur, petit faiseur]]
+* [[il est grand temps]]
+* [[il n’y a pas besoin d’être grand clerc]]
+* [[il ne faut pas être grand clerc]]
+* [[il y a grande différence d’homme à homme]]
+* [[jamais grand nez n’a gâté visage]]
+* [[les grandes douleurs sont muettes]]
+* [[les grands esprits se rencontrent]]
+* [[les petits ruisseaux font les grandes rivières]]
+* [[mieux vaut un petit chez-soi qu’un grand chez-les-autres]]
+* [[petite pluie abat grand vent]]
+
+==== {{S|hyponymes}} ====
+''Sens 1 :''
+{{(}}
+* [[astronomique]] {{figuré|nocat}}
+* [[colossal]]
+* [[énorme]]
+* [[gargantuesque]]
+* [[géant]]
+* [[gigantesque]]
+* [[immense]]
+* [[mégagros]]
+* [[titanesque]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|frite|quantité|grand|dinosaure|parapluie|ciel}}
+
+==== {{S|traductions}} ====
+{{trad-début|De dimensions importantes|1}}
+* {{T|ar}} : {{trad+|ar|كبير|R=kabyr}}
+{{trad-fin}}
+
+{{trad-début|De hauteur importante|1.a)}}
+* {{T|ar}} : {{trad+|ar|طويل|R=ṭawīl}}
+{{trad-fin}}
+
+{{trad-début|Qui a grandi|2}}
+{{trad-fin}}
+
+{{trad-début|Célèbre, admirable|7}}
+{{trad-fin}}
+
+{{trad-début|Utilisé pour former des locutions honorifiques|8}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ɡʁɑ̃}}
+'''grand''' {{pron|ɡʁɑ̃|fr}} {{m}}<!-- FIXME: Dans le deuxième sens, aussi féminin -->
+# Chose importante par sa taille, son volume, etc. Par comparaison des petites choses aux grandes.
+# {{enfantin|fr}} [[personne|Personne]] [[âgé]]e, voire [[adulte]]. {{note}} Souvent utilisé comme [[terme d’adresse]] s'adressant à des jeunes qu'on apprécie ou encourage, comme dans les 3 derniers exemples.<!-- Voir sujet « Sens « Qui a grandi » » sur la PdD. Chealer 20250404 -->
+# Personne qui appartient à une [[élite]], par sa [[naissance]], son pouvoir ou sa [[dignité]].
+# {{titres|fr}} [[noble#fr-nom|Noble]].
+
+==== {{S|abréviations}} ====
+* [[gd]]
+
+==== {{S|dérivés}} ====
+* [[cour des grands]]
+* [[grand d’Espagne]]
+* [[grandesse]]
+
+==== {{S|traductions}} ====
+{{trad-début|chose de taille, volume, etc. importante|1}}
+{{trad-fin}}
+
+{{trad-début|personne plus âgée|2}}
+{{trad-fin}}
+
+{{trad-début|personne qui est au-dessus des autres par sa naissance, son pouvoir, sa dignité|3}}
+{{trad-fin}}
+
+{{trad-début|vaste plan, vue générale et complète|4}}
+{{trad-fin}}
+
+=== {{S|adverbe|fr}} ===
+{{fr-inv|ɡʁɑ̃}}
+'''grand''' {{pron|ɡʁɑ̃|fr}}
+# [[grandement|Grandement]], [[largement]].
+# En considérant une certaine taille, si petite soit-elle.
+
+{{note}} '''grand''' adverbe est parfois accordé en genre et en nombre avec l’adjectif modifié :
+:* ''Une fois, on l’avait trouvée cramponnée aux cordes de la balançoire, évanouie, les yeux '''grands''' ouverts, pleins de l’effarement du vide.'' {{source|{{Citation/Émile Zola/Une page d’amour/1878|1|4|56}}}}
+:* ''S’il y a un paradis, les portes vous en sont déjà '''grandes''' ouvertes.'' {{source|{{Citation/Amélie Nothomb/Mercure/1998|225}}}}
+
+==== {{S|abréviations}} ====
+* [[gd]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[grand ouvert]]
+* [[ouvrir grand]]
+* [[voir grand]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|ɡʁɑ̃|fr}}
+** {{pron-rimes|ɡʁɑ̃|fr}}
+** {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|ɡʁɑ̃|audio=Fr-grand.ogg}}
+** {{écouter|lang=fr||ɡʁɑ̃|audio=LL-Q150 (fra)-Guilhelma-grand.wav}}
+** {{écouter|lang=fr|France|ɡʁɑ̃|audio=LL-Q150 (fra)-Roll-Morton-grand.wav}}
+** {{écouter|lang=fr|France (Massy)|ɡʁɑ̃|audio=LL-Q150 (fra)-X-Javier-grand.wav}}
+** {{écouter|lang=fr|France (Paris)|ɡʁɑ̃|audio=LL-Q150 (fra)-GrandCelinien-grand.wav}}
+** {{écouter|lang=fr|Suisse (Genève)|ɡʁɑ̃|audio=LL-Q150 (fra)-Nattes à chat-grand.wav}}
+** {{écouter|lang=fr|Suisse (canton du Valais)|ɡʁɑ̃|audio=LL-Q150 (fra)-DSwissK-grand.wav}}
+** {{écouter|lang=fr|France (Vosges)|ɡʁɑ̃|audio=LL-Q150 (fra)-Poslovitch-grand.wav}}
+** {{écouter|lang=fr|France (Montpouillan)|ɡʁɑ̃|audio=LL-Q150 (fra)-Yug-grand.wav}}
+** {{écouter|lang=fr|France (Paris)|ɡʁɑ̃|audio=LL-Q150 (fra)-Ash Crow-grand.wav}}
+** {{écouter|lang=fr|France (Saint-Berain-sous-Sanvignes)|ɡʁɑ̃|audio=LL-Q150 (fra)-Chavagne-grand.wav}}
+** {{écouter|lang=fr||ɡʁɑ̃|audio=LL-Q150 (fra)-Madehub-grand.wav}}
+** {{écouter|lang=fr|France (Hérault)|ɡʁɑ̃|audio=LL-Q150 (fra)-T. Le Berre-grand.wav}}
+** {{écouter|lang=fr|Suisse (Lausanne)|ɡʁɑ̃|audio=LL-Q150 (fra)-Eihel-grand.wav}}
+** {{écouter|lang=fr||ɡʁɑ̃|audio=LL-Q150 (fra)-Kaderousse-grand.wav}}
+** {{écouter|lang=fr|France (Metz)|ɡʁɑ̃|audio=LL-Q150 (fra)-val (Eavq)-grand.wav}}
+** {{écouter|lang=fr|France|ɡʁɑ̃|audio=LL-Q150 (fra)-Mecanautes-grand.wav}}
+** {{écouter|lang=fr||ɡʁɑ̃|audio=LL-Q150 (fra)-Fabe56-grand.wav}}
+** {{écouter|lang=fr|Montpellier (France)|ɡʁɑ̃|audio=LL-Q150 (fra)-GeoMechain-grand.wav}}
+* Français méridional : {{pron|ɡʁaŋ|fr}}
+** {{écouter|lang=fr|France (Toulouse)|ɡʁaŋ|audio=LL-Q150 (fra)-Lepticed7-grand.wav}}
+* Canada : {{pron|ɡʁã|fr}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Estrie-grand.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-grand.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-grand.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-grand.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-grand.wav}}
+* {{écouter|Vosges (France)||lang=fr|audio=LL-Q150 (fra)-LoquaxFR-grand.wav}}
+* {{écouter|Helsinki (Finlande)||niveau=bon|lang=fr|audio=LL-Q150 (fra)-Helena (WikiLucas00)-grand.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-grand.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-grand.wav}}
+
+==== {{S|paronymes}} ====
+* [[grange]]
+* [[gant]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+==== {{S|sources}} ====
+{{Références}}
+
+==== {{S|bibliographie}} ====
+* {{R:DAF8}}
+* {{R:TLFi}}
+

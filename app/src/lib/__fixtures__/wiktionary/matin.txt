@@ -1,0 +1,100 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|frm|fr|matin}}, de l’{{étyl|fro|fr|matin}}, du {{étyl|la|fr|mot=matutinum}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ma.tɛ̃}}
+'''matin''' {{pron|ma.tɛ̃|fr}} {{m}}
+# Les [[première]]s heures du [[jour]].
+# Tout le [[temps]] qui s’[[écouler|écoule]] depuis le [[moment]] où le soleil se [[lève]] jusqu’à [[midi]] ; matinée.
+# {{par extension|fr}} En parlant des [[heure]]s qui [[s’écouler|s’écoulent]] depuis [[minuit]] jusqu’à [[midi]].
+# {{poétique|fr}} Commencement, début.
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[à matin]]
+* [[au petit matin]]
+* [[avant-matin]]
+* [[bon matin]]
+* [[de bon matin]]
+* [[de grand matin]]
+* [[de très grand matin]]
+* [[du matin au soir]]
+* [[étoile du matin]]
+* [[être du matin]]
+* [[gaule du matin]]
+* [[gloire du matin]]
+* [[grasse matinée]]
+* [[matinal]]
+* [[matinale]]
+* [[matinalier]]
+* [[matinée]]
+* [[matineux]]
+* [[matines]]
+* [[matinier]]
+* [[pays du Matin calme]]
+* [[petit matin]]
+* [[réveille-matin]], [[réveil-matin]]
+* [[se dématiner]]
+* [[se lever matin]]
+* [[tous les quatre matins]]
+* [[un beau matin]]
+* [[un de ces quatre matins]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[araignée du matin, chagrin, araignée du midi, souci, araignée du soir, espoir]]
+* [[doucement le matin, pas trop vite le soir]]
+* [[il faut se lever bien matin pour l’attraper]]
+* [[il ne faut pas se moquer de la peine du voisin, car la vôtre arrive le lendemain matin]]
+
+==== {{S|vocabulaire}} ====
+* [[dès potron-minet]]
+* {{Thésaurus|fr|matin}}
+* {{voir thésaurus|fr|temps|jour (cycle)}}
+
+==== {{S|traductions}} ====
+{{trad-début|De minuit à midi}}
+* {{T|ar}} : {{trad+|ar|صباح|m|tr=ṣabāḥ}}
+{{trad-fin}}
+
+{{trad-début|Avec le cadran de 12 heures}}
+{{trad-fin}}
+
+=== {{S|adverbe|fr}} ===
+'''matin''' {{pron|ma.tɛ̃|fr}}
+# [[tôt#fr|Tôt]] ; [[de bon matin]].
+/> - Vous labourez bien '''matin''' !<br
+/> - Je laboure de bonne heure pour faire des planches et planter des légumes.'' {{source|Le Courrier du Vietnam, ''Le fantôme n’est pas ingrat'', site lecourrier.vn, 3 janvier 2021}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|ma.tɛ̃|fr}}
+* {{écouter|lang=fr|France (Paris)|sø ma.tæ̃|audio=Fr-matin.ogg|titre=ce matin}}
+* {{écouter|lang=fr|France (Avignon)|lə ma.tẽ|audio=Fr-le matin.ogg|titre=le matin}}
+* Français méridional, aussi : {{pron|ma.tɛ̃ŋ|fr}}
+* Canada : {{pron|ma.tẽ|fr}}
+* {{écouter||ma.tɛ̃|lang=fr|audio=LL-Q150 (fra)-Guilhelma-matin.wav}}
+* {{écouter||ma.tɛ̃|lang=fr|audio=LL-Q150 (fra)-Jules78120-matin.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-matin.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-matin.wav}}
+* {{écouter|lang=fr|France (Saint-Maurice-de-Beynost)|audio=LL-Q150 (fra)-Benoît Prieur-matin.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-matin.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-matin.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-matin.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-matin.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-matin.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-matin.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[mâtin]] {{term|Accents avec fusion /a/~/ɑ/}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+[[Catégorie:Adverbes de temps en français]]
+[[Catégorie:Lexique en français du temps]]
+

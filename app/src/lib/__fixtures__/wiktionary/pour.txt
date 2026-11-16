@@ -1,0 +1,242 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|mot=pro|dif=prō}}.
+
+=== {{S|préposition|fr}} ===
+{{fr-inv|puʁ}}
+'''pour''' {{pron|puʁ|fr}} {{invariable|fr}}
+# [[au motif de|Au motif de]] ; [[dans le but de]] ; [[afin de]] ; [[à destination de]].
+# [[à cause de|À cause de]], [[en considération de]].
+# [[en faveur de|En faveur de]], [[en vue de]] la [[défense]] de.
+# [[envers|Envers]], [[à l’égard de]].
+# Il [[servir|sert]] aussi à [[marquer]] le [[rapport]] entre une chose qui [[affecter|affecte]] en [[bien]] ou en mal et la personne qui en est ou qui en [[doit]] être affectée.
+# [[eu égard à|Eu égard à]], [[par rapport à]].
+# [[précéder|Précédé]] des mots ''[[assez]]'' et ''[[trop]]'', il s’emploie dans les phrases qui expriment la suffisance ou l’excès. {{note}} Quelquefois on peut supprimer l’adverbe ''assez.''
+# [[pour que|Pour que]], [[afin de]], [[à l’effet de]], [[en vue de]], dans le [[dessein]] de. - {{usage}} Il est alors suivi d’un [[verbe]] à l’[[infinitif]].
+# [[moyennant|Moyennant]] un [[certain]] [[prix]], en [[échange]] de.
+# {{lexique|commerce|finance|fr}} [[à proportion de|À proportion de]].
+# [[à la place de|À la place de]], [[au lieu de]], [[au nom de]].
+# [[comme|Comme]], [[en qualité de]], [[en guise de]].
+# [[précéder|Précédé]] et [[suivre|suivi]] du [[même]] mot, il [[marquer|marque]] la [[comparaison]] :
+# Il [[servir|sert]] encore à [[mettre]] en [[balance]], à [[opposer]] des [[contraire]]s ou des [[valeur]]s [[différent]]es.
+# Il [[servir|sert]] à [[indiquer]] la [[durée]]. {{note}} Il [[joindre|est joint]] alors à une [[expression]] qui [[marquer|marque]] le [[temps]].
+# Il sert aussi à [[indiquer]] l’[[époque]] à laquelle une chose s’est faite ou se [[faire|fera]].
+# [[à destination de|À destination de]]. {{note}} Il est alors joint à une [[expression]] qui marque le [[lieu]], le but. En termes de [[marin]]e, [[devant]] « France », on supprime ordinairement l’article.
+# [[quant à|Quant à]]. {{note}} Il est alors au [[commencement]] d’une [[phrase]] ou d’un [[membre]] de phrase.
+# [[quoique|Quoique]], [[bien que]].
+# [[de quoi|De quoi]].
+# [[parce que|Parce que]]. {{note}} Il est alors joint au [[passé]] de l’[[infinitif]] des [[verbe]]s.
+# Et [[ensuite]]. Coordonne deux évènements, surtout si le second est [[surprenant]] ou [[inattendu]]. Il est alors suivi de l'[[infinitif]].
+==== {{S|abréviations}} ====
+* [[pr]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[assigner pour voir dire et ordonner]] {{info lex|droit}}
+* [[chance pour la France]]
+* [[copie pour antenne]]
+* [[en avoir pour]]
+* [[en avoir pour son argent]]
+* [[être pour]]
+* [[et pour cause]] ''(s’ajoute absolument après une phrase par allusion à une raison qui est trop évidente '''pour''' avoir besoin d’être exprimée)''
+* [[mourir pour Dantzig]]
+* [[mourir pour Kiev]]
+* [[n’avoir plus que ses yeux pour pleurer]]
+* [[ne pas être pour]]
+* [[parler pour ne rien dire]]
+* [[parler pour parler]]
+* [[passage pour piétons]]
+* [[passer pour]]
+* [[pour ainsi dire]]
+* [[pour ce faire]]
+* [[pour cent]]
+* [[pour cet effet]]
+* [[pour de bon]]
+* [[pour de faux]]
+* [[pour des prunes]]
+* [[pour des queues de cerises]]
+* [[pour de vrai]]
+* [[pour Dieu]]
+* [[pour faire ses adieux]]
+* [[pour jamais]]
+* [[pour l’amour de]] ''(à cause de, en considération de)''
+* [[pour l’amour de Dieu]]
+* [[pour l’amour du ciel]]
+* [[pour l’éternité]]
+* [[pour l’heure]]
+* [[pour l’instant]]
+* [[pour la galerie]]
+* [[pour la petite histoire]]
+* [[pour la plupart]]
+* [[pour la route]]
+* [[pour la vie]]
+* [[pour le bon motif]]
+* [[pour le mieux]]
+* [[pour le moins]]
+* [[pour le pape]]
+* [[pour le roi de Prusse]]
+* [[pour les beaux yeux]]
+* [[pour les couilles du pape]]
+* [[pour lors]]
+* [[pour mémoire]]
+* [[pour mille]]
+* [[pour ne pas dire]]
+* [[pour peu que]]
+* [[pour prendre congé]]
+* [[pour que]]
+* [[pour sûr]]
+* [[pour toujours]]
+* [[pour tout]]
+* [[pour tout potage]]
+* [[pour un morceau de pain]]
+* [[pour un plat de lentilles]]
+* [[pour un temps]]
+* [[pour une bouchée de pain]]
+* [[pour une raison ou pour une autre]]
+* [[pour voir]]
+* [[pourboire]]
+* [[pourquoi]]
+* [[prendre pour]]
+* [[prison pour dettes]]
+* [[quatre trente sous pour une piastre]]
+* [[route pour automobiles]]
+* [[sas pour cyclistes]]
+* [[service d’accompagnement médico-social pour adultes handicapés]] ''ou'' [[SAMSAH]]
+* [[travailler pour le roi de Prusse]]
+* [[trivial pour cuite]]
+* [[un dernier pour la route]]
+{{)}}
+
+==== {{S|quasi-synonymes}} ====
+* [[à seule fin de]]
+
+==== {{S|phrases}} ====
+* [[au temps pour moi]] (moins courant que ''autant pour moi'')
+* [[autant pour moi]]
+* [[c’est pour un ami]]
+* [[c’est reparti pour un tour]]
+* [[foutu pour foutu]]
+* [[il faut se lever bien matin pour l’attraper]]
+* [[il manque toujours dix-huit sous pour faire un franc]]
+* [[il manque toujours dix-neuf sous pour faire un franc]]
+* [[il n’y en a pas un pour attraper l’autre]]
+* [[œil pour œil]]
+* [[œil pour œil, dent pour dent]]
+* [[on n’a rien pour rien]]
+* [[on ne donne rien pour rien]]
+* [[OTAN pour moi]] {{par plaisanterie|nocat=1}}
+* [[pas besoin de tortiller du cul pour chier droit]]
+* [[perdu pour perdu]]
+* [[pour citer le poète]]
+* [[pour un de perdu, deux de retrouvés]]
+* [[pour un moine l’abbaye ne faut pas]] {{vieilli|nocat=1}} (ici ''faut'' est du verbe ''[[faillir]]'')
+* [[pour un moine l’abbaye ne faut point]]  {{vieilli|nocat=1}} (ici ''faut'' est du verbe ''[[faillir]]'')
+* [[pour vivre heureux vivons cachés]]
+* [[tous pour un, un pour tous]]
+* [[très peu pour moi]]
+* [[un pour tous, tous pour un]]
+* [[y’a pas à tortiller du cul pour chier droit]]
+
+==== {{S|traductions}} ====
+{{trad-début|Au motif de, dans le but de, afin de, à destination de|1}}
+{{trad-fin}}
+
+{{trad-début|À cause de, en considération de|2}}
+{{trad-fin}}
+
+{{trad-début|En faveur de, en vue de la défense de|3}}
+{{trad-fin}}
+
+{{trad-début|Envers, à l’égard de|4}}
+{{trad-fin}}
+
+{{trad-début|rapport entre une chose qui affecte et la personne qui en doit être affectée|5}}
+{{trad-fin}}
+
+{{trad-début|Eu égard à, par rapport à|6}}
+{{trad-fin}}
+
+{{trad-début|exprime la suffisance ou l’excès|7}}
+{{trad-fin}}
+
+{{trad-début|Pour que, afin de, à l’effet de, en vue de, dans le dessein de|8}}
+{{trad-fin}}
+
+{{trad-début|Moyennant un certain prix, en échange de|9}}
+{{trad-fin}}
+
+{{trad-début|À proportion de|10}}
+{{trad-fin}}
+
+{{trad-début|À la place de, au lieu de, au nom de|11}}
+{{trad-fin}}
+
+{{trad-début|Comme, en qualité de, en guise de|12}}
+{{trad-fin}}
+
+{{trad-début|marque la comparaison|13}}
+{{trad-fin}}
+
+{{trad-début|opposition de valeurs différentes|14}}
+{{trad-fin}}
+
+{{trad-début|indication de durée|15}}
+{{trad-fin}}
+
+{{trad-début|indication de l’époque|16}}
+{{trad-fin}}
+
+{{trad-début|À destination de|17}}
+{{trad-fin}}
+
+{{trad-début|Quant à|18}}
+{{trad-fin}}
+
+{{trad-début|Quoique, bien que|19}}
+{{trad-fin}}
+
+{{trad-début|De quoi|20}}
+{{trad-fin}}
+
+{{trad-début|Parce que|21}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-inv|puʁ}}
+{{fr-rég|puʁ}}
+'''pour''' {{pron|puʁ|fr}} {{m}}
+# [[argument|Argument]] [[favorable]], [[avantage]].
+# [[vote|Vote]] [[en faveur]] de.
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|puʁ|fr}}
+** {{écouter|lang=fr|France|puʁ|audio=Fr-pour.ogg|fr}}
+** {{écouter|lang=fr|Québec {{populaire|nocat=1}}|pu|fr}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-pour.wav}}
+* {{écouter|lang=fr|France (Lyon)|puʁ|audio=LL-Q150 (fra)-WikiLucas00-pour.wav}}
+* {{écouter|lang=fr|France|puʁ|audio=LL-Q150 (fra)-Mecanautes-pour.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Estrie-pour.wav}}
+* {{écouter|Cornimont (France)|puʁ|lang=fr|audio=LL-Q150 (fra)-Poslovitch-pour.wav}}
+* {{écouter|Vendée (France)|puʁ|lang=fr|audio=LL-Q150 (fra)-Sartus85-pour.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+* {{Wikipédia|Pour}}
+* [https://web.archive.org/web/20080930100617/http://www.tv5.org/TV5Site/lf/merci_professeur.php?id=4267&id_cat= Explication de Bernard Cerquiglin en images]
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+
+[[Catégorie:Noms communs invariables en français]]
+

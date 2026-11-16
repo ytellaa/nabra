@@ -1,0 +1,10 @@
+== {{langue|fr}} ==
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|finir|ind.p.1p=oui|imp.p.1p=oui}}
+'''finissons''' {{pron|fi.ni.sɔ̃|fr}}
+# ''Première personne du pluriel de l’indicatif présent de'' [[finir]].
+# ''Première personne du pluriel de l’impératif de'' [[finir]].
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)||audio=LL-Q150 (fra)-Pamputt-finissons.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-finissons.wav}}

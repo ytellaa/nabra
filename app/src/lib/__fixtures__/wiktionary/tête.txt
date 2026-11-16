@@ -1,0 +1,707 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|1751}}{{R|TLFi}} De l’{{étyl|fro|fr|teste}} en usage jusqu’au dix-septième siècle{{R|DAF1|teste}} issu du {{étyl|la|fr|mot=testa|sens=pot en terre cuite, cruche », « amphore » puis « [[crâne]] »}}{{R|Littré}}.
+: Le mot a sans doute été employé dans la langue populaire au départ, comme on dirait aujourd’hui « il n’en a pas lourd dans la [[marmite]] », et finit par totalement remplacer le latin {{lien|''caput''|la}} qui a donné {{lien|''chef''|fr}} et dont le sens originel ne se retrouve plus guère que dans {{lien|''couvre-chef''|fr}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|tɛt}}
+[[Image:Divina proportione.png|vignette|Les divines proportions de la '''tête''' de l’homme.]]
+'''tête''' {{pron|tɛt|fr}} {{f}}
+# {{lexique|anatomie|fr}} Partie [[supérieur]]e du [[corps]], qui est le [[siège]] du [[cerveau]] et des [[principaux]] [[organe]]s des [[sens]], et qui, chez l’[[être humain]] et chez la plupart des [[vertébré]]s, tient au reste du corps par le [[cou]].
+# {{en particulier}} [[crâne#fr|Crâne]].
+# {{familier|fr}} [[figure|Figure]], [[visage]], [[physionomie]].
+# {{par métonymie|fr}} [[chevelure|Chevelure]].
+# {{désuet|fr}} [[scalp|Scalp]].
+# {{par métonymie|fr}} [[personne|Personne]] ou [[institution]] qui [[organiser|organise]] et [[diriger|dirige]] l’[[action]].
+# {{figuré|fr}} [[esprit|Esprit]], [[imagination]], [[mémoire]], [[intelligence]], [[jugement]].
+# [[fermeté|Fermeté]] de [[caractère]].
+# [[individu|Individu]], [[personne]].
+# [[vie|Vie]], [[existence]].
+# {{lexique|élevage|fr}} [[chacun|Chacun]] des [[animaux]] d’un [[cheptel]], d'un [[troupeau]].
+# {{lexique|équitation|fr}} [[unité|Unité]] [[conventionnel]]le servant à [[départager]] les [[chevaux]] à l’[[arrivée]], valant [[environ]] 50 [[centimètre]]s.
+# {{populaire|fr}} Mesure pour la [[taille]] de [[personnes]] qui [[correspond]] à la [[hauteur]] d’une '''tête''' (sens 1).
+# {{lexique|art|fr}} [[représentation|Représentation]], [[imitation]] d’une '''tête''' [[humain]]e par un [[peintre]], par un [[sculpteur]], etc.
+# {{lexique|numismatique|fr}} [[côté|Côté]] où est l’[[effigie]] d'une [[monnaie]].
+# {{lexique|chasse|fr}} [[bois|Bois]] des [[cerf]]s.
+# {{par analogie|fr}} [[sommet|Sommet]] de [[certain]]es choses, et [[particulièrement]] des [[arbre]]s.
+# {{lexique|cuisine|fr}} [[extrémité|Extrémité]] d’en [[haut]] de [[certain]]es [[plante]]s, de [[certain]]s [[légume]]s.
+# {{term|parfois}} [[extrémité|Extrémité]] [[inférieure]] de [[certain]]s [[légume]]s.
+# Extrémité de [[divers]]es choses.
+## {{en particulier}} L’extrémité [[rond]]e ou [[aplati]]e qui est opposée à la [[pointe]].
+##* {{exemple | lang=fr | La '''tête''' d’un clou, d’une vis.}}
+##* {{exemple | lang=fr | La '''tête''' d’une épingle.}}
+## {{en particulier}} Partie d'un [[outil]] de [[frappe]], dans laquelle [[entrer|entre]] le manche.
+##* {{exemple | lang=fr | La '''tête''' d’un marteau, d’une cognée.}}
+### {{lexique|golf|fr}} Partie de la canne qui touche la balle.
+# {{en particulier}} {{lexique|marine|fr}} Extrémité supérieure d’un [[mât]].
+# {{en particulier}} {{lexique|lutte contre l’incendie|fr}} Zone avant d’un [[incendie]] ou d’un [[feu de forêt]] qui se déplace dans l’axe du vent.
+# {{lexique|mécanique|fr}} Extrémité de la [[bielle]] [[articulé]]e sur la [[manivelle]] ou sur le [[vilebrequin]].
+# {{lexique|anatomie|fr}} Extrémité de [[certains]] [[os]] qui est [[rond]]e et [[soutenu]]e par une partie plus [[rétréci]]e nommée [[col]].
+# {{lexique|musique|fr}} Partie supérieure d’un [[instrument à cordes]] où sont fixées les [[cheville]]s.
+# {{lexique|astronomie|fr}} [[nébulosité|Nébulosité]] [[plus ou moins]] [[lumineuse]], et [[généralement]] de figure [[ovoïde]], qui semble [[former]] le corps d’une [[comète]], par opposition à la traînée lumineuse qui l’accompagne ordinairement du côté opposé au soleil, et que l’on appelle la [[queue]].
+# {{lexique|architecture|fr}} Partie [[antérieur]]e d’un [[élément]] [[architectural]].
+# {{lexique|architecture|fr}} [[épaisseur|Épaisseur]] d’un [[mur]] à son [[extrémité]].
+# Ce qui [[commencer|commence]] [[quelque chose]], [[endroit]] où cette chose commence.
+# {{lexique|militaire|fr}} Endroit de la tranchée qui est le plus avancé du côté de l’ennemi.
+# {{lexique|militaire|fr}} Partie du [[camp]] qui [[regarde]] le [[terrain]] où les troupes doivent être mises en bataille.
+# [[ouvrage|Ouvrage]] avancé qui protège un [[passage]].
+# [[commencement|Commencement]] d’un [[livre]], d’une [[liste]], d’une [[lettre]], etc.
+# {{désuet|fr}} [[en-tête|En-tête]].
+# [[partie|Partie]] d’une [[armée]], d’une [[colonne]] de [[troupe]]s, d’un [[cortège]], etc., qui [[marcher|marche]] la [[premier|première]], qui [[ouvrir|ouvre]] la [[marche]].
+# {{par extension}} L’[[endroit]] où se [[placer|place]] le premier dans une [[file]].
+# Ce qu’il y a de [[meilleur]].
+# {{familier|fr}} [[personne|Personne]] [[intelligent]]e, [[doué]]e dans un ou plusieurs [[domaine]]s [[intellectuel]]s.
+# {{meubles héraldiques|fr}}
+## [[Fichier:Blason ville fr Longavesnes 80.svg|vignette|120px|Armoiries avec 3 '''têtes''' ''(sens héraldique)'']] [[meuble|Meuble]] représentant la tête d'un [[animal]] dans les [[armoiries]]. Elle est représentée de différente façon selon l’animal dont elle est extraite. Une tête de [[lion]] sera de [[profil]] tandis que celle d'un [[léopard]] sera [[de front]]. Contrairement au caboché ou au rencontre, le [[cou]] est visible en tout ou partie. À rapprocher de [[caboché]], [[hure]], [[massacre]], [[massacre crucifère]] et [[rencontre]].
+##* ''Écartelé : au {{1er|d’azur}} à l’aigle d’argent, au {{2e|d’azur}} à la '''tête''' de brebis d’or, coupée et posée de trois-quarts, au {{3e}} de gueules à la '''tête''' de cheval d’or, coupée et contournée, au {{4e}} de gueules à la '''tête''' de vache coupée d’argent; à la burelle ondée d’argent brochant sur le coupé de l’écartelé, qui est de Longavesnes de la Somme'' {{cf|lang=fr}} illustration « armoiries avec 3 têtes »
+## [[Fichier:Blason ville fr Gremilly (Meuse).svg|vignette|120px|Armoiries avec une '''tête''' humaine ''(sens héraldique)'']] [[meuble|Meuble]] représentant la tête et [[cou]] d’un [[être humain]] dans les [[armoiries]]. Quand ce meuble est utilisé, on précise toujours dans le [[blasonnement]] le ''propriétaire'' de la tête ou on utilise l’expression : tête humaine. À rapprocher de [[tête humaine]], [[tête de Maure]] et [[triquètre sicilien]].
+##* ''Tiercé en pairle renversé : au {{1er|d’azur}} à la '''tête''' de la Vierge Marie couronnée d’or, au {{2e|d’argent}} à la fleur de grémil pourpre bleu (Buglossoides purpurocaeruleum) d’azur boutonnée de pourpre, au {{3e}} de gueules au cerf d’argent, qui est de la commune de Gremilly de la Meuse'' {{cf|lang=fr}} illustration « armoiries avec une tête humaine »
+
+==== {{S|notes}} ====
+: {{note-fr-féminin-homme}}
+
+==== {{S|synonymes}} ====
+{{(}}
+* [[bocal]] {{familier|nocat=1}} (1, 2)
+* [[boule]] {{familier|nocat=1}} (1, 2)
+* [[cap]] {{vieilli|nocat=1}} (1, 2)
+* [[cabeza]] {{familier|nocat=1}} (1, 2)
+* [[caboche]] {{familier|nocat=1}} (1, 2, 6, 36)
+* [[cafetière]] {{familier|nocat=1}} (1, 2)
+* [[calebasse]] {{familier|nocat=1}} (1, 2)
+* [[carafe]] {{argot|nocat=1}} (1, 2)
+* [[chef]] {{vieilli|nocat=1}} (1, 3)
+* [[chou]] {{argot|nocat=1}} (1, 2)
+* [[ciboulot]] {{argot|nocat=1}} (1, 2)
+* [[citron]] {{argot|nocat=1}} (1, 2)
+* [[coco]] {{familier|nocat=1}} (1, 2)
+* [[fiole]] {{familier|nocat=1}} (1, 2)
+* [[gueule]] {{familier|nocat=1}} {{vulgaire|nocat=1}} (1, 2)
+* [[poire]] {{familier|nocat=1}} (1, 2)
+* [[scolex]] (pour un [[ténia]]) (1)
+* [[sinoquet]] {{argot|nocat=1}} (1, 2)
+* [[tronche]] {{familier|nocat=1}} (1, 2)
+{{)}}
+
+==== {{S|antonymes}} ====
+* [[arrière]] (12)
+* [[fin]] (12)
+* [[pied]] (1)
+* [[queue]] (1)
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à donner de la tête contre les murs]]
+* [[à fleur de tête]]
+* [[à la tête de]]
+* [[à la tête du client]]
+* [[à tête perdue]]
+* [[à tête reposée]]
+* [[à tue-tête]]
+* [[adénostyle à tête blanche]], [[adénostyle à têtes blanches]]
+* [[affichage tête basse]] {{info lex|aéronautique}}
+* [[affichage tête haute]] {{info lex|aéronautique}}
+* [[affichage tête moyenne]] {{info lex|aéronautique}}
+* [[air de tête]]
+* [[ail à tête ronde]]
+* [[albatros à tête grise]]
+* [[alouette sans tête]]
+* [[amazone à tête jaune]]
+* [[autour à tête grise]]
+* [[appui-tête]]
+* [[arméria à têtes blanches]]
+* [[article de tête]]
+* [[astrild à tête noire]]
+* [[avoir cent pieds par-dessus la tête]]
+* [[avoir de la tête]]
+* [[avoir des yeux autour de la tête]]
+* [[avoir des yeux derrière la tête]]
+* [[avoir du front tout le tour de la tête]]
+* [[avoir en tête]]
+* [[avoir la grosse tête]]
+* [[avoir la tête]]
+* [[avoir la tête ailleurs]]
+* [[avoir la tête chaude]]
+* [[avoir la tête comme un compteur à gaz]]
+* [[avoir la tête comme un tambour]]
+* [[avoir la tête d’un déterré]]
+* [[avoir la tête dans la lune]]
+* [[avoir la tête dans le cul]]
+* [[avoir la tête dans le sac]]
+* [[avoir la tête dans les nuages]]
+* [[avoir la tête dans un sac]]
+* [[avoir la tête de l’emploi]]
+* [[avoir la tête dure]]
+* [[avoir la tête en l’air]]
+* [[avoir la tête fêlée]]
+* [[avoir la tête lourde]]
+* [[avoir la tête montée dans la lune]] ''(Val d’Aoste)''
+* [[avoir la tête pesante]]
+* [[avoir la tête près du bonnet]]
+* [[avoir la tête qui ne passe plus dans la porte]]
+* [[avoir la tête sur les épaules]]
+* [[avoir les cheveux près de la tête]]
+* [[avoir les yeux qui sortent de la tête]]
+* [[avoir par-dessus la tête]]
+* [[avoir quelque chose en tête]]
+* [[avoir ses têtes]]
+* [[avoir toute sa tête]]
+* [[avoir une bonne tête]]
+* [[avoir une idée derrière la tête]]
+* [[avoir une idée en tête]]
+* [[avoir une tête à taper dedans]]
+* [[avoir une tête d’ange]]
+* [[avoir une tête de vainqueur]]
+* [[avoir une tête et des jambes]]
+* [[avoir un petit pois dans la tête]]
+* [[avoir un petit vélo dans la tête]]
+* [[baisser la tête]]
+* [[balise de signalisation de tête d’ilot]] {{ortho1990}}
+* [[balise de signalisation de tête d’îlot]]
+* [[bardane à petites têtes]]
+* [[bille en tête]]
+* [[bongare à tête rouge]]
+* [[bonne tête]]
+* [[boulette à grosse tête]]
+* [[boulette à petite tête]]
+* [[brassemer à tête blanche]]
+* [[brève à tête bleue]]
+* [[cacatoès à tête rouge]]
+* [[caïque à tête noire]]
+* [[cardinal à tête rouge]]
+* [[carpe à grosse tête]]
+* [[casse-tête]]
+* [[casser du sucre sur la tête de]]
+* [[casser la tête]]
+* [[centaurée à têtes rondes]]
+* [[cèpe à tête noire]]
+* [[cicer tête-de-bélier]]
+* [[centaurée à une tête]]
+* [[chardon à têtes denses]]
+* [[chardon à têtes en coupe]]
+* [[chasseur de tête]]
+* [[chasseur de têtes]]
+* [[chat à tête plate]]
+* [[chercher des poux dans la tête]]
+* [[chier dans la tête]]
+* [[col de la Tête-Jaune]]
+* [[colibri à tête bleue]]
+* [[colibri à tête cuivrée]]
+* [[colibri à tête noire]]
+* [[colibri à tête violette]]
+* [[conserver sa tête]]
+* [[conure à tête bleue]]
+* [[conure à tête d’or]]
+* [[conure à tête rouge]]
+* [[conure tête-de-feu]]
+* [[coryllis à tête bleue]]
+* [[cotonnière à têtes laineuses]]
+* [[coup de tête]]
+* [[coupe-tête]]
+* [[crabier grosse tête]]
+* [[cytise à fleurs en têtes]]
+* [[de la tête aux pieds]]
+* [[de tête]]
+* [[depuis les pieds jusqu’à la tête]]
+* [[désentêter]]
+* [[dessus-de-tête]]
+* [[des têtes vont rouler]]
+* [[deux têtes dans le même bonnet]]
+* [[deux têtes sous un même bonnet]]
+* [[diner de têtes]] {{ortho1990}}
+* [[dîner de têtes]]
+* [[domaine de tête]]  {{info lex|Internet}}
+* [[dominer de la tête et des épaules]]
+* [[donner de la tête]]
+* [[donner tête baissée]]
+* [[d’une courte tête]]
+* [[échinaire à têtes]]
+* [[échinops à tête ronde]]
+* [[eider à tête grise]]
+* [[en avoir par-dessus la tête]]
+* [[en donner sa tête à couper]]
+* [[en répondre sur sa tête]]
+* [[en tête]]
+* [[en-tête]]
+* [[en tête-à-tête]]
+* [[en tête de]]
+* [[entêter]]
+* [[entrer dans la tête]]
+* [[étêtage]]
+* [[étêtement]]
+* [[étêter]]
+* [[étêteur]]
+* [[être dans toutes les têtes]]
+* [[être tombé sur la tête]]
+* [[euphorbe à têtes jaune d’or]]
+* [[faire à sa tête]]
+* [[faire la forte tête]]
+* [[faire la mauvaise tête]]
+* [[faire la tête]]
+* [[faire la tête au carré]] à quelqu’un
+* [[faire sa tête]]
+* [[faire tête]]
+* [[faire tête à l’orage]]
+* [[faire tête à la mer]]
+* [[faire tête sur son ancre]]
+* [[faire tomber des têtes]]
+* [[faire tourner les têtes]]
+* [[fauvette à tête noire]]
+* [[femme de tête]]
+* [[fendre la tête]]
+* [[forte tête]]
+* [[fromage de tête]]
+* [[garder la tête froide]]
+* [[garder la tête hors de l’eau]]
+* [[gens de tête et main]]
+* [[germandrée à têtes]]
+* [[grallaire à tête noire]]
+* [[grallaire à tête rousse]]
+* {{lien|grosse tête|fr}}
+* [[hasarder sa tête]]
+* [[hédysarum à têtes]]
+* [[herbe à sept têtes]]
+* [[herbe aux cent têtes]]
+* [[hochement de tête]]
+* [[homme de tête]]
+* [[inséparable à tête grise]]
+* [[inséparable à tête rouge]]
+* [[jeter à la tête]]
+* [[jonc à grosses têtes]]
+* [[jonc en têtes]]
+* [[la tête à Papineau]]
+* [[La Tête-à-vache]]
+* [[la tête basse]]
+* [[La Tête-de-Ran]]
+* [[la tête haute]]
+* [[la tête la première]]
+* [[la tête levée]]
+* [[lave-tête]]
+* [[laver la tête]]
+* [[lever la tête]]
+* [[ligne de tête]]
+* [[loricule à tête bleue]]
+* [[loriquet à tête bleue]]
+* [[mal de tête]]
+* [[manakin à tête blanche]]
+* [[manakin à tête bleue]]
+* [[manakin à tête d’or]]
+* [[manakin à tête rouge]]
+* [[manech tête noire]]
+* [[marcher sur la tête]]
+* [[mauvaise tête]]
+* [[méliphage à tête grise]]
+* [[merle à tête grise]]
+* [[mésange à tête noire]]
+* [[mettre la tête à prix]]
+* [[micropsitte à tête fauve]]
+* [[misère de tête]]
+* [[missile à tête chercheuse]]
+* [[moineau sans tête]]
+* [[monter à la tête]]
+* [[monter la tête à quelqu’un]]
+* [[muscle petit oblique de la tête]]
+* [[n’avoir ni queue ni tête]]
+* [[n’avoir pas de tête]]
+* [[n’avoir pas où reposer sa tête]]
+* [[n’avoir plus sa tête à soi]]
+* [[n’avoir plus sa tête]]
+* [[n’avoir qu’une idée en tête]]
+* [[n’en faire qu’à sa tête]]
+* [[ne pas avoir de tête]]
+* [[ne pas avoir la tête à]] (quelque chose)
+* [[ne pas prendre la tête à Papineau]]
+* [[ne pas savoir où donner de la tête]]
+* [[ne pas valoir la tête à Papineau]]
+* [[ne plus avoir toute sa tête]]
+* [[ne rien avoir dans la tête]]
+* [[ne savoir où donner de la tête]]
+* [[ne vouloir voir qu’une tête]]
+* [[nœud en tête d’alouette]]
+* [[oiseau sans tête]]
+* [[opossum-musaraigne à tête rouge]] 
+* [[oseille tête-de-bœuf]]
+* [[oursin à têtes rondes]]
+* [[par tête]]
+* [[par tête de pipe]]
+* [[parier sa tête]]
+* [[paronyque en tête]]
+* [[partir en tête à queue]]
+* [[passer la tête]]
+* [[passer par la tête]]
+* [[passer une tête]]
+* [[pâté de tête]]
+* [[payer de sa tête]]
+* [[payer de tête]]
+* [[perdre la tête]]
+* [[perroquet à tête brune]]
+* [[perruche à tête ardoisée]]
+* [[perruche à tête d’or]]
+* [[perruche à tête grise]]
+* [[perruche à tête pâle]]
+* [[perruche à tête pourpre]]
+* [[perruche à tête prune]]
+* [[perruche à tête rose]]
+* [[perruche-moineau à tête jaune]]
+* [[petite tête]]
+* [[pione à tête bleue]]
+* [[piquer une tête]]
+* [[pissenlit à têtes noires]]
+* [[pittasome à tête noire]]
+* [[podarge à tête grise]]
+* [[porcelle à une tête]]
+* [[porte de tête]]
+* [[porter à la tête]]
+* [[porter haut la tête]]
+* [[porter sa tête sur l’échafaud]]
+* [[pot-en-tête]]
+* [[petite-centaurée à fleurs en têtes]]
+* [[prendre la grosse tête]]
+* [[prendre la tête]]
+* [[prendre sur sa tête]]
+* [[prise de tête]]
+* [[produits de tête]]
+* [[pygargue à tête blanche]]
+* [[pyrochre à tête rouge]]
+* [[relever la tête]]
+* [[renard volant à tête grise]]
+* [[renoncule à têtes d’or]]
+* [[renoncule tête d’or]]
+* [[repose-tête]]
+* [[retourner dans sa tête]]
+* [[retourner la tête]]
+* [[rompre la tête]]
+* [[roussette à tête grise]]
+* [[rumex tête-de-bœuf]]
+* [[sa tête ne lui revient pas]]
+* [[sabline à fleurs en têtes]]
+* [[sainfoin tête-de-coq]]
+* [[sainfoin à têtes]]
+* [[sale tête]]
+* [[se casser la tête]]
+* [[se cogner la tête contre les murs]]
+* [[se creuser la tête]]
+* [[se faire une tête]]
+* [[se jeter à la tête de]]
+* [[se jeter la tête la première]]
+* [[se mettre en tête]]
+* [[se mettre dans la tête]]
+* [[se mettre la tête]]
+* [[se mettre la tête à l’envers]]
+* [[se mettre la tête sous le couperet]]
+* [[se mettre martel en tête]]
+* [[se monter la tête]]
+* [[se payer la tête]] (de quelqu’un)
+* [[se rompre la tête]]
+* [[se prendre la tête]]
+* [[se prendre la tête dans les mains]]
+* [[se sortir la tête de l’eau]]
+* [[se vider la tête]]
+* [[secouer la tête]]
+* [[séneçon à têtes]]
+* [[serin à tête noire]]
+* [[serre-tête]]
+* [[signe de tête]]
+* [[sortir de la tête]]
+* [[sortir la tête de l’eau]]
+* [[souchet en têtes]]
+* [[succéder par tête]]
+* [[syndrome de la tête qui explose]]
+* [[taéniathérum tête-de-méduse]]
+* [[tenir tête]]
+* [[têtard]]
+* [[tête à chapeau]]
+* [[tête à claques]]
+* [[tête à gifle]]
+* [[tête à gifles]]
+* [[tête à l’Anglais]]
+* [[tête à l’évent]]
+* [[tête à palpeur]]
+* [[tête à Papineau]]
+* [[tête à perruque]]
+* [[tête à queue]]
+* [[tête-à-queue]]
+* [[tête à tête]]
+* [[tête-à-tête]]
+* [[tête baissée]]
+* [[tête-bêche]] ''ou'' [[têtebêche]]
+* [[tête blonde]]
+* [[tête brulée]] {{ortho1990}}
+* [[tête brûlée]]
+* [[tête carrée]]
+* [[tête chenue]]
+* [[tête chaude]]
+* [[tête chercheuse]]
+* [[tête-chèvre]]
+* [[tête couronnée]]
+* [[tête d’affiche]]
+* [[tête d’ail]]
+* [[tête d’alouette]]
+* [[tête d’amortisseur]]
+* [[tête d’ampoule]]
+* [[tête d’ange]]
+* [[tête d’armoise]]
+* [[tête d’écriture]]
+* [[tête d’effacement]]
+* [[tête d’électrode]]
+* [[tête d’enclume]]
+* [[tête d’enregistrement]]
+* [[tête d’épingle]]
+* [[tête d’impression]]
+* [[tête d’injection]]
+* [[tête d’oreiller]]
+* [[tête-de-bécasse]]
+* [[tête de benne]]
+* [[tête-de-bélier]]
+* [[tête de bétail]]
+* [[tête de bois]]
+* [[tête de buche]] {{ortho1990}}
+* [[tête de bûche]]
+* [[tête de buis]]
+* [[tête de cabestan]]
+* [[tête de câble]]
+* [[tête de caméra]]
+* [[tête de carême]]
+* [[tête de chapitre]]
+* [[tête-de-chat]]
+* [[tête-de-cheval]]
+* [[tête de circonstance]]
+* [[tête de classe]]
+* [[tête-de-clou]]
+* [[tête de cochon]]
+* [[tête de colonne]]
+* [[tête de con]]
+* [[tête-de-coq]]
+* [[tête de déterré]]
+* [[tête de distribution]]
+* [[tête-de-dragon à trois fleurs]]
+* [[tête-de-dragon d’Amérique]]
+* [[tête-de-dragon d’Autriche]]
+* [[tête-de-dragon de Ruysch]]
+* [[tête de fer]]
+* [[tête de flèche]]
+* [[tête de fraisage]]
+* [[tête de fusée]]
+* [[tête de girouette]]
+* [[tête de gland]]
+* [[tête de gondole]]
+* [[tête de lard]]
+* [[tête de lecture]]
+* [[tête de lecture-écriture]]
+* [[tête de ligne]]
+* [[tête de linotte]]
+* [[tête de lit]]
+* [[tête de loup]]
+* [[tête-de-loup]]
+* [[tête de Maure]]
+* [[tête-de-méduse]]
+* [[tête de moine]]
+* [[tête de moineau]]
+* [[tête-de-More]], [[tête-de-Maure]]
+* [[tête de mort]]
+* [[tête-de-mort]]
+* [[tête de mule]]
+* [[tête de mulet]]
+* [[tête-de-nègre]]
+* [[tête de nœud]]
+* [[tête de perçage]]
+* [[tête de pioche]]
+* [[tête de pieu]]
+* [[tête de pipe]]
+* [[tête de pont]]
+* [[tête de puits]]
+* [[tête de série]]
+* [[tête-de-serpent]]
+* [[tête-de-soufre]]
+* [[tête de Turc]]
+* [[tête de veau]]
+* [[tête de vainqueur]]
+* [[tête de veau vinaigrette]]
+* [[tête de violon]]
+* [[tête dure]]
+* [[tête en fourche]]
+* [[tête en l’air]]
+* [[tête enregistreuse]]
+* [[tête faible]]
+* [[tête folle]]
+* [[tête froide]]
+* [[tête haute]]
+* [[tête humaine]]
+* [[tête inclinable]]
+* [[tête la première]]
+* [[tête légère]]
+* [[tête levée]]
+* [[tête lisse]]
+* [[tête magnétique]]
+* [[tête mitrée]]
+* [[tête noire]]
+* [[tête noire de Brive]]
+* [[tête nucléaire]]
+* [[tête nue]]
+* [[tête paumée]]
+* [[tête perdue]]
+* [[tête portant trochures]]
+* [[tête porte-foret]]
+* [[tête porte-fraise]]
+* [[tête porte-outil]]
+* [[tête-portrait]]
+* [[tête posée]]
+* [[tête pressée]]
+* [[tête rasée]]
+* [[tête rassise]]
+* [[tête rotative]]
+* [[tête-ronde]]
+* [[tête-rouge]]
+* [[tête rouge du Maine]] ''(Race de mouton)''
+* [[tête sage]]
+* [[tête sans cervelle]]
+* [[tête sonore]]
+* [[tête-verte]]
+* [[têteau]]
+* [[têtebêche]] ''ou'' [[tête-bêche]]
+* [[têtebleu]]
+* [[têtes adossées]]
+* [[Têtes de Boule]]
+* [[têtier]]
+* [[têtière]]
+* [[têtoir]]
+* [[têtu]]
+* [[têtuer]]
+* [[teuté]] (verlan)
+* [[thym à têtes]]
+* [[tirage de tête]]
+* [[tire-tête]]
+* [[tirer la tête]]
+* [[tomber la tête la première]]
+* [[toui à tête jaune]]
+* [[tourner la tête]] à quelqu’un
+* [[tranche-tête]]
+* [[travail de tête]]
+* [[tue-tête]]
+* [[urubu à tête jaune]]
+* [[urubu à tête rouge]]
+* [[vacher à tête brune]] {{info lex|ornithologie}}
+* [[voix de tête]]
+* [[vouloir la tête]]
+* [[vergerette à une tête]]
+* [[y aller de sa tête]]
+{{)}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[à laver la tête d’un âne, on perd sa lessive]]
+* [[à laver la tête d’un âne on perd sa lessive]]
+* [[à laver la tête d’un More, on perd sa lessive]]
+* [[après la fête, on gratte sa tête]]
+* [[autant de têtes, autant d’opinions]]
+* [[bouffer la tête]]
+* [[ça va pas la tête]]
+* [[deux têtes valent mieux qu'une]]
+* [[le ciel nous tombe sur la tête]]
+* [[le poisson commence à puer par la tête]]
+* [[les têtes vont rouler]]
+* [[les yeux lui sortent de la tête]]
+* [[mauvaise tête et bon cœur]]
+* [[où ai-je la tête]]
+* [[parle à mon cul, ma tête est malade]]
+* [[quand on n’a pas de tête il faut avoir des jambes]]
+* [[quand on n’a pas de tête on a des jambes]]
+* [[que le soleil me tombe sur la tête]] !
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|anatomie humaine|légume|coq|corps humain|xylophone|violon|montagne|vote|poinçon|poisson en cuisine|squelette|artichaut|guitare|boucherie|padel|instrument à cordes|idée|cou|escrime|tennis|dinosaure|tortue|âne|libellule|mollusque|bouchon de liège|héraldique|insecte|papillon}}
+
+==== {{S|holonymes}} ====
+* [[corps]]
+
+==== {{S|méronymes}} ====
+{{(}}
+{{cf|lang=fr|visage#Synonymes}}
+* [[barbe]]
+* [[bouche]]
+* [[chevelure]]
+* [[cou]]
+* [[face]]
+* [[front]]
+* [[joue]]
+* [[mâchoire]]
+* [[menton]]
+* [[moustache]]
+* [[nez]]
+* [[nuque]]
+* [[occiput]]
+* [[œil]]
+* [[oreille]]
+* [[pommette]]
+* [[sinciput]]
+* [[sourcil]]
+* [[tempe]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|{{info lex|anatomie}} Partie supérieure du corps|1}}
+* {{T|ar}} : {{trad+|ar|رأس|R=raʾs|m}}
+{{trad-fin}}
+{{trad-début|{{info lex|anatomie}} Crâne|2}}
+{{trad-fin}}
+{{trad-début|Figure, visage, physionomie|3}}
+{{trad-fin}}
+{{trad-début|Chevelure|4}}
+{{trad-fin}}
+{{trad-début|Scalp|5}}
+{{trad-fin}}
+{{trad-début|Personne ou institution qui organise et dirige l’action|6}}
+{{trad-fin}}
+{{trad-début|Esprit, imagination, mémoire, intelligence, jugement|7}}
+{{trad-fin}}
+{{trad-début|Fermeté de caractère|8}}
+{{trad-fin}}
+{{trad-début|Individu, personne|9}}
+{{trad-fin}}
+{{trad-début|Vie, existence|10}}
+{{trad-fin}}
+{{trad-début|{{info lex|élevage}} Chacun des animaux d’un cheptel, d'un troupeau|11}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|tɛt|fr}}
+* Français méridional : {{phono|ˈtɛ.tə|fr}}
+* Canada : {{phono|tɛːt|fr}}, {{phon|taɛ̯t|fr}}
+* {{écouter|France (Paris)|la tɛt|audio=Fr-tête.ogg|titre=la tête|lang=fr}}
+* {{écouter|Belgique (Brabant wallon)|tɛt|audio=Fr-BE-tête.ogg|lang=fr}}
+* {{écouter|lang=fr|Suisse (Genève)|tɛːt|audio=LL-Q150 (fra)-Nattes à chat-tête.wav}}
+* {{écouter|Valence (France)|tɛt|lang=fr|audio=LL-Q150 (fra)-Johanboss-tête.wav}}
+* {{écouter|Somain (France)|tɛt|lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-tête.wav}}
+* {{écouter|Céret (France)|ˈtɛ.tə|lang=fr|audio=LL-Q150 (fra)-Fabricio Cardenas (Culex)-tête.wav}}
+* {{écouter|Canada (Laurentides)|tæɪ̯t|audio=FR-CA-tête.oga|lang=fr}}
+* {{écouter|Canada (La Tuque)|taɪ̯t|audio=Qc-tête.oga|lang=fr}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-tête.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-tête.wav}}
+* {{écouter|province de Namur (Belgique)||lang=fr|audio=LL-Q150 (fra)-Ʃouer-tête.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-tête.wav}}
+* {{écouter|Bordeaux (France)||lang=fr|audio=LL-Q150 (fra)-Bananax47-tête.wav}}
+* {{écouter|Belgique||lang=fr|audio=LL-Q150 (fra)-mmtn (Mathsou)-tête.wav}}
+* {{écouter|Tournai (Belgique)||lang=fr|audio=LL-Q150 (fra)-Mathé23323 (Mathsou)-tête.wav}}
+* {{écouter|Belgique||lang=fr|audio=LL-Q150 (fra)-Mona (Mathsou)-tête.wav}}
+==== {{S|homophones|fr}} ====
+* [[tet]], [[tèt]], [[tets]], [[tèts]], [[têt]], [[Têt]]
+* [[tète]], [[tètent]], [[tètes]]
+* [[têtes]]
+* [[teth]]
+* [[tette]], [[tettent]], [[tettes]]
+* [[thète]]
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Thésaurus|fr|héraldique}}
+* {{WP|Liste des meubles héraldiques}}
+
+=== {{S|références}} ===
+* {{R:FranceTerme}}
+{{Références}}
+

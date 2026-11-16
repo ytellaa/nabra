@@ -1,0 +1,170 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{lien-ancre-étym|fr|nom|1}} {{siècle|lang=fr|XI}} Du {{étyl|la|fr|ruga|dif=rūga|sens=ride}} puis « chemin » en latin tardif.
+: {{lien-ancre-étym|fr|nom|2}} {{siècle|lang=fr|XIII}} Du {{étyl|la|fr|ruta|dif=rūta}}, de même sens.
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|ʁy}}
+[[File:La Rue de la Rue.jpg|thumb|La '''Rue''' de la Rue à Suèvres (Centre-Val de Loire)]]
+'''rue''' {{pron|ʁy|fr}} {{f}}
+# {{lexique|urbanisme|fr}} [[voie|Voie]] de [[circulation]] d'une [[ville]], d'un [[bourg]], d'un [[village]], etc., généralement [[border|bordée]] de [[maison]]s ou de [[propriété]]s closes.
+# {{par métonymie|fr}} L’[[ensemble]] des [[habitant]]s, des [[commerce]]s et des [[piéton]]s d’une rue.
+# ''(Au singulier, précédé de l'article défini « la »)'' La '''rue''' vue comme lieu de manifestation populaire.
+# ''(Au singulier, précédé de l'article défini « la »)'' {{par métonymie|fr}} Masse populaire manifestant son opinion. {{cf|descendre dans la rue|rue arabe}}
+# {{lexique|industrie minière|fr}} [[tranchée|Tranchée]] [[vide]] après son [[exploitation]] dans une [[carrière]] ou une [[mine]].
+# [[espace|Espace]] ou [[passage]] [[long]] et [[étroit]].
+# {{lexique|imprimerie|fr}} Espace vide [[vertical]] produit par l’[[alignement]] [[fortuit]] de [[blanc]]s dans une [[page]] [[imprimer|imprimée]].
+
+==== {{S|abréviations}} ====
+* [[r.]]
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[à la rue]]
+* [[au coin de la rue]], [[au coin d’une rue]]
+* [[avoir pignon sur rue]]
+* [[battre la rue]]
+* [[c’est rien c’est la rue]]
+* [[chanteur des rues]]
+* [[chanteuse des rues]]
+* [[clou de rue]]
+* [[courir les rues]]
+* [[cuisine de rue]]
+* [[descendre dans la rue]]
+* [[éducateur de rue]]
+* [[en pleine rue]]
+* [[enfant de la rue]]
+* [[entrainement de rue]] {{ortho1990}}
+* [[entraînement de rue]]
+* [[être à la rue]]
+* [[faire la rue Michel]]
+* [[faire la rue Thubaneau]]
+* [[foot de rue]]
+* [[grand-rue]], [[grande rue]]
+* [[harcèlement de rue]]
+* [[herbe de la rue]]
+* [[hirondelle de la rue Tapis-Vert]]
+* [[homme de la rue]]
+* [[luge de rue]]
+* [[médecine de rue]]
+* [[metteur en rue]]
+* [[mettre dans la rue]]
+* [[microrue]], [[micro-rue]]
+* [[mobilier de rue]]
+* [[mode de la rue]]
+* [[pignon à rue]]
+* [[pignon sur rue]]
+* [[planche de rue]]
+* [[plaque de rue]]
+* [[prix de la rue]]
+* [[publicité de rue]]
+* [[rue arabe]]
+* [[rue barrée]]
+* [[rue canyon]]
+* [[rue de la soif]]
+* [[rue fermée]] {{Canada|nocat=1}}
+* [[rue piétonne]]
+* [[rue traversière]]
+* [[ruelle]]
+* [[ruet]]
+* [[ruette]]
+* [[scène de rue]]
+* [[spectacle de rue]]
+* [[théâtre de rue]]
+* [[tout-à-la-rue]], [[tout à la rue]]
+* [[travailleur de rue]]
+* [[vieux comme les rues]]
+* [[village-rue]]
+{{)}}
+
+==== {{S|synonymes}} ====
+{{(|Voie dans une agglomération|colonnes=1}}
+{{)}}
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|route|pauvreté|ville|bagarre|prostitution|voie urbaine}}
+
+==== {{S|traductions}} ====
+{{trad-début|Voie dans une agglomération}}
+* {{T|ar}} : {{trad+|ar|شارع|tr=šāriʾ}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|ʁy}}
+[[Image:Ruta angustifolia.jpg|thumb|rue à feuilles étroites ''(Ruta angustifolia'' Pers., alias ''Ruta chalepensis'' L.)]]
+'''rue''' {{pron|ʁy|fr}} {{f}}
+# {{plantes|fr}} [[plante|Plante]] [[dicotylédone]] [[herbacée]] ou [[ligneuse]] [[vivace]] de la [[famille]] des [[Rutacées]], à [[fleur]]s [[jaune]]s. Nom vernaculaire de la plante [[w:Ruta_graveolens|Ruta graveolens]] : 
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[grande rue]]
+* [[rue à feuilles étroites]]
+* [[rue d’Alep]]
+* [[rue d’Égypte]]
+* [[rue des jardiniers]]
+* [[rue des murailles]] ([[asplénie]])
+* [[rue fétide]]
+* [[rue odorante]]
+* [[rue officinale]] ([[herbe à la belle fille]], [[herbe de grâce]])
+* [[rue puante]]
+* [[rue vineuse]]
+* {{lien|rutique|fr}}
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[rutacées]]
+* [[rutabaga]]
+* [[rutique]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad-|ar|سذاب|tr=sudhèb}}, {{trad-|ar|فيجن|tr=fayjan}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|ruer|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui}}
+'''rue''' {{pron|ʁy|fr}}
+# ''Première personne du singulier du présent de l’indicatif de'' [[ruer]].
+# ''Troisième personne du singulier du présent de l’indicatif de'' [[ruer]].
+# ''Première personne du singulier du présent du subjonctif de'' [[ruer]].
+# ''Troisième personne du singulier du présent du subjonctif de'' [[ruer]].
+# ''Deuxième personne du singulier de l’impératif de'' [[ruer]].
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France|yn ʁy|audio=Fr-rue.ogg|titre=une rue}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-rue.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines1-rue.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines2-rue.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines3-rue.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines5-rue.wav}}
+* {{écouter|lang=fr||audio=LL-Q150 (fra)-Aemines4-rue.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines6-rue.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-rue.wav}}
+* {{écouter|canton de Fribourg (Suisse)||lang=fr|audio=LL-Q150 (fra)-CKali-rue.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-rue.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-rue.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-rue.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)||lang=fr|audio=LL-Q150 (fra)-Helenou66-rue.wav}}
+* {{écouter|lang=fr|Belgique (Namur)|ʀyː|lang=fr|audio=LL-Q150 (fra)-Ʃouer-rue.wav}}
+* {{écouter|Reims (France)||lang=fr|audio=LL-Q150 (fra)-Phmavipe-rue.wav}}
+* {{écouter|Millau (France)||lang=fr|audio=LL-Q150 (fra)-Antochkat-rue.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-rue.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[ru]], [[rû]], [[rus]], [[rûs]]
+* [[Rû]]
+* [[Rue]]
+* [[ruent]], [[rues]] {{cf|ruer}}
+* [[rupt]], [[rupts]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{thésaurus|fr|voie urbaine}}
+* {{WP}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+[[Catégorie:Voies de circulation terrestres en français]]
+

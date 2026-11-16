@@ -1,0 +1,99 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle||lang=fr}} De l’{{étyl|fro|fr|hospital}}, ''{{lien|ospital|fro}}'', du {{étyl|la|fr|hospitalia|sens=chambres pour les [[hôte]]s, puis « refuge pour les indigents}}.
+:Le mot est surtout lié au concept d’[[hospitalité]], d’[[accueil]] des [[malade]]s, des [[indigent]]s et des [[mourant]]s, tâche réservée pendant le [[Moyen Âge]] aux ordres religieux [[hospitalier]]s dans des [[local|locaux]] qui se sont longtemps appelé indifféremment ''[[hospice]]'' ou ''hôpital''. Voir aussi ''[[hôtel]]''.
+
+=== {{S|nom|fr}} ===
+{{fr-rég-al|hôpit|préfpron={{h muet}}|o.pi.t}}
+[[Fichier:CHU Albert Michalon by Matthieu Riegler.jpg|vignette|L’'''hôpital''' de Grenoble (France).]]
+'''hôpital''' {{h muet}}{{pron|o.pi.tal|fr}} ou {{h muet}}{{pron|ɔ.pi.tal|fr}} {{m}}
+# {{établissements de santé|fr}} [[établissement|Établissement]] de production de soins et de services liés à la [[santé]] où les [[malade]]s et les [[blessé]]s sont soignés.
+# {{par hyperbole|fr}} Maison où il y a plusieurs personnes malades.
+# {{désuet|fr}} Sorte de [[bouilloire]] destinée à être suspendue au dessus du foyer d’une cheminée.
+
+==== {{S|notes}} ====
+[[durant|Durant]] la [[guerre]] de 1914-1918, on a [[appeler|appelé]] :
+
+==== {{S|synonymes}} ====
+* [[clinique]]
+* [[hosto]] {{familier|nocat=1}}
+* [[nosocome]] {{désuet|nocat=1}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[bateau-hôpital]]
+* [[CHSLD]]
+* [[courir en poste à l’hôpital]]
+* [[hôpital auxiliaire]]
+* [[hôpital bénévole]]
+* [[hôpital-bloc]]
+* [[hôpital cantonal]]
+* [[hôpital civil]]
+* [[hôpital complémentaire]]
+* [[hôpital de campagne]]
+* [[hôpital de jour]]
+* [[hôpital de l’avant]]
+* [[hôpital d’enseignement]]
+* [[hôpital de siège]]
+* [[hôpital d’évacuation]]
+* [[hôpital d’instruction des armées]] ([[HIA]])
+* [[hôpital général]]
+* [[hôpital militaire]]
+* [[hôpital militaire complémentaire]]
+* [[hôpital mixte]]
+* [[hôpital pavillonnaire]]
+* [[hôpital pour enfants]]
+* [[hôpital psychiatrique]]
+* [[hôpital spécialisé]]
+* [[hôpital universitaire]]
+* [[mettre à l’hôpital]]
+* [[navire hôpital]], [[navire-hôpital]]
+* [[prendre le chemin de l’hôpital]]
+* [[réduit à l’hôpital]]
+* [[vaisseau-hôpital]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[c’est l’hôpital qui se fout de la charité]]
+* [[c’est l’hôpital qui se fout de l’infirmerie]]
+* [[c’est l’hôpital qui se moque de la charité]]
+* [[c’est l’hôpital qui se moque de l’infirmerie]]
+
+==== {{S|apparentés}} ====
+* [[hospitalier]]
+* [[hospitaliser]]
+* [[hospitalité]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|transplantation|ville|cure thermale|don du sang|urgence|sexisme|hôpital|accouchement|procréation médicalement assistée|médecine|bâtiment|hygiène hospitalière|infection nosocomiale|infection associée aux soins|prévention des infections|contrôle des infections|hygiène des soins|asepsie|bionettoyage|hygiène des mains|antisepsie|stérilisation|risque infectieux|risque biologique}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad+|ar|مستشفى|dif=مُسْتَشْفًى|R=mustašfa|f}}
+{{trad-fin}}
+
+==== {{S|hyponymes}} ====
+* [[CHU]]
+* [[hospice]]
+* [[ladrerie]]
+* [[léproserie]]
+* [[maladrerie]]
+* [[sanatorium]]
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|ɛ̃.n‿o.pi.tal|audio=Fr-hôpital.ogg}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-hôpital.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-hôpital.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-hôpital.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Estrie-hôpital.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-hôpital.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Althea81-hôpital.wav}}
+* {{écouter|Millau (France)||lang=fr|audio=LL-Q150 (fra)-Antochkat-hôpital.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-hôpital.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+* {{R:SantéActionSociale}}, page 244.

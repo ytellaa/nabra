@@ -1,0 +1,128 @@
+== {{langue|fr}} ==
+
+=== {{S|étymologie}} ===
+: {{date||lang=fr}}{{R|TLFi}} (''[[#fr-nom|Nom commun]]'') {{aphérèse|m=1|fr}} d’''[[autobus]]''.
+: Les sens 2 et 3 viennent de l’{{étyl|en|fr|bus}}, apherèse d’''{{lien|omnibus|en}}''.
+
+=== {{S|nom|fr}} ===
+{{fr-inv|bys|sp=oui}}
+[[Fichier:Bus ArticuleParis.jpg|thumb|right|Bus articulé à Paris]]
+'''bus''' {{pron|bys|fr}} {{m}} ou {{f}} ''(voir note)'' {{sp}}
+# {{véhicules|fr}} [[véhicule|Véhicule]] de [[transport en commun]] [[routier]] pouvant transporter plusieurs dizaines de [[passager]]s.
+# {{lexique|architecture des ordinateurs|fr}} [[ensemble|Ensemble]] de [[lignes]] de [[transmission]] sur lesquelles plus de deux [[équipement]]s sont reliés en [[parallèle]]. Par extension on parle aussi de bus pour certaines liaisons se comportant comme tel (exemple liaison [[USB]])
+# {{lexique|électronique|fr}} Dispositif non bouclé reliant plusieurs composants, sous-ensembles ou matériels pour permettre entre eux l’apport d’énergie et la circulation d’informations.
+
+==== {{S|notes}} ====
+: En France, les mots « bus » et « [[autobus]] » sont utilisés de préférence pour les lignes régulières urbaines ; pour les lignes interurbaines, on emploie plutôt les mots « [[car]] » ou « [[autocar]] ».<ref>« Bus pour Car », article du site de l’''Académie française'' ([https://www.academie-francaise.fr/bus-pour-car#:~:text=Ces%20deux%20formes%20abrégées%2C%20l,une%20ville%20à%20l%27autre. voir en ligne])</ref>
+: Le mot est traité comme féminin par beaucoup de locuteurs du Canada, notamment ceux de la région des villes de Québec et de Sherbrooke, ainsi que ceux de Moncton, au Nouveau-Brunswick. Le mot est masculin ailleurs au Canada et dans la francophonie<ref name="Thibault">{{Lien web|auteur=André Thibault|titre=La « bus » ou le « bosse » ? Une autre rivalité Québec-Montréal…|url=https://francaisdenosregions.com/2018/10/22/la-bus-ou-le-bosse-une-autre-rivalite-quebec-montreal/|site=francaisdenosregions.com|date=22 octobre 2018|consulté le=17 août 2021}}.</ref><ref>{{Lien web|auteur=Benoît Melançon|titre=Le dilemme de l’autobus|url=http://oreilletendue.com/2011/11/19/le-dilemme-de-l%E2%80%99autobus/|site=oreilletendue.com|date=19 novembre 2011|consulté le=17 août 2021}}.</ref>.
+
+==== {{S|quasi-synonymes}} ====
+* {{lien|autobus|fr}}
+* {{lien|autocar|fr}}
+* {{lien|car|fr}}
+
+==== {{S|abréviations}} ====
+{{(|Symboles}}
+* [[🚍]], [[🚌]]
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[abribus]]
+* [[aérobus]]
+* [[aquabus]]
+* [[arbitre de bus]] {{info lex|architecture des ordinateurs}}
+* [[arrêt de bus]]
+* [[bateau-bus]]
+* [[bébé-bus]]
+* [[bibliobus]]
+* [[bus à haut niveau de service]] ''ou'' [[BHNS]]
+* [[bus à impériale]]
+* [[bus accordéon]]
+* [[bus cycliste]]
+* [[bus pédestre]]
+* [[bus scolaire]]
+* [[couloir de bus]]
+* [[cul-de-bus]]
+* [[cyclo-bus]] ''ou'' [[cyclobus]]
+* [[discobus]]
+* [[électrobus]]
+* [[folle du bus]] {{argot internet|nocat=1}} 
+* [[fou du bus]] {{argot internet|nocat=1}} 
+* [[muséobus]]
+* [[midibus]]
+* [[minibus]]
+* [[transbus]]
+* [[trolleybus]]
+* [[voie de bus]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* {{lien|omnibus|fr}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|véhicule|ordinateur|route|aéroport|ville|Toulouse|locomotion|écologie|quai|processeur}}
+
+==== {{S|traductions}} ====
+{{trad-début|Véhicule de transport en commun}}
+* {{T|ar}} : {{trad+|ar|حافلة|tr=Haèfila}}, {{trad-|ar|حَافِلَة}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|boire|grp=3|ppmp=oui|ind.ps.1s=oui|ind.ps.2s=oui}}
+'''bus''' {{pron|by|fr}}
+# ''Participe passé masculin pluriel de'' [[boire]].
+# ''Première personne du singulier du passé simple de'' [[boire]].
+# ''Deuxième personne du singulier du passé simple de'' [[boire]].
+
+=== {{S|adjectif|fr|flexion}} ===
+{{fr-accord|ms=bu|bu}}
+'''bus''' {{pron|by|fr}}
+# ''Masculin pluriel de'' [[bu]].
+
+=== {{S|prononciation}} ===
+{{note}} Un des rares [[:Catégorie:Homographes non homophones en français|exemples de mot français ayant deux prononciations]].
+: ('''[[#fr-nom|Nom commun]]''') :
+* {{pron|bys|fr}}
+* Canada<ref name="Thibault" /> :
+** Est du Québec (Québec, Sherbrooke, Gaspé) : {{pron|bys|fr}}, {{phon|bʏs|fr}}
+** Ouest du Québec (Montréal, Ottawa-Gatineau), Nouveau-Brunswick : {{pron|bɔs|fr}}
+* {{écouter|lang=fr|France (Paris)|bys|audio=LL-Q150 (fra)-GrandCelinien-bus.wav}}
+* {{écouter|lang=fr|France (Toulouse)|bys|audio=LL-Q150 (fra)-Lepticed7-bus.wav}}
+* {{écouter|lang=fr|France (Vosges)|bys|audio=LL-Q150 (fra)-LoquaxFR-bus.wav}}
+* {{écouter|lang=fr|France (Lyon)|bys|audio=LL-Q150 (fra)-WikiLucas00-bus.wav}}
+* {{écouter|lang=fr|France (Vosges)|bys|audio=LL-Q150 (fra)-Poslovitch-bus.wav}}
+* {{écouter|lang=fr|France (Fontainebleau)|bys|audio=LL-Q150 (fra)-Baidax-bus.wav}}
+* {{écouter|France (Lyon)|bys|lang=fr|audio=LL-Q150 (fra)-WikiLucas00-bus (s audible).wav}}
+* {{écouter|canton du Valais (Suisse)|bys|lang=fr|audio=LL-Q150 (fra)-DSwissK-bus.wav}}
+* {{écouter|lang=fr|France (Canet-en-Roussillon)|bys|audio=LL-Q150 (fra)-Damian B. (BiblioCanet66)-bus.wav}}
+* {{écouter|Somain (France)|bys|lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-bus.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)|bʏs|audio=LL-Q150 (fra)-DenisdeShawi-bus.wav}}
+: ('''[[#fr-flex-verb|Flexion de verbe]]''') :
+* {{pron|by|fr}}
+** {{écouter|lang=fr|Canada (Québec, Mauricie, Shawinigan)|titre=Bus. Les verres de bières que j'ai bus|by|audio=J'ai bus.ogg}}
+** {{écouter|France (Lyon)|by|lang=fr|audio=LL-Q150 (fra)-WikiLucas00-bus (s muet).wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-bus.wav}}
+* {{écouter|Reims (France)||lang=fr|audio=LL-Q150 (fra)-Phmavipe-bus.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Althea81-bus.wav}}
+* {{écouter|Millau (France)||lang=fr|audio=LL-Q150 (fra)-Antochkat-bus.wav}}
+
+==== {{S|homophones|fr}} ====
+: ('''[[#fr-nom|Nom commun]]''') :
+* [[busse]], [[busses]], [[bussent]] {{cf|lang=fr|boire}}
+
+: ('''[[#fr-flex-verb|Flexion de verbe]]''') :
+* [[Bû]]
+* [[bu]], [[bue]], [[bues]], [[but]], [[bût]] {{cf|boire}}
+* [[but]], [[buts]] (nom commun)
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|références}} ===
+{{Références}}
+* {{R:FranceTerme}}
+* {{Lien web|titre=bus|url=https://dictionnaire.lerobert.com/definition/bus|site=lerobert.com|éditeur=Éditions Le Robert|consulté le=17 août 2021}}.
+* {{R:Larousse}}
+* {{R:Usito|bus_2}}
+

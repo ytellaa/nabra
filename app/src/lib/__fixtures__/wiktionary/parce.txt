@@ -1,0 +1,19 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du [[par]] + [[ce]]
+
+=== {{S|préposition|fr}} ===
+'''parce''' {{pron|paʁs|fr}}
+# Utilisé seulement dans la [[locution]] [[parce que]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|Nancy (France)||lang=fr|audio=LL-Q150 (fra)-VictorDtmtc-parce.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-parce.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+

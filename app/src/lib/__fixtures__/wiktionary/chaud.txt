@@ -1,0 +1,236 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|fro|fr|chaut}}, ''{{lien|chalt|fro}}'', du {{étyl|la|fr|mot=calidus|dif=cal(ĭ)dus}}, même sens.
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-cons|ʃo|d}}
+[[Fichier:4K UHD Strand Osttimor 2019-08-01.jpg|vignette|Il fait '''chaud''' sous les tropiques. (1)]]
+[[Fichier:Glowing metal.jpg|vignette|Ce métal lumineux est '''chaud'''. (2)]]
+[[Fichier:Snowboard glove with Kevlar reenforcement 1990ies.jpeg|vignette|Ce gant épais de snowboard semble très '''chaud'''. (2b)]]
+[[Fichier:Grandmother preparing food inside traditional kitchen (edited).jpg|vignette|Une photographie aux tons '''chauds'''. (3)]]
+'''chaud''' {{pron|ʃo|fr}}
+# De [[température]] plus [[haut]]e que la [[normale]], de température [[élevé]]e.
+# Qui a ou qui [[donner|donne]] de la [[chaleur]], [[calorifère]].
+## {{en particulier}} [[parler|En parlant]] de [[certain]]s [[vêtement]]s.
+##* {{exemple | lang=fr | Cet habit, ce manteau est bon et '''chaud'''.}}
+# {{par analogie|fr}} [[brillant|Brillant]] et [[vigoureux]], [[tirer|tirant]] vers le [[rouge]], l’[[orange]] ou le [[jaune]].
+# {{par analogie|fr}} [[récent|Récent]], qui n’a pas encore eu le temps de refroidir.
+# [[prompt|Prompt]], qui se [[mettre|met]] [[facilement]] en [[colère]].
+# [[en chaleur|En chaleur]], en [[rut]].
+# {{par extension}} Qui est érotique.
+# {{lexique|nucléaire|fr}} Se dit d’un local ou d’une installation contenant ou pouvant contenir des matières fortement radioactives.
+# {{figuré|fr}} Qui donne un sentiment de [[danger]].
+# {{figuré|fr}} [[sanglant|Sanglant]].
+# {{figuré|fr}} {{mélioratif|fr}} [[ardent|Ardent]], [[zélé]], [[passionné]].
+# {{familier|fr}} {{mélioratif|fr}} Motivé, avoir envie de.
+# {{familier|fr}} {{populaire|fr}} [[difficile|Difficile]], [[compliqué]].
+# {{familier|fr}} {{populaire|fr}} [[bon|Bon]], [[doué]].
+# {{Canada|fr}} {{familier|fr}} [[ivre|Ivre]].
+
+==== {{S|variantes}} ====
+* [[chaux#fr-adj|chaux]] {{archaïsme|nocat=1}}
+
+==== {{S|antonymes}} ====
+* [[froid]]
+* [[frette]] {{Québec|nocat=1}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à chaud]]
+* [[à la chaude]]
+* [[abcès chaud]]
+* [[alarme chaude]]
+* [[allumage par point chaud]]
+* [[au plus chaud]]
+* [[avoir été démoulé trop chaud]]
+* [[avoir chaud aux fesses]]
+* [[avoir chaud aux oreilles]]
+* [[avoir le sang chaud]]
+* [[battre le fer tant qu’il est chaud]]
+* [[boite chaude]] {{ortho1990}}
+* [[boîte chaude]]
+* [[cellule chaude]]
+* [[chaudaille]] (14)
+* [[chaudasse]] (14)
+* [[chaud bouillant]]
+* [[chaud bulex]] {{Belgique|nocat=1}}
+* [[chaud comme la braise]]
+* [[chaud comme une baraque à frites]]
+* [[chaud devant]]
+* [[chaud du slip]]
+* [[chaud et froid]]
+* [[chaud-froid]]
+* [[chaud lapin]]
+* [[chaud les marrons]]
+* [[chaud mal]]
+* [[chaud-réfrédi]]
+* [[chaudard]]
+* [[chaude alarme]]
+* [[chaude-chasse]]
+* [[chaude pisse]], [[chaude-pisse]]
+* [[chaudement]]
+* [[chauffage]]
+* [[chauffe]]
+* [[chauffer]]
+* [[chaufferette]]
+* [[chauffeur]]
+* [[chocolat chaud]]
+* [[collecteur chaud]]
+* [[couleur chaude]]
+* [[curée chaude]]
+* [[désert chaud côtier]]
+* [[échauder]]
+* [[échauffer]]
+* [[être chaude]]
+* [[front chaud]]
+* [[gorge chaude]]
+* [[guerre chaude]]
+* [[injection canal chaud]]
+* [[laboratoire chaud]]
+* [[liaison chaude]]
+* [[main chaude]]
+* [[marrons chauds]]
+* [[moulage par injection en canal chaud]]
+* [[ne pas avoir inventé l’eau chaude]]
+* [[patate chaude]]
+* [[pâté chaud]]
+* [[pistolet à air chaud]]
+* [[pleurer à chaudes larmes]] (pleurer abondamment)
+* [[prendre chaud]]
+* [[prospect chaud]]
+* [[réchauffer]]
+* [[renvoyer la patate chaude]]
+* [[se mettre chaud]] (s’enivrer) {{Québec|nocat=1}}
+* [[serre chaude]]
+* [[table chaude]] ''(tavola calda)''
+* [[tenir chaud]]
+* [[tête chaude]]
+* [[tomber de fièvre en chaud mal]] (tomber d’un état fâcheux dans un pire)
+* [[tout chaud]]
+* [[tout chaud, tout bouillant]]
+* [[vin chaud]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|boisson|chauffage|difficile|facile}}
+
+==== {{S|phrases}} ====
+* [[Franklin prend son thé chaud]]
+
+==== {{S|traductions}} ====
+{{trad-début|De température élevée}}
+* {{T|ar}} : {{trad+|ar|حار|m|tr=ḥārr·un|dif=حَارٌّ}}, {{trad-|ar|حارة|f|tr=ḥārrat·un (ḥārrah)|dif=حَارَّةٌ}}
+{{trad-fin}}
+
+{{trad-début|Qui a ou qui donne de la chaleur, calorifère}}
+{{trad-fin}}
+
+{{trad-début|Ardent, zélé}}
+{{trad-fin}}
+
+{{trad-début|Brillant et vigoureux, tirant vers le rouge, l’orange ou le jaune}}
+{{trad-fin}}
+
+{{trad-début|Sanglant}}
+{{trad-fin}}
+
+{{trad-début|Qui se met facilement en colère}}
+{{trad-fin}}
+
+{{trad-début|Récent}}
+{{trad-fin}}
+
+{{trad-début|Motivé}}
+{{trad-fin}}
+
+==== {{S|hyponymes}} ====
+{{(}}
+* [[brûlant]]
+* [[torride]]
+{{)}}
+
+=== {{S|adverbe|fr}} ===
+{{fr-inv|ʃo}}
+'''chaud''' {{pron|ʃo|fr}} {{invar}}
+# [[chaudement|Chaudement]].
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[avoir chaud]]
+* [[faire chaud]]
+* [[faire chaud au cœur]]
+* [[tout chaud]] ''(sur-le-champ, tout de suite)''
+{{)}}
+
+==== {{S|phrases}} ====
+* [[il fera chaud]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|interjection|fr}} ===
+{{fr-inv|ʃo}}
+'''chaud''' {{pron|ʃo|fr}} {{invar}}
+# [[attention|Attention]].
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ʃo}}
+'''chaud''' {{pron|ʃo|fr}} {{m}}
+# [[chaleur|Chaleur]].
+# {{familier|fr}} Personne [[passion]]née, très [[motivé]]e.
+# {{familier|fr}} Personne [[doué]]e.
+# {{familier|fr}} Personne [[fier|fière]], [[énervé]]e.
+
+==== {{S|dérivés}} ====
+* [[à chaud]]
+* [[coup de chaud]]
+* [[ni chaud ni froid]]
+* [[souffler le chaud et le froid]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|ʃo|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|ʃo|audio=Fr-chaud.ogg}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-chaud.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-chaud.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-chaud.wav}}
+* {{écouter|lang=fr|France (Occitanie)|audio=LL-Q150 (fra)-Arthur Crbz-chaud.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-chaud.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-chaud.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-chaud.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-chaud.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-chaud.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-chaud.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-chaud.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-chaud.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-chaud.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-chaud.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-chaud.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-chaud.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-chaud.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-chaud.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-chaud.wav}}
+* {{écouter|Quimper (France)||lang=fr|audio=LL-Q150 (fra)-Llegoff29-chaud.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-chaud.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-chaud.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-DSwissK-chaud.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-chaud.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-chaud.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[chaut]] {{cf|chaloir}}
+* [[chaux]]
+* [[cheau]], [[cheaus]], [[cheaux]]
+* [[Chooz]]
+* [[show]], [[shows]] {{anglicisme|nocat=1}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+

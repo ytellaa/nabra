@@ -1,0 +1,270 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{circa|980}} Du {{étyl|frm|fr|dire}}, de l’{{étyl|fro|fr|dire}}, du {{étyl|la|fr}} populaire {{recons|lang-mot-vedette=fr}}''dīgĕre'' (alignement sur les verbes en -''gĕre'' — voir ''[[faire]]'' — d’après les [[participe passé|participes passés]] en ''-ctum'', communs aux deux formes), du {{étyl|latin classique|fr|dicere|dif=dīcĕre|sens=dire, prononcer, exprimer par des mots}}, du {{étyl|proto-italique|de}} {{recons|lang-mot-vedette=fr|[[Reconstruction:proto-italique/*deikō|deikō]]}}, ultimement de l’indo-européen {{recons|lang-mot-vedette=fr|déyḱti}} (« montrer, indiquer »).
+
+=== {{S|verbe|fr}} ===
+'''dire''' {{pron|diʁ|fr}} {{t|fr}} {{conj|fr|groupe=3}} {{lien pronominal}}
+# [[exprimer|Exprimer]] par la [[parole]].
+# [[ordonner|Ordonner]], [[conseiller]].
+# Énoncer par [[écrit]].
+# S’emploie [[souvent]] dans le sens de [[répondre]] à une [[objection]].
+# {{poétique|fr}} [[célébrer|Célébrer]], [[chanter]], [[raconter]].
+# {{courant|fr}} [[débiter|Débiter]] ; [[réciter]].
+# [[juger|Juger]] ; [[croire]] ; [[penser]].
+# [[dénoter|Dénoter]], signifier, [[indiquer]], [[marquer]].
+# {{figuré|fr}} S’emploie en parlant des [[action]]s, des [[geste]]s, des [[regard]]s, etc., qui [[manifester|manifestent]] la [[pensée]] de quelqu’un.
+# {{familier|fr}} [[dénoncer|Dénoncer]].
+'''dire''' {{pron|diʁ|fr}} {{i|fr}} {{conj|fr|groupe=3}}
+# Exprimer ce que l'on pense, ce que l'on ressent, ce que l'on voit.
+# [[déclamer|Déclamer]] en public des vers, une tirade, une scène de tragédie.
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[à dire vrai]], [[à vrai dire]]
+* [[assigner pour voir dire et ordonner]]
+* [[avant dire droit]]
+* [[avoir pour son dire]] {{Québec|nocat=1}}
+* [[avoir son mot à dire]]
+* [[avoir un œil qui dit merde à l’autre]]
+* [[avoir un œil qui dit zut à l’autre]]
+* [[bien-dire]]
+* [[c’est-à-dire]]
+* [[c’est dire si]]
+* [[c’est peu de dire que]], [[c’est peu dire que]]
+* [[comme qui dirait]]
+* [[dédire]]
+* [[dire adieu]]
+* [[dire amen à tout]]
+* [[dire au revoir]]
+* [[dire ce qu’on a sur la conscience]]
+* [[dire ce qu’on a sur le cœur]]
+* [[dire deux mots]]
+* [[dire deux mots à l’oreille]]
+* [[dire du mal]]
+* [[dire grâces avant le bénédicité]]
+* [[dire « je »]]
+* [[dire la bonne aventure]]
+* [[dire les termes]]
+* [[dire merde]]
+* [[dire merveille de]]
+* [[dire non]]
+* [[dire-oui]]
+* [[dire oui]]
+* [[dire que]]
+* [[dire quelque chose à quelqu’un]]
+* [[dire quoi]]
+* [[dire sa râtelée]]
+* [[dire ses quatre vérités]]
+* [[dire son fait]]
+* [[dire tout et son contraire]]
+* [[dire tout haut ce que tout le monde murmure tout bas]]
+* [[dire tout haut ce que tout le monde pense tout bas]]
+* [[dire « tu »]]
+* [[dire un mot]]
+* [[dire un mot à l’oreille]]
+* [[disant]]
+* [[dit-on]]
+* [[contredire]]
+* [[en dire des nouvelles]]
+* [[en dire des vertes et des pas mûres]]
+* [[en dire long]]
+* [[entredire]]
+* [[façon de dire]]
+* [[il dit qu’il voit pas le rapport]]
+* [[le temps de dire ouf]]
+* [[le temps de le dire]]
+* [[lever la main droite et jurer de dire la vérité]]
+* [[maudire]]
+* [[médire]]
+* [[mieux-disant]]
+* [[moins-disant]]
+* [[ne dire mot]]
+* [[ne dire que ça]]
+* [[ne pas avoir dit son dernier mot]]
+* [[ne pas avoir le temps de dire ouf]]
+* [[ne pas croire si bien dire]]
+* [[ne pas dire non]]
+* [[ne pas envoyer dire]]
+* [[ne pas se le faire dire deux fois]]
+* [[ne rien dire qui vaille]]
+* [[ouï-dire]]
+* [[ouïr dire]]
+* [[ouïr-dire]]
+* [[on-dit]]
+* [[on dit]]
+* [[on peut dire que]]
+* [[parler pour ne rien dire]]
+* [[plus facile à dire qu’à faire]]
+* [[pour ainsi dire]]
+* [[pour dire peu]]
+* [[pour le dire en un mot]]
+* [[pour mieux dire]]
+* [[pour ne pas dire]]
+* [[pour tout dire]]
+* [[pouvoir en dire des nouvelles]]
+* [[prédire]]
+* [[qu’en-dira-t-on]]
+* [[qui ne dit pas son nom]]
+* [[redire]]
+* [[revenir à dire]]
+* [[sans dire ouf]]
+* [[sans mot dire]]
+* [[savoir ce que parler veut dire]]
+* [[se dédire]]
+* [[se dire]]
+* [[se dire oui]]
+* [[se le tenir pour dit]]
+* [[s’entre-dire]]
+* [[si ça te dit]]
+* [[si ça vous dit]]
+* [[si j’ose dire]]
+* [[si l’on ose dire]]
+* [[si le cœur vous en dit]]
+* [[si tu le dis]]
+* [[soi-disant]]
+* [[soit dit en passant]]
+* [[soit dit entre nous]]
+* [[tout ça pour dire]]
+* [[trouver à dire]], [[trouver à redire]]
+* [[tu m’en diras tant]]
+* [[venir dire des grâces]], [[venir dire grâce]]
+* [[vouloir dire]]
+{{)}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[bien dire et bien penser ne sont rien sans bien faire]]
+* [[bien faire et laisser dire]]
+* [[bien faire, et laisser dire]]
+* [[c’est assez, dit la baleine, je me cache à l’eau car j’ai le dos fin]]
+* [[c’est bien dit]]
+* [[c’est bientôt dit]]
+* [[c’est dire]], [[c’est tout dire]]
+* [[c’est dit]]
+* [[c’est juste pour dire]]
+* [[c’est le cas de le dire]]
+* [[c’est le moins qu’on puisse dire]]
+* [[c’est plus facile à dire qu’à faire]]
+* [[c’est rien de le dire]]
+* [[c’est tout dire]]
+* [[c’est une chose dite]]
+* [[cela va sans dire]], [[ça va sans dire]]
+* [[cela vous plaît à dire]]
+* [[comme dit le poète]]
+* [[comme le dit le poète]]
+* [[comment dire]]
+* [[dire et faire font deux]]
+* [[disons-le]]
+* [[disons mieux]]
+* [[en moins de temps qu’il ne faut pour le dire]]
+* [[fais ce que je dis, pas ce que je fais]]
+* [[faites ce que je dis, ne faites pas ce que je fais]]
+* [[faites ce que je dis, pas ce que je fais]]
+* [[il faut le dire vite]]
+* [[il ne faut pas dire : fontaine, je ne boirai pas de ton eau]]
+* [[il n’y a pas à dire]]
+* [[il va sans dire]]
+* [[j’ai dit]]
+* [[je dis ça, je dis rien]]
+* [[je dois dire]]
+* [[je l’irai dire à Pékin]]
+* [[je l’irai dire à Rome]]
+* [[je ne te le fais pas dire]], [[je ne vous le fais pas dire]]
+* [[la messe est dite]]
+* [[le bien-faire vaut mieux que le bien-dire]]
+* [[le roi dit : Nous voulons]]
+* [[ne me dites pas]]
+* [[on dira ce qu’on voudra]]
+* [[on va dire ça comme ça]]
+* [[on va le dire comme ça]], [[on va dire comme ça]]
+* [[que dis-je]]
+* [[que vous dites]] !
+* [[qu’est-ce à dire]]
+* [[qui ne dit mot consent]]
+* [[si tu vois ce que je veux dire]]
+* [[tout est dit]]
+* [[toute vérité n’est pas bonne à dire]]
+* [[voilà qui est dit]]
+* [[vous m’en direz tant]]
+* [[vous n’avez qu’à dire]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|voix|bouche|parler}}
+
+==== {{S|traductions}} ====
+{{trad-début|Exprimer par la parole|1}}
+* {{T|ar}} : {{trad+|ar|قال|R=qâl}}
+{{trad-fin}}
+
+{{trad-début|Ordonner, conseiller|2}}
+{{trad-fin}}
+
+{{trad-début|Énoncer par écrit|3}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|diʁ}}
+'''dire''' {{pron|diʁ|fr}} {{m}}
+# Chose dite (attribuée à une personne par un adjectif possessif ou un complément de nom).
+# {{rare|fr}} Parole.
+
+==== {{S|dérivés}} ====
+* [[avoir pour son dire]]
+
+==== {{S|phrases}} ====
+* [[le bien-faire vaut mieux que le bien-dire]]
+
+=== {{S|prononciation}} ===
+* {{pron|diʁ|fr}}
+* Français méridional : {{pron|ˈdi.ʁə|fr}}
+* Canada : {{pron|diʁ|fr}}, {{phon|d͡zɪʁ|fr}}
+* {{écouter|France (Paris)|d̪iʁ|audio=Fr-dire.ogg|lang=fr}}
+* {{écouter|lang=fr|France (Massy)|d̪iʁ|audio=LL-Q150 (fra)-X-Javier-dire.wav}}
+* {{écouter|lang=fr|France (Paris)|d̪iʁ̥|audio=LL-Q150 (fra)-GrandCelinien-dire.wav}}
+* {{écouter|lang=fr|France (Occitanie)|d̪iʁ̥|audio=LL-Q150 (fra)-Arthur Crbz-dire.wav}}
+* {{écouter|lang=fr|Suisse (Genève)|d̪iʁ̥|audio=LL-Q150 (fra)-Nattes à chat-dire.wav}}
+* {{écouter|lang=fr|France (Grenoble)|d̪iʁ̥|audio=LL-Q150 (fra)-GAllegre-dire.wav}}
+* {{écouter|lang=fr|France (Vosges)|d̪iʁ̥|audio=LL-Q150 (fra)-Penegal-dire.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|d̪iʁ|audio=LL-Q150 (fra)-DSwissK-dire.wav}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)|d̪iʁ|audio=LL-Q150 (fra)-Pamputt-dire.wav}}
+* {{écouter|lang=fr|France (Vosges)|d̪iʁ̥|audio=LL-Q150 (fra)-Poslovitch-dire.wav}}
+* {{écouter|lang=fr|France (Paris)|d̪iʁ|audio=LL-Q150 (fra)-Ash Crow-dire.wav}}
+* {{écouter|lang=fr|France (Vosges)|d̪iʁ̥|audio=LL-Q150 (fra)-LoquaxFR-dire.wav}}
+* {{écouter|lang=fr|France (Lyon)|d̪iʁ̥|audio=LL-Q150 (fra)-WikiLucas00-dire.wav}}
+* {{écouter|lang=fr||d̪iʁ̥|audio=LL-Q150 (fra)-Madehub-dire.wav}}
+* {{écouter|lang=fr|France (Hérault)|d̪iʁ̥|audio=LL-Q150 (fra)-T. Le Berre-dire.wav}}
+* {{écouter|lang=fr|France (Toulouse)|ˈd̪i.ʁə|audio=LL-Q150 (fra)-Lepticed7-dire.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-dire.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-dire.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-dire.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-dire.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-dire.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-dire.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-dire.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-dire.wav}}
+* {{écouter|Bordeaux (France)||lang=fr|audio=LL-Q150 (fra)-Yug-dire.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-dire.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Roll-Morton-dire.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-dire.wav}}
+* {{écouter|Gatineau (Canada)||lang=fr|audio=LL-Q150 (fra)-Alpsfordays-dire.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-dire.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-dire.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-dire.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-dire.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+* {{WQ|Dires}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{R:DAF8}}
+* {{R:Littré}}
+
+[[Catégorie:Verbes de parole en français]]
+

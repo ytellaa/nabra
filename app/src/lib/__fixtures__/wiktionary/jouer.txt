@@ -1,0 +1,314 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|mot=jocare|dif=jŏcare}} (attesté chez {{w|Plaute}}), variante non [[déponent]]e du latin classique ''[[jocari#la|jŏcari]]'' (« plaisanter, badiner »), puis « s’amuser, se divertir, jouer » en bas latin, supplantant en ce sens le classique ''[[ludere#la|lūdere]]''{{réf}}.
+
+=== {{S|verbe|fr}} ===
+[[Image:Children games Louvre Ma99 n2.jpg|vignette|Bas-relief représentant des enfants '''jouant'''. (1)]]
+[[Fichier:Musicien à Jaisalmer (2).jpg|vignette|Un musicien de rue '''jouant''' de la musique au Rajasthan. (11)]]
+'''jouer''' {{pron|ʒwe|fr}} <small>ou</small> {{pron|ʒu.e|fr}} {{tr-indir|fr}}, {{i|fr}} {{conj|grp=1|fr}} {{lien pronominal}}
+# En parlant d'un enfant, se plonger dans un monde imaginé appuyé par des éléments de la réalité dans un but de divertissement, de développement ou d'apprentissage.
+# {{transitif indir|fr}} {{en particulier}} ''Jouer à un jeu :'' s’adonner à ce [[jeu]] identifié comme tel, en respectant ses règles précises ; le pratiquer.
+# {{absolument|fr}} Pratiquer un jeu (un [[complément circonstanciel]] peut préciser la façon dont il est pratiqué).
+# {{transitif|fr}} Déplacer, mouvoir, faire bouger, en parlant d'un élément dans un jeu.
+# {{transitif|fr}} Aux cartes, poser sur la table pour mettre en jeu conformément aux règles.
+# {{par extension}} Choisir la [[stratégie]] d'une action ; agir avec [[tactique]].
+# {{spécialement}} {{lexique|sport|fr}} S’[[adonner]] à un sport d’équipe.
+# [[passer le temps|Passer le temps]] à des jeux de [[commerce]] ou de [[hasard]].
+## {{transitif indir|fr}} ''Jouer à un [[jeu de hasard]] :'' y [[engager]] de l’argent.
+##* {{exemple | lang=fr
+ | Pierre Guyon tenta de ramener le débat à de justes proportions : « Chaque dimanche, plus de six millions de personnes '''jouent''' au tiercé dans le PMU de leur quartier ou de leur localité. » | source=Paul Chantrel & Jean-Claude Hallé, ''Le marginal'', Éditions Julliard, 1979, chapitre 58}}
+##* {{exemple | lang=fr
+ | La reine était dans la plus grande détresse de voir son fils compromis dans une telle affaire. À elle, il donna l’assurance qu’il ne '''jouerait''' plus à des jeux de hasard, et qu’il ne permettrait pas en sa présence que l’on '''jouât''' au baccara.
+ | source=Léon Lemonnier, ''Édouard VII: le roi de l’Entente cordiale'', Librairie Hachette, 1949, page 142}}
+##* {{exemple | lang=fr
+ | Il était d'un rat ! imaginez-vous, le soir, en se couchant, il cachait ses louis dans ses bottes, et quand nous '''jouions''' au bésigue, il mettait des haricots, parce qu'un jour j'avais fait la blague de sauter sur l'enjeu.
+ | source=Zola, ''Nana'', 1880, page 1482}}
+## {{transitif|fr}} ''Jouer une [[somme d’argent]], un objet [[de valeur]] :'' l’[[hasarder]] au jeu ou en bourse ; la [[miser]] ; [[spéculer]].
+##* {{exemple | lang=fr
+ | J'allai trouver M. J. N., agent de change, qui voulait absolument que je '''jouasse''' à la baisse, mais je me gardai bien d'écouter ses conseils. J’opérai à 53, et un peu plus tard je réalisai à 62.
+ | source=Adélaïde Millo de Campestre, Mémoires de madame de Campestre, tome 1, Paris : chez M. Antenor de Campestre, 1827, page 325}}
+##* {{exemple | lang=fr
+ | Le marquis faisait des affaires avec sagacité ; à portée de savoir des nouvelles, il '''jouait''' à la rente avec bonheur.
+ | source={{w|Stendhal}}, ''Le Rouge et le Noir'', 1830, page 264}}
+##* {{exemple | lang=fr
+ | Je suis un joueur, moi (...). Je '''joue''' sur les chevaux, je '''joue''' sur les cotons, je '''joue''' sur les cailloux et sur les perles... Je '''joue''' sur les jolies filles.
+ | source=Druon, Gdes fam., t. 1, 1948, page 83}}
+##* {{exemple | lang=fr
+ | Le ministre des finances, sans le vouloir, précipita les événements. En ce moment il '''jouait''' à la baisse : pour déterminer une panique, il fit courir à la bourse le bruit que la guerre était désormais inévitable. L’empereur voisin, trompé par cette manœuvre et s’attendant à voir son territoire envahi, mobilisa ses troupes en toute hâte.
+ | source=France, ''Île ping''. ,1908, page 390}}
+##* {{figuré|fr}} ''Le jeune homme qui courtise la fortune doit savoir '''jouer''' sur la vanité des salons qu'il fréquente.'' {{source|Stendhal, ''Mémoires d’un touriste'', t. 2, 1838, page 358}}
+### {{par analogie|fr}} {{transitif|fr}} ''Jouer sa vie, un sentiment fort, une reconnaissance :'' l’[[exposer]] [[témérairement]].
+###* {{exemple | lang=fr
+ | Mais quand il s'y risqua , il aurait dû savoir qu'il '''jouait''' sa vie. Jamais on n'a vu de gouvernement , quelque libéral qu'il puisse être , admettre la pratique que l’insurrection contre lui doit rester impunie.
+ | source=John Lingard, ''Histoire d'Angleterre, depuis la première invasion des Romains'', traduite de l'anglais par [[w:François Buloz|M. le Chevalier de Ronjoux]], tome 12, Louvain : chez Vanlinthout & Vandenzande, 1831, page 190}}
+###* {{exemple | lang=fr
+ | Tous les journaux en étaient pleins. Des millions et des millions de regards étaient fixés sur la scène où défilaient ces acteurs qui '''jouaient''' leur honneur et leur vie.
+ | source=Joseph Reinach, ''Histoire de l'affaire Dreyfus'', tome 3 : ''La crise : Procès Esterhazy - Procès Zola'', Éditions de la Revue blanche, 1903, page 404}}
+## {{transitif|fr}} ''Jouer quelque chose :'' [[mettre en jeu]] ; désigner comme prix qui sera remis au vainqueur.
+##* {{exemple|lang=fr|
+Nous '''jouons''' l’affaire aux cartes. C’est la plus petite qui fait, comme on dit. Je tire un sept et je couperai les barbelés.
+|source={{w|Jacques Perret (écrivain)|Jacques Perret}}, ''Le Caporal épinglé'', Gallimard, 1947, page 372}}
+##* {{exemple | lang=fr
+ | Les dés avaient roulé comme lorsque les soldats romains s’étaient mis à '''jouer''' la tunique du rabbi Jésus.
+ | source=Patrick Buisson, ''Décadanse'' <!--- sic --->, Albin Michel, 2023, page 138}}
+# {{transitif indir|fr}} ''Jouer d’une [[situation]], d’un [[sentiment]], d’une [[idée]] :'' l’[[exploiter]] pour en [[tirer parti]], l’utiliser pour [[parvenir à ses fins]].
+# {{transitif indir|fr}} ''Jouer d’une [[arme blanche]] :'' l’[[utiliser]] avec [[habileté]] et [[ténacité]].
+# {{transitif indir|fr}} {{par extension|fr}} ''Jouer d’un [[instrument de musique]] :'' s’en [[servir]], en [[tirer]] des sons.
+## {{par métonymie|fr}} {{transitif|fr}} ''Jouer une note, un ensemble de notes :'' l’[[exécuter]] sur un [[instrument]], faire [[émettre]] ces sons par un instrument.
+##* {{exemple | lang=fr
+ | Une recette, c’est comme une partition. La musicienne lit les notes qui se présentent à elle et, simultanément, elle en entend la mélodie : les voir c’est les entendre, avant même de les '''jouer'''.
+ | source={{w|Françoise Vergès}}, ''À vos mangues !'', traduction de Dominique Malaquais, dans ''Politique africaine'', 2005/4, {{n°|100}}, page 319}}
+##* {{exemple | lang=fr
+ | […] : c'étaient les abonnés du Conservatoire qui, ce jour-là, faisaient preuve d'une vive et intelligente curiosité; ils étaient venus chez M. Seghers, parce que l'on y '''jouait''' une symphonie nouvelle de Mendelssohn, […].
+ | source=Léon Kreutzer, « ''Société des Concerts et Société Sainte-Cécile'' », dans la ''Revue et gazette musicale de Paris'', 20{{e}} année - {{n°|15}} du 10 avril 1853, page 129}}
+##* {{exemple | lang=fr
+ | Tenant dans ses bras Marie, âgée de trois ans, il la présentait avec orgueil aux ambassadeurs étrangers et voulait qu'elle '''jouât''' du clavecin en leur présence. C’était merveille de voir courir de si faibles doigts sur les touches avec précision et rapidité.
+ | source=Adelaïde Celliez, « ''Marie Tudor'' », dans ''Les Reines d'Angleterre'', Paris : chez P.-C. Lehuby, 1852, page 461}}
+##* {{exemple | lang=fr
+ | Vous entendez les hautbois ? Ils '''jouent''' le prélude de Lohengrin et se répondent d'une tour à l'autre de mon château.
+ | source=Thierry Debroux, ''Le Roi Lune : théâtre'', créée au {{w|Théâtre du Méridien}} de [[Bruxelles]] le 26 avril 2005, Éditions Lansman, 2005, page 47}}
+##* {{exemple | lang=fr
+ | Le nombre et la place des trous du tuyau varie selon le type de musique que l'on '''joue'''. À l'origine, il est souvent fixé impérativement par des règles d'origine extra-acoustique, magiques ou religieuses.
+ | source=Émile Leipp, ''Acoustique et musique : données physiques et technologiques, […]'', Éditions Masson, 1971, page 233}}
+### {{absolument}} Émettre de la musique.
+###* {{exemple | lang=fr | Il est invraisemblable que le chef-d'œuvre de Pergolèse, celui qui a établi sa réputation, '''ait été''' accidentellement '''joué''' en France avant de l'être dans son pays. | source= [[w:Félix Clément (musicien)|Félix Clément]], ''Les Musiciens célèbres du seizième siècle à nos jours'', Paris : chez L. Hachette, 1868, p. 83}}
+###* {{exemple | lang=fr | L'orchestre '''jouait''' faux comme un ménétrier tourangeau. C'est encore une erreur que de croire qu'il suffit de respirer l'air d'Allemagne pour être musicien. |source= {{w|Arvède Barine}}, « ''La danse, son passé, son avenir'' », chapitre 2, dans la ''[[w:La Revue politique et littéraire|Revue bleue]]'', 24{{e}} année, 3{{e}} série, n° 19 du 7 mai 1887, page 585}}
+###* {{exemple | lang=fr
+ | Il est une heure. Un accordéon '''joue''' dehors.
+ | source={{w|Félix Leclerc}}, ''Moi, mes souliers'', 1955}}
+###* {{exemple | lang=fr
+ | Dans leur moitié de monde, sans doute, un orchestre '''jouait''' au loin, des oiseaux bleus gazouillaient, des petits nuages roses défilaient en trombe dans le ciel, enfin tout ce qui se passe dans ces moments-là.
+ | source=Terry Pratchett, ''Les Annales du Disque-monde'', tome 5 : ''Sourcellerie'', traduit de l'anglais par Patrick Couton, Nantes : L'Atalante, 2012}}
+# {{figuré|fr}} {{transitif indir|fr}} ''Jouer avec sa vie, sa santé :'' [[prendre]] des [[risque]]s ; [[user]] sans [[ménagement]].
+# Se [[mouvoir]], avoir l’[[aisance]] et la [[faculté]] du [[mouvement]]. — {{note}} En ce sens, il se dit surtout des [[ressort]]s, des [[machine]]s, etc.
+# {{transitif|fr}} {{figuré|fr}} ''Jouer quelqu’un :'' le [[tromper]] ; l’[[abuser]].
+# {{transitif indir|fr}} {{figuré|fr}} ''Jouer de quelqu’un :'' le [[tromper]] ; l’[[abuser]]. {{note}}l’usage pronominal ''[[se jouer de]]'' a le même sens.
+# {{lexique|théâtre|cinéma|fr}} {{transitif|fr}} ''Jouer une [[pièce de théâtre]], un [[personnage]]'' : la [[représenter]] ; l’[[incarner]].
+## {{par analogie|fr}} {{transitif|fr}} ''Jouer un sentiment, un stéréotype :'' [[feindre]] ce sentiment qu’on n’éprouve pourtant pas.
+##* {{exemple | lang=fr
+ | — Oh toi, ronchonne-t-elle, tu '''joues''' l’esprit fort, n’empêche que tu dormais mal, souviens-toi. Et que t'as été bien content de rhabiter Paris.
+ | source={{w|Frédéric Dard}}, ''San-Antonio'', {{n°|63}} : ''Faut être logique'', Éditions Fleuve Noir, 1967}}
+##* {{exemple | lang=fr
+ | Simon a passé une heure sur ce toboggan, hier soir, en présence de son père. Il n'est pas tombé une seule fois. Alors cesse de '''jouer''' les rabat-joie et écoute ce que j'ai à te dire.
+ | source=Kay Stockham, ''Les promesses du Tennessee'', traduit de l'anglais par Isabel Wolff-Perry, éd.Harlequin, 2010, chapitre 8}}
+##* {{exemple | lang=fr
+ | Nos parents '''jouèrent''' la surprise avec brio en déballant leur cadeau, ce qui nous rendit heureux et fiers, au bord des larmes de bonheur... La réalité est que le couple qui tenait la succursale du Primistère, amusé et surpris de notre démarche, n'avait pu tenir sa langue.
+ | source=Alain René Poirier, ''Souvenirs mélangés d'un Parisien malgré lui'', Paris : BoD/Books on Demand, 2017, page 87}}
+## {{absolument}} Pratiquer une activité [[scénique]] ([[théâtre]], [[spectacle]], [[concert]], …) ; se produire [[sur scène]].
+##* {{exemple | lang=fr | Les acteurs, soit qu'ils '''jouassent''' ou ne '''jouassent''' point dans la pièce, avaient leur entrée dans la salle, et les conservèrent tant que ces petites fêtes particulières eurent lieu. J'ai dit que les femmes n'y étaient pas admises ; mais les actrices qui ne '''jouaient''' pas étaient placées dans une loge située le long des coulisses, […]. | source=Pierre Laujon, ''Spectacle des petits cabinets de Louis XV'', dans Œuvres choisies de P. Laujon, membre de l'Institut, tome 1, Paris : chez Léopold Collin & chez Patris & C{{e|ie}}, 1811}}
+##* {{exemple | lang=fr | Cela ne l’empêchait nullement de réclamer à Jim des entrées de faveur lorsqu’il '''jouait''' dans un music-hall à Paris. | source={{Citation/Francis Carco/L’Homme de minuit/1938}}.}}
+## {{figuré|fr}} {{transitif|fr}} ''Jouer un rôle, une fonction :'' être l’[[acteur]] de cette fonction, l’accomplir. — {{note}}voir aussi l'expression [[jouer un rôle]].
+##* {{exemple | lang=fr
+ | […].. et vous vous en prenez à moi, à moi qui devrais plutôt vous en vouloir ; car, enfin , vous m’avez rebuté, et il n’a pas dépendu de moi que je ne '''jouasse''' aujourd'hui le premier rôle dans la cérémonie qui se prépare.
+ | source={{w|Armand Overnay}} & {{w|Théodore Nézel}}, ''La nuit des noces'', drame en trois actes, acte 1, scène 6, créé au {{w|Théâtre de l'Ambigu-Comique}}, le 24 janvier 1826, Paris : chez Duvernois, 1826, page 10}}
+##* {{exemple | lang=fr
+ | On chercherait en vain une fonction analogue dans le rôle que '''joue''' la raison dans la théologie chrétienne.
+ | source=Édouard Burnier, ''Bible et théologie: essais critiques'', éditions F. Roth, 1943, page 112}}
+##* {{exemple | lang=fr
+ | C'est la position que défend Freud, ce qui explique, selon lui, le rôle que '''joue''' la haine dans la vie des individus et des sociétés humaines.
+ | source=Jacob Rogozinski, ''Djihadisme : le retour du sacrifice'', Éditions Desclée De Brouwer, 2017}}
+### {{en particulier}} [[remplacer|Remplacer]] dans la [[fonction]] ; se [[substituer]] à.
+###* {{exemple | lang=fr
+ | Lorsque je prétends que « voler un voleur n'est pas méprisable » ce n'est pas une raison pour que tes sbires chargés de faire respecter l'ordre et la morale en déduisent qu'ils peuvent '''jouer''' les ripous avec des voyous, ou leur piquer la came en étouffant l'affaire.
+ | source=René Paloc, ''S’indigner ne suffit plus: France, ta République fout le camp'', Mon Petit Éditeur, 2014, page 83}}
+# {{par analogie|fr}} {{absolument}} [[tenir un rôle|Tenir un rôle]] ; prendre de l’importance ; s’[[appliquer]].
+# {{lexique|théâtre|cinéma|fr}} {{transitif|fr}} ''Jouer quelqu’un :'' le [[railler]], le [[tourner en ridicule]] [[sur scène]].
+# {{transitif|fr}} ''Jouer quelque chose :'' l’[[imiter]], en prendre l’[[apparence]].
+# {{familier|fr}} {{vieilli|fr}} ''Jouer un film :'' le [[diffuser]], au [[cinéma]] ou à la [[télévision]].
+# {{term|À la forme passive}} ''Être joué :'' [[finir|être fini]] ; [[terminer|être terminé]] ; ne plus être [[d’actualité]].
+# {{lexique|équitation|fr}} [[mordre|Mordre]] ou [[mâcher]], en parlant du cheval avec son [[mors]].
+
+==== {{S|synonymes}} ====
+* [[faire joujou]], faire [[mumuse]]
+* [[jouer la carte de]] ''(6, adopter une attitude, une stratégie)''
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[avoir une carte à jouer]]
+* [[bien jouer ses cartes]]
+* [[en jouer un air]]
+* [[faire jouer]]
+* [[injouable]]
+* [[injoué]]
+* [[jouable]]
+* [[jouailler]]
+* [[jouasser]]
+* [[jouer à cache-cache]]
+* [[jouer à domicile]]
+* [[jouer à jeu égal]]
+* [[jouer à la chapelle]]
+* [[jouer à qui perd gagne]]
+* [[jouer à se faire peur]]
+* [[jouer à Tetris]]
+* [[jouer au bouchon]]
+* [[jouer au chat et à la souris]]
+* [[jouer au con]]
+* [[jouer au docteur]]
+* [[jouer au gendarme et au voleur]]
+* [[jouer au papa et à la maman]]
+* [[jouer au plus fin]]
+* [[jouer au plus fort]]
+* [[jouer au plus sûr]]
+* [[jouer aux courses]]
+* [[jouer avec le feu]]
+* [[jouer avec quelqu’un comme le chat avec la souris]]
+* [[jouer bien son jeu]]
+* [[jouer cartes sur table]]
+* [[jouer de bonheur]]
+* [[jouer de la flute]] {{ortho1990}}
+* [[jouer de la flûte]] 
+* [[jouer de la mandoline]]
+* [[jouer de la prunelle]]
+* [[jouer de malheur]]
+* [[jouer des castagnettes]]
+* [[jouer des coudes]]
+* [[jouer des dominos]]
+* [[jouer des jambes]]
+* [[jouer des mains]]
+* [[jouer des pieds et des coudes]]
+* [[jouer des pieds et des mains]]
+* [[jouer des pieds]]
+* [[jouer des tours pendables]]
+* [[jouer du chalumeau]]
+* [[jouer du couteau]]
+* [[jouer du pipeau]]
+* [[jouer du serre-croupière]]
+* [[jouer en bourse]]
+* [[jouer gros]]
+* [[jouer gros jeu]]
+* [[jouer jusqu’à sa dernière chemise]]
+* [[jouer la carotte]]
+* [[jouer la carte de]]
+* [[jouer la comédie]]
+* [[jouer la montre]]
+* [[jouer la prudence]]
+* [[jouer la pucelle outragée]]
+* [[jouer la sécurité]]
+* [[jouer le jeu]]
+* [[jouer le beau rôle]]
+* [[jouer le rôle de]]
+* [[jouer les bourgeois de Calais]]
+* [[jouer les cassandres]]
+* [[jouer les durs]]
+* [[jouer les étonnés]]
+* [[jouer les filles de l’air]]
+* [[jouer les prolongations]]
+* [[jouer les pucelles outragées]]
+* [[jouer les trouble-fêtes]]
+* [[jouer les utilités]]
+* [[jouer par-dessous jambe]]
+* [[jouer par-dessous la jambe]]
+* [[jouer petit jeu]]
+* [[jouer pièce]]
+* [[jouer quitte ou double]]
+* [[jouer sa dernière carte]]
+* [[jouer sa peau]]
+* [[jouer serré]]
+* [[jouer simple]]
+* [[jouer sur la corde sensible]]
+* [[jouer sur les deux tableaux]]
+* [[jouer sur les mots]]
+* [[jouer un grand rôle]]
+* [[jouer un mauvais tour]]
+* [[jouer un pied de cochon]]
+* [[jouer un rôle]]
+* [[jouer un tour]] à quelqu’un
+* [[jouerie]]
+* [[jouette]]
+* [[joueur]]
+* [[mal jouer ses cartes]]
+* [[ne pas jouer dans la même catégorie]]
+* [[ne pas jouer dans la même cour]]
+* [[rejouer]]
+* [[resurjouer]]
+* [[se la jouer fine]]
+* [[surjouer]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[jeu]]
+* [[joujou]]
+
+==== {{S|phrases}} ====
+* [[bien joué]]
+* [[le tour est joué]]
+* [[souffler n’est pas jouer]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|musique|dames|go|violon|harpe|téléphone|jeu|clarinette|théâtre}}
+* [[ronger son frein]]
+
+==== {{S|traductions}} ====
+{{trad-début|Se récréer, se divertir, s’amuser|1}}
+* {{T|ar}} : {{trad+|ar|لعب}}
+{{trad-fin}}
+
+{{trad-début|{{en particulier|nocat=1}} S’amuser à un jeu quelconque|2}}
+{{trad-fin}}
+
+{{trad-début|Passer le temps à des jeux de commerce ou de hasard|3}}
+{{trad-fin}}
+
+{{trad-début|Exploiter une situation, un sentiment, une idée pour en tirer part|4}}
+{{trad-fin}}
+
+{{trad-début|Se servir de l’instrument qui est nécessaire pour jouer à tel ou tel jeu|5}}
+{{trad-fin}}
+
+{{trad-début|{{par extension|nocat=1}} Se servir d’un instrument de musique|6}}
+{{trad-fin}}
+
+{{trad-début|{{absolument|nocat=1}} Faire du théâtre|9}}
+{{trad-fin}}
+
+{{trad-début|{{pronominal|nocat=1}} Dédaigner, regarder comme négligeable|12}}
+{{trad-fin}}
+
+{{trad-début|{{trans|nocat=1}} Représenter une pièce de théâtre|21}}
+{{trad-fin}}
+
+{{trad-début|''Traductions à trier suivant le sens.''}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-API|\ʒwe\}}
+** {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-jouer.wav|ʒwe}}
+** {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-jouer.wav|ʒwe}}
+** {{écouter|lang=fr|France (Brétigny-sur-Orge)|ʒwe|audio=LL-Q150 (fra)-Pamputt-jouer.wav}}
+** {{écouter|lang=fr|France (Paris)|ʒwe|audio=LL-Q150 (fra)-Ash Crow-jouer.wav}}
+** {{écouter|lang=fr|France (Vosges)|ʒwe|audio=LL-Q150 (fra)-LoquaxFR-jouer.wav}}
+** {{écouter|lang=fr|France (Hérault)|ʒwe|audio=LL-Q150 (fra)-T. Le Berre-jouer.wav}}
+** {{écouter|lang=fr|France (Metz)|ʒwe|audio=LL-Q150 (fra)-val (Eavq)-jouer.wav}}
+** {{écouter|lang=fr|France|ʒwe|audio=LL-Q150 (fra)-Mecanautes-jouer.wav}}
+** {{écouter|canton du Valais (Suisse)|ʒwe|lang=fr|audio=LL-Q150 (fra)-Vampiro (ClasseNoes)-jouer.wav}}
+* {{pron-API|\ʒu.e\}}
+** {{écouter|lang=fr|France|ʒu.e|audio=Fr-jouer.ogg}}
+** {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-jouer.wav|ʒu.e}}
+** {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-jouer.wav|ʒu.e}}
+** {{écouter|lang=fr|Suisse (Genève)|audio=LL-Q150 (fra)-Nattes à chat-jouer.wav|ʒu.e}}
+** {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-jouer.wav|ʒu.e}}
+** {{écouter|lang=fr|France (Grenoble)|audio=LL-Q150 (fra)-GAllegre-jouer.wav|ʒu.e}}
+** {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-jouer.wav|ʒu.e}}
+** {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-jouer.wav|ʒu.e}}
+** {{écouter|lang=fr|France (Lyon)|ʒu.e|audio=LL-Q150 (fra)-WikiLucas00-jouer.wav}}
+** {{écouter|lang=fr||ʒu.e|audio=LL-Q150 (fra)-Madehub-jouer.wav}}
+** {{écouter|lang=fr|Suisse (Lausanne)|ʒu.e|audio=LL-Q150 (fra)-Eihel-jouer.wav}}
+** {{écouter|lang=fr||ʒu.e|audio=LL-Q150 (fra)-Kaderousse-jouer.wav}}
+** {{écouter|lang=fr|France (Cesseras)|ʒu.e|audio=LL-Q150 (fra)-Guilhelma-jouer.wav}}
+** {{écouter|lang=fr||ʒu.e|audio=LL-Q150 (fra)-Fabe56-jouer.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-jouer.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-jouer.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-jouer.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-jouer.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-jouer.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{RÉF}} {{R:TLFi}}
+* {{Import:DAF8}}
+

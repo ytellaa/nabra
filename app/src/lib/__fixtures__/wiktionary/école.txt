@@ -1,0 +1,188 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|fro|fr|escole}}, d’un latin tardif {{recons|lang-mot-vedette=fr|escola}}, du {{étyl|la|fr|mot=schola|sens=loisir studieux, leçon, lieu d’étude}}, lui-même issu du {{étyl|grc|fr|σχολή|skholế|loisir|nocat=1}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|e.kɔl}}
+[[Image:Villebougis-FR-89-école-a2.jpg|thumb|Une '''école''' communale.]]
+'''école''' {{pron|e.kɔl|fr}} {{f}}
+# [[lieu|Lieu]] [[dédier|dédié]] à l’[[apprentissage]].
+# {{en particulier}} [[établissement|Établissement]] où l’on [[enseigner|enseigne]] les [[savoir]]s [[fondamentaux]] comme la [[lecture]] et l’[[écriture]] et qui est aussi désigné sous le nom d’''[[école primaire]]''.
+# Tous les [[élève]]s d’un tel établissement, ou l’ensemble de ses [[professeur]]s et de ses [[employé]]s.
+# {{figuré|fr}} Ce qui est [[propre]] à former, à [[donner]] de l’[[expérience]] en [[quelque chose]], à [[instruire]].
+# {{lexique|histoire|fr}} Enseignement de la [[théologie]] et de la [[philosophie]], suivant la méthode et les principes reçus dans la plupart des anciennes [[université]]s.
+# [[mouvement|Mouvement]] ou [[doctrine]] d’un [[philosophe]] ou d’un savant.
+# {{lexique|art|littérature|fr}} Classe d’[[artiste]]s qui travaillent ou qui ont travaillé selon les principes, à l’imitation d’un même maître, ou suivant les habitudes propres à certaines époques de l’art, à certains lieux.
+# Terme emprunté au jeu de {{w|trictrac}} : ''Faire une école'', oublier de marquer les points que l’on gagne, ou en marquer mal à propos. Souvent employé au sens figuré : commettre une faute par inexpérience, ignorance ou étourderie.
+
+==== {{S|notes}} ====
+: Il est parfois utilisé [[adjectivement]] par [[apposition]]
+:* ''fédération nationale des bateaux écoles''
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[auto-école]]
+* [[avion-école]]
+* [[basse école]]
+* [[bateau-école]]
+* [[camion-école]]
+* [[cas d’école]]
+* [[course d’école]]
+* [[croiseur-école]]
+* [[drone-école]]
+* [[éco-école]]
+* [[école à charte]]
+* [[école à feu]]
+* [[école à la maison]]
+* [[École des mines]]
+* [[école militaire]]
+* [[école normale]]
+* [[École normale supérieure]]
+* [[École normale supérieure de jeunes filles]]
+* [[école supérieure]]
+* [[écolage]]
+* [[écolâtre]]
+* [[École centrale]]
+* [[école communale]]
+* [[école d’agriculture]]
+* [[école de commerce]]
+* [[école de langue]]
+* [[école de la vie]]
+* [[école de musique]]
+* [[école de pensée]]
+* [[école de rang]]
+* [[École des Chartes]]
+* [[école du crime]]
+* [[école du dimanche]]
+* [[école du monde]]
+* [[école du rire]]
+* [[école du soir]]
+* [[école élémentaire]]
+* [[école inclusive]]
+* [[école maternelle]]
+* [[école ménagère]]
+* [[École militaire]]
+* [[école missionnaire]]
+* [[école mixte]]
+* [[école Montessori]]
+* [[École navale]]
+* [[école primaire]]
+* [[École polytechnique]]
+* [[école professionnelle]]
+* [[école Steiner]]
+* [[école unisexe]]
+* [[écoler]]
+* [[écoles à feu]]
+* [[écolier]], [[écolière]]
+* [[être à bonne école]]
+* [[faire école]]
+* [[faire l’école buissonnière]] ''(ne pas aller à l’école)''
+* [[fête de l’école]]
+* [[grande école]]
+* [[haute école]]
+* [[maitre d’école]] {{ortho1990}}
+* [[maître d’école]]
+* [[maitresse d’école]] {{ortho1990}}
+* [[maîtresse d’école]]
+* [[moto-école]]
+* [[mûr pour l’école]]
+* [[navire-école]]
+* [[prison-école]]
+* [[professeur des écoles]]
+* [[renvoyer à l’école]] (quelqu'un, quelqu'un d'autre) 
+* [[Saint-Maixent-l’École]]
+* [[sentir l’école]]
+* [[tenir école]]
+* [[vélo-école]]
+* [[vieille école]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[scholasticide]]
+* [[scolaire]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|bac à sable|sociologie|ville|élève|morale|bâtiment|sociologie de l’éducation|matériel scolaire|risque infectieux}}
+* [[🏫]] (U+1F3EB)
+
+==== {{S|dérivés autres langues}} ====
+* {{L|bm}} : {{lien|ekɔli|bm}}, {{lien|lakɔli|bm}}
+* {{L|ht}} : {{lien|lekòl|ht}}
+
+==== {{S|phrases}} ====
+* [[il faut aller à votre école pour apprendre cela]] ''(il n’y a que vous qui puissiez enseigner cela)''
+* [[user ses fonds de culotte sur les bancs de l’école]]
+
+==== {{S|hyponymes}} ====
+{{(}}
+* [[bahut]]
+* [[cégep]]
+* [[collège]]
+* [[grande école]]
+* [[HEC]]
+* [[lycée]]
+* [[polytechnique]]
+* [[université]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Lieu dédié à l’apprentissage|1}}
+* {{T|ar}} : {{trad+|ar|مدرسة|tr=madrasah|dif=مَدْرَسَة}}
+{{trad-fin}}
+
+{{trad-début|Établissement où l’on enseigne les savoirs fondamentaux|2}}
+* {{T|ar}} : {{trad-|ar|مَدْرَسَة إِبْتِدَائِيَّة|tr=madrasa ibtidè-iyya}}
+{{trad-fin}}
+
+{{trad-début|Tous les élèves d’un tel établissement, ou l’ensemble de ses professeurs et de ses employés|3}}
+{{trad-fin}}
+
+{{trad-début|Ce qui est propre à former, à instruire|4}}
+{{trad-fin}}
+
+{{trad-début|{{info lex|histoire}} Enseignement de la théologie et de la philosophie, suivant les principes reçus dans les anciennes universités|5}}
+{{trad-fin}}
+
+{{trad-début|Mouvement ou doctrine d’un philosophe ou d’un savant|6}}
+{{trad-fin}}
+
+{{trad-début|{{info lex|art|littérature}} Classe d’artistes|7}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|écoler|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui|'=oui}}
+'''école''' {{pron|e.kɔl|fr}}
+# ''Première personne du singulier de l’indicatif présent de'' [[écoler]].
+# ''Troisième personne du singulier de l’indicatif présent de'' [[écoler]].
+# ''Première personne du singulier du subjonctif présent de'' [[écoler]].
+# ''Troisième personne du singulier du subjonctif présent de'' [[écoler]].
+# ''Deuxième personne du singulier de l’impératif de'' [[écoler]].
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|e.kɔl|audio=Fr-école.ogg}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-école.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-école.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-école.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-école.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Visiteuse Journée 2 - 16 (Madehub)-école.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Estrie-école.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-école.wav}}
+* {{écouter|lang=fr|France (Canet-en-Roussillon)|e.kɔl|audio=LL-Q150 (fra)-Baptiste C. (BiblioCanet66)-école.wav}}
+* {{écouter|Cabestany (France)|e.kɔl|lang=fr|audio=LL-Q150 (fra)-Adem M. (BiblioCanet66)-école.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Althea81-école.wav}}
+* {{écouter|Millau (France)||lang=fr|audio=LL-Q150 (fra)-Antochkat-école.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-école.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+* {{Wikiquote}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+* {{R:TLFi|école}}
+
+[[Catégorie:Édifices en français]]

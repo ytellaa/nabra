@@ -1,0 +1,141 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|frm|fr|fille}}, de l’{{étyl|fro|fr|fille}}, ''{{lien|fillie|fro}}'' {{circa|980}}, ''{{lien|filie|fro}}'' {{circa|1050}}, du {{étyl|la|fr|mot=filia|sens=descendant immédiat de genre féminin}}, féminin de ''[[filius#la|fīlĭus]]'' («&nbsp;fils&nbsp;»).
+: Le mot latin se prononçait d’abord {{phono|ˈfi.li.a|la}}. Dès le {{siècle2|I}} siècle, le {{phono|i|la}} placé entre le {{phono|l|la}} et le {{phono|a|la}} final est devenu un [[yod]] qui a modifié la prononciation en {{phono|ˈfi.lja|la}}. Puis ce yod s’est combiné au {{phono|l|la}} pour donner {{w|consonne spirante latérale palatale voisée}}, ou «&nbsp;l palatal&nbsp;», résultant en la prononciation {{phono|ˈfi.ʎa|la}}. Ce phonème {{phono|ʎ|la}} a été maintenu en français jusqu’à la fin du {{siècle2|XIX}} siècle. Dans son dictionnaire, {{w|Émile Littré}} fait de nombreuses [[mise en garde|mises en garde]] visant à maintenir ce phonème, ce qui prouve qu’il était en train de disparaitre et d’évoluer en yod {{R|Cerquiglini}}<ref>{{R:Littré}}</ref>.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|fij}}
+[[Image:Statue passage Pommeraye.jpg|thumb|Statue représentant une '''fille'''. (1)]]
+[[Fichier:Alquier-Debrousse (Brouardel) détail.jpg|vignette|Portrait de la baronne Alquier, née Marie-Catherine Debrousse, et de sa '''fille''' Valérie-Marie-Louise peint par {{w|Laure Brouardel}}. (2)]]
+[[Fichier:Charlotte Corday.jpg|vignette|{{w|Charlotte Corday}}, en tant que '''fille''' de la France, a souhaité sauver sa patrie en poignardant dans son bain le tyran {{w|Jean-Paul Marat}}. (3)]]
+[[File:Daughters of Charity holy card.jpg|vignette|Image pieuse d’une '''fille''' de la Charité. (8)]]
+'''fille''' {{pron|fij|fr}} {{f}} {{équiv-pour|lang=fr|un homme|garçon|fils|2egenre=une personne non-binaire|2egenre1=enby|2egenre2=nb|2egenre3=NB}}
+# [[enfant|Enfant]] [[de genre féminin]], par opposition à ''[[garçon]]'' ; aussi appelée [[fillette]] ou [[petite fille]].
+# Tout [[être humain]] de genre féminin, enfant ou [[adulte]], considéré [[par rapport à]] ses [[parent]]s.
+# {{par extension}} {{poétique|fr}} {{littéraire|fr}} {{soutenu|fr}} [[descendante|Descendante]] [[issu]]e de [[telle ou telle]] [[lignée]], ou [[natif|native]] de tel ou tel [[pays]].
+# {{vieilli|fr}} Fille, [[adolescente]] ou [[femme]] depuis sa [[naissance]] jusqu’à son [[mariage]].
+# {{spécialement|fr}} [[jeune fille|Jeune fille]] encore [[vierge]].
+# {{par extension}} [[femme|Femme]] [[célibataire]].
+# {{vieilli|fr}} {{ellipse|fr}} [[fille d’honneur|Fille d’honneur]] ; [[demoiselle d’honneur]].
+# {{lexique|christianisme|fr}} Nom que l’on donne aux [[religieuse]]s de [[certain]]es [[communauté]]s.
+# {{vieilli|fr}} [[servante|Servante]] ; [[employée]].
+# {{ellipse|fr}} {{familier|fr}} {{vieilli|fr}} [[fille de joie|Fille de joie]] ou [[fille de trottoir]] ; [[prostituée]].
+# {{figuré|fr}} {{vieilli|fr}} [[établissement|Établissement]] qui est de la [[fondation]] et de la [[dépendance]] d’un autre.
+# {{par extension|fr}} Jeune femme.
+
+==== {{S|quasi-synonymes}} ====
+* [[demoiselle]], [[mademoiselle]]
+* [[gamine]]
+* [[pré-adolescente]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[bonne fille]]
+* [[carte fille]]
+* [[courir les filles]]
+* [[demi-fille]]
+* [[embrasser la fille du canonnier]] {{info lex|marine}} {{vieilli|nocat=1}}
+* [[être grande fille]]
+* [[fifille]]
+* [[fillasse]]
+* [[fille à matelots]]
+* [[fille à papa]]
+* [[fille à soldats]]
+* [[fille à tout faire]] {{vieilli|nocat=1}}
+* [[fille ainée de l’Église]] {{ortho1990}}
+* [[fille aînée de l’Église]]
+* [[fille ainée des rois de France]] {{ortho1990}}
+* [[fille aînée des rois de France]]
+* [[fille au pair]]
+* [[fille d’amour]]
+* [[fille d’archevêque]]
+* [[fille d’Ève]]
+* [[fille d’honneur]]
+* [[fille de boutique]]
+* [[fille de chambre]]
+* [[fille de choix]]
+* [[fille de cœur]]
+* [[fille de cuisine]]
+* [[fille de ferme]]
+* [[fille de joie]]
+* [[fille de rien]]
+* [[fille de service]]
+* [[fille de trottoir]]
+* [[fille du peuple]]
+* [[fille du port]]
+* [[fille du trottoir]]
+* [[fille facile]]
+* [[fille galante]]
+* [[fille manquée]]
+* [[fille-mère]]
+* [[fille perdue]]
+* [[fille publique]]
+* [[fille repentie]]
+* [[fille soumise]]
+* [[fillette]]
+* [[grande fille]]
+* [[herbe à la belle fille]]
+* [[party de filles]]
+* [[petite fille]]
+* [[petite-fille]]
+* [[vieille fille]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|famille|bidule, truc, machin|femme|généalogie|vulve|parenté|sacrifice}}
+* [[👧]] (U+1F467)
+
+==== {{S|phrases}} ====
+* [[le diable bat sa femme et marie sa fille]]
+* [[voilà pourquoi votre fille est muette]]
+
+==== {{S|traductions}} ====
+{{trad-début|Jeune humaine|1}}
+* {{T|ar}} : {{trad-|ar|ابنة|R=’ibnah|dif=اِبْنَة}}
+{{trad-fin}}
+{{trad-début|Descendante directe|2}}
+* {{T|ar}} : {{trad-|ar|بنت|R=bint|dif=بِنْت}}, {{trad-|ar|ابنة|R=’ibnah|dif=اِبْنَة}}
+{{trad-fin}}
+
+{{trad-début|Prostituée}}
+{{cf|lang=fr|fille de joie}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|fij|fr}}
+* Français méridional : {{phono|ˈfi.jə|fr}}
+* Canada : {{phono|fij|fr}}, {{phon|fɪj|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|yn fij|titre=une fille|audio=Fr-fille.ogg}}
+* {{écouter|lang=fr|France|fij|audio=LL-Q150 (fra)-Fhala.K-fille.wav}}
+* {{écouter||fij|lang=fr|audio=LL-Q150 (fra)-GrandCelinien-fille.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)|fij|audio=LL-Q150 (fra)-0x010C-fille.wav}}
+* {{écouter||fij|lang=fr|audio=LL-Q150 (fra)-WikiLucas00-fille.wav}}
+* {{écouter|lang=fr|France (Paris)|fij|audio=LL-Q150 (fra)-Aemines1-fille.wav}}
+* {{écouter|lang=fr|France (Paris)|fij|audio=LL-Q150 (fra)-Aemines2-fille.wav}}
+* {{écouter|lang=fr|France (Paris)|fij|audio=LL-Q150 (fra)-Aemines3-fille.wav}}
+* {{écouter|lang=fr|France (Paris)|fij|audio=LL-Q150 (fra)-Aemines5-fille.wav}}
+* {{écouter|lang=fr||fij|audio=LL-Q150 (fra)-Aemines4-fille.wav}}
+* {{écouter|lang=fr|France (Paris)|fij|audio=LL-Q150 (fra)-Aemines6-fille.wav}}
+* {{écouter|lang=fr|France (Vosges)|fij|audio=LL-Q150 (fra)-LoquaxFR-fille.wav}}
+* {{écouter|France|fij|lang=fr|audio=LL-Q150 (fra)-Lunagrouh-fille.wav}}
+* {{écouter||ˈfi.ʎə|lang=fr|audio=LL-Q150 (fra)-Guilhelma-fille.wav}}
+* {{écouter|lang=fr|France (Toulouse)|ˈfi.jə|audio=LL-Q150 (fra)-Lepticed7-fille.wav}}
+* {{écouter|Québec (Canada)|fɪːj|lang=fr|audio=LL-Q150 (fra)-Estrie-fille.wav}}
+*  {{écouter|Cornimont (France)|fi|lang=fr|audio=LL-Q150 (fra)-Poslovitch-fille.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|fiː|audio=LL-Q150 (fra)-DSwissK-fille.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-fille.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)||lang=fr|audio=LL-Q150 (fra)-Helenou66-fille.wav}}
+
+=== {{S|voir aussi}} ===
+* [[Annexe:Famille en français]]
+* {{Le Dico des Ados}}
+* {{Wikipédia|Fille (homonymie)}}
+* {{Wikisource|Filles}}
+
+=== {{S|références}} ===
+<references>
+{{R|Cerquiglini|[//www.tv5.org/TV5Site/lf/merci_professeur.php?id&#x3d;4228 Explication de Bernard Cerquiglini en images]}}
+</references>
+* {{R:DAF8}}
+* {{R:TLFi}}
+

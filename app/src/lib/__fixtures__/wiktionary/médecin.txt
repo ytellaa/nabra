@@ -1,0 +1,221 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date||lang=fr}} Du {{étyl|la|fr|medicinus}}.
+
+==== {{S|attestations}} ====
+* {{siècle|XVII|lang=fr}} {{exemple|Pourroit il euiter les cruautez ruſees<br
+/>De ces maux obſtinez, par qui ſont abuſees<br
+/>Les '''Medecines''' mains : & qui bannis d’vn corps<br
+/>Rentrent ſous autre nom dans ſes membres my-morts : […]
+|lang=fr
+|sens=Pourrait-il éviter les cruautés rusées<br
+/>De ces maux obstinés, par qui sont abusées<br
+/>Les médecines mains : et qui bannis d’un corps<br
+/>Rentrent sous autre nom dans ses membres mi-morts : […]
+|source={{ouvrage|auteur={{w|Guillaume de Saluste du Bartas}}|titre=Les œuvres de G. de Saluste, Sr. Du Bartas, reveües, corrigées, augmentées de nouveaux commentaires|éditeur=Toussaint Du Bray|date=1611|passage=119|url={{Citation/Books.Google|Eda3HjRAg6gC|RA2-PA119|surligne=Medecines}}}}
+|tête=*
+}}
+* {{siècle|XVII|lang=fr}} {{exemple|Il faut dire, cette femme eſt ''Poëte'', eſt ''Philoſophe'', eſt '''''Medecin''''', eſt ''Auteur'', eſt ''Peintre'' ; & non ''Poëteſſe'', ''Philoſopheſſe'', ''Medecine'', ''Autrice'', ''Peintreſſe'', ''&c''.
+|lang=fr
+|sens=Il faut dire, cette femme est ''poète'', est ''philosophe'', est '''''médecin''''', est ''auteur'', est ''peintre'' ; et non ''poétesse'', ''philosophesse'', ''médecine'', ''autrice'', ''peintresse'', ''etc''.
+|source={{ouvrage|prénom=Nicolas|nom=Andry de Boisregard|titre=Reflexions ſur l’uſage préſent de la Langue Françoiſe ou Remarques Nouvelles & Critiques touchant la politeſſe du Langage|éditeur={{w|Laurent d’Houry}}|date=1692|passage=163-164|année première édition=1689|url={{Citation/Books.Google|l2tubIwXURgC|PA163|surligne=Medecin}}}}
+|tête=*
+}}
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-in|med.s|pron2=mɛd.s}}
+'''médecin''' {{pron|med.sɛ̃|mɛd.sɛ̃|fr}}
+# {{archaïsme|fr}} De médecin, des médecins.
+}}
+}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|med.sɛ̃|pron2=mɛd.sɛ̃}}
+[[Fichier:Médecin généraliste.jpg|vignette|Un '''médecin''' généraliste auscultant une patiente|alt=Photographie d’un homme au travail]]
+'''médecin''' {{pron|med.sɛ̃|fr}} ou {{pron|mɛd.sɛ̃|fr}} {{mf}} ou très rarement {{équiv-pour|une femme|lang=fr|médecine|médecienne|femme-médecin}} (voir la [[#Notes|note]])
+# Personne qui a un [[diplôme]] de [[docteur]] en [[médecine]]. [[professionnel de santé|Professionnel de santé]] chargé de [[guérir]] et [[soigner]] les [[maladie]]s, les [[pathologie]]s, les [[blessure]]s.
+}}
+}}
+# {{en particulier}} Dans l’armée française, premier [[grade]] militaire conféré aux médecins diplômés officiers du Corps de Santé des Armées, à l’issue de leur internat.
+# [[remède#fr|Remède]] ; ce qui soigne.
+# [[guérisseur#fr|Guérisseur]].
+
+==== {{S|notes}} ====
+: Pour marquer le féminin, plusieurs termes sont utilisés : ''une médecin'', ''une [[doctoresse]]'' ou ''une femme médecin''. Les termes ''{{lien|médecienne|fr}}'' et ''{{lien|médecine|fr|nom-2}}'', bien qu’attestés, ont peu d’usages contemporains.
+
+==== {{S|variantes orthographiques}} ====
+* [[mèdecin]] {{moins courant}}
+
+==== {{S|synonymes}} ====
+: ''Personne soignant les maladies'' :
+* [[docteur]]
+* [[médicastre]]
+* [[meige]]
+* [[mire]]
+* [[praticien]]
+* [[toubib]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[écriture de médecin]] {{par plaisanterie|nocat=1}}
+* [[médecin aux pieds nus]]
+* [[médecin-conseil]]
+* [[médecin de campagne]]
+* [[médecin de famille]]
+* [[médecin de peste]]
+* [[médecin de ville]]
+* [[médecin des armées]]
+* [[médecin du sport]]
+* [[médecin du travail]]
+* [[médecin généraliste]]
+* [[médecin hospitalier]]
+* [[médecin légiste]]
+* [[médecin libéral]]
+* [[médecin référent]]
+* [[médecin traitant]]
+* [[médecin urgentiste]]
+* [[médecin vétérinaire]]
+* [[proto-médecin]]
+* [[pseudo-médecin]]
+* [[sous-médecin]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[langue de chien vaut le médecin]]
+* [[langue de chien vaut médecin]]
+* [[médecin, guéris-toi toi-même]] ''(tu donnes des conseils alors que tu aurais besoin d’en recevoir)''
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|autisme|don du sang|guerre|médicament|menstruations|os|sang|vaccin|virus (biologie)|toux|bouche|cou|rugby à XV|urgence|cancer|obésité|hôpital|neurodroit|droit de la santé|procréation médicalement assistée|sauvetage|muscle|grossesse}}
+* [[médecine]]
+* [[santé]]
+* [[maladie]]
+
+==== {{S|hyperonymes}} ====
+* [[métier]]
+* [[profession]]
+* [[santé]]
+
+==== {{S|hyponymes}} ====
+* [[allergologue]]
+* [[andrologue]]
+* [[dermatologue]]
+* [[cardiologue]]
+* [[chirurgien]]
+* [[endocrinologue]]
+* [[gastro-entérologue]]
+* [[gériatre]]
+* [[gynécologue]]
+* [[hématologue]]
+* [[immunologue]]
+* [[infectiologue]]
+* [[légiste]]
+* [[neurologue]]
+* [[obstétricien]]
+* [[oncologue]]
+* [[ophtalmologue]]
+* [[oto-rhino-laryngologiste]]
+* [[pédiatre]]
+* [[phoniatre]]
+* [[pneumologue]]
+* [[proctologue]]
+* [[psychiatre]]
+* [[radiologue]]
+* [[rhumatologue]]
+* [[sage-femme]]
+* [[traumatologue]]
+* [[urgentiste]]
+* [[urologue]]
+
+==== {{S|traductions}} ====
+{{trad-début|Personne soignant les maladies}}
+* {{T|ar}} : {{trad+|ar|طبيب|tr=ṭabīb|m}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|med.sɛ̃|fr}}
+* {{pron|med.sɛ̃|mɛd.sɛ̃|fr}}
+* {{phon|med.sẽ|fr}} {{CA|nocat=1}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Cruelpity-médecin.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-JEP2022-visiteur29 (Madehub)-médecin.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Manestra-médecin.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-médecin.wav}}
+* {{écouter||me.də.sɛ̃|lang=fr|audio=LL-Q150 (fra)-Aemines4-médecin.wav}}
+* {{écouter|Alsace (France)||lang=fr|audio=LL-Q150 (fra)-Le Commissaire-médecin.wav}}
+* {{écouter|Annecy (France)||lang=fr|audio=LL-Q150 (fra)-Totodu74-médecin.wav}}
+* {{écouter|Auvergne (France)||lang=fr|audio=LL-Q150 (fra)-Abalg-médecin.wav}}
+* {{écouter|Burie (France)||lang=fr|audio=LL-Q150 (fra)-Enutrof à sec-médecin.wav}}
+* {{écouter|Cesseras (France)||lang=fr|audio=LL-Q150 (fra)-Guilhelma-médecin.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Froggyspeak92-médecin.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Jfumedureve-médecin.wav}}
+* {{écouter|France|me.də.sɛ̃|lang=fr|audio=LL-Q150 (fra)-Fhala.K-médecin.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-Lyokoï-médecin.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-médecin.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-médecin.wav}}
+* {{écouter|N’Djaména (Tchad)||lang=fr|audio=LL-Q150 (fra)-Matarimi1-médecin.wav}}
+* {{écouter|Nouveau-Brunswick (Canada)||lang=fr|audio=LL-Q150 (fra)-Acadienenexil-médecin.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Dorveille (Nucleos)-médecin.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Edoirefaitdel'art-médecin.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Ekane-médecin.wav}}
+* {{écouter|Paris (France)|med.sɛ̃|lang=fr|audio=LL-Q150 (fra)-Aemines1-médecin.wav}}
+* {{écouter|Paris (France)|med.sɛ̃|lang=fr|audio=LL-Q150 (fra)-Aemines2-médecin.wav}}
+* {{écouter|Paris (France)|med.sɛ̃|lang=fr|audio=LL-Q150 (fra)-Aemines3-médecin.wav}}
+* {{écouter|Paris (France)|med.sɛ̃|lang=fr|audio=LL-Q150 (fra)-Aemines6-médecin.wav}}
+* {{écouter|Paris (France)|med.sɛ̃|lang=fr|audio=LL-Q150 (fra)-GrandCelinien-médecin.wav}}
+* {{écouter|Paris (France)|mɛd.sɛ̃|lang=fr|audio=LL-Q150 (fra)-Aemines5-médecin.wav}}
+* {{écouter|Paris (France)|œ̃ mɛd.sɛ̃|lang=fr|audio=Fr-médecin.ogg|titre=un médecin}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Anthonyr95-médecin.wav}}
+* {{écouter|Quimper (France)|med.sɛ̃|lang=fr|audio=LL-Q150 (fra)-Vaulque-médecin.wav}}
+* {{écouter|Reims (France)||lang=fr|audio=LL-Q150 (fra)-Mathsou-médecin.wav}}
+* {{écouter|Toulouse (France)||lang=fr|audio=LL-Q150 (fra)-Loumaju-médecin.wav}}
+* {{écouter|Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-DSwissK-médecin.wav}}
+* {{écouter|Vosges (France)||lang=fr|audio=LL-Q150 (fra)-LoquaxFR-médecin.wav}}
+* {{écouter|Vosges (France)|mɛd.sɛ̃|lang=fr|audio=LL-Q150 (fra)-Poslovitch-médecin.wav}}
+* {{écouter|Lausanne (Suisse)||lang=fr|audio=LL-Q150 (fra)-MrStrelok75-médecin.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Cantons-de-l'Est-médecin.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Nantaise1-médecin.wav}}
+* {{écouter|Alsace (France)||lang=fr|audio=LL-Q150 (fra)-Obitboy-médecin.wav}}
+* {{écouter|Aude (France)||lang=fr|audio=LL-Q150 (fra)-Lepticed7-médecin.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-5moufl-médecin.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-médecin.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Max aucube-médecin.wav}}
+* {{écouter|Angers (France)||lang=fr|audio=LL-Q150 (fra)-Procrastineur49-médecin.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Adélaïde Calais WMFr-médecin.wav}}
+* {{écouter|Liège (Belgique)||lang=fr|audio=LL-Q150 (fra)-Shareculture-médecin.wav}}
+* {{écouter|Montpouillan (France)||lang=fr|audio=LL-Q150 (fra)-Yug-médecin.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-médecin.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Hazealiotrope-médecin.wav}}
+* {{écouter|Lausanne (Suisse)||lang=fr|audio=LL-Q150 (fra)-Mykeyto79-médecin.wav}}
+* {{écouter|Caen (France)||lang=fr|audio=LL-Q150 (fra)-Mecanautes-médecin.wav}}
+* {{écouter|Lausanne (Suisse)||lang=fr|audio=LL-Q150 (fra)-laura (Biblio.bethusy)-médecin.wav}}
+* {{écouter|Bordeaux (France)||lang=fr|audio=LL-Q150 (fra)-Bananax47-médecin.wav}}
+* {{écouter|Agen (France)||lang=fr|audio=LL-Q150 (fra)-Zephyrette (Bananax47)-médecin.wav}}
+* {{écouter|Haute-Loire (France)||lang=fr|audio=LL-Q150 (fra)-Sayoxime-médecin.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-French Jo-médecin.wav}}
+* {{écouter|Bayonne (France)||lang=fr|audio=LL-Q150 (fra)-ManuArrechea-médecin.wav}}
+* {{écouter|Marne (France)||lang=fr|audio=LL-Q150 (fra)-Marinolophus-médecin.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Pa2chant.bis-médecin.wav}}
+* {{écouter|Brest (France)||lang=fr|audio=LL-Q150 (fra)-Plutonora-médecin.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Hérisson grognon-médecin.wav}}
+* {{écouter|Maroc||niveau=bon|lang=fr|audio=LL-Q150 (fra)-Ahlamine-médecin.wav}}
+* {{écouter|||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-Didierwiki-médecin.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+* {{R:GDT|fiche=8872644}}
+* {{R:Huguet16e|article=medecin|pages=188, tome V|lien=https://fr.wikisource.org/wiki/Dictionnaire_de_la_langue_fran%C3%A7aise_du_seizi%C3%A8me_si%C3%A8cle/Medecin}}
+* {{R:Littré}}
+* {{R:TLFi}}
+
+[[Catégorie:Métiers de la santé en français]]

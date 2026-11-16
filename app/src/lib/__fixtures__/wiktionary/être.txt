@@ -1,0 +1,207 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr}} Du {{étyl|frm|fr|mot=estre|sens=être}}, de l’{{étyl|fro|fr|mot=estre|sens=être}}, du {{étyl|latin vulgaire|fr}} {{recons|lang-mot-vedette=fr|essĕre|sens=être}}, forme remaniée par analogie du latin classique ''{{lien|esse|la}}'' (« être »), ainsi que de l’ancien français ''{{lien|ester|fro}}'', du latin ''{{lien|sto|la|dif=stare}}'' (« être debout »). Ce dernier ne [[subsiste]] que dans les [[participe]]s ''[[été]]'', ''[[étant]]'' et les conjugaisons de l’[[imparfait]] de l’[[indicatif]], ainsi que dans les expressions aujourd’hui désuètes ''[[ester en justice]]'' ou ''[[ester en jugement]]''.
+
+=== {{S|verbe|fr}} ===
+'''être''' {{pron|ɛtʁ|fr}} {{i|fr}} {{conjugaison|fr|groupe=3}} {{lien pronominal|'|fr}}
+# [[définir|Définir]] un [[état]], une [[caractéristique]] du [[sujet]]. {{note}} En grammaire, ce type de verbe est appelé une ''[[copule]]'', et le mot qu’il introduit est un ''[[attribut]]''. En linguistique, il existe différentes manières de caractériser ces [[construction]]s attributives, [[existentiel]]les, [[locatif|locatives]] ou [[postural]]es qui peuvent être introduites en français par ''être''.
+# [[se situer|Se situer]], [[se trouver]], [[rester]], spécifiant une [[location]], une [[situation]].
+# {{absolument}} [[exister|Exister]].
+# {{impersonnel|fr}} {{soutenu|fr}} [[il y a|Il y a]].
+# {{impersonnel|fr}} Le [[moment]] de la [[journée]]. {{note}} Dans certaines régions, le démonstratif est utilisé à la place du pronom impersonnel afin de demander : ''C’est quelle heure ?''
+# Le [[jour]] de la semaine ou la [[date]] du [[moment]].
+# {{familier|fr}} [[aller|Aller]], se [[rendre]]. {{note}} Avec l’auxiliaire ''[[avoir]]''.
+# {{auxiliaire|fr}} Verbe [[auxiliaire]] servant à former les temps composés de certains verbes intransitifs indiquant un [[mouvement]] ou un changement d’état et tous les verbes [[réflexifs]].
+# {{auxiliaire|fr}} Verbe [[auxiliaire]] servant à former la forme [[passif|passive]].
+# {{informel|fr}} {{term|Construit avec ''sur'' ou ''dessus''}} S’occuper d’une affaire particulière, s’en occuper.
+# {{term|Construit avec ''à''}} Indique un lien de possession.
+# {{impersonnel|fr}} Joint à l’adverbe ''en'' et employé comme verbe impersonnel, sert à exprimer une comparaison.
+
+==== {{S|variantes}} ====
+* [[tère]] {{Terre-Neuve|nocat=1}} {{Acadie|nocat=1}}
+
+==== {{S|dérivés}} ====
+* [[je suis]]
+* [[n’était]]
+* [[peut-être]]
+* [[re-être]]
+* [[r’être]]
+* [[être comme]], [[estre comme]]
+{{)}}
+* {{Annexe|Locutions en français utilisant le verbe être}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[au royaume des aveugles, les borgnes sont rois]]
+* [[ça a été]] ?
+* [[c’est à la fin du bal qu’on paie les musiciens]]
+* [[c’est bon]]
+* [[c’est de la moutarde après dîner]]
+* [[c’est du bien perdu]]
+* [[c’est en forgeant qu’on devient forgeron]]
+* [[c’est en forgeant que l’on devient forgeron]]
+* [[c’est l’âne couvert de la peau du lion]]
+* [[c’est l’hôpital qui se fout de la charité]]
+* [[c’est l’hôpital qui se moque de la charité]]
+* [[c’est la goutte d’eau qui fait déborder le vase]]
+* [[c’est la poêle qui se fout du chaudron]]
+* [[c’est la poêle qui se moque du chaudron]]
+* [[c’est la roue qui tourne]]
+* [[c’est le métier qui rentre]]
+* [[c’est le serpent qui se mord la queue]]
+* [[c’est ni fait ni à faire]]
+* [[c’est pas demain la veille]]
+* [[c’est pas la fête au village]] 
+* [[c’est pour un ami]]
+* [[c’est toujours à recommencer]]
+* [[c’est tout un]]
+* [[c’est un personnage de roman]]
+* [[ce n’est pas gravé dans le marbre]]
+* [[ce n’est pas la porte à côté]]
+* [[ce qui est bon pour pitou est bon pour minou]] {{Québec|nocat=1}}
+* [[ce qui est différé n’est pas perdu]]
+* [[ce qui est simple est faux]]
+* [[ce qui est simple est faux, ce qui est compliqué est inutilisable]]
+* [[cela ne s’est jamais vu]]
+* [[chacun est bossu quand il se baisse]]
+* [[chacun est l’artisan de sa fortune]]
+* [[demain est un autre jour]]
+* [[et moi je suis la reine d’Angleterre]]
+* [[il faut qu’une porte soit ouverte ou fermée]]
+* [[il n’est point de petites affaires]]
+* [[il n’est point de sot métier]]
+* [[ils sont trop verts]]
+* [[j’y suis, j’y reste]]
+* [[l’amour est aveugle]]
+* [[l’argent est le nerf de la guerre]]
+* [[l’avare et le cochon ne sont bons qu’après leur mort]]
+* [[l’incident est clos]]
+* [[l’oisiveté est la mère de tous les vices]]
+* [[la carte n’est pas le territoire]]
+* [[la nuit, tous les chats sont gris]] 
+* [[la terre est basse]]
+* [[la vengeance est un plat qui se mange froid]]
+* [[la vie n’est pas un long fleuve tranquille]]
+* [[le client est roi]]
+* [[le mieux est l’ennemi du bien]]
+* [[le monde est petit]]
+* [[le rire est le propre de l’homme]]
+* [[les affaires sont les affaires]]
+* [[les faits sont têtus]]
+* [[les grandes douleurs sont muettes]]
+* [[les nerfs des batailles sont les pécunes]]
+* [[les plaisanteries les plus courtes sont les meilleures]]
+* [[les raisins sont trop verts]]
+* [[mieux vaut être seul que mal accompagné]]
+* [[nul n’est méchant volontairement]]
+* [[nul n’est prophète en son pays]]
+* [[on est chez les fous]]
+* [[on est pas chez mémé]]
+* [[on ne peut pas être et avoir été]]
+* [[promettre et tenir sont deux]]
+* [[quand le chat n’est pas là, les souris dansent]]
+* [[raison d’être]]
+* [[science sans conscience est la ruine de l’âme]]
+* [[science sans conscience n’est que ruine de l’âme]]
+* [[tout ce qui brille n’est pas or]]
+* [[tout est bien qui finit bien]]
+* [[tout est bon dans le cochon]]
+* [[tout est relatif]]
+* [[tout n’est pas rose]]
+* [[tout n’est pas rose dans la vie]]
+* [[un sou est un sou]]
+* [[va voir ailleurs si j’y suis]]
+* [[va voir là-bas si j’y suis]] 
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|sommeil|ontologie (philosophie)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Copule}}
+* {{T|ar}} : {{trad+|ar|كان|R=ka:na}} ; {{trad-|ar|يكون|R=jaku:nu}}
+{{trad-fin}}
+
+{{trad-début|Se trouver dans une location, une situation}}
+* {{T|ar}} : {{trad+|ar|وجد|tr=wougida}}
+{{trad-fin}}
+
+{{trad-début|Auxiliaire passif}}
+{{trad-fin}}
+
+==== {{S|notes}} ====
+: Les verbes correspondant à ce verbe sont très irréguliers en forme et en usage dans beaucoup de langues.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ɛtʁ}}
+'''être''' {{pron|ɛtʁ|fr}} {{m}}
+# [[existence|Existence]], c’est-à-dire le [[fait]] d’[[exister]], au [[sens]] [[abstrait]].
+# [[organisme|Organisme]], [[créature]] [[vivant]]e.
+# [[personnalité|Personnalité]] ; [[âme]].
+# {{par extension}} {{plus rare}} Ce qui [[constitue]] une [[chose]].
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[être humain]]
+* [[être-scorpion]]
+* [[Être suprême]]
+* [[être vivant]]
+* [[êtrique]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|action d’exister}}
+* {{T|ar}} : {{trad+|ar|وجود|m|tr=wojoude}}, {{trad+|ar|كائن|m|tr=kā'ine}}
+{{trad-fin}}
+
+{{trad-début|créature vivante}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{term|Paris, Sud de la France}} {{pron|ɛtʁ|fr}}
+* {{pron-rimes|ɛtʁ|fr}}
+** {{écouter|lang=fr|France (Paris)|ɛtʀ̥|audio=LL-Q150 (fra)-GrandCelinien-être.wav}}
+** {{écouter|France (Vendée)|ɛtʀ̥|lang=fr|audio=LL-Q150 (fra)-Sartus85-être.wav}}
+** {{écouter|lang=fr|France (Lyon)|ɛtʀ̥|audio=LL-Q150 (fra)-WikiLucas00-être.wav}}
+** {{écouter|France (Normandie)|ɛtʀ̥|lang=fr|audio=LL-Q150 (fra)-Roptat-être.wav}}
+** {{écouter|France (Vosges) {{familier|nocat=1}}|ɛt|lang=fr|audio=LL-Q150 (fra)-LoquaxFR-être.wav}}
+* {{term|Sud de la France}} {{pron|ˈɛ.tʁə|fr}}
+** {{écouter|lang=fr|France (Cesseras)|ˈɛ.tʀ̥ə|audio=LL-Q150 (fra)-Guilhelma-être.wav}}
+** {{écouter|lang=fr|France (Toulouse)|ˈɛ.tʁ̥ə|audio=LL-Q150 (fra)-Lepticed7-être.wav}}
+* {{term|Nord de la France}}, {{BE|nocat=1}}, {{Suisse|nocat=1}} {{phon|ɛːtʁ|fr}}, {{phon|eːtʁ|fr}}
+** {{écouter|France (Nord)|ɛːtʀ̥|lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-être.wav}}
+** {{écouter|France (Normandie)|ɛˑtʀ̥|lang=fr|audio=LL-Q150 (fra)-Pamputt-être.wav}}
+** {{écouter|France (Lyon)|ɛˑtʀ̥|lang=fr|audio=LL-Q150 (fra)-Lyokoï-être.wav}}
+** {{écouter|lang=fr|France (Vosges)|ˈɛː.tʀ̥ə|audio=LL-Q150 (fra)-Poslovitch-être.wav}}
+** {{écouter|France (Ouest)|eːtʁ̥|audio=Fr-être-fr-ouest.ogg|lang=fr}}
+** {{écouter|Suisse (Lausanne)|ɛːtʀ̥|lang=fr|audio=LL-Q150 (fra)-Eihel-LiLi-être.wav}}
+
+* {{QC|nocat=1}} {{phon|ɛɪ̯tʀ|fr}}, {{phon|aɪ̯tʀ|fr}}, {{phon|aɪ̯t|fr}}
+** {{écouter|Canada (Montréal) {{term|standard}}|ɛɪ̯tʁ̥|lang=fr|audio=LL-Q150 (fra)-Joe Pig-être.wav}}
+** {{écouter|Canada (Montréal) {{populaire|nocat=1}}|aɪ̯tʀ̥|audio=Qc-être.ogg|lang=fr}}
+** {{écouter|lang=fr|Canada (Chicoutimi) {{populaire|nocat=1}}|ˈaɪ̯.tʀ̥ə|audio=LL-Q150 (fra)-Simon Villeneuve-être.wav}}
+** {{écouter|lang=fr|Canada (Mauricie, Shawinigan) {{familier|nocat=1}}|ˈaɪ̯t stɛ̃ĩ̯.pɔʁ̥.ˈtã d‿ɛɪ̯.t‿ɔ.ˈnaɪ̯t|titre=Être. C'est important d'être honnête.|audio=V-être.ogg}}
+* {{term|Nouveau-Brunswick}} {{phon|æːtʀ|fr}}, {{phon|eːtʀ|fr}}
+
+==== {{S|homophones|fr}} ====
+* [[aître]]
+* [[hêtre]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+[[Catégorie:Verbes auxiliaires en français]]
+[[Catégorie:Verbes irréguliers en français]]
+[[Catégorie:Supplétions en français]]
+[[Catégorie:Verbes auxiliaires en français]]
+[[Catégorie:Supplétions en français]]
+[[Catégorie:Lexique en français du foyer]]
+[[Catégorie:Mots masculins en français pouvant désigner des femmes ou des filles]]
+

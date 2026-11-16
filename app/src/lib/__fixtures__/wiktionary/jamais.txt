@@ -1,0 +1,222 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|XI}} De l’{{étyl|fro|fr|mot=ja mais|sens=pas déjà}}. Voir [[jà]] (comme dans [[déjà]]) et [[mais que]].
+
+=== {{S|adverbe|fr}} ===
+{{fr-inv|ʒa.mɛ}}
+'''jamais''' {{pron|ʒa.mɛ|fr}} {{invar|fr}}
+# {{littéraire|fr}} {{term|Au sens [[affirmatif]]}} En un temps [[quelconque]], futur ou hypothétique.
+# En [[nul]] [[temps]], à aucune occasion, en aucune façon — {{usage}} Se [[rencontre]] combiné avec la [[particule]] [[négatif|négative]] '''''[[ne]]''''' (sauf, en réponse à une question, où son omission est de règle).
+## En particulier pour une absence passé.
+##* {{exemple | lang=fr
+ | '''Jamais''' « l’Ami du Peuple » '''ne''' s’est élevé contre des hommes privés ; '''jamais''' il '''n’'''</span>a attaqué que des hommes publics, […] les mandataires du peuple qui oublient leurs devoirs pour trahir leurs commettants.
+ | source={{w|Jean-Paul Marat}}, ''L’Ami du peuple'' {{n°|102}} du 19 janvier 1790}}
+##* {{exemple | lang=fr
+ | Je forme une entreprise qui '''n’'''eut '''jamais''' d’exemple et dont l’exécution n’aura point d’imitateur. Je veux montrer à mes semblables un homme dans toute la vérité de la nature, et cet homme, ce sera moi.
+ | source={{w|Jean-Jacques Rousseau}}, ''{{w|Les Confessions (Rousseau)|Les Confessions}}'', 1782-1789, [[s:Les Confessions (Rousseau)/Livre I|Livre I]]}}
+##* {{exemple | lang=fr
+ | Le sacro-saint règlement et l’esprit de corps furent ainsi respectés, mais Blosseville et son équipage '''ne''' revinrent '''jamais'''.
+ | source={{w|Jean-Baptiste Charcot}}, ''Dans la mer du Groenland'', 1928}}
+##* {{exemple | lang=fr
+ | '''Jamais''' Président '''n’'''avait été inauguré dans des circonstances aussi dramatiques.
+ | source={{w|André Maurois}}, ''{{w|Chantiers américains}}'', 1933}}
+##* {{exemple | lang=fr
+ | Un campement à la bordure d’une forêt, et éclairé par quelques bougies, donne d’étranges apparences ; je crus voir une falaise et des cavernes ; je revis ce lieu plus d’une fois ; '''jamais''' je '''n’'''y pus reconnaître ma première impression […]
+ | source={{w|Alain (philosophe)|Alain}}, ''Souvenirs de guerre'', Hartmann, 1937, page 16}}
+## Sous forme rhétorique: '''jamais dire jamais'''
+##* {{exemple | lang=fr
+ | Mais voyons la lettre ; (Il lit) : « Monsieur, comme je '''ne''' puis '''jamais''' être à vous ...» '''Jamais'''! il '''ne''' faut '''jamais''' dire '''jamais'''. Qui est-ce qui peut répondre-de l’avenir? — Vous me l’aviez dit, mon oncle. — '''Jamais'''! je voulais dire à présent, mais nous '''ne''' pouvons '''jamais''' dire '''jamais''' pour l’avenir.
+ | source=Oeuvres de F.-B. Hoffman, François-Benoît Hoffman, 1831|lien=https://gallica.bnf.fr/ark:/12148/bpt6k6133700m/f357.item.r=%22jamais%20dire%20jamais%22}}
+##* {{exemple | lang=fr
+ | Le lendemain où M. de Serre, alors garde-des-sceaux, avait fait retentir les échos de la Chambre élective du terrible mot '''jamais''' ! on donnait au Gymnase une représentation de cet opéra. A la scène xn, Géronte, consulté par sa pupille sur le contenu de la lettre qu'il l’a chargée d’écrire à son amant, y blâme cette phrase : Monsieur, comme je '''ne''' puis '''jamais''' être à vous; et ajoute : '''jamais'''! il '''ne''' faut '''jamais''' dire '''jamais'''; qui est-ce qui peut répondre de l’avenir?
+ | source=Oeuvres de F.-B. Hoffman, François-Benoît Hoffman, 1831|lien=https://gallica.bnf.fr/ark:/12148/bpt6k6133700m/f357.item.r=%22jamais%20dire%20jamais%22}}
+## En particulier sous forme impérative, conditionnelle, présente ou future.
+##* {{exemple | lang=fr
+ | Elle s’était repliée sur elle-même, l’air agressif.<br />J’avais vu la même expression, dans une maternité, sur le visage d’une jeune femme qui venait d’accoucher après beaucoup de souffrances. Son mari arriva et esquissa un geste de tendresse. Elle se recula contre le mur où était accoté son lit et jeta sur l’homme un regard de rancune. « '''Jamais''' plus », gronda-t-elle.
+ | source={{w|Roger Vailland}}, ''325.000 francs'', 1954, réédition Le Livre de Poche, page 143}}
+##* {{exemple | lang=fr
+ | '''Jamais''' [[menelau]]s avec Vous '''ne''' coucherait
+ | source=La bible des poètes : les Métamorphoses d'Ovide moralisées par Thomas Walleys. Traduction Collard Mansion, 1493}}
+##* {{exemple | lang=fr
+ | Car il m’a fait plus de bien et de courtoisie que homme du monde '''jamais''' '''ne''' pourrait oublier les bienfaits
+ | source=La bible des poètes : les Métamorphoses d'Ovide moralisées par Thomas Walleys. Traduction Collard Mansion, 1493}}
+##* {{exemple | lang=fr
+ | '''Jamais''' ogier le danois '''ne''' frappa chevalier qu’il ne fut armé de tous poings
+ | source=Ogier le Danoss, duc de Dannemark, qui fut l’ung des pairs de France, lequel avec l’ayde du roy Charlemagne chassa les payens hors de Rome et remît le pape en son siège . Et conquît troys terribles geans sarrazins en champ de bataille… Et fut couronne roy d’angleterre et roy d’acre, et conquît Jerusalem et Babylone et plusieurs autres vaillances fît ledit Ogier, 1495}}
+##* {{exemple | lang=fr
+ | '''jamais''' beuf ſa tête cornue '''ne''' mettrait en jouc de charrue
+ | source=Le Romman de la Rose nouvellement imprimé à Paris, Guillaume de Lorris, 150?}}
+##* {{exemple | lang=fr
+ | '''Jamais''' je ne remettrai plus les pieds dans une barque !
+ | source={{w|Lucien Pemjean}}, ''Petite Madone'', chapitre I{{exp|er}} ; F. Rouff éditeur, coll. Mon roman complet, Paris, 1926, page 7}}
+##* {{exemple | lang=fr
+ | Je ne traverse pas si la route juste devant moi est encombrée. Les rails ne doivent être franchis que si la voie routière en face est dégagée. Je ne m’arrête '''jamais''' sur la voie ferrée.
+ | source = ''Prévenir les prises de risque aux passages à niveau'', SNCF réseau, 8 novembre 2023
+}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à jamais]]
+* [[à tout jamais]]
+* [[au grand jamais]] ''(Emphatique)''
+* [[comme jamais]]
+* [[empire sur lequel le soleil ne se couche jamais]]
+* [[jamais au grand jamais]] ''(Emphatique)''
+* [[jamais de la vie]]
+* [[jamais deux sans trois]]
+* [[jamais-vu]]
+* [[maintenant ou jamais]]
+* [[moins que jamais]]
+* [[n’avoir jamais perdu de vue le clocher de son village]]
+* [[n’avoir jamais vu péter le loup sur la pierre de bois]]
+* [[n’en faire jamais d’autres]]
+* [[ô grand jamais]]
+* [[oh grand jamais]]
+* [[où la main de l’homme n’a jamais mis le pied]]
+* [[pour jamais]]
+* [[plus que jamais]]
+* [[si jamais]]
+* [[ville qui ne dort jamais]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[désormais]]
+* [[mais que]]
+
+==== {{S|phrases}} ====
+{{(}}
+* [[bien mal acquis ne profite jamais]]
+* [[cela ne s’est jamais vu]]
+* [[du jamais-vu]]
+* [[il n’est jamais trop tard pour bien faire]]
+* [[il ne faut jamais dire jamais]]
+* [[jamais couché, jamais levé]]
+* [[jamais dans cent ans]]
+* [[jamais grand nez n’a gâté visage]]
+* [[la foudre ne tombe jamais deux fois au même endroit]]
+* [[la pomme ne tombe jamais loin de l’arbre]]
+* [[le fruit ne tombe jamais loin de l’arbre]]
+* [[le gland ne tombe jamais loin du chêne]]
+* [[le pire n’est jamais certain]]
+* [[les arbres ne montent jamais jusqu’au ciel]]
+* [[mieux vaut tard que jamais]]
+* [[moi vivant jamais]]
+* [[on n’a jamais bon marché de mauvaise marchandise]]
+* [[on n’a jamais vu pareille chose]]
+* [[on n’a jamais vu une chose pareille]]
+* [[on n’est jamais aussi bien servi que par soi-même]]
+* [[on n’est jamais mieux servi que par soi-même]]
+* [[on n’est jamais si bien servi que par soi-même]]
+* [[on ne sait jamais]]
+* [[plus jamais ça]]
+* [[que celui qui n’a jamais … lui jette la première pierre]]
+* [[qui se garde à carreau n’est jamais capot]] {{familier|nocat=1}}
+* [[sait-on jamais]]
+* [[un bienfait n’est jamais perdu]]
+* [[un malheur ne vient jamais seul]]
+* [[vieux motard que jamais]]
+{{)}}
+
+==== {{S|synonymes}} ====
+* [[onques]]
+
+==== {{S|antonymes}} ====
+* [[toujours]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|degrés de certitude|logique modale|temps|consentement}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad-|ar|أبدا}}, {{trad-|ar|أَبَدََا}}, {{trad+|ar|قَطُّ}}
+{{trad-fin}}
+
+{{trad-début|En un temps quelconque|1}}
+{{trad-fin}}
+
+{{trad-début|Toujours|2}}
+{{trad-fin}}
+
+{{trad-début|En aucun temps|3}}
+* {{T|ar}} : {{trad-|ar|أبدا|tr=ʾabadan|dif=أَبَدًا}} ''(avec un verbe à la forme négative)''
+{{trad-fin}}
+
+=== {{S|interjection|fr}} ===
+'''jamais''' {{pron|ʒa.mɛ|fr}} {{invar|fr}}
+# Indique un [[refus]], une [[opposition]] [[catégorique]].
+# Indique une [[absence]] [[total|totale]] dans la [[durée]].
+
+==== {{S|synonymes}} ====
+{{(|Marque de refus catégorique}}
+* [[au grand jamais]]
+* [[c’est dead]]
+* [[c’est mort]]
+* [[compte là-dessus]], [[comptez là-dessus]] {{ironique|nocat}}
+* [[compte toujours là-dessus]], [[comptez toujours là-dessus]] {{ironique|nocat}}
+* [[cours]], [[courez]]
+* [[cours toujours]], [[courez toujours]]
+* [[dans tes rêves]]
+* [[dans tes rêves les plus fous]]
+* [[hors de question]]
+* [[jamais de la vie]]
+* [[jamais au grand jamais]]
+* [[même pas dans tes rêves]]
+* [[même pas dans tes rêves les plus fous]]
+* [[même pas en rêve]]
+* [[moi vivant jamais]]
+* [[onques]] {{vieilli|nocat}}, {{par plaisanterie|nocat}}
+* [[oublie-ça]], [[oubliez-ça]]
+* [[pas pour deux dollars]]
+* [[pas pour deux sous]]
+* [[pas pour un empire]]
+* [[pas pour un royaume]]
+* [[pas pour un sou]]
+* [[pas question]]
+* [[plutôt crever]]
+* [[plutôt crever la bouche ouverte]]
+* [[plutôt crever la gueule ouverte]]
+* [[plutôt mourir]]
+* [[plutôt mourir la bouche ouverte]]
+* [[plutôt mourir la gueule ouverte]]
+* [[rêve]], [[rêve toujours]]
+* [[rêvez]], [[rêvez toujours]]
+{{)}}
+{{(|Marque d’absence totale sur la durée}}
+* [[du tout]]
+* [[du tout, du tout]]
+* [[jamais de la vie]]
+* [[pas du tout]]
+{{)}}
+
+==== {{S|quasi-synonymes}} ====
+{{(|Marque de refus catégorique}}
+* [[compter là-dessus]] {{ironique|nocat}}
+* [[oublier-ça]]
+* [[j’allais te le]], [[j’allais justement te le]] + verbe {{ironique|nocat}}
+* [[j’allais vous le]], [[j’allais justement vous le]] + verbe {{ironique|nocat}}
+* [[pouvoir se brosser]]
+* [[pouvoir se toucher]]
+{{)}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|ʒa.mɛ|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|ʒa.mɛ|audio=Fr-jamais.ogg}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-jamais.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-jamais.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-jamais.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-jamais.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-jamais.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[Jamet]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+[[Catégorie:Négations en français]]
+[[Catégorie:Mots ayant deux sens antonymes en français]]
+[[Catégorie:Adverbes de temps en français]]
+

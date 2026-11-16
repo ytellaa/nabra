@@ -1,0 +1,166 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|fro|fr|mot=pou}}, du {{étyl|la|fr|mot=paucum}}. Cognat de l’italien ''{{lien|poco|it}}'', de l’espagnol ''{{lien|poco|es}}'', du portugais ''{{lien|pouco|pt}}'', de l'occitan ''{{lien|pauc|oc}}''.
+: {{supplétion|mot=oui|lang=fr|moins}}.
+
+=== {{S|adverbe|fr}} ===
+{{fr-inv|pø}}
+'''peu''' {{pron|pø|fr}} {{invar}}
+# Presque [[pas#fr-adv|pas]] ; pas [[beaucoup]].
+# Presque [[pas#fr-adv|pas]] ; pas [[très]].
+# {{adj-indéf-avec-de}} Presque [[aucun]]. Pas beaucoup.
+# {{ellipse|fr}} Peu de choses.
+
+==== {{S|notes}} ====
+: On utilise rarement ce mot avec un [[adjectif]] [[monosyllabe]]. On évite habituellement :
+:* ''Un film '''peu''' bon.''
+: Mais on dit plutôt :
+:* ''Un film pas très bon.''
+: En revanche il est assez naturel de dire :
+:* ''Un film '''peu''' intéressant.''
+: Par ailleurs, avant un adjectif à connotation positive, on utilise habituellement la [[litote]] '''''pas très''''', pour éviter de vexer les personnes qui pensent que l’adjectif est pleinement justifié.
+:* ''Un film pas très intéressant.''
+:* ''Il n’est pas très malin.''
+
+: Ce mot est grammaticalement positif mais sémantiquement plutôt négatif, et il peut s’utiliser avec des [[item de polarité négative|items de polarité négative]]<ref>Alain Lecomte, [http://lecomte.al.free.fr/ressources/PARIS8_LSL/CoursSem2-4-2.pdf ''Sémantique''], ''Cours de Licence de Sciences du Langage (L2)'', Université Paris 8.</ref>. Par exemple, ''[[quoi que ce soit]]'' est un item de polarité négative et il ne peut s’utiliser que dans les phrases négatives :
+:* ''Elle n’a pas dit quoi que ce soit d’intéressant.''
+:* ''*Elle a dit quoi que ce soit d’intéressant.'' ([[agrammatical]])
+: Mais ''peu'' peut [[autoriser]] cet item, tandis que les autres adverbes comme ''beaucoup'' ne peuvent pas :
+:* '''''Peu''' de gens ont dit quoi que ce soit d’intéressant.''
+:* ''*Beaucoup de gens ont dit quoi que ce soit d’intéressant.'' ([[agrammatical]])
+
+==== {{S|antonymes}} ====
+* [[beaucoup#fr-adv|beaucoup]] (1)
+* [[très#fr-adv|très]] (2)
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[avant peu]]
+* [[avant qu’il soit peu]]
+* [[dans peu]]
+* [[d’ici à peu]]
+* [[d’ici peu]]
+* [[depuis peu]]
+* [[être bien peu de chose]]
+* [[goûter peu]]
+* [[ni peu ni prou]]
+* [[peu de chose]]
+* [[peu ou pas]]
+* [[peu ou point]]
+* [[peu ou prou]]
+* [[pour un peu]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[c’est du peu]]
+
+==== {{S|apparentés}} ====
+* [[paucal]]
+* [[paucité]]
+
+==== {{S|traductions}} ====
+{{trad-début|Presque pas}}
+* {{T|ar}} : {{trad-|ar|القليل}}
+{{trad-fin}}
+
+{{trad-début|Pas beaucoup}}
+{{trad-fin}}
+
+{{cf|lang=fr|un peu}}
+
+=== {{S|pronom indéfini|fr}} ===
+'''peu''' {{pron|pø|fr}} {{invar}}
+# Peu de gens.
+# Peu de chose.
+
+==== {{S|antonymes}} ====
+* [[beaucoup#fr-pronom-indéf|beaucoup]]
+
+=== {{S|nom|fr}} ===
+'''peu''' {{pron|pø|fr}} {{m}}, {{au singulier uniquement|fr}}
+# Petite [[quantité]].
+
+==== {{S|notes}} ====
+* ''Le '''peu''' de'' : Suivi d’un nom au pluriel, peut désigner le [[manque]], l’[[absence]]. Il peut aussi signifier ''[[quelques]]''.
+:* Dans le premier cas, l’accord du verbe se fait avec le peu : ''Le '''peu''' de qualités dont il a fait preuve l’a fait éconduire. ''
+:* Dans le second cas, l’accord du verbe se fait avec le nom au pluriel : ''Le '''peu''' de services qu’il a rendus ont paru mériter une récompense.''
+* {{cf|lang=fr|un peu}}.
+* L'usage du '''''peu''''' substantivé au pluriel est extrêmement rare mais attesté chez Albert Caraco qui l'utilise calqué sur le latin ''[[pauci]]'' : "[...] ''ici la mode règne peus qui d'ailleurs et d'autant mieux que la plupart refuseront d'en convenir'' [...]" (''L'Ordre et le sexe'', Préface Aux lecteurs français, p.15 (1970))
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à peu de chose près]]
+* [[à peu près]]
+* [[aussi peu que]]
+* [[compter pour peu]]
+* [[gens de peu]]
+* [[homme de peu]]
+* [[homme de peu de foi]]
+* [[peu à peu]]
+* [[peu après]]
+* [[peu me chaut]]
+* [[pour peu que]]
+* [[quelque peu]]
+* [[si peu que]]
+* [[si peu que rien]]
+* [[sous peu]]
+* [[tant soit peu]]
+* [[très peu pour moi]]
+* [[un bon peu]]
+* [[un petit peu]]
+* [[un peu]]
+* [[un peu bien]]
+* [[un tout petit peu]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|pø|fr}}
+* {{pron|pø|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|titre=peu à peu|audio=Fr-peu.ogg}}
+* {{écouter||pø|lang=fr|audio=LL-Q150 (fra)-Guilhelma-peu.wav}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-peu.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-peu.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-peu.wav}}
+* {{écouter|lang=fr|Suisse (Genève)|audio=LL-Q150 (fra)-Nattes à chat-peu.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-peu.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-peu.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-peu.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-peu.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-peu.wav}}
+* {{écouter|lang=fr|France (Montpouillan)|audio=LL-Q150 (fra)-Yug-peu.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-peu.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-peu.wav}}
+* {{écouter|lang=fr|France (Saint-Berain-sous-Sanvignes)||audio=LL-Q150 (fra)-Chavagne-peu.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-peu.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-peu.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-peu.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-peu.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-peu.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-peu.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-Loizbec-peu.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-peu.wav}}
+* {{écouter|Montpellier (France)||lang=fr|audio=LL-Q150 (fra)-GeoMechain-peu.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-peu.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-peu.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-peu.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-peu.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-peu.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-peu.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-peu.wav}}
+==== {{S|homophones|fr}} ====
+* [[peut]], [[peux]] {{cf|lang=fr|pouvoir}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{R:Littré}}
+{{Références}}
+
+[[Catégorie:Adverbes de quantité en français]]
+

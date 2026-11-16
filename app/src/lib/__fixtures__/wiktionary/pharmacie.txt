@@ -1,0 +1,77 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|XIV}} De l’{{étyl|fro|fr|farmacie}}, {{lien|''pharmacie''|fro}}, du {{étyl|la|fr|mot=pharmacia|sens=ensemble des médicaments}}, du {{étyl|grc|fr|mot=φαρμακεία|tr=pharmakeía|sens=usage de drogues}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|faʁ.ma.si}}
+[[File:Égriselles-le-Bocage-FR-89-commerce-pharmacie-1.jpg|thumb|Enseigne d'une officine de '''pharmacie''' en France]]
+'''pharmacie''' {{pron|faʁ.ma.si|fr}} {{f}}
+[[File:Goeiedag & walkom, Dhr. apotheker.jpg|thumb|Officine avec enseigne bilingue, dans l'ouest de la France]]
+# [[science|Science]] ayant pour objet la [[composition]], la [[préparation]] et le [[contrôle]] des [[médicament]]s.
+/> L’arrêté ministériel permettra aussi aux acupuncteurs, audiologistes, chiropraticiens, audioprothésistes, denturologistes, ergothérapeutes, hygiénistes dentaires d'administrer le vaccin.'' {{source|Audrey Paris, ''Lancement imminent de « Je contribue » à la campagne de vaccination au Québec'', radio-canada.ca, 15 décembre 2020}}
+# [[officine|Officine]] où l’on [[conserver|conserve]], prépare et [[vendre|vend]] des [[médicament]]s ainsi que divers [[produit]]s ayant trait à la [[santé]], à l'[[hygiène]], aux soins du [[corps]] etc.
+# [[assortiment|Assortiment]] de produits de premiers [[soins]] et de [[médicament]]s d'[[usage]] courant que l'on [[garder|garde]] chez soi ou que l'on emporte en [[voyage]].
+
+==== {{S|synonymes}} ====
+''Science :''
+* [[pharma#fr|pharma]] {{populaire|nocat=1}}
+
+==== {{S|dérivés}} ====
+* [[armoire à pharmacie]]
+* [[biopharmacie]]
+* [[marcher à l’avoine de pharmacie]]
+* [[pharmaceutique]]
+* [[pharmacie chimique]]
+* [[pharmacien]]
+* [[pharmacienne]]
+
+==== {{S|apparentés}} ====
+* [[pharmacologie]]
+* [[pharmacopée]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|contraception|pharmacognosie}}
+* [[caducée]]
+
+==== {{S|traductions}} ====
+{{trad-début|Science}}
+* {{T|ar}} : {{trad-|ar|صيدلة|tr=ṣaydalah|dif=صَيْدَلَة}}
+{{trad-fin}}
+
+{{trad-début|Officine où l’on prépare et vend les médicaments}}
+* {{T|ar}} : {{trad-|ar|صيدلية|tr=ṣaydaliyyah|dif=صَيْدَلِيَّة}}
+{{trad-fin}}
+
+{{trad-début|Assortiment des médicaments les plus usuels}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|faʁ.ma.si|audio=Fr-pharmacie.ogg}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-pharmacie.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Exilexi-pharmacie.wav}}
+* {{écouter|lang=fr|France (Saint-Maurice-de-Beynost)|audio=LL-Q150 (fra)-Benoît Prieur-pharmacie.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-pharmacie.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-pharmacie.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-pharmacie.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-pharmacie.wav}}
+* {{écouter|Normandie (France)||lang=fr|audio=LL-Q150 (fra)-Roptat-pharmacie.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-pharmacie.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Althea81-pharmacie.wav}}
+* {{écouter|Millau (France)||lang=fr|audio=LL-Q150 (fra)-Antochkat-pharmacie.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{Import:DAF8}}
+
+[[Catégorie:Commerces en français]]
+[[Catégorie:Lexique en français de la pharmacie]]

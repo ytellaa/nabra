@@ -10,6 +10,14 @@ Format : [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) · Versions : 
 ### Modifié
 - Compatibilité : Nabra exige une WebView récente (Chrome 80 minimum). Sur un téléphone dont la WebView est trop ancienne, l'app affiche « Mise à jour nécessaire » avec un lien vers le Play Store, au lieu d'un écran blanc.
 
+## [0.3.0] — 2026-11-16
+
+### Ajouté
+- Mes mots : définition (en français) et traduction (en arabe) de chaque mot, récupérées sur le Wiktionnaire après accord, puis consultables hors connexion. Les cartes de Mes mots arrivent pliées (le mot seul) et se déplient avec une flèche. En cas de problème (pas de connexion, dictionnaire occupé, mot introuvable), un message clair et un bouton Réessayer, sans gêner le reste de l'application.
+
+### Modifié
+- Mentions légales : seule exception à « rien n'est envoyé sur Internet », le mot cherché dans le Wiktionnaire ; licence CC BY-SA des définitions.
+
 ## [0.2.0] — 2026-11-14
 
 ### Ajouté

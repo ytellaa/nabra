@@ -1,0 +1,156 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|1112}}{{R|TLFi}} En {{étyl|fro|fr|mot=denz}}{{R|TLFi}}, du {{étyl|la|fr|mot=deintus}}{{R|Littré}}.
+
+=== {{S|préposition|fr}} ===
+{{fr-inv|dɑ̃}}
+'''dans''' {{pron|dɑ̃|fr}} {{invariable}}
+# Préposition de [[lieu]] qui marque le rapport d’une personne ou d’une chose à ce qui la contient. Introduit un complément circonstanciel de lieu.
+# {{par extension}} Désigne la situation qu’une personne occupe, l’état où elle est, la disposition où elle se trouve, etc.
+# [[avec#fr|Avec]].
+# [[selon#fr|Selon]].
+# Avec des mots qui indiquent une époque, une durée.
+# Indique un moment [[postérieur]] au moment de l’énonciation.
+/> Minuit '''dans''' vingt<br
+/> Merci ben<br
+/> Ça doit être noir de monde su'l'perron d'l'église'' {{source|{{w|Tex Lecor}}, chanson ''Noël au camp'', 45 tours Je t'amène avec moi - Noël au camp, 1968}}
+
+==== {{S|abréviations}} ====
+* [[ds]]
+
+==== {{S|dérivés}} ====
+{{(|Mots}}
+* [[dedans]]
+{{)}}
+{{(|Locutions}}
+* [[avoir dans la main]]
+* [[avoir dans la peau]]
+* [[avoir dans le nez]]
+* [[avoir dans le sang]]
+* [[avoir dans sa manche]]
+* [[avoir froid dans le dos]]
+* [[comme dans du beurre]]
+* [[comme un poisson dans l’eau]]
+* [[coup de pied dans le cul]]
+* [[coup de pied dans le derrière]]
+* [[coup de pied dans les fesses]]
+* [[coup d’épée dans l’eau]]
+* [[dans ce cas]]
+* [[dans l’air]]
+* [[dans l’absolu]]
+* [[dans l’avenir]]
+* [[dans l’ensemble]]
+* [[dans l’œuf]]
+* [[dans l’ordre]]
+* [[dans la merde]]
+* [[dans la mesure de]]
+* [[dans la panade]]
+* [[dans la vraie route]]
+* [[dans le fait]]
+* [[dans le fond]]
+* [[dans le futur]]
+* [[dans le pétrin]]
+* [[dans le plus simple appareil]]
+* [[dans le sens du poil]]
+* [[dans le texte]]
+* [[dans le vent]]
+* [[dans les]]
+* [[dans les cartons]]
+* [[dans les faits]]
+* [[dans les grandes lignes]]
+* [[dans les jupons de]]
+* [[dans les plus brefs délais]]
+* [[dans peu]]
+* [[dans son fait]] {{vieilli|nocat=1}}
+* [[dans ta face]]
+* [[dans tes rêves]]
+* [[dans un placard]]
+* [[dans un tiroir]]
+* [[descendre dans l’arène]]
+* [[donner dans l’œil]]
+* [[étouffer dans l’œuf]]
+* [[être dans l’air]]
+* [[être dans la confidence]]
+* [[goutte d’eau dans l’océan]]
+* [[gravé dans le marbre]], [[graver dans le marbre]]
+* [[l’avoir dans l’os]], [[l’avoir dans le cul]]
+* [[l’un dans l’autre]]
+* [[matière astronomique compacte dans un halo]] ''ou'' [[MACHO]]
+* [[noyer dans le sang]]
+* [[planche dans le naufrage]]
+* [[taper dans l’œil]]
+* [[tomber dans les pommes]]
+* [[tuer dans l’œuf]]
+* [[tempête dans un dé à coudre]]
+* [[tempête dans un verre d’eau]]
+* [[théâtre dans le théâtre]] 
+{{)}}
+
+==== {{S|antonymes}} ====
+* [[hors]], [[hors de]]
+* [[il y a]] (avant le moment de l’énonciation)
+
+==== {{S|traductions}} ====
+{{trad-début|Lieu|1}}
+* {{T|ar}} : {{trad+|ar|في|tr=fī}}, {{trad+|ar|إلى|tr=ʾilā}} ''(mouvement vers l’intérieur)''
+{{trad-fin}}
+
+{{trad-début|Situation, état, disposition|2}}
+{{trad-fin}}
+
+{{trad-début|Avec|3}}
+{{trad-fin}}
+
+{{trad-début|Selon|4}}
+{{trad-fin}}
+
+{{trad-début|Au même temps|5}}
+{{trad-fin}}
+
+{{trad-début|À venir|6}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr|flexion}} ===
+'''dans''' {{pron|dan|fr}} {{m}}
+# ''Pluriel'' de {{lien|dan|fr}}.
+
+=== {{S|prononciation}} ===
+''Préposition :''
+* {{pron|dɑ̃|fr}}
+** {{écouter|lang=fr|France|dɑ̃|audio=Fr-dans.ogg}}
+* Canada : {{pron|dã|fr}}
+** {{écouter|Québec (Canada)|dã|lang=fr|audio=LL-Q150 (fra)-Estrie-dans.wav}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-dans.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-dans.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-dans.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-dans.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-dans.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-dans.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-dans.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-dans.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-dans.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-dans.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-dans.wav}}
+
+''Flexion de nom commun :''
+* {{pron|dan|fr}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-dans.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-dans.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[dent]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+{{Références}}
+

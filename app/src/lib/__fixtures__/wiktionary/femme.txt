@@ -1,0 +1,299 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr|1080}} Du {{étyl|la|fr|femina|dif=fēmĭna|sens=femelle », « femme}}{{R|TLFi}}. L’étymologie de ''fēmĭna'' est obscure :
+:# « celle qui enfante, qui donne la vie », participe moyen substantivé de {{recons|feo|lang-mot-vedette=fr|sens=produire, enfanter}}{{R|L&S|femina}}{{R|Ernout}}{{R|DÉL}} qui a donné {{lien|''fetus''|la}}, {{lien|''fetura''|la}}, {{lien|''fecundus''|la}}, {{lien|''fenum''|la}}, {{lien|''fenus''|la}} (voir ces mots).
+:# « celle qui allaite{{R|Pokorny}}{{R|DÉL}} », apparenté à {{lien|''filius''|la}}, {{lien|fello|la|dif=''fellare''|sens=[[téter]], sucer}}.
+: Le latin {{Lang|la|''fēmĭna''}} était en concurrence sur le territoire gallo-romain avec les mots {{lien|''mulier''|la|sens=femme}} et {{lien|''uxor''|la|sens=épouse}}. Ces deux derniers mots passeront en ancien français{{R|TLFi}}, sous la forme : {{lien|''moillier''|fro|sens=épouse, femme}} et {{lien|''oissour''|fro|sens=épouse}}.
+: {{Lang|la|''Fēmĭna''}} était accentué sur la première syllabe, c’est elle qui restera en ancien français. Le mot sera prononcé avec une voyelle longue {{pron|fẽː.me|fro}}, qui s’ouvre ensuite en {{pron|fãː.me|fro}} pour se raccourcir enfin, {{pron|fam|fr}} après la [[dénasalisation]] qui s’est produite au {{siècle2|XVII}} siècle.
+
+: ''Orthographe du mot'' : La forme ''femme'' est la première forme attestée en {{date|lang=fr|1080}} dans ''{{ws|La Chanson de Roland}}'', mais elle a coexisté avec les formes ''{{lien|feme|fro}}'' et ''{{lien|fame|fro}}'' durant le [[Moyen Âge]], la première étant plus influencée par l’étymologie et la deuxième par la prononciation. On trouve dans les autres [[langues d’oïl]] une évolution similaire : ''{{lien|feume|wa}}'' en wallon, ''[[fanne]]'' en bourguignon et ''[[fonne]]'' en [[nivernais]] (dialecte du [[berrichon]]){{R|Littré}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|fam}}
+[[File:Collage of famous women (cropped).jpg|thumb|[[plusieurs|Plusieurs]] '''femmes''' (1) :
+<ul>
+<li>[[:w:fr:Sacagawea|Sacagawea]]</li>
+<li>[[:w:fr:Marie Curie|Marie Curie]]</li>
+<li>[[:w:fr:Marilyn Monroe|Marilyn Monroe]]</li>
+<li>[[:w:fr:Mata Hari|Mata Hari]]</li>
+<li>[[:w:fr:Wu Zetian|Wu Zetian]]</li>
+<li>[[:w:fr:Jeanne d'Arc|Jeanne d'Arc]]</li>
+<li>[[:w:fr:Néfertiti|Néfertiti]]</li>
+<li>[[:w:fr:Indira Gandhi|Indira Gandhi]]</li>
+</ul>]]
+[[Fichier:Woman.svg|upright=0.5|vignette|Dessin d’une '''femme''' de morphologie moyenne, tel qu’il figure sur la {{w|Plaque de Pioneer|plaque de ''Pioneer 11''}}.]]
+'''femme''' {{pron|fam|fr}} {{f}} {{équiv-pour|un homme|homme|2egenre=une personne non binaire|2egenre1=enby|2egenre2=nb|2egenre3=non-binaire|lang=fr}}
+# Être humain [[adulte]] de [[genre]] ou de [[sexe]] [[féminin]] (par opposition à ''[[fille]], [[fillette]]'', ''[[femme-enfant]]'').
+# [[conjointe#fr|Conjointe]] ; [[épouse]] ; [[partenaire]].
+# Personne [[adulte]] de [[genre#fr|genre]] [[féminin]], qui possède les [[qualité]]s [[supposé]]es des femmes.
+# {{vieilli|fr}} {{au pluriel}} Personnel féminin. {{cf|femme de ménage|femme de chambre|lang=fr}}.
+# {{apposition}} Avant ou après un nom épicène pour lever une ambiguïté.
+ 
+
+==== {{S|variantes}} ====
+* {{lien|fxmme|fr}} {{rare|nocat=1}} {{term|féminisme}}
+
+==== {{S|synonymes}} ====
+{{(}}
+* [[blanc bonnet]]
+* [[bonne-femme]]
+* [[créature]], [[criature]] {{Québec|nocat=1}} {{désuet|nocat=1}}
+* [[dame]]
+* [[fille d’Ève]]
+* [[meuf]], [[feumeu]] ''(verlan)''
+* [[gadji]] {{argot|nocat=1}}
+* [[gazière]] {{familier|nocat=1}}
+* [[gonzesse]] {{France|nocat=1}}
+* [[grognasse]] {{France|nocat=1}} {{péjoratif|fr}}
+* [[mousso]] {{Côte d'Ivoire|nocat=1}}
+* [[nana]] {{familier|nocat=1}}
+* [[personne du sexe]] {{vieilli|nocat=1}}
+* [[souris]] {{France|nocat=1}}
+* [[typesse]] {{rare|nocat=1}}
+{{)}}
+
+==== {{S|hyponymes}} ====
+* [[femme cis]]
+* [[femme trans]]
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[belle comme la femme d’un autre]]
+* [[bonne-femme]], [[bonne femme]]
+** [[conte de bonne femme]], [[remède de bonne femme]]
+* [[donneur de femme]] {{info lex|anthropologie}}
+* [[être aux femmes]] {{Québec|nocat=1}}
+* [[ex-femme]]
+* [[femme à barbe]]
+* [[femme à bite]]
+* [[femme à tout faire]]
+* [[femme au foyer]]
+* [[femme augmentée]]
+* [[femme bio]]
+* [[femme cis]]
+* [[femme cisgenre]]
+* [[femme d’affaires]]
+* [[femme d’argent]]
+* [[femme d’Église]]
+* [[femme d’État]]
+* [[femme d’honneur]]
+* [[femme de bien]]
+* [[femme de chambre]]
+* [[femme de charge]]
+* [[femme de confiance]]
+* [[femme de couleur]]
+* [[femme de dossiers]]
+* [[femme de finance]]
+* [[femme de journée]]
+* [[femme de l’art]]
+* [[femme de la rue]]
+* [[femme de lettres]]
+* [[femme de loi]]
+* [[femme de maison]]
+* [[femme de mauvaise vie]]
+* [[femme de médecine]]
+* [[femme de ménage]]
+* [[femme de mer]]
+* [[femme de métier]]
+* [[femme de néant]]
+* [[femme de parole]]
+* [[femme de peine]]
+* [[femme de petite vertu]]
+* [[femme de peu]]
+* [[femme de réconfort]]
+* [[femme de rien]]
+* [[femme de robe]]
+* [[femme de service]]
+* [[femme de tête]]
+* [[femme du cru]]
+* [[femme du monde]]
+* [[femme du peuple]]
+* [[femme du voyage]]
+* [[femme facile]]
+* [[femme fatale]]
+* [[femme fontaine]]
+* [[femme forte]]
+* [[femme garçon]]
+* [[femme girafe]]
+* [[femme lapin]]
+* [[femme légère]]
+* [[femme politique]]
+* [[femme porteuse]]
+* [[femme publique]] ([[fille de joie]])
+* [[femme trans]]
+* [[femme transgenre]]
+* [[femme-enfant]]
+* [[femme-homme]]
+* [[femme-objet]], [[femme objet]]
+* [[femme-orchestre]]
+* [[femme politique]]
+* [[femme qui a vu la femme qui a vu l’ours]]
+* [[femme-renarde]]
+* [[femme-soldat]]
+* [[femme-trans]]
+* [[femmelette]]
+* [[femmophobie]]
+* [[femmetrans]]
+* [[gentillefemme]]
+* [[herbe à la femme battue]]
+* [[herbe aux femmes battues]]
+* [[homme à femmes]]  
+* [[homme vers femme]]
+* [[homme-femme]]
+* [[jeune femme]]
+* [[les femmes et les enfants d’abord]]
+* [[maîtresse femme]] 
+* [[Mouvement de libération des femmes]]
+* [[nom de femme]]
+* [[petit bout de femme]]
+* [[prendre femme]]  
+* [[prendre une femme]]
+* [[preneur de femme]] {{info lex|anthropologie}}
+* [[sage-femme homme]]
+* [[sage-femme]]
+* [[superfemme]]
+* [[surfemme]]
+* [[transfemme]]
+{{)}}
+
+==== {{S|dérivés autres langues}} ====
+* {{L|en}} : {{lien|femme|en}}, {{lien|fem|en}}
+** {{L|fr}} : {{lien|fem|fr}}
+
+==== {{S|apparentés}} ====
+{{(}}
+* [[antiféminisme]]
+* [[antiféministe]]
+* [[déféminiser]]
+* [[effemeller]]
+* [[effémination]]
+* [[efféminé]]
+* [[efféminément]]
+* [[efféminer]]
+* [[efféminophobie]]
+* [[femelin]]
+* [[femelle]]
+* [[féminiflore]]
+* [[féminiforme]]
+* [[féminin]]
+* [[féminisation]]
+* [[féminiser]]
+* [[féminisme]]
+* [[féministe]]
+* [[féminité]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[ce que femme veut, Dieu le veut]]
+* [[cherchez la femme]]
+* [[femme à lunettes, femme à quéquettes]], [[femmes à lunettes, femmes à quéquettes]]
+* [[femme au volant, mort au tournant]]
+* [[le diable bat sa femme et marie sa fille]] (la pluie tombe en même temps que le soleil brille)
+* [[souvent femme varie, bien fol est qui s’y fie]]
+
+==== {{S|vocabulaire}} ====
+* [[♀]] (U+2640)
+* [[genre]]
+** [[identité de genre]]
+** [[troisième genre]]
+* [[gynoïde]]
+* {{cf|gyno-|-gyne}}
+* {{voir thésaurus|fr|anatomie humaine|couple|identité de genre|femme|généalogie|famille|menstruations|amour|vulve}}
+
+==== {{S|hyponymes}} ====
+{{(}}
+* [[bécasse]]
+* [[biche]]
+* [[caillette]]
+* [[commère]]
+* [[dame]]
+* [[demoiselle]]
+* [[garce]] {{désuet|nocat}}
+* [[gerda]] {{Québec|nocat=1}}
+* [[guidoune]] {{Québec|nocat=1}}
+* [[jacasse]]
+* [[lorette]]
+* [[margot]]
+* [[mégère]]
+* [[moukère]]
+* [[perruche]]
+* [[poule]]
+* [[souris]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Être humain adulte de genre ou sexe féminin|1}}
+* {{T|ar}} : {{trad-|ar|إمْرَأة|tr=imra-a}}
+{{trad-fin}}
+
+{{trad-début|Épouse|2}}
+* {{T|ar}} : {{trad+|ar|امرأة|tr=ʾimraʾa|dif=إِمْرَأَة}}, {{trad-|ar|زوجة|dif=زَوْجَة}}
+{{trad-fin}}
+
+{{trad-début|Femelle Homo sapiens|6}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|fam|fr}}
+* {{pron|fam|fr}}
+* Français méridional : {{phon|ˈfa.mə|fr}}
+* {{écouter||fam|lang=fr|audio=LL-Q150 (fra)-ClasseNoes-femme.wav}}
+* {{écouter||fam|lang=fr|audio=LL-Q150 (fra)-Fabe56-femme.wav}}
+* {{écouter||fam|lang=fr|audio=LL-Q150 (fra)-Kaderousse-femme.wav}}
+* {{écouter||fam|lang=fr|audio=LL-Q150 (fra)-Madehub-femme.wav}}
+* {{écouter||fam|lang=fr|audio=LL-Q150 (fra)-Sagnamadr-femme.wav}}
+* {{écouter|Lyon (France)|fam|lang=fr|audio=LL-Q150 (fra)-WikiLucas00-femme.wav}}
+* {{écouter||fam|lang=fr|audio=LL-Q150 (fra)-Guilhelma-femme.wav}}
+* {{écouter|canton du Valais (Suisse)|fam|lang=fr|audio=LL-Q150 (fra)-Vampiro (ClasseNoes)-femme.wav}}
+* {{écouter|France (Hérault)|fam|lang=fr|audio=LL-Q150 (fra)-T. Le Berre-femme.wav}}
+* {{écouter|France (Lyon)|fam|lang=fr|audio=LL-Q150 (fra)-Loizbec-femme.wav}}
+* {{écouter|France (Massy)|fam|lang=fr|audio=LL-Q150 (fra)-X-Javier-femme.wav}}
+* {{écouter|France (Metz)|fam|lang=fr|audio=LL-Q150 (fra)-val (Eavq)-femme.wav}}
+* {{écouter|France (Montpouillan)|fam|lang=fr|audio=LL-Q150 (fra)-Yug-femme.wav}}
+* {{écouter|France (Paris)|fam|lang=fr|audio=LL-Q150 (fra)-Ash Crow-femme.wav}}
+* {{écouter|France (Paris)|fam|lang=fr|audio=LL-Q150 (fra)-Exilexi-femme.wav}}
+* {{écouter|France (Paris)|fam|lang=fr|audio=LL-Q150 (fra)-GrandCelinien-femme.wav}}
+* {{écouter|France (Paris)|fam|lang=fr|audio=LL-Q150 (fra)-LurKin-femme.wav}}
+* {{écouter|France (Paris)|fam|lang=fr|audio=LL-Q150 (fra)-PJLC-Wiki-femme.wav}}
+* {{écouter|France (Toulouse)|fam|lang=fr|audio=LL-Q150 (fra)-Lepticed7-femme.wav}}
+* {{écouter|France (Vosges)|fam|lang=fr|audio=LL-Q150 (fra)-Penegal-femme.wav}}
+* {{écouter|France (Vosges)|fam|lang=fr|audio=LL-Q150 (fra)-Poslovitch-femme.wav}}
+* {{écouter|France|fam|lang=fr|audio=LL-Q150 (fra)-Fhala.K-femme.wav}}
+* {{écouter|France|fam|lang=fr|audio=LL-Q150 (fra)-Lramirez7964283742-femme.wav}}
+* {{écouter|France|fam|lang=fr|audio=LL-Q150 (fra)-Mecanautes-femme.wav}}
+* {{écouter|France|fam|lang=fr|audio=LL-Q150 (fra)-Roll-Morton-femme.wav}}
+* {{écouter|France|yn̪ fam|lang=fr|audio=Fr-femme.ogg|titre=une femme}}
+* {{écouter|Montpellier (France)|fam|lang=fr|audio=LL-Q150 (fra)-GeoMechain-femme.wav}}
+* {{écouter|Mulhouse (France)|fam|lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-femme.wav}}
+* {{écouter|Suisse (canton du Valais)|fam|lang=fr|audio=LL-Q150 (fra)-DSwissK-femme.wav}}
+* {{écouter|Suisse (Genève)|fam|lang=fr|audio=LL-Q150 (fra)-Nattes à chat-femme.wav}}
+* {{écouter|Suisse (Lausanne)|fam|lang=fr|audio=LL-Q150 (fra)-Eihel-femme.wav}}
+* {{écouter|Vosges (France)|fam|lang=fr|audio=LL-Q150 (fra)-LoquaxFR-femme.wav}}
+* {{écouter|Grenoble (France)|fam|lang=fr|audio=LL-Q150 (fra)-Opsylac-femme.wav}}
+* {{écouter|Céret (France)|fa.mə|lang=fr|audio=LL-Q150 (fra)-Fabricio Cardenas (Culex)-femme.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-femme.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-femme.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-femme.wav}}
+* {{écouter|Bordeaux (France)||lang=fr|audio=LL-Q150 (fra)-Bananax47-femme.wav}}
+==== {{S|homophones|fr}} ====
+* [[fame]]
+==== {{S|paronymes}} ====
+* [[fâme]]
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Vikidia}}
+* {{Le Dico des Ados}}
+* {{Wikiquote}}
+
+=== {{S|références}} ===
+==== {{S|sources}} ====
+<references>
+* {{R|Ernout|Alfred Ernout et Antoine Meillet, ''Dictionnaire étymologique de la langue latine : Histoire des mots'', retirage de la quatrième édition, augmentée d’additions et de corrections nouvelles par Jacques André, Klincksieck, Paris, 1994, {{ISBN|2-252-02491-7}}}}.
+</references>
+
+==== {{S|bibliographie}} ====
+* {{périodique|auteur=Christine Siméone|titre=De “femelle de l’homme” à “femme fatale”, l’évolution du mot “femme” à l’Académie française depuis 1694|journal={{w|France Inter}}|date=8 février 2019|url=https://www.radiofrance.fr/franceinter/de-femelle-de-l-homme-a-femme-fatale-l-evolution-du-mot-femme-a-l-academie-francaise-depuis-1694-2208870}}
+
+{{Bonne entrée|français|lien=Wiktionnaire:Évaluation/décembre 2024#femme}}
+

@@ -1,0 +1,118 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|frm|fr|avecques}}, de l’{{étyl|fro|fr|avuec}}, du {{étyl|la|fr|apud}} {{recons|lang-mot-vedette=fr|[[hoc#la|hoque]]}} («&nbsp;près de ça&nbsp;») devenu {{recons|lang-mot-vedette=fr|apu-hŏque}} dans lequel [u] s’est fermé en [w], puis est tombé devant l’accent, ce qui a donné {{recons|lang-mot-vedette=fr|apŏque}}{{R|DAF1}}.
+: Anciennement orthographié ''{{lien|avecque|fr}}''.
+
+=== {{S|préposition|fr}} ===
+{{fr-inv|a.vɛk}}
+'''avec''' {{pron|a.vɛk|fr}} {{invar}}
+# [[conjointement|Conjointement]] à ; [[en compagnie de]]. {{usage}} La préposition est généralement suivie d'un pronom, à l'exception notable des régions linguistiques sous l'influence des langues germaniques comme l'Alsace, la  Belgique et la Suisse, où la préposition est placée parfois en position finale sans être suivie d'un pronom. Ainsi, alors que le reste de la France dit  « ''tu viens '''avec''' moi/nous ?'' », on entend parfois le long de la frontière germanophone « ''tu [[venir avec|viens '''avec''']] ?'' », comme traduction mot à mot de l'allemand « ''Du [[mitkommen|kommst mit]]?'' » (« tu m'accompagnes » ) et du néerlandais « ''[[meekomen|kom]] jij [[meekomen|mee]]?'' ».
+# Introduit des [[complément circonstanciel|compléments circonstanciels]] indiquant la manière, l’instrument, etc.
+# {{familier|fr}} Ce qu’une personne [[offrir|offre]] en elle de singulier, d’[[extraordinaire]], de [[ridicule]], etc.
+# [[contre|Contre]], dans une relation où il y a deux côtés.
+# [[malgré|Malgré]], [[sauf]].
+
+==== {{S|variantes orthographiques}} ====
+* [[avecque]] {{poétique|nocat=1}} <small>ou</small> {{désuet|nocat=1}}
+
+==== {{S|antonymes}} ====
+* [[contre]]
+* [[sans]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[avec armes et bagages]]
+* [[avec brio]]
+* [[avec ceinture et bretelles]]
+* [[avec des pieds de plomb]]
+* [[avec la croix et la bannière]]
+* [[avec le concours de]]
+* [[avec le Corse et l’Arménien]]
+* [[avec les dents]] 
+* [[avec ma bite et mon couteau]]
+* [[avec pertes et fracas]]
+* [[avec plaisir]]
+* [[avec tambour et trompette]]
+* [[avec tout le respect que je vous dois]] ''(Locution adverbiale)''
+* [[d’avec]]
+* [[et avec ça]]
+* [[faire avec]]
+* [[interface avec l’utilisateur]]
+* [[jouer avec le feu]]
+* [[location avec option d’achat]] ''ou'' [[LOA]]
+* [[partir avec la caisse]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[avec des si on mettrait Paris en bouteille]]
+* [[avec des si, on refait le monde]]
+* [[avec une seule fève, on ne peut pas préparer la soupe]]
+* [[faible avec les forts et fort avec les faibles]]
+
+==== {{S|traductions}} ====
+{{trad-début|Accompagnement}}
+* {{T|ar}} : {{trad+|ar|مع|R=maʿa}}
+{{trad-fin}}
+
+{{trad-début|Manière}}
+{{trad-fin}}
+
+{{trad-début|Instrument}}
+* {{T|ar}} : {{trad+|ar|ب|R=bi}}
+{{trad-fin}}
+
+=== {{S|adverbe|fr}} ===
+{{fr-inv|a.vɛk}}
+'''avec''' {{pron|a.vɛk|fr}} {{invar}}
+# {{informel|fr}} {{familier|fr}} {{ellipse|fr}} [[avec#fr-prép|Avec]] une chose connue de par le contexte.
+# {{informel|fr}} {{familier|fr}} {{ellipse|fr}} Avec une personne connue de par le contexte.
+# {{Canada|fr}} [[aussi|Aussi]].
+
+==== {{S|traductions}} ====
+{{trad-début|Avec quelque chose}}
+{{trad-fin}}
+
+{{trad-début|Avec quelqu’un}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|a.vɛk|fr}}
+* {{pron|a.vɛk|fr}}
+** {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|a.vɛk|audio=Fr-avec.ogg}}
+** {{écouter|lang=fr|France (Massy)|a.vɛk|audio=LL-Q150 (fra)-X-Javier-avec.wav}}
+* Français méridional : {{pron|a.ˈve|fr}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-avec.wav}}
+* {{écouter|lang=fr|France (Grenoble)|audio=LL-Q150 (fra)-GAllegre-avec.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-avec.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-avec.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-avec.wav}}
+* {{écouter|lang=fr|France (Saint-Étienne)||audio=LL-Q150 (fra)-Touam-avec.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-avec.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-avec.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-avec.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-avec.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-avec.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-avec.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-avec.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Estrie-avec.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-avec.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-avec.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Roll-Morton-avec.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-avec.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-avec.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-DSwissK-avec.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-avec.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-avec.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+<references>
+{{R|DAF1}}
+</references>
+* {{R:TLFi}}
+

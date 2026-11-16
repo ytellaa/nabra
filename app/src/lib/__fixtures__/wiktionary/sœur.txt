@@ -1,0 +1,167 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|frm|fr|soeur}}, de l’{{étyl|fro|fr|suer}}, ''{{lien|sor|fro}}'' au [[cas sujet]] et ''{{lien|seror|fro}}'' au [[cas régime]] – le cas sujet a de bonne heure supplanté le cas régime en raison de son emploi fréquent au [[vocatif]] – du {{étyl|la|fr|mot=soror|sens=sœur}}, de l’{{étyl|indo-européen commun|fr}} {{recons|lang-mot-vedette=fr|[[Reconstruction:indo-européen commun/*swésōr|swésōr]]}}.
+: {{circa|1080}} ''Chanson de Roland'' ''sorur'' (cas régime) ; ''soer'' (cas sujet).
+
+=== {{S|nom|fr}} ===
+{{fr-rég|sœʁ}}
+[[Fichier:L'impératrice Eugénie et sa sœur.jpg|vignette|Deux '''sœurs''' (sens 1).]]
+[[Fichier:Toulouse. Sœur St Ephrem - Fonds Trutat - 51Fi223.jpg|vignette|Une '''sœur''' (sens 3).]]
+'''sœur''' {{pron|sœʁ|fr}} {{f}} {{équiv-pour|lang=fr|un homme|frère|2egenre=une personne non binaire|2egenre1=frœur|2egenre2=adelphe}}
+# [[femme|Femme]] ou [[fille]], ayant le même [[père]] et la même [[mère]] que la personne considérée. Si un seul des parents est commun, c’est une [[demi-sœur]].
+# [[membre|Membre]] féminin d’une [[adelphie]].
+# {{en particulier}} {{lexique|religion|fr}} Membre féminin d’une [[fraternité]] [[religieuse]] qui [[prononcer|a prononcé]] des [[vœux]].
+# [[réplique|Réplique]] issue d’un [[original]], d’importance égale ou moindre, parfois supérieure. Utilisé seulement pour les noms féminins.
+# {{figuré|fr}} Élément (féminin) d’un ensemble.
+
+==== {{S|synonymes}} ====
+; femme ayant le même père et la même mère
+* [[frangine]]
+* [[reusse]]
+* [[sœurette]]
+* [[sœusœur]]
+* [[sista]]
+; membre féminin d’un ordre religieux
+* [[bonne sœur]]
+* [[moniale]]
+* [[nonne]], [[nonnain]]
+* [[religieuse]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[âme sœur]]
+* [[belle-sœur]]
+* [[consœur]]
+* [[demi-sœur]], [[demisœur]]
+* [[et ta sœur]]
+* [[être comme une sœur]] pour quelqu’un
+* [[fausse-sœur]]
+* [[frères et sœurs]]
+* [[grande sœur]]
+* [[île des Sœurs]]
+* [[les neuf sœurs]]
+* [[petite sœur]]
+* [[Petites Sœurs des pauvres]]
+* [[quasi-sœur]]
+* [[république sœur]]
+* [[ressembler comme une sœur]]
+* [[sœur aînée]]
+* [[sœur cadette]]
+* [[sœur consanguine]] : Celle qui n’est '''sœur''' que du côté paternel
+* [[sœur converse]] : Religieuse employée aux travaux domestiques du monastère
+* [[sœur d’âge]]
+* [[sœur d’armes]]
+* [[sœur de charité]]
+* [[sœur de cœur]]
+* [[sœur de lait]]
+* [[sœur de race]]
+* [[sœur de sang]]
+* [[sœur du Bon Secours]]
+* [[sœur écoute]] : Religieuse qui accompagne au parloir une autre religieuse ou une pensionnaire
+* [[sœur franche-maçonne]]
+* [[sœur germaine]] : Celle qui est née de même père et de même mère qu’une autre personne
+* [[sœur grise]] : Religieuse hospitalière.
+* [[sœur jumelle]]
+* [[sœur laie]]
+* [[sœur mineure]]
+* [[sœur musulmane]]
+* [[sœur naturelle]] : Celle qui est née de même père ou de même mère, mais hors du mariage
+* [[sœur puînée]]
+* [[sœur rose-croix]]
+* [[sœur servante]]
+* [[sœur tourière]] : Religieuse qui est chargée du service extérieur
+* [[sœur trois-points]] {{extrêmement rare|nocat}}
+* [[sœur utérine]] : Celle qui n’est sœur que du côté maternel
+* [[sœurette]]
+* [[sœurèche]] {{extrêmement rare|nocat}}
+* [[sœurs ennemies]]
+* [[sœurs inférieures]]
+* [[sœurs séparées]]
+* [[sorâtre]]
+{{)}}
+
+==== {{S|apparentés}} ====
+{{(}}
+* [[consœur]]<!-- pas attestés
+* [[consorel]], [[consororel]] -->
+* [[consœurie]]
+* [[consororie]]
+* [[consororité]]
+* [[sororal]]
+* [[sororalement]]
+* [[sororat]]
+* [[sororel]]
+* [[sororellement]]
+* [[sororial]]
+* [[sororicide]]
+* [[sororie]]
+* [[sororisation]]
+* [[sororiser]]
+* [[sororitaire]] {{extrêmement rare|nocat}}
+* [[sororité]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* [[frère]]
+* [[jumeau]]
+* {{voir thésaurus|fr|couvent|généalogie|famille|amitié|religion chrétienne|sociologie de la famille|parenté}}
+
+==== {{S|hyponymes}} ====
+* [[jumelle]]
+
+==== {{S|hyperonymes}} ====
+* [[adelphe]] {{rare|nocat=1}}
+
+==== {{S|traductions}} ====
+{{trad-début|Femme née des mêmes parents}}
+* {{T|ar}} : {{trad+|ar|أخت|R=ʾuḵt|dif=أُخْت}}
+{{trad-fin}}
+{{trad-début|Membre féminin d’une fraternité religieuse}}
+{{trad-fin}}
+
+{{trad-début|Réplique issue d’un original}}
+{{trad-fin}}
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-mixte|ms=frère|fs=sœur|pm=fʁɛʁ|pf=sœʁ}}
+'''sœur''' {{pron|sœʁ|fr}}
+# Qualifie des [[chose]]s [[similaire]]s, [[souvent]] avec la même [[origine]]. — {{usage}} Utilisé seulement pour les noms féminins (pour les noms masculins, on dit «&nbsp;[[frère#Adjectif|frère]]&nbsp;»).
+
+==== {{S|dérivés}} ====
+* [[âme sœur]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|sœʁ|fr}}
+* {{pron|sœʁ|fr}}
+** {{écouter|lang=fr|France (Paris)|yn ˈsœːʁ|titre=une sœur|audio=Fr-sœur.ogg}}
+** {{écouter|lang=fr|France|sœʁ̥|audio=LL-Q150 (fra)-Fhala.K-sœur.wav}}
+** {{écouter|lang=fr|France (Paris)|səːʁ|audio=LL-Q150 (fra)-GrandCelinien-sœur.wav}}
+** {{écouter|France|sœːʁ|lang=fr|audio=LL-Q150 (fra)-Guilhelma-soeur.wav}}
+** {{écouter|lang=fr|France (Muntzenheim)|sœːʁ̥|audio=LL-Q150 (fra)-0x010C-sœur.wav}}
+** {{écouter|France (Lyon)|sœʁ̥|lang=fr|audio=LL-Q150 (fra)-WikiLucas00-sœur.wav}}
+** {{écouter|lang=fr|France (Vosges)|sœːʁ|audio=LL-Q150 (fra)-LoquaxFR-sœur.wav}}
+** {{écouter|lang=fr|France (Toulouse)|sœʁ̥|audio=LL-Q150 (fra)-Lepticed7-sœur.wav}}
+** {{écouter|lang=fr|France (Vosges)|səːʁ|audio=LL-Q150 (fra)-Poslovitch-sœur.wav}}
+** {{écouter|France|sœːʁ|lang=fr|audio=LL-Q150 (fra)-Lunagrouh-sœur.wav}}
+** {{écouter|France (Somain)|sœːʁ|lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-sœur.wav}}
+** {{écouter|France (Vendée)|sœːʁ|lang=fr|audio=LL-Q150 (fra)-Sartus85-sœur.wav}}
+* {{CA|nocat=1}} {{pron|səʁ|fr}}  {{phon|saœ̯ʁ|fr}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Annexe|Glossaire de l’Église catholique en français}}
+* {{Annexe|Famille en français}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{R:Littré}}
+* {{R:DAF8|sœur}}
+
+[[Catégorie:Lexique en français de la famille]]
+[[Catégorie:œ en français|soeur]]

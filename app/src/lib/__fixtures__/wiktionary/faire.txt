@@ -1,0 +1,1535 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|IX|lang=fr}}{{R|TLFi}} Du {{étyl|la|fr|mot=facio|dif=facere}}{{R|TLFi}}{{R|Littré}}.
+
+=== {{S|verbe|fr}} ===
+'''faire''' {{pron|fɛʁ|fr}} {{t|fr}}, {{i|fr}} ou {{prnl|fr}} {{conjugaison|fr|groupe=3}} {{lien pronominal}}
+# [[File:Sailors prepare food 120822-N-XY604-073.jpg|thumb|'''Faire''' (2) à manger.]] [[créer|Créer]], [[produire]], [[fabriquer]], en parlant de toute [[œuvre]] matérielle.
+# {{en particulier}} [[préparer|Préparer]] un repas, le [[cuisiner]].
+# [[élaborer#fr|Élaborer]], en parlant des [[œuvre]]s de l’[[intelligence]] et de l’[[imagination]].
+# [[opérer|Opérer]], [[effectuer]], [[exécuter]], [[accomplir]], [[réaliser]], que ce soit d’[[ordre]] [[physique]] ou d’ordre [[moral]].
+# {{en particulier}} [[dire|Dire]].
+# {{en particulier}} Générer son [[bruit]], son [[cri]] typique, en parlant d'un animal, d'un appareil, etc.
+# {{en particulier}} [[accorder|Accorder]] ; [[donner]] ; [[offrir]].
+# {{en particulier}} [[provoquer|Provoquer]].
+# {{en particulier}} [[pratiquer|Pratiquer]].
+# {{en particulier}} {{argot|fr}} [[dérober|Dérober]] ; [[faire les poches]].
+/><small>GUSTAVE</small> – Je l’'''ai fait''' boulevard Ravachol à un vieux monsieur avec une grande barbe blanche…'' {{source|{{w|Jean Anouilh}}, ''{{w|Le Bal des voleurs}}'', 1938}}
+# Avoir dans son [[domaine]] [[professionnel]] ou dans sa [[gamme]] proposée à la [[vente]].
+# Se [[mouvoir]] dans un [[déplacement]] d’un [[lieu]] à un autre.
+# [[signaler|Signaler]], [[indiquer]] un [[état]] de [[chose]]s.
+# [[disposer|Disposer]], [[ranger]], [[arranger]], mettre dans un [[état]] [[convenable]].
+# {{en particulier}} [[farder|Farder]] ; [[maquiller]].
+# [[amasser|Amasser]], [[assembler]], [[mettre]] [[ensemble]], en parlant d’[[argent]] ou d’autres choses dont on a [[besoin]] de se [[pourvoir]].
+# [[employer|Employer]] ses [[force]]s, ses [[talent]]s, l’[[activité]] de son [[esprit]] à quelque chose ; s’en [[occuper]], y [[passer]] son [[temps]].
+# [[observer|Observer]], [[mettre en pratique]], souvent par [[obligation]] ou par [[précepte]].
+# [[exécuter|Exécuter]] ou [[pratiquer]] certaines choses que l’on s’oblige à [[achever]] en un certain temps.
+# [[former|Former]], [[façonner]], [[perfectionner]] quelqu’un.
+# [[former|Former]], [[composer]], [[constituer]] un tout, une [[seul]]e chose, en parlant de [[deux]] ou de [[plusieurs]] choses qui s’unissent, s’ajoutent, etc.
+# [[constituer|Constituer]] l’[[essence]] d’une chose.
+# Être la [[cause]] de [[tel ou tel]] [[résultat]] ou en être l’[[occasion]].
+# {{péjoratif|fr}} Se [[donner]] une [[apparence]] [[mensongère]].
+# {{familier|fr}} Donner l’air, créer une impression particulière.
+# {{familier|fr}}  [[vaquer|Vaquer]], [[se trouver]] ou être présent  dans un [[lieu]].
+# [[changer|Changer]], [[transformer]] en. — {{note}} : ''Il est alors construit avec la [[préposition]] [[de]]''.
+# [[employer|Employer]] quelqu’un ou quelque chose, en [[disposer]], en [[tirer parti]] d’une [[façon]] ou d’une autre. — {{note}} : ''Il est alors construit avec la [[préposition]] [[de]]''.
+# S’emploie souvent en tant que [[verbe]]-[[substitut]] pour [[éviter]] la [[répétition]] du [[verbe]] [[précédent]], précédé des [[conjonction]]s ''[[comme]], [[ainsi que]], [[autant que]], [[moins que]], [[plus que]]'', etc., et accompagné du pronom personnel ''[[le]]'' (''[[l’]]''), celui-ci représentant l’action décrite juste avant.
+# Mais on ne doit pas confondre cet emploi avec une autre tournure (sans conjonction de subordination) dans laquelle ''faire'', conservant le sens d’exécuter, opérer, effectuer, etc., a également pour complément le pronom ''le'' qui représente le verbe précédent.
+# {{term|jeu}}
+# {{lexique|marine|fr}}
+# {{lexique|transport|fr}} {{intransitif|fr}} [[approvisionner|Approvisionner]].
+# {{lexique|médecine|fr}} [[atteindre|Être atteint]], être [[malade]] de, [[montrer]] les [[symptôme]]s de.
+# {{lexique|militaire|fr}} [[effectuer|Effectuer]] ce qui [[ordonner|est ordonné]].
+# {{lexique|militaire|fr}} [[combattre|Combattre]] dans une [[guerre]].
+# [[voyager|Voyager]] dans un pays ; [[visiter]] un lieu.
+# {{Belgique|fr}} {{populaire|fr}} {{vieilli|fr}} [[exercer|Exercer]] un métier.
+# {{intrans|fr}} [[agir|Agir]].
+# {{intrans|fr}} {{vieilli|fr}} Être [[convenable]], [[produire]] un [[effet]] [[agréable]] (aujourd’hui, on utilise plutôt le verbe ''[[aller]]'').
+# {{intrans|fr}} {{familier|fr}} Se [[décharger]] le [[ventre]], [[déféquer]].
+# {{intrans|fr}} {{vieilli|fr}} Être [[efficace]].
+# {{pronl|fr}} [[devenir|Devenir]], [[embrasser]] une profession, une [[idée]], une [[religion]].
+# {{pronl|fr}} Indique une chose que l’on s’[[accorder|accorde]] ou que l’on s’[[imposer|impose]] à [[soi-même]].
+# {{pronl|fr}} S’[[habituer]], s’[[accoutumer]] à quelque chose.
+# {{pronl|fr}} Se [[former]].
+# {{pronl|fr}} Se [[créer]].
+# {{pronl|fr}} Être [[possible]], se [[produire]].
+# {{pronl|fr}} Être [[couramment]] [[pratiquer|pratiqué]].
+# {{pronl|fr}} {{vulgaire|fr}} [[posséder|Posséder]] [[sexuellement]].
+# {{pronl|fr}} {{familier|fr}} ''Se le faire'' ou ''se la faire'' : Finir par se montrer violent.
+# {{emploi|impersonnel}} Indique un [[état]] [[météorologique]].
+# {{emploi|impersonnel}} S’emploie pour [[marquer]] la [[nature]], l’[[état]], la [[disposition]] ou les [[qualité]]s de certaines choses.
+# {{emploi|impersonnel}} Être la [[cause]].
+# {{emploi|impersonnel}} [[y avoir|Y avoir]].
+# {{pronominal|fr}} {{emploi|impersonnel}} [[arriver|Arriver]].
+# {{pronominal|fr}} {{emploi|impersonnel}} Être [[convenable]]. — {{note}} Se dit surtout des actes de politesse ou de cérémonie qu’il est de bon ton d’accomplir en telle ou telle circonstance.
+/>« Ça '''ne se fait pas''' » est comme ces empereurs orientaux d’autrefois devant qui leurs sujets s’inclinaient sans jamais oser lever leurs yeux jusqu’à leur face.'' {{source|{{w|Nathalie Sarraute}}, ''{{w|Enfance}}'', Gallimard, 1983, collection Folio, page 191}}
+# [[commencer|Commencer]] à [[être]].
+# {{auxiliaire|fr}} Aux formes simple ou pronominale ([[se faire]]), peut être [[auxiliaire]] de [[mode]] et se construire avec un [[infinitif]] pour [[signifier]] : être la [[cause]] ([[proche]] ou [[lointain]]e) de quelque chose ou d’une [[action]]. Le sujet du verbe à l’infinitif peut être exprimé dans la phrase ou être absent de la phrase. De même, le complément d’objet du verbe à l’infinitif n’est pas toujours exprimé.
+# Expressions qui veulent toutes dire la même chose : laisse-moi tranquille.
+# [[dure|Durer]], [[tenir]].
+# Avoir de l'importance pour quelqu'un.
+
+==== {{S|notes}} ====
+: Sert de remplaçant à de nombreux autres verbes.
+:* commettre : '''''Faire''' une erreur, une faute.''
+:* déféquer : [[se faire dessus|'''''Se faire''' dessus'']].
+:* devenir : ''Au pluriel, « cheval » '''fait''' « chevaux ».''
+:* dire : ''Il me '''fait''' alors : « C’est pour quand ? »'' ; '''''Faire''' des calembours.''
+:* établir : '''''Faire''' un diagnostic, le parallèle.''
+:* incarner : ''C’était Johnny Weissmuller qui '''faisait''' Tarzan.''
+:* mettre, poser : ''Qu’est-ce que j’'''ai fait''' de mes lunettes ?'' : Où les ai-je mises ?
+:* nouer : '''''Faire''' ses lacets.''
+:* participer : '''''Faire''' une course, un rallye.''
+:* pratiquer : '''''Faire''' une opération.''
+:* préparer : '''''Faire''' à manger.''
+:* ranger : '''''Faire''' sa chambre.''
+:* raser : '''''Faire''' la barbe, '''faire''' la moustache.''
+:* répondre : ''J’irai avec vous, lui '''fis'''-je.''
+:* travailler : '''''Faire''' des heures supplémentaires.''
+:* vendre : ''Vous le '''faites''' à combien, votre poulet ?''
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4|fermer=1|Dérivés de faire}}
+* {{lien|à faire peur|fr}}
+* {{lien|à tant faire|fr}}
+* {{lien|aller faire téter les puces|fr}}
+* {{lien|aller se faire|fr}}
+* {{lien|aller se faire cuire un œuf|fr}}
+* {{lien|aller se faire empapaouter|fr}}
+* {{lien|aller se faire enculer|fr}}
+* {{lien|aller se faire endauffer|fr}}
+* {{lien|aller se faire fiche|fr}}
+* {{lien|aller se faire foutre|fr}}
+* {{lien|aller se faire mettre|fr}}
+* {{lien|aller se faire pendre ailleurs|fr}}
+* {{lien|aller se faire rhabiller|fr}}
+* {{lien|aller se faire voir|fr}}
+* {{lien|aller se faire voir ailleurs|fr}}
+* {{lien|aller se faire voir chez les Grecs|fr}}
+* {{lien|aller se faire voir chez Plumeau|fr}}
+* {{lien|apprendre à son père à faire des enfants|fr}}
+* {{lien|aussitôt dit, aussitôt fait|fr}}
+* {{lien|autant que faire se peut|fr}}
+* {{lien|avec des yeux de chat qui fait dans la braise|fr}}
+* {{lien|avoir à faire|fr}}
+* {{lien|avoir fait la guerre|fr}}
+* {{lien|avoir fait son temps|fr}}
+* {{lien|avoir fort à faire|fr}}
+* {{lien|avoir une piastre à faire|fr}}
+* {{lien|bienfaire|fr}}
+* {{lien|bien-faire|fr}}
+* {{lien|bienfaisant|fr}}
+* {{lien|bonne à tout faire|fr}}
+* {{lien|c’en est fait de|fr}}
+* {{lien|ça fait deux|fr}}
+* {{lien|ce faisant|fr}}
+* {{lien|ce qui fait que|fr}}
+* {{lien|cela fait|fr}}
+* {{lien|chandelier à faire binet|fr}}
+* {{lien|chemin faisant|fr}}
+* {{lien|chercher des verges pour se faire battre|fr}}
+* {{lien|clair comme deux et deux font quatre|fr}}
+* {{lien|contrefaire|fr}}
+* {{lien|défaire|fr}}
+* {{lien|donner le bâton pour se faire battre|fr}}
+* {{lien|emmener faire un tour|fr}}
+* {{lien|en faire autant|fr}}
+* {{lien|en faire baver|fr}}
+* {{lien|en faire des caisses|fr}}
+* {{lien|en faire des tartines|fr}}
+* {{lien|en faire des tonnes|fr}}
+* {{lien|en faire roter|fr}}
+* {{lien|en faire six caisses|fr}}
+* {{lien|en faire tout un cake|fr}}
+* {{lien|en faire tout un plat|fr}}
+* {{lien|en faire une affaire personnelle|fr}}
+* {{lien|en faire trop|fr}}
+* {{lien|en faire un pataquès|fr}}
+* {{lien|en faire une maladie|fr}}
+* {{lien|en faire une montagne|fr}}
+* {{lien|en faire voir|fr}}
+* {{lien|en faire voir de toutes les couleurs|fr}}
+* {{lien|en faire voir de vertes et de pas mûres|fr}}
+* {{lien|en faire voir des vertes et des pas mûres|fr}}
+* {{lien|entre-faire|fr}}
+* {{lien|être bien fait|fr}} ''(être beau)''
+* {{lien|être fait comme un rat|fr}}
+* {{lien|être fait pour|fr}}
+* {{lien|faire à Dieu barbe de feurre|fr}}
+* {{lien|faire à manger|fr}}
+* {{lien|faire à sa tête|fr}}
+* {{lien|faire abstraction|fr}}
+* {{lien|faire accroire|fr}} 
+* {{lien|faire acte de|fr}}
+** {{lien|faire acte d’autorité|fr}}
+** {{lien|faire acte de candidature|fr}}
+** {{lien|faire acte de clémence|fr}}
+** {{lien|faire acte de contrition|fr}}
+** {{lien|faire acte de présence|fr}}
+* {{lien|faire aller|fr}}
+* {{lien|faire alliance|fr}}
+* {{lien|faire allusion|fr}}
+* {{lien|faire amende honorable|fr}}
+* {{lien|faire amitié|fr}}
+* {{lien|faire antichambre|fr}}
+* {{lien|faire apparition|fr}}
+* {{lien|faire appel|fr}}
+* {{lien|faire argent de tout|fr}}
+* {{lien|faire arme de tout|fr}}
+* {{lien|faire assaut|fr}}
+* {{lien|faire assavoir|fr}}
+* {{lien|faire attention|fr}}
+* {{lien|faire autorité|fr}}
+* {{lien|faire aux pattes|fr}}
+* {{lien|faire avaler|fr}}
+* {{lien|faire avancer le schmilblick|fr}}
+* {{lien|faire avec|fr}}
+* {{lien|faire avion par terre|fr}}
+* {{lien|faire avorter une couvée de singes|fr}}
+* {{lien|faire babache|fr}}
+* {{lien|faire baiser les verges|fr}}
+* {{lien|faire balle|fr}}
+* {{lien|faire ballepeau|fr}}
+* {{lien|faire banco|fr}}
+* {{lien|faire bande à part|fr}}
+* {{lien|faire banqueroute|fr}}
+* {{lien|faire bascule|fr}}
+* {{lien|faire basket|fr}}
+* {{lien|faire barrage|fr}}
+* {{lien|faire beau|fr}}
+* {{lien|faire bien|fr}}
+* {{lien|faire bien de|fr}}
+* {{lien|faire binet|fr}}
+* {{lien|faire bisquer|fr}}
+* {{lien|faire bleu|fr}}
+* {{lien|faire bloc|fr}}
+* {{lien|faire boire|fr}}
+* {{lien|faire boire un cuir|fr}}
+* {{lien|faire boire une étoffe|fr}}
+* {{lien|faire bombance|fr}}
+* {{lien|faire bon accueil|fr}}
+* {{lien|faire bon marché|fr}}
+* {{lien|faire bon ménage|fr}}
+* {{lien|faire bon poids|fr}}
+* {{lien|faire bon poids bonne mesure|fr}}
+* {{lien|faire bondir|fr}}
+* {{lien|faire bonne chère|fr}}
+* {{lien|faire bonne contenance|fr}}
+* {{lien|faire bonne figure|fr}}
+* {{lien|faire bonne garde|fr}}
+* {{lien|faire bonne impression|fr}}
+* {{lien|faire bonne mesure|fr}}
+* {{lien|faire boucherie|fr}} {{Québec|nocat=1}} {{Suisse|nocat=1}}
+* {{lien|faire bouger les lignes|fr}}
+* {{lien|faire bouillir la marmite|fr}}
+* {{lien|faire bouillir la popote|fr}}
+* {{lien|faire boule de neige|fr}}
+* {{lien|faire bourse commune|fr}}
+* {{lien|faire boutique mon cul|fr}}
+* {{lien|faire braire|fr}}
+* {{lien|faire brèche|fr}}
+* {{lien|faire bronzette|fr}}
+* {{lien|faire brouillard|fr}}
+* {{lien|faire buisson creux|fr}}
+* {{lien|faire caca|fr}}
+* {{lien|faire cadeau|fr}}
+* {{lien|faire caguer|fr}}
+* {{lien|faire carousse|fr}}
+* {{lien|faire carrière|fr}}
+* {{lien|faire cas|fr}}
+* {{lien|faire catleya|fr}}
+* {{lien|faire cause commune|fr}}
+* {{lien|faire cavalier seul|fr}}
+* {{lien|faire ceinture|fr}}
+* {{lien|faire celui qui|fr}}
+* {{lien|faire cent hontes|fr}}
+* {{lien|faire chabrol|fr}}
+* {{lien|faire chabrot|fr}}
+* {{lien|faire chagrin|fr}}
+* {{lien|faire chambre à part|fr}}
+* {{lien|faire chanter|fr}}
+* {{lien|faire Charlemagne|fr}}
+* {{lien|faire chaud au cœur|fr}}
+* {{lien|faire chaudière|fr}}
+* {{lien|faire chauffer la carte bleue|fr}}
+* {{lien|faire chauffer le pop-corn|fr}}
+* {{lien|faire chier|fr}}
+* {{lien|faire chier la bite|fr}}
+* {{lien|faire chmir|fr}}
+* {{lien|faire chorus|fr}}
+* {{lien|faire chou blanc|fr}}
+* {{lien|faire clair|fr}}
+* {{lien|faire claquer son fouet|fr}}
+* {{lien|faire cocu|fr}}
+* {{lien|faire codille|fr}}
+* {{lien|faire comme Charles|fr}}
+* {{lien|faire comme chez soi|fr}}
+* {{lien|faire comme si|fr}}
+* {{lien|faire commerce de ses charmes|fr}}
+* {{lien|faire compagnie|fr}}
+* {{lien|faire compliment|fr}}
+* {{lien|faire confiance|fr}}
+* {{lien|faire connaissance|fr}}
+* {{lien|faire connaître qui on est|fr}}
+* {{lien|faire contraste|fr}}
+* {{lien|faire contre mauvaise fortune bon cœur|fr}}
+* {{lien|faire contre mauvaise fortune, bon cœur|fr}}
+* {{lien|faire corps|fr}}
+* {{lien|faire cortège|fr}}
+* {{lien|faire côte|fr}}
+* {{lien|faire coude|fr}}
+* {{lien|faire couler l’encre|fr}}
+* {{lien|faire coup double|fr}}
+* {{lien|faire crac-crac|fr}}
+* {{lien|faire crapahuter le flemmard|fr}}
+* {{lien|faire cru|fr}}
+* {{lien|faire crédit|fr}}
+* {{lien|faire cul sec|fr}}
+* {{lien|faire curée|fr}}
+* {{lien|faire dans la finesse|fr}}
+* {{lien|faire dans sa couche|fr}}
+* {{lien|faire dans son froc|fr}}
+* {{lien|faire dans son pantalon|fr}}
+* {{lien|faire danser l’anse du panier|fr}}
+* {{lien|faire date|fr}}
+* {{lien|faire débat|fr}}
+* {{lien|faire défaut|fr}}
+* {{lien|faire désordre|fr}}
+* {{lien|faire de l’autostop|fr}}
+* {{lien|faire de l’eau|fr}}
+* {{lien|faire de l’esbroufe|fr}}
+* {{lien|faire de l’esprit|fr}}
+* {{lien|faire de l’ombre|fr}}
+* {{lien|faire de l’or en barre|fr}}
+* {{lien|faire de l’œil|fr}}
+* {{lien|faire de la cuisine|fr}}
+* {{lien|faire de la lèche|fr}}
+* {{lien|faire de la merde|fr}}
+* {{lien|faire de la peine|fr}}
+* {{lien|faire de la prose sans le savoir|fr}}
+* {{lien|faire de la réclame|fr}}, {{lien|faire réclame|fr}}
+* {{lien|faire de la retape|fr}}
+* {{lien|faire de la terre|fr}}
+* {{lien|faire de la terre le fossé|fr}}
+* {{lien|faire de la toile|fr}}
+* {{lien|faire de nécessité vertu|fr}}
+* {{lien|faire de plates excuses|fr}}
+* {{lien|faire de son mieux|fr}}
+* {{lien|faire de vieux os|fr}}
+* {{lien|faire demi-tour|fr}}
+* {{lien|faire des armes|fr}}
+* {{lien|faire des âties|fr}} {{Lorraine|nocat=1}}
+* {{lien|faire des avances|fr}}
+* {{lien|faire des balles|fr}}
+* {{lien|faire des charres|fr}}
+* {{lien|faire des commissions|fr}}
+* {{lien|faire des courses|fr}}
+* {{lien|faire des éclairs|fr}}
+* {{lien|faire des emplettes|fr}}
+* {{lien|faire des émules|fr}}
+* {{lien|faire des étincelles|fr}}
+* {{lien|faire des études|fr}}
+* {{lien|faire des façons|fr}}
+* {{lien|faire des folies|fr}}
+* {{lien|faire des frais|fr}}
+* {{lien|faire des gammes|fr}}
+* {{lien|faire des gorges chaudes|fr}}
+* {{lien|faire des grâces|fr}}
+* {{lien|faire des histoires|fr}}
+* {{lien|faire des manières|fr}}
+* {{lien|faire des ménages|fr}}
+* {{lien|faire des merveilles|fr}}
+* {{lien|faire des messes basses|fr}}
+* {{lien|faire des mines|fr}}
+* {{lien|faire des mines de singe|fr}}
+* {{lien|faire des petits|fr}}
+* {{lien|faire des phrases|fr}}
+* {{lien|faire des pieds et des mains|fr}}
+* {{lien|faire des plans sur la comète|fr}}
+* {{lien|faire des remontrances|fr}}
+* {{lien|faire des remous|fr}}
+* {{lien|faire des ronds dans l’eau|fr}}
+* {{lien|faire des ronds de jambe|fr}}
+* {{lien|faire des salades|fr}}
+* {{lien|faire des saletés|fr}}
+* {{lien|faire des scènes|fr}}
+* {{lien|faire des siennes|fr}}
+* {{lien|faire des vacances|fr}}
+* {{lien|faire des vagues|fr}}
+* {{lien|faire des yeux blancs|fr}}
+* {{lien|faire des yeux de merlan frit|fr}}
+* {{lien|faire des yeux de velours|fr}}
+* {{lien|faire des zigzags|fr}}
+* {{lien|faire deuil|fr}}
+* {{lien|faire deux|fr}}
+* {{lien|faire devenir chèvre|fr}}
+* {{lien|faire difficulté|fr}}
+* {{lien|faire diligence|fr}}
+* {{lien|faire disparaitre|fr}} {{ortho1990}}
+* {{lien|faire disparaître|fr}}
+* {{lien|faire diversion|fr}}
+* {{lien|faire divorce|fr}}
+* {{lien|faire dodo|fr}}
+* {{lien|faire don|fr}}
+* {{lien|faire doux|fr}}
+* {{lien|faire dresser les cheveux|fr}}
+* {{lien|faire dresser les oreilles|fr}}
+* {{lien|faire dresser l’oreille|fr}}
+* {{lien|faire droit|fr}}
+* {{lien|faire du bien|fr}}
+* {{lien|faire du boudin|fr}}
+* {{lien|faire du bruit|fr}}
+* {{lien|faire du bruit dans Landerneau|fr}}
+* {{lien|faire du charme|fr}}
+* {{lien|faire du chemin|fr}}
+* {{lien|faire du chiffre|fr}}
+* {{lien|faire du coude|fr}}
+* {{lien|faire du coude à coude|fr}}
+* {{lien|faire du covoiturage|fr}}
+* {{lien|faire du fil à fil|fr}}
+* {{lien|faire du foin|fr}}
+* {{lien|faire du genou|fr}}
+* {{lien|faire du genre|fr}}
+* {{lien|faire du gringue|fr}}
+* {{lien|faire du gros d’or|fr}}
+* {{lien|faire du lèche-vitrine|fr}}
+* {{lien|faire du mal|fr}}
+* {{lien|faire du mur|fr}}
+* {{lien|faire du ménage|fr}}
+* {{lien|faire du neuf avec du vieux|fr}}
+* {{lien|faire du pied|fr}}
+* {{lien|faire du plat|fr}}
+* {{lien|faire du poney|fr}}
+* {{lien|faire du pouce|fr}} {{Québec|nocat=1}}
+* {{lien|faire du rentre-dedans|fr}}
+* {{lien|faire du reuz|fr}}
+* {{lien|faire du sale boulot|fr}}
+* {{lien|faire du sens|fr}}
+* {{lien|faire du shopping|fr}}
+* {{lien|faire du stop|fr}}
+* {{lien|faire du sur place|fr}}
+* {{lien|faire du surplace|fr}}
+* {{lien|faire du tort|fr}}
+* {{lien|faire du terrain|fr}}
+* {{lien|faire du train|fr}}
+* {{lien|faire du X|fr}}
+* {{lien|faire du zèle|fr}}
+* {{lien|faire dur|fr}}
+* {{lien|faire durer le plaisir|fr}}
+* {{lien|faire d’une chose comme des choux de son jardin|fr}}
+* {{lien|faire d’une mouche un éléphant|fr}}
+* {{lien|faire d’une pierre deux coups|fr}}
+* {{lien|faire eau|fr}}
+* {{lien|faire écho|fr}}
+* {{lien|faire école|fr}}
+* {{lien|faire écran|fr}}
+* {{lien|faire écurie|fr}}
+* {{lien|faire effet|fr}}
+* {{lien|faire effort|fr}}
+* {{lien|faire élection de domicile|fr}}
+* {{lien|faire en sorte|fr}}
+* {{lien|faire en sorte que|fr}}
+* {{lien|entendre raison|dif=faire entendre raison|fr}}
+* {{lien|faire entrer en ligne de compte|fr}}
+* {{lien|faire envie|fr}}
+* {{lien|faire époque|fr}}
+* {{lien|faire erreur|fr}}
+* {{lien|faire escale|fr}}
+* {{lien|faire et défaire c’est travailler|fr}}
+* {{lien|faire étalage|fr}}
+* {{lien|faire étape|fr}}
+* {{lien|faire état|fr}}
+* {{lien|faire évanouir|fr}}
+* {{lien|faire événement|fr}}
+* {{lien|faire exprès|fr}}
+* {{lien|faire face|fr}}
+* {{lien|faire faillite|fr}}
+* {{lien|faire Fanny|fr}}
+* {{lien|faire farine à son moulin|fr}}
+* {{lien|faire fausse queue|fr}}
+* {{lien|faire fausse route|fr}}
+* {{lien|faire faux bond|fr}}
+* {{lien|faire faux-bond|fr}}
+* {{lien|faire fête|fr}}
+* {{lien|faire feu|fr}}
+* {{lien|faire feu de tout bois|fr}}
+* {{lien|faire feu des deux fuseaux|fr}}
+* {{lien|faire feu des quatre fers|fr}}
+* {{lien|faire feu des quatre pattes|fr}}
+* {{lien|faire feu des quatre pieds|fr}}
+* {{lien|faire feu vif|fr}}
+* {{lien|faire fi de|fr}}
+* {{lien|faire ficelle|fr}}
+* {{lien|faire figure|fr}}
+* {{lien|faire figure de|fr}}
+* {{lien|faire fissa|fr}}
+* {{lien|faire flanelle|fr}}
+* {{lien|faire flop|fr}}
+* {{lien|faire florès|fr}}
+* {{lien|faire flèche|fr}}
+* {{lien|faire flèche de tout bois|fr}}
+* {{lien|faire foi|fr}}
+* {{lien|faire FOMEC|fr}}
+* {{lien|faire fonction|fr}}
+* {{lien|faire fond|fr}}
+* {{lien|faire force de rames|fr}}
+* {{lien|faire force de voiles|fr}}
+* {{lien|faire fort|fr}}
+* {{lien|faire fortune|fr}}
+* {{lien|faire fricot|fr}}
+* [[faire froid au cœur]]
+* {{lien|faire froid dans le dos|fr}}
+* {{lien|faire front|fr}}
+* {{lien|faire fureur|fr}}
+* {{lien|faire gaffe|fr}}
+* {{lien|faire gai|fr}} {{Belgique|nocat=1}}
+* {{lien|faire genre|fr}}
+* {{lien|faire gligli|fr}}
+* {{lien|faire grâce|fr}}
+* {{lien|faire grand bruit|fr}}
+* {{lien|faire grand cas|fr}}
+* {{lien|faire gras|fr}}
+* {{lien|faire grève|fr}}
+* {{lien|faire gribou|fr}}
+* {{lien|faire grief|fr}}
+* {{lien|faire grincer des dents|fr}}
+* {{lien|faire gris|fr}}
+* {{lien|faire grise mine|fr}}
+* {{lien|faire gros cœur|fr}}
+* {{lien|faire gros de|fr}}
+* {{lien|faire halte|fr}}
+* {{lien|faire hâte|fr}}
+* {{lien|faire hommage à la table|fr}}
+* {{lien|faire honneur|fr}}
+* {{lien|faire honneur à la table|fr}}
+* {{lien|faire honte|fr}}
+* {{lien|faire humide|fr}}
+* {{lien|faire illusion|fr}}
+* {{lien|faire impression|fr}}
+* {{lien|faire injure|fr}}
+* {{lien|faire irruption|fr}}
+* {{lien|faire jeu égal|fr}}
+* {{lien|faire jeune|fr}}
+* {{lien|faire joli|fr}}
+* {{lien|faire jouer|fr}}
+* {{lien|faire joujou|fr}}
+* {{lien|faire jour|fr}}
+* {{lien|faire justice|fr}}
+* {{lien|faire justice soi-même|fr}}
+* {{lien|faire l’affaire|fr}}
+* {{lien|faire l’amour|fr}}
+* {{lien|faire l’andouille|fr}}
+* {{lien|faire l’âne|fr}}
+* {{lien|faire l’âne pour avoir du foin|fr}}
+* {{lien|faire l’âne pour avoir du son|fr}}
+* {{lien|faire l’appel|fr}}
+* {{lien|faire l’appoint|fr}}
+* {{lien|faire l’armée|fr}}
+* {{lien|faire l’arrivée|fr}}
+* {{lien|faire l’article|fr}}
+* {{lien|faire l’aumône|fr}}
+* {{lien|faire l’autruche|fr}}
+* {{lien|faire l’avion|fr}}
+* {{lien|faire l’école buissonnière|fr}}
+* {{lien|faire l’effet d’une bombe|fr}}
+* {{lien|faire l’éloge|fr}}
+* {{lien|faire l’enfant|fr}}
+* {{lien|faire l’épicerie|fr}} {{Québec|nocat=1}}
+* {{lien|faire l’étoile de mer|fr}}
+* {{lien|faire l’expérience de|fr}}
+* {{lien|faire l’extérieur|fr}}
+* {{lien|faire l’herbe|fr}}
+* {{lien|faire l’hélicoptère|fr}}
+* {{lien|faire l’homme|fr}}
+* {{lien|faire l’idiot|fr}}
+* {{lien|faire l’imbécile|fr}}
+* {{lien|faire l’impasse|fr}}
+* {{lien|faire l’impossible|fr}}
+* {{lien|faire l’impression|fr}}
+* {{lien|faire l’innocent|fr}}
+* {{lien|faire l’intéressant|fr}}
+* {{lien|faire l’intérieur|fr}}
+* {{lien|faire l’objet|fr}}
+* {{lien|faire l’œuf|fr}}
+* {{lien|faire la baboune|fr}} {{Québec|nocat=1}}
+* {{lien|faire la balle|fr}}
+* {{lien|faire la barbe|fr}}
+* {{lien|faire la bête|fr}}
+* {{lien|faire la bête à deux dos|fr}}
+* {{lien|faire la bise|fr}}
+* {{lien|faire la bombe|fr}}
+* {{lien|faire la bouche en cœur|fr}}
+* {{lien|faire la bringue|fr}}
+* {{lien|faire la buche|fr}} {{ortho1990}}
+* {{lien|faire la bûche|fr}}
+* {{lien|faire la cane|fr}}
+* {{lien|faire la chaine|fr}} {{ortho1990}}
+* {{lien|faire la chaîne|fr}}
+* {{lien|faire la chaise|fr}}
+* {{lien|faire la chaloupe|fr}}
+* {{lien|faire la chambre|fr}}
+* {{lien|faire les chambres|fr}}
+* {{lien|faire la charité|fr}}
+* {{lien|faire la chasse|fr}}
+* {{lien|faire la chattemite|fr}}
+* {{lien|faire la chose|fr}}
+* {{lien|faire la chevelure|fr}}
+* {{lien|faire la connaissance|fr}}
+* {{lien|faire la conversation|fr}}
+* {{lien|faire la coquette|fr}}
+* {{lien|faire la cour|fr}}
+* {{lien|faire la course|fr}}
+* {{lien|faire la courte échelle|fr}}
+* {{lien|faire la coutume|fr}}
+* {{lien|faire la couverture|fr}}
+* {{lien|faire la cuisine|fr}}
+* {{lien|faire la dame|fr}}
+* {{lien|faire la diff|fr}}
+* {{lien|faire la différence|fr}}
+* {{lien|faire la faute|fr}}
+* {{lien|faire la fenêtre|fr}}
+* {{lien|faire la fête|fr}}
+* {{lien|faire la fête à|fr}}
+* {{lien|faire la figue à|fr}}
+* {{lien|faire la file|fr}}
+* {{lien|faire la fine bouche|fr}}
+* {{lien|faire la foire|fr}}
+* {{lien|faire la grâce de|fr}}
+* {{lien|faire la grasse matinée|fr}}
+* {{lien|faire la grimace|fr}}
+* {{lien|faire la grosse voix|fr}}
+* {{lien|faire la gueule|fr}}
+* {{lien|faire la jaille|fr}}
+* {{lien|faire la java|fr}}
+* {{lien|faire la leçon|fr}}
+* {{lien|faire la lecture|fr}}
+* {{lien|faire la lessive|fr}}
+* {{lien|faire la lippe|fr}}
+* {{lien|faire la loi|fr}}
+* {{lien|faire la lumière sur|fr}}
+* {{lien|faire la main|fr}}
+* {{lien|faire la maligne|fr}}
+* {{lien|faire la malle|fr}}
+* {{lien|faire la manche|fr}}
+* {{lien|faire la mauvaise tête|fr}}
+* {{lien|faire la mine|fr}}
+* {{lien|faire la minette|fr}}
+* {{lien|faire la moisson|fr}}
+* {{lien|faire la monnaie|fr}}
+* {{lien|faire la morale|fr}}
+* {{lien|faire la moue|fr}}
+* {{lien|faire la navette|fr}}
+* {{lien|faire la nique|fr}}
+* {{lien|faire la noce|fr}}
+* {{lien|faire la nouvelle|fr}}
+* {{lien|faire la nuit|fr}}
+* {{lien|faire la paire|fr}}
+* {{lien|faire la paix|fr}}
+* {{lien|faire la Pâque|fr}}, {{lien|faire la pâque|dif=pâque|fr}}
+* {{lien|faire la part belle|fr}}
+* {{lien|faire la part des choses|fr}}
+* {{lien|faire la part du feu|fr}}
+* {{lien|faire la patte d’araignée|fr}}
+* {{lien|faire la peau|fr}}
+* {{lien|faire la perle|fr}}
+* {{lien|faire la perruque|fr}}
+* {{lien|faire la petite bouche|fr}}
+* {{lien|faire la pige|fr}}
+* {{lien|faire la piste|fr}}
+* {{lien|faire la plonge|fr}}
+* {{lien|faire la pluie et le beau temps|fr}}
+* {{lien|faire la pote|fr}}
+* {{lien|faire la poudrette|fr}}
+* {{lien|faire la presse|fr}}
+* {{lien|faire la preuve de|fr}}
+* {{lien|faire la princesse|fr}}
+* {{lien|faire la pute|fr}}
+* {{lien|faire la quête|fr}}
+* {{lien|faire la queue|fr}}
+* {{lien|faire la renchérie|fr}}
+* {{lien|faire la retape|fr}}
+* {{lien|faire la ripe|fr}}
+* {{lien|faire la ronde|fr}}
+* {{lien|faire la roue|fr}}
+* {{lien|faire la rue Michel|fr}}
+* {{lien|faire la rue Thubaneau|fr}}
+* {{lien|faire la soudure|fr}}
+* {{lien|faire la sourde oreille|fr}}
+* {{lien|faire la table|fr}}
+* {{lien|faire la tache d’huile|fr}}
+* {{lien|faire la tournée des bistrots|fr}}
+* {{lien|faire la tournée des grands-ducs|fr}}
+* {{lien|faire la tournée des popotes|fr}}
+* {{lien|faire la trace|fr}}
+* {{lien|faire la tronche|fr}}
+* {{lien|faire la tête|fr}}
+* {{lien|faire la tête au carré|fr}}
+* {{lien|faire la une|fr}}
+* {{lien|faire la vaisselle|fr}}
+* {{lien|faire la valise|fr}}
+* {{lien|faire la vie|fr}}
+* {{lien|faire la vie dure|fr}}
+* {{lien|faire la volonté de quelqu’un|fr}}
+* {{lien|faire le barbot|fr}}
+* {{lien|faire le beau|fr}}
+* {{lien|faire le bien|fr}}
+* {{lien|faire le bon apôtre|fr}}
+* {{lien|faire le bonhomme|fr}}
+* {{lien|faire le bourdon|fr}}
+* {{lien|faire le buzz|fr}}
+* {{lien|faire le cake|fr}}
+* {{lien|faire le canard|fr}}
+* {{lien|faire le carême|fr}}
+* {{lien|faire le chat-brun|fr}}
+* {{lien|faire le clown|fr}}
+* {{lien|faire le con|fr}}
+* {{lien|faire le coucou|fr}}
+* {{lien|faire le coup|fr}}
+* {{lien|faire le coup de feu|fr}}
+* {{lien|faire le coup de fusil|fr}}
+* {{lien|faire le coup de poing|fr}}
+* {{lien|faire le coq|fr}}
+* {{lien|faire le cul de poule|fr}}
+* {{lien|faire le deuil|fr}}
+* {{lien|faire le diable|fr}}
+* {{lien|faire le diable à quatre|fr}}
+* {{lien|faire le difficile|fr}}
+* {{lien|faire le dimanche|fr}}
+* {{lien|faire le dos rond|fr}}
+* {{lien|faire le faraud|fr}}
+* {{lien|faire le faut|fr}}, {{lien|faire-le-faut|fr}}
+* {{lien|faire le fier|fr}}
+* {{lien|faire le fou|fr}}
+* {{lien|faire le gazon|fr}} {{Québec|nocat=1}}
+* {{lien|faire le Gilles|fr}}
+* {{lien|faire le gros dos|fr}}
+* {{lien|faire le guet|fr}}
+* {{lien|faire le jacques|fr}}
+* {{lien|faire le jars|fr}} {{Québec|nocat=1}}
+* {{lien|faire le jeu de|fr}}
+* {{lien|faire le jeune homme|fr}}
+* {{lien|faire le job|fr}}
+* {{lien|faire le joli cœur|fr}}
+* {{lien|faire le kéké|fr}}
+* {{lien|faire le lézard|fr}}
+* {{lien|faire le lien|fr}}
+* {{lien|faire le lit|fr}}
+* {{lien|faire le loup plus grand qu’il n’est|fr}}
+* {{lien|faire le malin|fr}}
+* {{lien|faire le mal}}
+* {{lien|faire le mal pour le mal}}
+* {{lien|faire le mariole|fr}}
+* {{lien|faire le marmiton|fr}}
+* {{lien|faire le ménage|fr}}
+* {{lien|faire le métier|fr}}
+* {{lien|faire le mia|fr}}
+* {{lien|faire le monsieur|fr}}
+* {{lien|faire le mort|fr}}
+* {{lien|faire le muguet|fr}}
+* {{lien|faire le mur|fr}}
+* {{lien|faire le nécessaire|fr}}
+* {{lien|faire le nem|fr}}
+* {{lien|faire le nord|fr}}
+* {{lien|faire le paon|fr}}
+* {{lien|faire le papier|fr}}
+* {{lien|faire le pari|fr}}
+* {{lien|faire le pas|fr}}
+* {{lien|faire le pet|fr}}
+* {{lien|faire le pied de grue|fr}}
+* {{lien|faire le pitre|fr}}
+* {{lien|faire le plein|fr}}
+* {{lien|faire le pli|fr}}
+* {{lien|faire le plongeon|fr}}
+* {{lien|faire le poids|fr}}
+* {{lien|faire le poil|fr}}
+* {{lien|faire le point|fr}}
+* {{lien|faire le poireau|fr}}
+* {{lien|faire le pont|fr}}
+* {{lien|faire le pont-levis|fr}}
+* {{lien|faire le premier pas|fr}}
+* {{lien|faire le quatrième|fr}}
+* {{lien|faire le rat mort|fr}}
+* {{lien|faire le renchéri|fr}}
+* {{lien|faire le Saint-Esprit|fr}}
+* {{lien|faire le sale boulot|fr}}
+* {{lien|faire le saut|fr}}
+* {{lien|faire le singe|fr}}
+* {{lien|faire le tapin|fr}}
+* {{lien|faire le tigre|fr}}
+* {{lien|faire le tire-bouchon}}
+* {{lien|faire le tour|fr}}
+* {{lien|faire le tour du bloc|fr}}
+* {{lien|faire le tour du cadran|fr}}
+* {{lien|faire le tour du monde|fr}}
+* {{lien|faire le tour du propriétaire|fr}}
+* {{lien|faire le trottoir|fr}}
+* {{lien|faire le trou|fr}}
+* {{lien|faire lever le poil|fr}}
+* {{lien|faire le vingt-deux|fr}}
+* {{lien|faire le yo-yo|fr}}
+* {{lien|faire le zèbre|fr}}
+* {{lien|faire le zouave|fr}}
+* {{lien|faire les bancs|fr}}
+* {{lien|faire les boutiques|fr}}
+* {{lien|faire les cent pas|fr}}
+* {{lien|faire les cent mille misères à quelqu’un|fr}}
+* {{lien|faire les choses à moitié|fr}}
+* {{lien|faire les cornes à|fr}}
+* {{lien|faire les coups|fr}}
+* {{lien|faire les courses|fr}}
+* {{lien|faire les façons|fr}}
+* {{lien|faire les foins|fr}}
+* {{lien|faire les frais|fr}}
+* {{lien|faire les frais de|fr}}
+* {{lien|faire les grands bras|fr}}
+* {{lien|faire les grands titres|fr}}
+* {{lien|faire les gros titres|fr}}
+* {{lien|faire les gros yeux|fr}}
+* {{lien|faire les honneurs de|fr}}
+* {{lien|faire les magasins|fr}}
+* {{lien|faire les pieds|fr}}
+* [[faire les pieds au mur]]
+* {{lien|faire les plats nets|fr}}
+* {{lien|faire les plomées|fr}}
+* {{lien|faire les poches|fr}}
+* {{lien|faire les poubelles|fr}}
+* {{lien|faire les poussières|fr}}
+* {{lien|faire les premiers pas|fr}}
+* {{lien|faire les quatre cents coups|fr}}
+* {{lien|faire les racines|fr}}
+* {{lien|faire les séries|fr}}
+* {{lien|faire les soldes|fr}}
+* {{lien|faire les théâtres|fr}}
+* {{lien|faire les vendanges|fr}}
+* {{lien|faire les yeux doux|fr}}
+* {{lien|faire les yeux ronds|fr}}
+* {{lien|faire levier|fr}}
+* {{lien|faire lieu de|fr}}
+* {{lien|faire litière de|fr}}
+* {{lien|faire loi|fr}}
+* {{lien|faire long feu|fr}}
+* {{lien|faire lourd|fr}}
+* {{lien|faire luire|fr}}
+* {{lien|faire machine arrière|fr}}
+* {{lien|faire maigre|fr}}
+* {{lien|faire main basse sur|fr}}
+* {{lien|faire maison nette|fr}}
+* {{lien|faire mal|fr}}
+* {{lien|faire mal au cœur|fr}}
+* {{lien|faire mal aux zygomatiques|fr}}
+* {{lien|faire marchandise de|fr}}
+* {{lien|faire marche arrière|fr}}
+* {{lien|faire marcher|fr}}
+* {{lien|faire marché|fr}}
+* {{lien|faire marque|fr}}
+* {{lien|faire marron|fr}}
+* {{lien|faire masse|fr}}
+* {{lien|faire mauvais|fr}}
+* {{lien|faire mauvais accueil|fr}}
+* {{lien|faire mauvais genre|fr}}
+* {{lien|faire mention de|fr}}
+* {{lien|faire mentir|fr}}
+* {{lien|faire merci|fr}}
+* {{lien|faire merveille|fr}}
+* {{lien|faire métier de|fr}}
+* {{lien|faire midi|fr}}
+* {{lien|faire mieux de|fr}}
+* {{lien|faire mille hontes|fr}}
+* {{lien|faire mimi|fr}}
+* {{lien|faire mine|fr}}
+* {{lien|faire minette|fr}}
+* {{lien|faire miroiter|fr}}
+* {{lien|faire moit moit|fr}}
+* {{lien|faire monter la mayonnaise|fr}}
+* {{lien|faire monter à l’arbre|fr}}
+* {{lien|faire montre de|fr}}
+* {{lien|faire mouche|fr}}
+* {{lien|faire mouvement|fr}}
+* {{lien|faire mumuse|fr}}
+* {{lien|faire nation|fr}}
+* {{lien|faire naufrage|fr}}
+* {{lien|faire n’golo n’golo|fr}}
+* {{lien|faire noir|fr}}
+* {{lien|faire nombre|fr}}
+* {{lien|faire nouveauté|fr}}
+* {{lien|faire nuit|fr}}
+* {{lien|faire nuit comme dans le derrière d’un nègre|fr}}
+* {{lien|faire obstruction|fr}}
+* {{lien|faire œuvre|fr}}
+* {{lien|faire office de|fr}}
+* {{lien|faire opposition|fr}}
+* {{lien|faire oraison|fr}}
+* {{lien|faire pâle figure|fr}}
+* {{lien|faire pâlir d’envie|fr}}
+* {{lien|faire pan pan cucul|fr}}
+* {{lien|faire panache|fr}}
+* {{lien|faire panpan cucul|fr}}
+* {{lien|faire Pâques avant les Rameaux|fr}}
+* {{lien|faire parler|fr}}
+* {{lien|faire parler la poudre|fr}}
+* {{lien|faire part|fr}}
+* {{lien|faire partie|fr}}
+* {{lien|faire partie des meubles|fr}}
+* {{lien|faire partie des murs|fr}}
+* {{lien|faire passer|fr}}
+* {{lien|faire passer à la caisse|fr}}
+* {{lien|faire passer la pilule|fr}}
+* {{lien|faire passer le gout du pain|fr}} {{ortho1990}}
+* {{lien|faire passer le goût du pain|fr}}
+* {{lien|faire passer l’envie de quelque chose|fr}}
+* {{lien|faire passer par le trou d’une aiguille|fr}}
+* {{lien|faire passer un chameau par le chas d’une aiguille|fr}}
+* {{lien|faire patapouf|fr}}
+* {{lien|faire patte de velours|fr}}
+* {{lien|faire peau neuve|fr}}
+* {{lien|faire peine|fr}}
+* {{lien|faire peine à voir|fr}}
+* {{lien|faire pencher la balance|fr}}
+* {{lien|faire pendant|fr}}
+* {{lien|faire perdre le gout du pain|fr}} {{ortho1990}}
+* {{lien|faire perdre le goût du pain|fr}}
+* {{lien|faire pénitence|fr}}
+* {{lien|faire péter|fr}}
+* {{lien|faire péter les watts|fr}}
+* {{lien|faire petit pied|fr}}
+* {{lien|faire petit salé|fr}}
+* {{lien|faire petite chère|fr}}
+* {{lien|faire peu de cas|fr}}
+* {{lien|faire peuple}}
+* {{lien|faire peur|fr}}
+* {{lien|faire pied neuf|fr}}
+* {{lien|faire pipi|fr}}
+* {{lien|faire pitié|fr}}
+* {{lien|faire pièce|fr}}
+* {{lien|faire place|fr}}
+* {{lien|faire place nette|fr}}
+* {{lien|faire place à|fr}}
+* {{lien|faire plaisir|fr}}
+* {{lien|faire plaisir à voir|fr}}
+* {{lien|faire pleurer Margot|fr}}
+* {{lien|faire pleurer Mirza|fr}}
+* {{lien|faire pleurer dans les chaumières|fr}}
+* {{lien|faire pleurer le colosse|fr}}
+* {{lien|faire pleuvoir les coups|fr}}
+* {{lien|faire plus que force|fr}}
+* {{lien|faire popo|fr}}
+* {{lien|faire popote|fr}}
+* {{lien|faire porter le chapeau|fr}}
+* {{lien|faire prendre la mayonnaise|fr}}
+* {{lien|faire prendre le change|fr}}
+* {{lien|faire présent|fr}}
+* {{lien|faire pression|fr}}
+* {{lien|faire preuve|fr}}
+* {{lien|faire prime|fr}}
+* {{lien|faire profession|fr}}
+* {{lien|faire profil bas|fr}}
+* {{lien|faire pschitt|fr}}
+* {{lien|faire que fou|fr}}
+* {{lien|faire que sage|fr}}
+* {{lien|faire question|fr}}
+* {{lien|faire queue|fr}}
+* {{lien|faire rage|fr}}
+* {{lien|faire raison|fr}}
+* {{lien|faire rasibus|fr}}
+* {{lien|faire rater une couvée de singes|fr}}
+* {{lien|faire recette|fr}}
+* {{lien|faire reconnaitre|fr}} {{ortho1990}}
+* {{lien|faire reconnaître|fr}}
+* {{lien|faire reconnaitre un officier|fr}} {{ortho1990}}
+* {{lien|faire reconnaître un officier|fr}}
+* {{lien|faire référence à|fr}}
+* {{lien|faire relâche|fr}}
+* {{lien|faire rencontre|fr}}
+* {{lien|faire rentrer le génie dans sa lampe|fr}}
+* {{lien|faire rentrer les paroles dans la gorge|fr}}
+* {{lien|faire revenir|fr}}
+* {{lien|faire ripaille|fr}}
+* {{lien|faire risette|fr}}
+* {{lien|faire route|fr}}
+* {{lien|faire réflexion|fr}}
+* {{lien|faire sa B.A.|fr}}
+* {{lien|faire sa belle|fr}}
+* {{lien|faire sa caisse|fr}}
+* {{lien|faire sa chicorée|fr}}
+* {{lien|faire sa chochotte|fr}}
+* {{lien|faire sa course|fr}}
+* {{lien|faire sa fière|fr}}
+* {{lien|faire sa loi|fr}}
+* {{lien|faire sa lucrèce|fr}}
+* {{lien|faire sa main|fr}}
+* {{lien|faire sa malle|fr}}
+* {{lien|faire sa paix|fr}}
+* {{lien|faire sa patagueule|fr}}
+* {{lien|faire sa pelote|fr}}
+* {{lien|faire sa pute|fr}}
+* {{lien|faire sa Sophie|fr}}
+* {{lien|faire sa tête|fr}}
+* {{lien|faire sa valeur|fr}}
+* {{lien|faire sa valise|fr}}
+* {{lien|faire sa Vanessa|fr}}
+* {{lien|faire sa vie|fr}}
+* {{lien|faire sa volonté|fr}}
+* {{lien|faire saigner la pastèque|fr}}
+* {{lien|faire saillie|fr}}
+* {{lien|faire salle comble|fr}}
+* {{lien|faire salon|fr}}
+* {{lien|faire sauter|fr}}
+* {{lien|faire sauter la banque|fr}}
+* {{lien|faire sauter la grenouille|fr}}
+* {{lien|faire sauter le bouchon|fr}}
+* {{lien|faire-savoir|fr}}
+* {{lien|faire savoir|fr}}
+* {{lien|faire scène|fr}}
+* {{lien|faire sec|fr}}
+* {{lien|faire séjour|fr}}
+* {{lien|faire semblant|fr}}
+* {{lien|faire-semblant|fr}}
+* {{lien|faire sens|fr}}
+* {{lien|faire sensation|fr}}
+* {{lien|faire sentinelle|fr}}
+* {{lien|faire ses adieux|fr}}
+* {{lien|faire ses affaires|fr}}
+* {{lien|faire ses besoins|fr}}
+* {{lien|faire ses caravanes|fr}}
+* {{lien|faire ses choux gras|fr}}
+* {{lien|faire ses classes|fr}}
+* {{lien|faire ses couches|fr}}
+* {{lien|faire ses courses|fr}}
+* {{lien|faire ses dents|fr}}
+* {{lien|faire ses farces|fr}}
+* {{lien|faire ses griffes|fr}}
+* {{lien|faire ses humanités|fr}}
+* {{lien|faire ses lacets|fr}}
+* {{lien|faire ses orges|fr}}
+* {{lien|faire ses nuits|fr}}
+* {{lien|faire ses Pâques|fr}}
+* {{lien|faire ses paquets|fr}}
+* {{lien|faire ses petites affaires|fr}}
+* {{lien|faire ses premières armes|fr}}
+* {{lien|faire ses preuves|fr}}
+* {{lien|faire ses provisions|fr}}
+* {{lien|faire ses valises|fr}}
+* {{lien|faire sien|fr}}
+* {{lien|faire signe|fr}}
+* {{lien|faire silence|fr}}
+* {{lien|faire sisitte|fr}}
+* {{lien|faire sissite|fr}}
+* {{lien|faire société|fr}}
+* {{lien|faire soleil|fr}}
+* {{lien|faire son Kevin|fr}}
+* {{lien|faire son affaire|fr}}
+* {{lien|faire son âge|fr}}
+* {{lien|faire son apparition|fr}}
+* {{lien|faire son beurre|fr}}
+* {{lien|faire son chemin|fr}}
+* {{lien|faire son cirque|fr}}
+* {{lien|faire son deuil|fr}}
+* {{lien|faire son droit|fr}}
+* {{lien|faire son intéressant|fr}}
+* {{lien|faire son marché|fr}}
+* {{lien|faire son mea culpa|fr}}
+* {{lien|faire son miel|fr}}
+* {{lien|faire son nid|fr}}
+* {{lien|faire son numéro|fr}}
+* {{lien|faire son paquet|fr}}
+* {{lien|faire son petit possible|fr}}
+* {{lien|faire son registre|fr}}
+* {{lien|faire son rond|fr}}
+* {{lien|faire son rot|fr}}
+* {{lien|faire son signe de croix|fr}}
+* {{lien|faire son temps|fr}}
+* {{lien|faire son trou|fr}}
+* {{lien|faire sonner la grosse cloche|fr}}
+* {{lien|faire sortir le diable de la boite|fr}} {{ortho1990}}
+* {{lien|faire sortir le diable de la boîte|fr}}
+* {{lien|faire sortir le méchant|fr}}
+* {{lien|faire souche|fr}}
+* {{lien|faire souci|fr}}
+* {{lien|faire souvenir quelqu’un de quelque chose|fr}}
+* {{lien|faire souvenir à quelqu’un de quelque chose|fr}}
+* {{lien|faire sprinter l’unijambiste|fr}}
+* {{lien|faire style|fr}}
+* {{lien|faire suer|fr}}
+* {{lien|faire suer le burnous|fr}}
+* {{lien|faire suer le chêne sur le grand trimard|fr}}
+* {{lien|faire suer le chêne sur le trimard|fr}}
+* {{lien|faire suite|fr}}
+* {{lien|faire suivre|fr}}
+* {{lien|faire surface|fr}}
+* {{lien|faire table|fr}}
+* {{lien|faire table rase|fr}}
+* {{lien|faire tache|fr}}
+* {{lien|faire tache d’encre|fr}}
+* {{lien|faire tache d’huile|fr}}
+* {{lien|faire tampine|fr}}
+* {{lien|faire tant que|fr}}
+* {{lien|faire tapis|fr}}
+* {{lien|faire tapisserie|fr}}
+* {{lien|faire taxi|fr}} ''(aviation)''
+* {{lien|faire tenir|fr}}
+* {{lien|faire tête|fr}}
+* {{lien|faire tête à l’orage|fr}}
+* {{lien|faire tilt|fr}}
+* {{lien|faire tintin|fr}}
+* {{lien|faire tirer l’épée|fr}}
+* {{lien|faire toilette|fr}}
+* {{lien|faire tomber des têtes|fr}}
+* {{lien|faire tomber les armes des mains|fr}}
+* {{lien|faire tomber un record|fr}}
+* {{lien|faire tourner|fr}}
+* {{lien|faire tourner bourrique|fr}}
+* {{lien|faire tourner chèvre|fr}}
+* {{lien|faire tourner en bourrique|fr}}
+* {{lien|faire tourner le monde|fr}}
+* {{lien|faire tourner les têtes|fr}} 
+* {{lien|faire tourner une machine|fr}}
+* {{lien|faire tousser|fr}}
+* {{lien|faire tout son possible|fr}}
+* {{lien|faire tout un cake de|fr}}
+* {{lien|faire tout un fromage de|fr}}
+* {{lien|faire tout un plat de|fr}}
+* {{lien|faire toute la différence|fr}}
+* {{lien|faire toute une histoire de|fr}}
+* {{lien|faire toutes ses courses|fr}}
+* {{lien|faire trembler les colonnes du temple|fr}}
+* {{lien|faire trempette|fr}}
+* {{lien|faire trêve à|fr}}
+* {{lien|faire triste|fr}}
+* {{lien|faire trop de grâce|fr}}
+* {{lien|faire trou|fr}}
+* {{lien|faire un à-fond|fr}} {{Belgique|nocat=1}}
+* {{lien|faire un bail|fr}}
+* {{lien|faire un bee|fr}} {{Québec|nocat=1}}
+* {{lien|faire un bi|fr}} {{Québec|nocat=1}}
+* {{lien|faire un bide|fr}}
+* {{lien|faire un blocage|fr}}
+* {{lien|faire un bœuf|fr}}
+* {{lien|faire conduite|fr}}
+* {{lien|faire la conduite|fr}}
+* {{lien|faire un bout de conduite|fr}}
+* {{lien|faire un boutte|fr}}
+* {{lien|faire un break|fr}}
+* {{lien|faire un caca nerveux|fr}}
+* {{lien|faire un carton|fr}}
+* {{lien|faire un chopin|fr}}
+* {{lien|faire un couac|fr}}
+* {{lien|faire un créneau|fr}}
+* {{lien|faire un crime|fr}}
+* {{lien|faire un dessin|fr}}
+* {{lien|faire un enfant|fr}}
+* {{lien|faire un enfant dans le dos|fr}}
+* {{lien|faire un exemple|fr}}
+* {{lien|faire un faux pas|fr}}
+* {{lien|faire un finger|fr}}
+* {{lien|faire un flop|fr}}
+* {{lien|faire un four|fr}}
+* {{lien|faire un frais|fr}}
+* {{lien|faire un geste|fr}}
+* {{lien|faire un grand pas|fr}}
+* {{lien|faire un malheur|fr}}
+* {{lien|faire un marché|fr}}
+* {{lien|faire un mauvais coup|fr}}
+* {{lien|faire un mauvais parti|fr}}
+* {{lien|faire un mauvais sort|fr}}
+* {{lien|faire un mérite de quelque chose à quelqu’un|fr}}
+* {{lien|faire un nez|fr}}
+* {{lien|faire un nœud à son mouchoir|fr}}
+* {{lien|faire un oreiller sans pli|fr}}
+* {{lien|faire un ourlet|fr}}
+* {{lien|faire un pas en avant|fr}}
+* {{lien|faire un petit dans le dos|fr}}
+* {{lien|faire un petit velours|fr}}
+* {{lien|faire un pied de cochon|fr}}
+* {{lien|faire un plat de|fr}}
+* {{lien|faire un point|fr}}
+* {{lien|faire un pont d’or|fr}}
+* {{lien|faire un prix|fr}}
+* {{lien|faire un rictus|fr}}
+* {{lien|faire un roman|fr}}
+* {{lien|faire un sale boulot|fr}}
+* {{lien|faire un saut|fr}}
+* {{lien|faire un signe de tête|fr}}
+* {{lien|faire un sort|fr}}
+* {{lien|faire un swing au deuxième trou|fr}}
+* {{lien|faire un tabac|fr}}
+* {{lien|faire un tonneau|fr}}
+* {{lien|faire un tour|fr}}
+* {{lien|faire un trou à la lune|fr}}
+* {{lien|faire un truc|fr}}
+* {{lien|faire un velours|fr}}
+* {{lien|faire un vélo de|fr}}
+* {{lien|faire un vœu|fr}}
+* {{lien|faire un voyage à Lesbos|fr}}
+* {{lien|faire une|fr}}
+* {{lien|faire une belle jambe|fr}}
+* {{lien|faire une chose tant de bond que de volée|fr}}
+* {{lien|faire une corne à un livre|fr}}
+* {{lien|faire une croix|fr}}
+* {{lien|faire une croix dessus|fr}}
+* {{lien|faire une croix sur|fr}}
+* {{lien|faire une de ces têtes|fr}}
+* {{lien|faire une douce violence à quelqu’un|fr}}
+* {{lien|faire une embardée|fr}}
+* {{lien|faire une faveur|fr}}
+* {{lien|faire une fin|fr}}
+* {{lien|faire une fixation|fr}}
+* {{lien|faire une fleur|fr}}
+* {{lien|faire une grâce|fr}}
+* {{lien|faire une lessive|fr}}
+* {{lien|faire une machine|fr}}
+* {{lien|faire une main|fr}}
+* {{lien|faire une montagne de|fr}}
+* {{lien|faire une partie de jambes en l’air|fr}}
+* {{lien|faire une passe|fr}}
+* {{lien|faire une pause|fr}}
+* {{lien|faire une paye|fr}}
+* {{lien|faire une pipée|fr}}
+* {{lien|faire une pointe|fr}}
+* {{lien|faire une querelle|fr}}
+* {{lien|faire une queue de poisson|fr}}
+* {{lien|faire une risée|fr}}
+* {{lien|faire une scène|fr}}
+* {{lien|faire une tête de six pieds de long|fr}}
+* {{lien|faire une vie|fr}}
+* {{lien|faire usage|fr}}
+* {{lien|faire valoir|fr}}
+* {{lien|faire-valoir|fr}}
+* {{lien|faire vedette|fr}}
+* {{lien|faire ventre|fr}}
+* {{lien|faire versaine|fr}}
+* {{lien|faire vibrer|fr}}
+* {{lien|faire vie commune|fr}}
+* {{lien|faire vinaigre|fr}}
+* {{lien|faire violence|fr}}
+* {{lien|faire visite|fr}}
+* {{lien|faire vivre|fr}}
+* {{lien|faire voile|fr}}
+* {{lien|faire voir|fr}}
+* {{lien|faire voir du pays|fr}}
+* {{lien|faire zizi-panpan|fr}}
+* {{lien|faire zizir|fr}}
+* {{lien|fait au tour|fr}}
+* {{lien|fasse le ciel que|fr}}
+* {{lien|femme à tout faire|fr}}
+* {{lien|fille à tout faire|fr}}
+* {{lien|GCRQFPP|fr}} ''(gros camion rouge qui '''fait''' pimpon)
+* {{lien|homme à tout faire|fr}}
+* {{lien|il ferait beau voir|fr}}
+* {{lien|il pourrait bien se faire que|fr}}
+* {{lien|laissez-faire|fr}}
+* {{lien|la faire|fr}}
+* {{lien|la faire à l’envers|fr}}
+* {{lien|la faire à l’oseille|fr}}
+* {{lien|la goutte d’eau qui fait déborder le vase|fr}}
+* {{lien|le faire|fr}}, {{lien|la faire|fr}} (néologisme de plus en plus répandu, par exemple ''ça ne va pas le faire'', ''ça devrait le faire'')
+* {{lien|le faire à|fr}}
+* {{lien|malfaire|fr}}
+* {{lien|malfaisant|fr}}
+* {{lien|manger à s’en faire péter la sous-ventrière|fr}}
+* {{lien|méfaire|fr}}
+* {{lien|n’avoir que faire|fr}}
+* {{lien|n’en faire jamais d’autres|fr}}
+* {{lien|n’en faire qu’à sa tête|fr}}
+* {{lien|n’en faire qu’une bouchée|fr}}
+* {{lien|n’en pas faire à deux fois|fr}}
+* {{lien|n’en rien faire|fr}}
+* {{lien|ne faire aucun cadeau|fr}}
+* {{lien|ne faire aucun doute|fr}}
+* {{lien|ne faire ni chaud ni froid|fr}}
+* {{lien|ne faire que|fr}}
+* {{lien|ne faire que croitre et embellir|fr}} {{ortho1990}}
+* {{lien|ne faire que croître et embellir|fr}}
+* {{lien|ne faire que de sortir de la coquille|fr}}
+* {{lien|ne faire que tordre et avaler|fr}}
+* {{lien|ne pas avoir fait une panse d’a|fr}}
+* {{lien|ne pas être fait du même bois|fr}}
+* {{lien|ne pas faire dans la dentelle|fr}}
+* {{lien|ne pas faire de cadeau|fr}}
+* {{lien|ne pas faire de cadeaux|fr}}
+* {{lien|ne pas faire de mal à une mouche|fr}}
+* {{lien|ne pas faire de quartier|fr}}
+* {{lien|ne pas faire de vieux os|fr}}
+* {{lien|ne pas faire des enfants forts|fr}}
+* {{lien|ne pas faire façon de|fr}}
+* {{lien|ne pas faire long feu|fr}}
+* {{lien|ne pas faire un pli|fr}}
+* {{lien|ne pas savoir quoi faire de sa peau|fr}}
+* {{lien|ne pas se le faire dire deux fois|fr}}
+* {{lien|ne rien avoir à faire avec|fr}}
+* {{lien|ne rien faire de sa vie|fr}}
+* {{lien|ne rien faire de ses dix doigts|fr}}
+* {{lien|ni fait ni à faire|fr}}
+* {{lien|parfaire|fr}}
+* {{lien|phrase toute faite|fr}}
+* {{lien|pièce à tout faire|fr}}
+* {{lien|plus facile à dire qu’à faire|fr}}
+* {{lien|pour ce faire|fr}}
+* {{lien|refaire|fr}}
+* {{lien|rien à faire|fr}}
+* {{lien|s’en faire|fr}}
+* {{lien|savoir-faire|fr}}
+* {{lien|savoir y faire|fr}}
+* {{lien|se faire appeler Arthur|fr}}
+* {{lien|se faire appeler Joseph|fr}}
+* {{lien|se faire appeler Jules|fr}}
+* {{lien|se faire appeler Léon|fr}}
+* {{lien|se faire appeler Ramona|fr}}
+* {{lien|se faire avoir|fr}}
+* {{lien|se faire baiser|fr}}
+* {{lien|se faire brasser le Canayen|fr}}
+* {{lien|se faire buster|fr}}
+* {{lien|se faire carotte|fr}}
+* {{lien|se faire chanter Ramona|fr}}
+* {{lien|se faire chauffer le cul|fr}}
+* {{lien|se faire chier|fr}}
+* {{lien|se faire chier comme un rat mort|fr}}
+* {{lien|se faire chier la bite|fr}}
+* {{lien|se faire connaitre|fr}} {{ortho1990}}
+* {{lien|se faire connaître|fr}}
+* {{lien|se faire de la bile|fr}}
+* {{lien|se faire des cheveux blancs|fr}}
+* {{lien|se faire des couilles en or|fr}}
+* {{lien|se faire des fausses idées|fr}}
+* {{lien|se faire des films|fr}}
+* {{lien|se faire des idées|fr}}
+* {{lien|se faire des nœuds au cerveau|fr}}
+* {{lien|se faire désirer|fr}}
+* {{lien|se faire dessus|fr}}
+* {{lien|se faire doser|fr}}
+* {{lien|se faire du mouron|fr}}
+* {{lien|se faire du fun|fr}} {{Québec|nocat=1}}
+* {{lien|se faire du mauvais sang|fr}}
+* {{lien|se faire eu|fr}}
+* {{lien|se faire fort|fr}} de
+* {{lien|se faire frotter les oreilles|fr}}
+* {{lien|se faire gauler|fr}}
+* {{lien|se faire hacher|fr}}
+* {{lien|se faire hacher en pièces|fr}}
+* {{lien|se faire honneur|fr}}
+* {{lien|se faire jour|fr}}
+* {{lien|se faire la belle|fr}}
+* {{lien|se faire la main|fr}}
+* {{lien|se faire la malle|fr}}
+* {{lien|se faire lanlaire|fr}}
+* {{lien|se faire les dents|fr}}
+* {{lien|se faire les yeux|fr}}
+* {{lien|se faire manger la cenne|fr}}
+* {{lien|se faire manger la graine|fr}}
+* {{lien|se faire marcher dessus|fr}}
+* {{lien|se faire marronner|fr}}
+* {{lien|se faire mousser|fr}}
+* {{lien|se faire offrir|fr}}
+* {{lien|se faire péter la miaille|fr}} {{lyonnais|nocat=1}}
+* {{lien|se faire péter la panse|fr}}
+* {{lien|se faire péter la sous-ventrière|fr}}
+* {{lien|se faire piétiner|fr}}
+* {{lien|se faire porter pâle|fr}}
+* {{lien|se faire pousser au cul|fr}}
+* {{lien|se faire prier|fr}}
+* {{lien|se faire ramasser|fr}}
+* {{lien|se faire rare|fr}}
+* {{lien|se faire reluire|fr}}
+* {{lien|se faire remonter les bretelles|fr}}
+* {{lien|se faire renvoyer dans ses 22|fr}}
+* {{lien|se faire rotca|fr}}
+* {{lien|se faire sauter la cervelle|fr}}
+* {{lien|se faire sauter le caisson|fr}}
+* {{lien|se faire scrupule|fr}}
+* {{lien|se faire sécher les dents|fr}}
+* {{lien|se faire son cinéma|fr}}
+* {{lien|se faire taper sur les doigts|fr}}
+* {{lien|se faire tard|fr}}
+* {{lien|se faire tasser la boite à caca|fr}} {{ortho1990}}
+* {{lien|se faire tasser la boîte à caca|fr}}
+* {{lien|se faire tirer|fr}}
+* {{lien|se faire tirer le portrait|fr}}
+* {{lien|se faire tirer l’oreille|fr}}
+* {{lien|se faire tirer les oreilles|fr}}
+* {{lien|se faire tout à tous|fr}}
+* {{lien|se faire tout petit|fr}}
+* {{lien|se faire tout seul|fr}}
+* {{lien|se faire tunneliser|fr}}
+* {{lien|se faire un devoir|fr}}
+* {{lien|se faire un sang d’encre|fr}}
+* {{lien|se faire une fête|fr}}
+* {{lien|se faire une raison|fr}}
+* {{lien|se faire une toile|fr}}
+* {{lien|se faire virer|fr}}
+* {{lien|se la faire crème|fr}}
+* {{lien|se laisser faire|fr}}
+* {{lien|si fait|fr}}
+* {{lien|sitôt dit, sitôt fait|fr}}
+* {{lien|surfaire|fr}}
+* {{lien|tant faire|fr}}
+* {{lien|tant qu’à faire|fr}}
+* {{lien|tant que faire se peut|fr}}
+* {{lien|tendre le bâton pour se faire battre|fr}}
+* {{lien|tous les jours que Dieu fait|fr}}
+* {{lien|trop en faire|fr}}
+* {{lien|va te faire foutre|fr}}
+* {{lien|va te faire une soupe d’esques|fr}}
+* {{lien|vite fait, bien fait|fr}}
+* {{lien|y faire|fr}}
+{{)}}
+
+==== {{S|phrases}} ====
+{{(}}
+* {{lien|argent comptant fait content|fr}}
+* {{lien|bien faire et laisser dire|fr}}
+* {{lien|bien faire, et laisser dire|fr}}
+* {{lien|bien faire et laisser braire|fr}}
+* {{lien|ça commence à bien faire|fr}}
+* {{lien|ça m’en touche une sans faire bouger l’autre|fr}}
+* {{lien|ça ne fait rien|fr}}
+* {{lien|ça ne me fera pas de mal si ça me tombe sur le pied|fr}}
+* {{lien|ça va lui faire un coup|fr}}
+* {{lien|c’est bien fait|fr}}
+* {{lien|c’est ce qui se fait de mieux|fr}}
+* {{lien|c’est chose faite|fr}}
+* {{lien|c’est dans les vieux pots qu’on fait la meilleure soupe|fr}}
+* {{lien|c’est dans les vieux pots qu’on fait les meilleures confitures|fr}}
+* {{lien|c’est ni fait ni à faire|fr}}
+* {{lien|ce n’est pas en cassant le thermomètre qu’on fait tomber la fièvre|fr}}
+* {{lien|ce qui est fait est fait|fr}}
+* {{lien|cela m’en touche une sans faire bouger l’autre|fr}}
+* {{lien|cela va faire du bruit dans Landerneau|fr}}
+* {{lien|clair comme deux et deux font quatre|fr}}
+* {{lien|comme on fait son lit, on se couche|fr}}
+* {{lien|deux et deux font quatre|fr}}
+* {{lien|faire et défaire c’est toujours travailler|fr}}
+* {{lien|faire battre des montagnes|fr}}
+* {{lien|faire battre les montagnes|fr}}
+* {{lien|fais ce que dois, advienne que pourra|fr}}
+* {{lien|fais ce que je dis, pas ce que je fais|fr}}
+* {{lien|fais du bien à Bertrand, il te le rend en caguant|fr}} ''(Midi de la France)''
+* {{lien|fais du bien à un vilain, il te chie dans la main|fr}}
+* {{lien|faites ce que je dis, ne faites pas ce que je fais|fr}}
+* {{lien|faites ce que je dis, pas ce que je fais|fr}}
+* {{lien|faites chauffer la colle|fr}}
+* {{lien|grand bien vous fasse|fr}}
+* [[il manque toujours dix-huit sous pour faire un franc]]
+* [[il manque toujours dix-neuf sous pour faire un franc]]
+* {{lien|il vaut mieux faire envie que pitié|fr}}
+* {{lien|l’argent ne fait pas le bonheur|fr}}
+* {{lien|l’habit ne fait pas le moine|fr}}
+* {{lien|l’occasion fait le larron|fr}}
+* {{lien|l’union fait la force|fr}}
+* {{lien|la faim fait sortir le loup du bois|fr}}
+* {{lien|le diable ne lui ferait pas faire ceci|fr}}
+* {{lien|le malheur des uns fait le bonheur des autres|fr}}
+* {{lien|les bons comptes font les bons amis|fr}}
+* {{lien|les bons maitres font les bons valets|fr}} {{ortho1990}}
+* {{lien|les bons maîtres font les bons valets|fr}}
+* {{lien|les chiens ne font pas des chats|fr}}
+* {{lien|les petits ruisseaux font les grandes rivières|fr}}
+* {{lien|mieux vaut faire envie que pitié|fr}}
+* {{lien|ne fais pas à autrui ce que tu ne voudrais pas qu’on te fît|fr}}
+* {{lien|nécessité fait loi|fr}}
+* {{lien|nous l’attendrons comme les moines font l’abbé|fr}}
+* {{lien|on fait de bonne soupe dans un vieux pot|fr}}
+* {{lien|on ne fait pas d’omelette sans casser des œufs|fr}}
+* {{lien|on ne me la fait pas|fr}}
+* {{lien|on ne saurait faire boire un âne qui n’a pas soif|fr}}
+* {{lien|on ne saurait faire boire un âne s’il n’a pas soif|fr}}
+* {{lien|on ne saurait faire d’une buse un épervier|fr}}
+* {{lien|Paris ne s’est pas fait en un jour|fr}}
+* {{lien|petit à petit, l’oiseau fait son nid|fr}}
+* {{lien|peut mieux faire|fr}}
+* {{lien|pourquoi faire compliqué quand on peut faire simple|fr}}
+* {{lien|pourquoi faire simple quand on peut faire compliqué|fr}}
+* {{lien|provision fait profusion|fr}}
+* {{lien|qu’ai-je fait au bon Dieu|fr}}
+* {{lien|quand le Diable devint vieux, il se fit ermite|fr}}
+* {{lien|que veux-tu que la bonne y fasse|fr}}
+* {{lien|que voulez-vous que la bonne y fasse|fr}}
+* {{lien|qui a fait la faute, la boit|fr}}
+* {{lien|qui se fait brebis, le loup le mange|fr}}
+* {{lien|qui veut faire l’ange fait la bête|fr}}
+* {{lien|si le chapeau te fait, mets-le|fr}}
+* {{lien|tout reste à faire|fr}}
+* {{lien|un bon bâilleur en fait bâiller sept|fr}}
+* {{lien|une hirondelle ne fait pas le printemps|fr}}
+* {{lien|vous me faites rire|fr}}
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|ski|coude|faim|sommeil|chevalier|cancer|puzzle}}
+
+==== {{S|traductions}} ====
+{{trad-début|Créer, produire, fabriquer}}
+* {{T|ar}} : {{trad+|ar|جعل|tr=jaʿala}}
+{{trad-fin}}
+
+{{trad-début|Préparer un repas, le cuisiner}}
+{{trad-fin}}
+
+{{trad-début|Élaborer, en parlant des œuvres de l’intelligence et de l’imagination}}
+{{trad-fin}}
+
+{{trad-début|Opérer, effectuer, exécuter, accomplir, réaliser, que ce soit d’ordre physique ou d’ordre moral}}
+{{trad-fin}}
+
+{{trad-début|Se mouvoir dans un déplacement d’un lieu à un autre}}
+{{trad-fin}}
+
+{{trad-début|Employer ses forces, ses talents, l’activité de son esprit ; s’en occuper, y passer son temps}}
+{{trad-fin}}
+
+{{trad-début|Être la cause de tel ou tel résultat ou en être l’occasion|17}}
+{{trad-fin}}
+
+{{trad-début|(Impersonnel) Il fait : s’emploie pour marquer la nature, l’état, la disposition ou les qualités}}
+{{trad-fin}}
+
+{{trad-début|(Pronominal, impersonnel) Se faire, arriver}}
+{{trad-fin}}
+
+{{trad-début|(Pronominal, impersonnel) Être convenable|46}}
+{{trad-fin}}
+
+{{trad-début|(auxiliaire de mode construit avec un infinitif) Être la cause de quelque chose ou d’une action}}
+{{trad-fin}}
+
+{{trad-début|Faire du sport, une activité}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-inv|fɛʁ}}
+'''faire''' {{pron|fɛʁ|fr}} {{m}}
+# Action ou [[manière]] de faire.
+
+==== {{S|dérivés}} ====
+* {{lien|au faire et au prendre|fr}}
+
+==== {{S|traductions}} ====
+* {{cf|action|lang=fr}}
+
+=== {{S|prononciation}} ===
+* {{pron|fɛʁ|fr}}
+** {{écouter|lang=fr|France|fɛʁ̞|audio=Fr-faire.ogg}}
+** {{écouter|lang=fr|France (Paris)|fɛʁ|audio=LL-Q150 (fra)-GrandCelinien-faire.wav}}
+** {{écouter|lang=fr|Suisse (canton du Valais)|fɛʁ|audio=LL-Q150 (fra)-DSwissK-faire.wav}}
+** {{écouter|lang=fr|France|fɛʁ|audio=LL-Q150 (fra)-Mecanautes-faire.wav}}
+* Français méridional : {{pron|fɛ.ʁə|fr}}
+* Canada : {{pron|fɛːʁ|fr}}, {{phon|faɛ̯ʁ|fr}}
+** {{écouter|Québec (Canada)|faɛ̯ʁ̞|lang=fr|audio=LL-Q150 (fra)-Estrie-faire.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-faire.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[fer]], [[ferre]], [[ferrent]], [[ferres]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+{{Références}}
+[[Catégorie:Verbes auxiliaires en français]]
+

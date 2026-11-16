@@ -1,0 +1,284 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr|880}}{{R|TLFi}} Du {{étyl|la|fr|mot=argentum}}{{R|TLFi}}, apparenté au grec ancien {{polytonique|[[ἀργός]]|argós|[[blanc]], [[brillant]]}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|aʁ.ʒɑ̃}}
+{{légende élément/fr|Ag|'=1|num=1}}
+[[File:Silver crystal.jpg|vignette|Cristal d’'''argent''' obtenu par électrolyse. (sens 2)]]
+[[Image:Euro-Banknoten.jpg|vignette|De l’'''argent''' sous forme de [[billet]]s. (4) (''Muster'' veut dire « Spécimen » en allemand)]]
+{{illustration texte| <strong>$ € £ ¥ zł ₵ ₡</strong>|Quelques symboles représentant des monnaies, et par extension, de l’'''argent''' (sens 4)}}
+[[Image:Blason ville fr LesBouchoux (Jura).svg|vignette|120px|Écu d’'''argent'''. (sens 7)]]
+'''argent''' {{pron|aʁ.ʒɑ̃|fr}} {{m}}
+# {{éléments|fr}} [[élément chimique|Élément chimique]] de [[numéro atomique]] 47, de symbole '''[[Ag#conv|Ag]]'''.
+# {{lexique|chimie|physique|métallurgie|orfèvrerie|fr}} [[corps simple|Corps simple]] [[métallique]] [[solide]] de cet élément en [[condition]]s [[atmosphérique]]s. Connu depuis l’[[antiquité]], ce métal [[blanc]], [[ductile]], est considéré comme [[précieux]] tant pour sa [[rareté]] que pour ses [[qualité]]s [[physico-chimique]]s.
+# {{lexique|argent|numismatique|fr}} {{vieilli|fr}} [[ressource|Ressource]] [[monétaire]] sous forme de [[pièce]]s de [[monnaie]] dans ce métal.
+# {{par extension}} {{lexique|argent|commerce|fr}} Toute [[valeur]] [[monétaire]].
+# {{lexique|colorimétrie|fr}} [[couleur|Couleur]] [[gris]] neutre clair à très clair. Induit souvent une idée de brillance. {{couleur|#CECECE}}
+# Couleur ou [[colorant]] [[argenté]].
+# {{lexique|héraldique|fr}} [[métal|Métal]] servant à décrire la couleur [[blanc]]he d’un [[élément]] des [[armoiries]] : [[écu]], [[partition]], [[pièce]], [[meuble]], etc.
+
+==== {{S|abréviations}} ====
+; {{info lex|héraldique}}
+* [[arg.]]
+
+==== {{S|synonymes}} ====
+{{(|Métal}}
+* [[argent-métal]]
+* {{term|chimie}} [[Ag]]
+* {{term|alchimie}} [[☾]]
+{{)}}
+{{(|Monnaie}}
+* [[artiche]] {{argot|nocat=1}}
+* [[bidou]] {{familier|nocat=1}} {{Québec|nocat=1}}
+* [[bif]], [[biff]] {{argot|nocat=1}}
+* [[blé]] {{argot|nocat=1}}
+* [[cenne]] {{familier|nocat=1}} {{Québec|nocat=1}}
+* [[denier]]
+* [[djai]] {{Côte d'Ivoire|nocat=1}}
+* [[flouze]] {{argot|nocat=1}}
+* [[foin]] {{familier|nocat=1}} {{Québec|nocat=1}}
+* [[fraîche]], [[fraiche]]
+* [[fric]] {{familier|nocat=1}}
+* [[galette]] {{familier|nocat=1}}
+* [[grisbi]]
+* [[kopeck]]
+* [[liard]]s (Belgique)
+* [[liquide]]
+* [[maille]] {{argot|nocat=1}}
+* [[maravédis]]
+* [[monnaie]] {{familier|nocat=1}}
+* [[motton]] {{familier|nocat=1}} {{Québec|nocat=1}}
+* [[moulaga]], [[moula]] {{argot|nocat=1}}
+* [[moyens]]
+* [[oseille]] {{familier|nocat=1}}
+* [[osier]] {{argot|nocat=1}}, {{vieilli|nocat=1}}
+* [[pain]]
+* [[palette]] {{?||fr}}
+* [[pécune]] {{vieilli|nocat=1}}
+* [[pélaud]] {{argot|nocat=1}}
+* [[peso]]
+* [[pèze]] {{argot|nocat=1}}
+* [[piastre]] {{familier|nocat=1}} {{Québec|nocat=1}}
+* [[picaillons]] {{familier|nocat=1}}
+* [[pognon]] {{familier|nocat=1}}
+* [[quibus]] {{argot|nocat=1}}
+* [[radis]]
+* [[rond]] {{argot|nocat=1}}
+* [[sou]]s {{familier|nocat=1}}
+* [[thune]], [[tune]], [[thunasse]] {{argot|nocat=1}}
+* [[tomates]] {{familier|nocat=1}}
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à feu d’argent]]
+* [[arbre d’argent]]
+* [[argent allemand]] ''(maillechort)''
+* [[argent antimonial]]
+* [[argent antimonié sulfuré]]
+* [[argent blanc]]
+* [[argent braguette]]
+* [[argent de poche]]
+* [[argent du cœur]]
+* [[argent facile]]
+* [[argent fragile]]
+* [[argent frais]]
+* [[argent futé]]
+* [[argent gris]]
+* [[argent liquide]]
+* [[argent magique]]
+* [[argent monnayé]]
+* [[argent-métal]]
+* [[argent natif]]
+* [[argent noir]]
+* [[argent sale]]
+* [[argent sulfuré fragile]]
+* [[argent tibétain]]
+* [[argent vitreux]]
+* [[argentage]]
+* [[argental]]
+* [[argentate]]
+* [[argentation]]
+* [[argenter]]
+* [[argenterie]]
+* [[argenteur]]
+* [[argentier]]
+* [[argentifère]]
+* [[argentin]]
+* [[argentique]]
+* [[argentisme]]
+* [[argentiste]]
+* [[argentite]]
+* [[argenture]]
+* [[auro-argentifère]]
+* [[auro-plombo-argentifère]]
+* [[avoir de l’argent devant soi]]
+* [[avoir sans cesse l’argent à la main]]
+* [[bismuthi-argentifère]]
+* [[blanc d’argent]]
+* [[bouton-d’argent]]
+* [[chamois d’argent]]
+* [[chemises d’argent]]
+* [[cobalto-argentifère]]
+* [[compteur d’argent]]
+* [[corbeille-d’argent]]
+* [[cordon d’argent]]
+* [[Côte d’Argent]]
+* [[cupro-argentifère]]
+* [[cupro-plombo-argentifère]]
+* [[cyberargent]]
+* [[cyberargentier]]
+* [[d’argent]]
+* [[désargentage]]
+* [[désargentation]]
+* [[désargenté]]
+* [[désargenter]]
+* [[désargenteur]]
+* [[désargenture]]
+* [[en avoir pour son argent]]
+* [[être écrasé d’argent]]
+* [[être né avec une cuillère d’argent dans la bouche]]
+* [[faire argent de tout]]
+* [[femme d’argent]]
+* [[ferro-cupro-argentifère]]
+* [[feuille d’argent]]
+* [[fil d’argent]]
+* [[général d’argent]]
+* [[gens d’argent]]
+* [[grippe-argent]]
+* [[gris argent]]
+* [[gros-argentin]]
+* [[homme d’argent]]
+* [[jeter l’argent par les fenêtres]]
+* [[jubilé d’argent]] ''(25 ans)''
+* [[loyer de l’argent]]
+* [[mangano-argentifère]]
+* [[manger son argent]]
+* [[manieur d’argent]]
+* [[mariage d’argent]]
+* [[noces d’argent]] ''(25 ans de mariage)''
+* [[plombo-argentifère]]
+* [[plombo-cupro-argentifère]]
+* [[poisson d’argent]]
+* [[prendre pour argent comptant]]
+* [[similargent]]
+* [[stanno-argentifère]]
+* [[stibio-argentifère]]
+* [[sur un plateau d’argent]]
+* [[tirer de l’argent]]
+* [[vif-argent]]
+* [[y aller bon cœur bon argent]]
+* [[zéolithe d’argent]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|bijou|cadeau|chat|couleur|mine (gisement)|héraldique|nouage|or|poinçon|virus (informatique)|tableau périodique des éléments|cuillère|banque|prostitution|atome|Jeux olympiques|perle|bol|capitalisme|décoration honorifique|vie quotidienne}}
+{{tableau périodique/fr}}
+
+==== {{S|phrases}} ====
+{{(}}
+
+* [[argent fait rage, amour, mariage]]
+* [[argent fait rage et amour mariage]]
+* [[bon jeu bon argent]]
+* [[l’argent appelle l’argent]]
+* [[l’argent est le nerf de la guerre]]
+* [[l’argent est un bon serviteur et un mauvais maitre]] {{ortho1990}}
+* [[l’argent est un bon serviteur et un mauvais maître]]
+* [[l’argent fait danser les singes]]
+* [[l’argent lui brule les doigts]] {{ortho1990}}
+* [[l’argent lui brûle les doigts]]
+* [[l’argent lui fond dans les mains]]
+* [[l’argent n’a pas d’odeur]]
+* [[l’argent ne fait pas le bonheur]]
+* [[l’argent ne lui tient pas aux doigts]]
+* [[l’argent ne pousse pas dans les arbres]]
+* [[l’argent ne pousse pas sur les arbres]]
+* [[l’argent ne tombe pas du ciel]]
+* [[l’argent parle]]
+* [[l’argent va à l’argent]]
+* [[la parole est d’argent, le silence est d’or]]
+* [[la parole est d’argent et le silence est d’or]]
+* [[le beurre et l’argent du beurre]]
+* [[le temps, c’est de l’argent]]
+* [[plaie d’argent n’est pas mortelle]]
+{{)}}
+
+==== {{S|hyponymes}} ====
+; (3)
+{{(}}
+* [[balle]]
+* [[bâton]]
+* [[brique]]
+* [[patate]]
+* [[plaque]]
+* [[sac]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Élément, métal}}
+* {{T|ar}} : {{trad-|ar|فِضَّةٌ|tr=fiD²@ũ}}
+{{trad-fin}}
+
+{{trad-début|Pièce de monnaie faite de ce métal|3}}
+* {{T|ar}} : {{trad-|ar|فلس|tr=fals|dif=فَلس}}, {{trad-|ar|نقود|p}}, {{trad+|ar|مال}}
+{{trad-fin}}
+
+{{trad-début|Valeur monétaire|4}}
+* {{T|ar}} : {{trad+|ar|مال|tr=māl}}
+{{trad-fin}}
+{{trad-début|Couleur gris neutre clair à très clair. Induit souvent une idée de brillance|5}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|adjectif|fr}} ===
+{{fr-inv|aʁ.ʒɑ̃}}
+'''argent''' {{pron|aʁ.ʒɑ̃|fr}} {{invar}}
+# De la couleur de ce métal, [[gris]] neutre clair à très clair, induisant souvent une idée de brillance. {{couleur|#CECECE}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad-|ar|فضي|m}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France|aʁ.ʒɑ̃|audio=Fr-argent.ogg}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-argent.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-argent.wav}}
+* {{écouter|lang=fr|France (Lyon)|audio=LL-Q150 (fra)-Ltrlg-argent.wav}}
+* {{écouter|lang=fr||audio=LL-Q150 (fra)-Kiminou1-argent.wav}}
+* {{écouter|lang=fr|France (Canet)|audio=LL-Q150 (fra)-Guilhelma-argent.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-argent.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-argent.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-argent.wav}}
+* {{écouter|lang=fr|France (Saint-Étienne)||audio=LL-Q150 (fra)-Touam-argent.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)||lang=fr|audio=LL-Q150 (fra)-Helenou66-argent.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-argent.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-argent.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+* {{Vikidia}}
+* {{Thésaurus|fr|couleur}}
+* {{WP|Argent|titre=Argent (métal)}}
+* {{WP|Argent_(couleur)|titre=Argent (couleur)}}
+* {{WP|Liste_de_couleurs|titre=Liste de couleurs}}
+* {{Wikiquote}}
+
+=== {{S|références}} ===
+* {{R:Littré}}
+* {{R:DAF8}}
+{{Références}}
+
+[[Catégorie:Métaux en français]]
+[[Catégorie:Adjectifs invariables en français]]
+[[Catégorie:Lexique en français de l’argent|*]]
+[[Catégorie:Lexique en français de la bijouterie]]
+

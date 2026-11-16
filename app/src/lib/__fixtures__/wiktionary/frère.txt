@@ -1,0 +1,196 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date||lang=fr}} Du {{étyl|frm|fr|frere}}, de l’{{étyl|fro|fr|mot=frere}} (attesté vers 1100){{R|TLFi}}, du {{étyl|la|fr|mot=frater}}, de l’{{étyl|indo-européen commun|fr}} {{recons|lang-mot-vedette=fr|[[Reconstruction:indo-européen commun/*bʰréh₂tēr|bʰréh₂tēr]]}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|fʁɛʁ}}
+[[File:Ivan-Pavlov02.jpg|thumb|150px|Les deux '''frères''' Ivan & Dimitri Pavlov.]]
+'''frère''' {{pron|fʁɛʁ|fr}} {{m}} {{équiv-pour|lang=fr|une femme|sœur|2egenre=une personne non binaire|2egenre1=frœur|2egenre2=adelphe}}
+# [[homme|Homme]] ou [[garçon]] [[enfant]] du [[même]] [[père]] et de la même [[mère]] qu’un ou plusieurs autre(s) [[individu|individu(s)]]&nbsp;; [[membre]] masculin d’une [[adelphie]].
+# Tous les [[homme]]s en [[général]] comme étant tous [[sortir|sortis]] d’un même père et d’une même mère, comme étant tous de la même [[espèce]].
+# {{lexique|religion|fr}} Tous les [[chrétien]]s, comme étant tous enfants de [[Dieu]] par le [[baptême]].
+# {{par extension}} [[compagnon|Compagnon]] d’une même cause.
+# {{figuré|fr}} Choses qui ont entre elles une [[ressemblance]], une [[communauté]] au moins [[apparent]]e. Utilisé seulement pour les noms masculins.
+# {{lexique|religion|fr}} Terme [[religieux]] marquant l’appartenance à un [[ordre]].
+# {{par extension}} Membre d’un [[clan]], d'une [[confrérie]], etc.
+# {{familier|fr}} {{argot|fr}} ou {{Afrique|fr}} Forme d’adresse [[amical]]e, parfois non-genré, {{cf|lang=fr}} [[frère#Interjection]]
+
+==== {{S|synonymes}} ====
+{{(|''(1)'' Du même père et de la même mère}}
+* [[fratè]]
+* [[frangin]]
+* [[frelot]]
+* [[frérot]]
+* [[reuf]]
+* [[reufré]]
+{{)}}
+;
+* [[ami]]
+* [[camarade]]
+* [[compagnon]]
+* [[confrère]]
+* [[copain]]
+* [[égal]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[confrère]]
+* [[beau-frère]]
+* [[beauf]]
+* [[beaufiser]]
+* [[beaufitude]]
+* [[demi-frère]]
+* [[être comme un frère]] pour quelqu’un
+* [[faux-frère]], [[faux frère]]
+* [[frelot]]
+* [[frérâtre]]
+* [[frère d’armes]]
+* [[frère d’âge]]
+* [[frère aîné]]
+* [[frère coupe-chou]]
+* [[frère cadet]]
+* [[frère de cœur]]
+* [[frère de la forêt]]
+* [[frère de lait]]
+* [[frère de race]]
+* [[frère de sang]]
+* [[frère enseignant]]
+* [[frère consanguin]] (celui qui n’est frère que du côté paternel)
+* [[frère convers]]
+* [[Frère des victuailles]]
+* [[frère franc-maçon]]
+* [[frère germain]]
+* [[frère jumeau]]
+* [[frère lai]]
+* [[frère mineur]]
+* [[frère musulman]]
+* [[frère naturel]]
+* [[frère puîné]]
+* [[frère quatre bras]]
+* [[frère rose-croix]]
+* [[frère servant]]
+* [[frère trois points]], [[frère trois-points]]
+* [[frère utérin]]
+* [[frérèche]]
+* [[frères bohêmes]]
+* [[Frères de la côte]]
+* [[Frères de la doctrine chrétienne]]
+* [[Frères des Écoles chrétiennes]]
+* [[frères ennemis]]
+* [[frères et sœurs]]
+* [[frères inférieurs]]
+* [[frères lasalliens]]
+* [[Frères musulmans]]
+* [[frères séparés]]
+* [[frérot]]
+* [[frérounet]]
+* [[frr]]
+* [[grand frère]]
+* [[partager en frères]]
+* [[parti frère]]
+* [[petit frère]]
+* [[projet frère]]
+* [[quasi-frère]]
+* [[ressembler comme un frère]]
+* [[vieux frère]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[si ce n’est toi, c'est donc ton frère]]
+
+==== {{S|apparentés}} ====
+{{(}}
+* [[confraternel]]
+* [[confraternité]]
+* [[confrère]]
+* [[confrérie]]
+* [[fraté]]
+* [[frater]]
+* [[fraternel]]
+* [[fraternellement]]
+* [[fraternisation]]
+* [[fraterniser]]
+* [[fraternitaire]]
+* [[fraternité]]
+* [[fraticelle]]
+* [[fratricide]]
+* [[fratrie]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|couvent|généalogie|famille|amitié|religion chrétienne|sociologie de la famille|parenté}}
+* [[sœur]]
+
+==== {{S|traductions}} ====
+{{trad-début|Fils proche|1}}
+* {{T|ar}} : {{trad+|ar|أخ|R=ʾaḫ|dif=أَخ}}, {{trad+|ar|شقيق|R=šaqyq|dif=شَقيق}}
+{{trad-fin}}
+
+{{trad-début|Compagnon d’une même cause|4}}
+* {{T|ar}} : {{trad+|ar|أخ|R=ʾaḫ|dif=أَخ}}
+{{trad-fin}}
+
+{{trad-début|Terme religieux marquant l’appartenance à un ordre|6}}
+* {{T|ar}} : {{trad+|ar|أخ|R=ʾaḫ|dif=أَخ}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+==== {{S|hyponymes}} ====
+* [[aîné]]
+* [[benjamin]]
+* [[cadet]]
+* [[jumeau]]
+* [[puîné]]
+
+==== {{S|hyperonymes}} ====
+* [[adelphe]] {{rare|nocat=1}}
+
+=== {{S|interjection|fr}} ===
+{{fr-inv|fʁɛʁ}}
+'''frère''' {{pron|fʁɛʁ|fr}} {{invar}}
+# {{familier|fr}} Forme d’adresse [[amical]]e entre jeunes (quel que soit le genre)
+
+==== {{S|variantes orthographiques}} ====
+* [[frér]]
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-mixte|ms=frère|fs=sœur|pm=fʁɛʁ|pf=sœʁ}}
+'''frère''' {{pron|fʁɛʁ|fr}}
+# Choses similaires, souvent avec la même origine. {{usage}} Utilisé seulement pour les noms masculins (pour les noms féminins, on dit «&nbsp;[[sœur#Adjectif|sœur]]&nbsp;»).
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|fʁɛʁ|fr}}
+* {{pron|fʁɛʁ|fr}}
+** {{écouter|France, Paris|titre=un frère|ɛ̃ fʁɛʁ|audio=Fr-frère.ogg|lang=fr}}
+** {{écouter||fʁɛʁ|lang=fr|audio=LL-Q150 (fra)-Guilhelma-frère.wav}}
+* Français méridional : {{pron|ˈfʁɛ.ʁə|fr}}
+* Canada : {{pron|fʁɛːʁ|fr}}, {{phon|fʁaɛ̯ʁ|fr}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Fhala.K-frère.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-frère.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-frère.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-frère.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-frère.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-frère.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-frère.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Lunagrouh-frère.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-frère.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)||lang=fr|audio=LL-Q150 (fra)-Helenou66-frère.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Annexe|Famille en français}}
+* {{Annexe|Glossaire de l’Église catholique en français}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+
+[[Catégorie:Lexique en français de la famille]]

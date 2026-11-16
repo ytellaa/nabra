@@ -1,0 +1,189 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|fro|fr|mot=senz}}, ''[[sens]]'', du plus ancien ''[[sen]]'' avec -''s'' adverbial, issu du {{étyl|la|fr|mot=sine}}.
+
+=== {{S|préposition|fr}} ===
+{{fr-inv|sɑ̃}}
+'''sans''' {{pron|sɑ̃|fr}} {{invariable|fr}}
+# Préposition [[marquer|marquant]] l’[[absence]], le [[manque]], l’[[exclusion]] d’une personne, d’une chose. — {{usage}} On n’utilise généralement pas d’article indéfini ou partitif. Peut s’accentuer avec ''[[aucun]]''.
+# Elle se [[placer|place]] aussi [[devant]] un [[infinitif]] pour [[marquer]] l’[[absence]], le [[manque]] d’une manière d’être ou d’[[agir]].
+
+==== {{S|notes}} ====
+: Cette préposition se met assez souvent au [[commencement]] des [[phrase]]s.
+:* '''''Sans''' argent, que pouvais-je faire ?''
+:* '''''Sans''' cet accident, nous aurions réussi.''
+:* '''''Sans''' vous, je n’aurais pas obtenu cet emploi.''
+:* '''''Sans''' mentir, c’est un drôle de corps.''
+
+==== {{S|abréviations}} ====
+* [[ss]]
+
+==== {{S|antonymes}} ====
+* [[avec]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[boit-sans-soif]]
+* [[cheesecake sans cuisson]]
+* [[essence sans plomb]]
+* [[faire un oreiller sans pli]]
+* [[grandeur sans dimension]]
+* [[non sans]]
+* [[partir sans demander son reste]]
+* [[pince-sans-rire]]
+* [[sans-abri]]
+* [[sans alcool]]
+* [[sans ambages]]
+* [[sans appel]]
+* [[sans arrêt]]
+* [[sans aucun doute]]
+* [[sans autre]]
+* [[sans autre façon]]
+* [[sans autre forme de procès]]
+* [[sans aveu]]
+* [[sans blague]]
+* [[sans bureau fixe]]
+* [[sans ça]]
+* [[sans cérémonie]]
+* [[sans cesse]]
+* [[sans charre]]
+* [[sans-cœur]]
+* [[sans commune mesure]]
+* [[sans comparaison]]
+* [[sans compliment]]
+* [[sans compter]]
+* [[sans conteste]]
+* [[sans contredit]]
+* [[sans coup férir]]
+* [[sans crier gare]] ''(Locution adverbiale)''
+* [[sans-culotte]]
+* [[sans débander]]
+* [[sans dec]] 
+* [[sans déconner]]
+* [[sans-dent]]
+* [[sans-dents]]
+* [[sans-dessein]]
+* [[sans dessus dessous]]
+* [[sans devant derrière]]
+* [[sans domicile fixe]], [[SDF]]
+* [[sans doute]]
+* [[sans égal]]
+* [[sans-emploi]]
+* [[sans encombre]]
+* [[sans-enfant]]
+* [[sans faute]]
+* [[sans façon]]
+* [[sans fermer l’œil]]
+* [[sans feu ni lieu]]
+* [[sans fil]]
+* [[sans foi ni loi]]
+* [[sans-foyer]]
+* [[sans frais]]
+* [[sans-gêne]]
+* [[sans-génie]]
+* [[sans haleine]]
+* [[sans le sou]]
+* [[sans-logis]]
+* [[sans ménagement]]
+* [[sans mentir]]
+* [[sans merci]]
+* [[sans mot dire]]
+* [[sans nom]]
+* [[sans nombre]]
+* [[sans nul doute]]
+* [[sans objet]]
+* [[sans P]]
+* [[sans-papier]]
+* [[sans-papiers]]
+* [[sans pareil]]
+* [[sans parler de]]
+* [[sans-patrie]]
+* [[sans pé]]
+* [[sans permis]]
+* [[sans perte de généralité]], [[SPDG]]
+* [[sans peur et sans reproche]]
+* [[sans piper]]
+* [[sans piper mot]]
+* [[sans plomb]]
+* [[sans plus]]
+* [[sans plus de façon]]
+* [[sans plus ni moins]]
+* [[sans préjudice de]]
+* [[sans prendre une ride]]
+* [[sans prix]]
+* [[sans problème]]
+* [[sans que]]
+* [[sans queue ni tête]]
+* [[sans raison]]
+* [[sans relâche]]
+* [[sans repos ni trêve]]
+* [[sans réserve]]
+* [[sans réservation]]
+* [[sans résultat]]
+* [[sans retour]]
+* [[sans reproche]]
+* [[sans rime ni raison]]
+* [[sans rire]]
+* [[sans second]]
+* [[sans scrupules]]
+* [[sans-soins]]
+* [[sans sommation]]
+* [[sans-souci]]
+* [[sans sourciller]]
+* [[sans tambour ni trompette]]
+* [[sans-terre]]
+* [[sans-travail]]
+* [[sans trêve ni repos]]
+* [[sans un]]
+* [[sans un mot]]
+* [[sans un sou]]
+* [[sans usine]]
+* [[sans valeur]]
+* [[sans vergogne]]
+* [[sans voix]]
+* [[s/o]], [[S/O]]
+* [[taxi sans chauffeur]]
+* [[véhicule terrestre sans pilote]]
+* [[vol sans escale]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|os}}
+
+==== {{S|phrases}} ====
+* [[il y a assez à faire de regarder ce qui cuit dans sa marmite sans aller regarder ce qui cuit dans celle du voisin]]
+* [[science sans conscience est la ruine de l’âme]]
+* [[science sans conscience n’est que ruine de l’âme]]
+
+==== {{S|traductions}} ====
+{{trad-début|Préposition marquant l’absence, le manque, l’exclusion|1}}
+{{trad-fin}}
+
+{{trad-début|Devant un infinitif pour marquer l’absence, le manque d’une manière d’être ou d’agir|2}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|sɑ̃|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->||audio=Fr-sans.ogg}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-sans.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-sans.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-sans.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Estrie-sans.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-sans.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[cent]]
+* [[sang]]
+* [[sens]], [[sent]] (formes du verbe ''[[sentir]]'')
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+* {{Wikipédia|Sans}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+* {{R:TLFi}}
+

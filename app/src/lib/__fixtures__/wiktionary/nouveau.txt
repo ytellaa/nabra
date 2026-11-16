@@ -1,0 +1,236 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|milieu XII}} Du {{étyl|la|fr|mot=novellus|sens=[[récent]], qui vient d’[[apparaître]]}}, diminutif de ''[[novus]]'' et qualifiant surtout les jeunes plantes et les jeunes animaux.
+: ''Novus'' est issu de l’indo-européen {{recons|lang-mot-vedette=fr|[[Reconstruction:indo-européen commun/*néwos|néwos]]}} qui a donné ''[[new]]'' en anglais, ''[[neu]]'' en allemand, ''[[nový]]'' en tchèque, ''[[nowy]]'' en polonais, {{polytonique|[[νέος]]|néos}}, en grec ancien, [[نو]] (''no/now'') en persan, etc.
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-eau|nouv|nu.v}}
+{{fr-inv|inv_titre=Masc. sing. devant<br>
+une voyelle ou un h muet|s=nouvel|pron=nu.vɛl}}
+[[File:Adirondack Blue.jpg|vignette|150px|L’Adirondack Blue. Une '''nouvelle''' pomme de terre comme il n’en existait pas auparavant (3).]]
+[[File:Beaujolais nouveau 2008.jpg|vignette|150px|Le Beaujolais '''nouveau''' de cette année (6).]]
+[[File:12-10-03-autostadt-wob-by-RalfR-12.jpg|vignette|150px|2012. La '''nouvelle''' Golf 7 (6).]]
+[[File:Sebastian Vettel Bahrain.jpg|vignette|150px|Sebastian Vettel, le '''nouveau''' [[fangio]] pour Sir Stirling Moss (7).]]
+'''nouveau''' {{pron|nu.vo|fr}}
+# {{term|Objectivement}} Qui n’existait pas [[auparavant]], avant telle date donnée, avec rien de pareil ni de comparable.
+# {{term|Subjectivement}} Que l’on n’avait [[jamais]] vu auparavant.
+# Qui tire de son caractère récent une valeur de création, d’invention, un sentiment de nouveauté intrinsèque.
+# Nouveau pour quelqu’un ; qui était jusqu’ici inconnu de lui ; dont il n’a pas l’habitude.
+# {{lexique|œnologie|fr}} En parlant d’un vin : ayant subi une très courte vinification, et consommé moins d’un an après la récolte.
+# {{term|Pour les personnes}} Qui n’a pas d’expérience ou d’habitude ; sans ancienneté.
+# [[autre|Autre]], qui [[succéder|succède]] à un moment donné à un être ou à une chose de même ordre.
+# [[ressemblant|Ressemblant]], [[semblable]], en [[conformité]], dans une suite temporelle, avec une autre personne ou une autre chose.
+# De plus, supplémentaire.
+
+==== {{S|notes}} ====
+: Au masculin singulier il s’écrit ''[[nouvel]]'' devant les mots commençant par une voyelle ou un ''h'' muet : « un '''nouvel''' arrivant » mais « un arrivant '''nouveau''' ». 
+: Il peut ne pas s’accorder ''[[nouveau-né]]''. On retrouve donc les pluriels ''[[nouveau-nés]]'' et ''[[nouveaux-nés]]''.
+: Il n’a pas le même sens lorsqu’il est antéposé (une nouvelle [[pomme de terre]], un nouveau produit, le [[Nouveau Monde]]) et lorsqu’il est postposé (une [[pomme de terre nouvelle]], un [[produit]] nouveau, un monde nouveau) sans que — les trois exemples précédents le montrent — la position soit signifiante.
+
+==== {{S|synonymes}} ====
+{{(|Qui n’existait pas auparavant|1}}
+* [[dernier]]
+* [[moderne]]
+* [[neuf]]
+* [[original]]
+* [[récent]]
+{{)}}
+{{(|Qui n’avait jamais été vu auparavant|2}}
+* [[extraordinaire]]
+* [[inconnu]]
+* [[inouï]]
+* [[primeur]]
+* [[inédit]] (dans une sphère donnée)
+* [[neuf]]
+{{)}}
+{{(|Source d’un sentiment sans précédent|3}}
+* [[créatif]]
+* [[émouvant]]
+* [[hardi]]
+* [[inattendu]]
+* [[innovant]]
+* [[insolite]]
+* [[novateur]]
+* [[surprenant]]
+{{)}}
+{{(|Jamais vu (visuellement)|4}}
+* [[inhabituel]]
+{{)}}
+{{(|Sans ancienneté|5}}
+* [[bizuth]]
+* [[bleu]]
+* [[inexpérimenté]]
+* [[novice]]
+{{)}}
+{{(|Autre, qui succède, qui n’a jamais servi|6}}
+* [[flambant neuf]]
+* [[inusité]]
+{{)}}
+{{(|Ressemblant à|7}}
+{{)}}
+{{(|Qui s’ajoute.|8}}
+* [[supplémentaire]]
+{{)}}
+
+==== {{S|antonymes}} ====
+{{(|Qui est source d’un sentiment|3}}
+* [[banal]]
+* [[fini]]
+* [[ringard]]
+{{)}}
+{{(|Inconnu, inhabituel|4}}
+* [[habituel]]
+{{)}}
+{{(|Qui n’a pas l’expérience ou l’habitude|5}}
+* [[expérimenté]]
+* [[vétéran]]
+{{)}}
+{{(|Autre, qui succède, qui n’a jamais servi|6}}
+* [[fatigué]]
+* [[usagé]]
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à nouveau]]
+* [[art-nouveau]]
+* [[Art nouveau]]
+* [[bougie nouvelle]]
+* [[commune nouvelle]]
+* [[de nouveau]]
+* [[fait nouveau]]
+* [[homme nouveau]]
+* [[idées nouvelles]]
+* [[jusqu’à nouvel ordre]]
+* [[nouveau dollar de Taïwan]]
+* [[nouveau franc]] ([[NF]])
+* [[Nouveau Livre]]
+* [[Nouveau Monde]]
+* [[nouveau-né]]
+* [[nouveau produit]]
+* [[nouveau riche]]
+* [[Nouveau Roman]]
+* [[Nouveau Testament]]
+* [[nouveau-venu]], [[nouveau venu]]
+* [[nouveaux mariés]]
+* [[Nouveaux Territoires]]
+* [[nouveauté]]
+* [[Nouvel-Âge]]
+* [[nouvel aliment]]
+* [[nouvel an]]
+* [[nouvel an chinois]]
+* [[nouvel animal de compagnie]] ([[NAC]])
+* [[Nouvel Empire]]
+* [[nouvelle alliance]]
+* [[nouvelle cuisine]]
+* [[nouvelle Europe]]
+* [[nouvelle lune]]
+* [[nouvelle mouture]]
+* [[nouvelle noblesse]]
+* [[nouvelle route de la soie]]
+* [[nouvelle vague]]
+* [[nouvellement]]
+* [[Nouvelles-Hébrides]]
+* [[nouvelles technologies]]
+* [[ognon nouveau]] {{ortho1990}}
+* [[oignon nouveau]]
+* [[pomme de terre nouvelle]]
+* [[prendre un nouveau départ]]
+* [[renouveau]]
+* [[saison nouvelle]], le printemps.
+* [[sous un nouveau jour]]
+* [[tout nouveau, tout beau]]
+* [[ville nouvelle]]
+* [[vin nouveau]]
+{{)}}
+* {{Catégorie|Toponymes en français préfixés par ''Nouveau-'' ou ''Nouvelle-''}}
+
+==== {{S|phrases}} ====
+* [[rien de nouveau sous le soleil]]
+
+==== {{S|apparentés}} ====
+* [[innovant]]
+* [[innovateur]]
+* [[innovation]]
+* [[innover]]
+* [[novateur]]
+* [[novation]]
+* [[renouveler]]
+* [[renouvellement]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|vin}}
+* [[🆕]] (bouton nouveau, U+1F195)
+
+==== {{S|traductions}} ====
+{{trad-début|(Objectivement) Qui n’existait pas auparavant, avant telle date donnée, avec rien de pareil ni de comparable.|1}}
+* {{T|ar}} : {{trad+|ar|جديد|tr=jadīd}}
+{{trad-fin}}
+
+{{trad-début|(Subjectivement) Que l’on n’avait jamais vu auparavant.|2}}
+{{trad-fin}}
+
+{{trad-début|Qui tire de son caractère récent une valeur de création, d’invention, un sentiment de nouveauté intrinsèque.|3}}
+{{trad-fin}}
+
+{{trad-début|Nouveau pour quelqu’un ; qui était jusqu’ici inconnu de lui ; dont il n’a pas l’habitude.|4}}
+{{trad-fin}}
+
+{{trad-début|{{term|D'un vin}} Ayant subi une très courte vinification, et consommé moins d’un an après la récolte|5}}
+{{trad-fin}}
+
+{{trad-début|{{term|D'une personne}} Qui n’a pas d’expérience ou d’habitude ; sans ancienneté|6}}
+{{trad-fin}}
+
+{{trad-début|Autre, qui succède à un moment donné à un être ou à une chose de même ordre|7}}
+{{trad-fin}}
+
+{{trad-début|Ressemblant, semblable, avec une autre personne ou une autre chose|8}}
+{{trad-fin}}
+
+{{trad-début|Supplémentaire|9}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début|Ressemblant, semblable, en conformité, dans une suite temporelle, avec une autre personne ou une autre chose.|8}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég-x|nu.vo}}
+'''nouveau''' {{pron|nu.vo|fr}} {{m}} {{équiv-pour|lang=fr|une femme|nouvelle}}
+# (Une personne) Celui qui vient d’arriver au collège, dans un atelier, dans une compagnie.
+# [[neuf|Neuf]].
+# {{au singulier}} [[changement|Changement]].
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|nu.vo|fr}}
+* {{pron|nu.vo|fr}}
+** {{écouter|France <!-- précisez svp la ville ou la région -->|nu.vo|audio=Fr-nouveau.ogg|lang=fr}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-nouveau.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-nouveau.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-nouveau.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-nouveau.wav}}
+* {{écouter|lang=fr|France (Grenoble)|audio=LL-Q150 (fra)-GAllegre-nouveau.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-nouveau.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-nouveau.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-nouveau.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-nouveau.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-nouveau.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-nouveau.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-nouveau.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-nouveau.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-nouveau.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-nouveau.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-nouveau.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-nouveau.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-nouveau.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-nouveau.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-nouveau.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-DSwissK-nouveau.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-nouveau.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-nouveau.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-nouveau.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{WQ}}

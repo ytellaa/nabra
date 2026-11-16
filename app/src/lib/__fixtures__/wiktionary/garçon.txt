@@ -1,0 +1,136 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: (1100) De l’{{étyl|fro|fr|garçon}}, [[cas régime]]{{R|Godefroy}} de {{lien|''gars''|fro|sens=valet, misérable}}, du {{étyl|latin médiéval|fr}} {{recons|lang-mot-vedette=fr|garciō|la}}, {{recons|lang-mot-vedette=fr|warciō|la}}, du {{étyl|frk|fr}} {{recons|lang-mot-vedette=fr|wrakkjō|frk|sens=banni, vagabond}}, du {{étyl|gmw-pro|fr}} {{recons|lang-mot-vedette=fr|wrakkjō|gmw-pro}}, du {{étyl|gem-pro|fr}} {{recons|lang-mot-vedette=fr|wrakjô|gem-pro}}. Apparenté{{R|TLFi}} à l’allemand {{lien|''Recke''|de|sens=guerrier}}, à l’anglais {{lien|''wretch''|en|sens=scélérat}} {{cf|gars|garce|lang=fr}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ɡaʁ.sɔ̃}}
+[[Fichier:Bartolomé Esteban Perez Murillo - Trauben- und Melonenesser.jpg|vignette|Deux '''garçons''' pauvres mangeant des fruits peints par {{w|Bartolomé Esteban Murillo}} (1)]]
+[[Fichier:Le garçon de café, G.41664.jpg|vignette|Estampe d’un '''garçon''' de café (6)]]
+'''garçon''' {{pron|ɡaʁ.sɔ̃|fr}} {{m}} {{équiv-pour|une femme|fille|2egenre=une personne non-binaire|2egenre1=enby|2egenre2=nb|2egenre3=NB|lang=fr}}
+# [[enfant|Enfant]] ou [[adolescent]] [[homme]], par opposition à ''[[fille]]''.
+# {{par extension}} [[jeune homme|Jeune homme]].
+# {{par extension}} [[homme|Homme]] de genre masculin.
+# {{par extension}} Homme [[célibataire]].
+# {{lexique|travail|fr}} [[employé|Employé]] [[subalterne]] [[affecté]] à un [[service]] particulier. Celui qui [[travailler|travaille]] sous les [[ordre]]s d’un [[maître]], d’un [[patron]] ou d’un [[chef]].
+# {{en particulier}} [[serveur|Serveur]] d’un [[café]], d’un [[restaurant]] ou d’un [[hôtel]].
+
+==== {{S|synonymes}} ====
+* {{lien|gamin|fr}}
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[bon-garçonisme]]
+* [[demi-garçon]]
+* [[femme garçon]]
+* [[garçon à marier]]
+* [[garçon boucher]]
+* [[garçon boulanger]]
+* [[garçon charcutier]]
+* [[garçon coiffeur]]
+* [[garçon d’ascenseur]]
+* [[garçon d’auberge]]
+* [[garçon d’écurie]]
+* [[garçon d’étage]]
+* [[garçon d’honneur]]
+* [[garçon de bain]], [[garçon de bains]]
+* [[garçon de bord]]
+* [[garçon de bureau]]
+* [[garçon de cabine]]
+* [[garçon de café]]
+* [[garçon de cage]]
+* [[garçon de cirque]]
+* [[garçon de confiance]]
+* [[garçon de cour]]
+* [[garçon de courses]]
+* [[garçon de cuisine]]
+* [[garçon de ferme]]
+* [[garçon de joie]]
+* [[garçon de laboratoire]]
+* [[garçon de magasin]]
+* [[garçon de ménagerie]]
+* [[garçon de piste]]
+* [[garçon de recettes]]
+* [[garçon de rien]]
+* [[garçon de salle]]
+* [[garçon des rues]]
+* [[garçon épicier]]
+* [[garçon manqué]]
+* [[garçon pâtissier]]
+* [[garçon perdu]]
+* [[garçon public]]
+* [[garçonnage]]
+* [[garçonnaille]]
+* [[garçonne]]
+* [[garçonner]]
+* [[garçonnet]]
+* [[garçonnier]]
+* [[garçonnière]]
+* [[garçonnisme]]
+* [[mari-garçon]]
+* [[mauvais garçon]]
+* [[mon garçon]]
+* [[petit garçon]]
+* [[plaisanterie de garçon de bains]]
+* [[vieux garçon]] (célibataire)
+* [[vie de garçon]] 
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* [[👦]] (U+1F466)
+* {{voir thésaurus|fr|boutique}}
+
+==== {{S|hyperonymes}} ====
+* [[humain]]
+** [[mâle]]
+
+==== {{S|traductions}} ====
+{{trad-début|Jeune homme}}
+* {{T|ar}} : {{trad+|ar|ولد|m}}
+{{trad-fin}}
+
+{{trad-début|voir ''{{lien|fils|fr}}''.}}
+{{trad-fin}}
+
+{{trad-début|voir ''{{lien|célibataire|fr}}''.}}
+{{trad-fin}}
+
+{{trad-début|voir ''{{lien|serviteur|fr}}''.}}
+{{trad-fin}}
+
+{{trad-début|voir ''{{lien|serveur|fr}}''.}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|ɡaʁ.sɔ̃|fr}}
+* {{pron|ɡaʁ.sɔ̃|fr}}
+** {{écouter|lang=fr|France|ɛ̃ ɡaʁ.sɔ̃|titre=un garçon|audio=Fr-garçon.ogg}}
+* {{parler gaga|nocat=1}} : {{phon|ɡæʀ.søɔ̃|fr}}{{R|GAGA|Jacques Plaine et Jeanluc Epallle, ''Les Trésors de Toutengaga : Dictionnaire gaga-français/français-gaga'', Actes Graphiques, 2019, ISBN 978-2368830628}}
+* Français méridional : {{phono|ɡaʁ.sɔŋ|fr}}
+* Canada : {{phono|ɡaʁ.sõ|fr}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Fhala.K-garçon.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-garçon.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-garçon.wav}}
+* {{écouter|lang=fr|France (Saint-Maurice-de-Beynost)|audio=LL-Q150 (fra)-Benoît Prieur-garçon.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-garçon.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines1-garçon.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines2-garçon.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines3-garçon.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines5-garçon.wav}}
+* {{écouter|lang=fr||audio=LL-Q150 (fra)-Aemines4-garçon.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines6-garçon.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-garçon.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-garçon.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-garçon.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-DSwissK-garçon.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-garçon.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+{{Références}}
+
+[[Catégorie:Lexique en français de la famille]]
+[[Catégorie:Métiers de la restauration en français]]
+
