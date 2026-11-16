@@ -128,7 +128,7 @@ jobs:
           disable-animations: true
           # La WebView de l'émulateur est celle d'origine de l'image (jamais mise à jour) : c'est le pire cas.
           script: |
-            echo "WebView API ${{ matrix.api-level }} : $(adb shell dumpsys webviewupdate | grep -i 'current webview package')" | tee -a "$GITHUB_STEP_SUMMARY"
+            echo "WebView API ${{ matrix.api-level }} : $(adb shell "dumpsys webviewupdate | grep -i 'current webview package' || dumpsys package com.android.webview | grep -m1 versionName")" | tee -a "$GITHUB_STEP_SUMMARY"
             adb install -r app-debug.apk
             maestro test app/.maestro --format junit --output maestro-report.xml --test-output-dir maestro-output
 

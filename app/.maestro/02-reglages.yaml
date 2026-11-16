@@ -18,14 +18,21 @@ tags:
 - takeScreenshot: 02-reglages
 - tapOn: ".*Mentions légales.*"
 - extendedWaitUntil:
-    visible: ".*Licence.*"
+    visible: ".*Tes données.*"
     timeout: 10000
+# « Licence » est plus bas sur la page : faire défiler jusqu'à lui
+- scrollUntilVisible:
+    element: ".*Licence.*"
+    direction: DOWN
+    timeout: 20000
 - takeScreenshot: 02-mentions-legales
-# Bouton Retour de l'application : revient aux réglages
-- tapOn: "Retour"
-- assertVisible: ".*Mes mots.*"
-# Bouton retour Android : revient à l'accueil
+# Bouton retour Android : revient aux réglages
 - back
+- extendedWaitUntil:
+    visible: ".*Mes mots.*"
+    timeout: 10000
+# Bouton Retour de l'application : revient à l'accueil
+- tapOn: "Retour"
 - extendedWaitUntil:
     visible: ".*Nouvelle lecture.*"
     timeout: 10000

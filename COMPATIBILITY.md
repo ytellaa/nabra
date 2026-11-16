@@ -61,7 +61,20 @@ Légende : ✅ tous les scénarios passent · ⚠️ échec partiel · ❌ l'app
 
 | Release | API 24 (7.0) | API 28 (9) | API 31 (12) | API 34 (14) | API 36 (16) | Vrais appareils | Remarques |
 |---|---|---|---|---|---|---|---|
-| 0.2.0 | — | — | — | — | — | — | Avant la mise en place des tests |
+| 0.2.0 | ❌ | ❌ | ✅ | ✅ | ✅ | — | Premier run (PR ytellaa/nabra#10). API 24 et 28 : écran blanc, voir « Problème connu ». |
+
+## Problème connu : écran blanc avec une WebView ancienne
+
+Constaté le 2026-11-15 sur les émulateurs API 24 (Android 7.0) et API 28 (Android 9, WebView Chrome 69).
+
+- **Symptôme :** l'application reste sur un écran blanc.
+- **Cause :** le JavaScript produit par Vite 8 vise les navigateurs récents. Les WebView antérieures à Chrome 80 ne comprennent pas l'opérateur `??` et s'arrêtent : `SyntaxError: Unexpected token ?`.
+- **Appareils touchés :** les téléphones dont la WebView (ou Chrome) n'a pas été mise à jour depuis 2020. Un Android 7 à 9 dont la WebView est à jour via le Play Store n'est pas concerné.
+- **Versions de WebView mesurées :** API 28 → Chrome 69, API 31 → 91, API 34 → 113, API 36 → 133.
+
+Deux options, à décider :
+1. Rendre l'application compatible avec les anciennes WebView (cible de build plus ancienne et polyfills).
+2. Exiger une WebView récente et le documenter, en gardant les tests API 24 et 28 comme indicateurs.
 
 ## Règle pour chaque évolution
 
