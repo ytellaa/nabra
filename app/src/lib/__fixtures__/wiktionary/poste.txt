@@ -1,0 +1,216 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{lien-ancre-étym|fr|nom|1}} {{siècle|lang=fr|fin XIII}} De l’{{étyl|it|fr|mot=posta|sens=place destinée à chaque cheval dans l’écurie », puis « relais de chevaux pour voitures et courriers}}.
+: {{lien-ancre-étym|fr|nom|2}} {{lien-ancre-étym|fr|nom|3}} {{siècle|lang=fr|fin XVII}} De l’{{étyl|it|fr|mot=posto|sens=[[position]], place, endroit où est placé un militaire ou une petite unité pour y exercer une mission de surveillance, de renseignement ou de combat}}.
+:: Dans les deux cas, du {{étyl|la|fr|mot=positus|sens=posé}}.
+: {{lien-ancre-étym|fr|nom|4}} Ainsi dites peut-être parce qu’elles vont comme la poste{{R|Littré}}.
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|pɔst}}
+'''poste''' {{pron|pɔst|fr}} {{f}}
+# {{lexique|histoire|fr}} [[établissement|Établissement]] de chevaux qui [[était]] [[autrefois]] [[placer|placé]] de [[distance]] en [[distancer|distance]], pour le [[service]] des [[voyageur]]s.
+# {{désuet|fr}} [[manière|Manière]] de [[voyager]] [[avec]] des chevaux de '''poste'''.
+# {{par extension|fr}} [[maison|Maison]] où [[étaient]] les chevaux de '''poste'''.
+# {{par extension|fr}} [[mesure|Mesure]] de [[chemin]] [[fixer|fixée]] [[communément]] à [[deux]] [[lieue]]s.
+## {{figuré|fr}}
+##* {{exemple|lang=fr|Il se laissa chevaucher et devenir la proie d’une avide amazone. Ils coururent deux '''postes''' successives, puis, sans rien se dire, coulèrent dans un sommeil sans épaves.|source={{w|Richard Jorif}}, ''Le Burelain'', éditions François Bourin, 1989, page 124}}
+# {{term|aujourd’hui}} [[administration|Administration]] [[publique]] qui [[assurer|assure]] le [[transport]] des [[correspondance]]s.
+# {{par extension|fr}} Le [[courrier]] qui [[porter|porte]] les lettres.
+# {{par extension|fr}} {{courant|fr}} [[maison|Maison]], [[bureau]] où se [[faire|font]] les [[divers]]es [[opération]]s [[postal]]es.
+# {{au pluriel}} {{info lex|architecture}} [[ornement|Ornement]] composé de motifs d’[[enroulement]]s et de [[volute]]s, formant une [[moulure]] qu’on [[place]] ordinairement sur les [[plinthe]]s.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à poste fixe]]
+* [[à sa poste]] ''(à sa convenance)''
+* [[bureau de poste]]
+* [[chaise de poste]]
+* [[cheval de poste]]
+* [[comme une lettre à la poste]]
+* [[cor de poste]]
+* [[courir la poste]] ''(se dépêcher, aller très vite)''
+* [[grande poste]]
+* [[le cachet de la poste faisant foi]]
+* [[maitre de poste]] {{ortho1990}}
+* [[maître de poste]]
+* [[malle-poste]], [[malle poste]]
+* [[mandat-poste]]
+* [[paquebot-poste]]
+* [[passer comme une lettre à la poste]]
+* [[postal]]
+* [[poste aérienne]]
+* [[poste aux lettres]]
+* [[poste principale]] ''(bureau central de la poste)''
+* [[poste restante]] ''(guichet où l’on garde certaines lettres jusqu’à ce que le destinataire vienne les réclamer personnellement)''
+* [[postes et relais]]
+* [[postier]]
+* [[postière]]
+* [[receveur des postes]]
+* [[timbre-poste]]
+* [[train-poste]]
+* [[wagon-poste]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+; Administration chargée du transport des correspondances (5)
+* {{voir thésaurus|fr|courrier|philatélie}}
+{{symboles courrier}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad-|ar|بريد|tr=barîd}} (5), {{trad-|ar|بَرِيد}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|pɔst}}
+'''poste''' {{pron|pɔst|fr}} {{m}}
+# [[place|Place]], [[emplacement]].
+# {{lexique|histoire|fr}} Dispositif planté dans le sol et amovible servant à protéger contre les archers des soldats chargés du travail du terrain.
+# {{en particulier}} Lieu même où l’on travaille.
+# {{par extension|fr}} [[fonction|Fonction]]s [[occupées]] sur ce poste.
+# {{par analogie|fr}} {{lexique|comptabilité|fr}} Source d’un phénomène, ressource nécessaire pour d’une activité. {{lien|charge|fr|nom|dif=Charge}} ou {{lien|produit|fr|nom}} dans une comptabilité.
+# {{ellipse|fr}} {{familier|fr}} Poste de [[police]].
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à poste]]
+* [[abandon de poste]]
+* [[apostement]]
+* [[aposter]]
+* [[avant-poste]]
+* [[changement de poste]]
+* [[changement de poste à quai]]
+* [[fiche de poste]]
+* [[fidèle au poste]]
+* [[gestion des ressources du poste de pilotage]] ''ou'' [[GRPP]]
+* [[maintien à poste]]
+* [[petit poste]]
+* [[phase de mise à poste]]
+* [[poste à poste]]
+* [[poste avancé]]
+* [[poste d’aiguillage]]
+* [[poste d’eau]]
+* [[poste d’inspection filtrage]]
+* [[poste de commandement]]
+* [[poste de garde]]
+* [[poste de guet]]
+* [[poste de jour]]
+* [[poste de nuit]]
+* [[poste de pilotage]]
+* [[poste de travail]]
+* [[poste électrique]]
+* [[poste-frontière]]
+* [[poste matériel]] {{info lex|cyclisme}}
+* [[poste médical avancé]]  ''ou'' [[PMA]]
+* [[poste source]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|basket-ball|rugby à XV}}
+
+==== {{S|traductions}} ====
+{{trad-début|Lieu où l’on travaille}}
+{{trad-fin}}
+
+{{trad-début|Fonction}}
+* {{T|ar}} : {{trad-|ar|وَظِيفَة}}
+{{trad-fin}}
+
+{{trad-début|Source, ressource, charge ou produit}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=3}} ===
+{{fr-rég|pɔst}}
+'''poste''' {{pron|pɔst|fr}} {{m}}
+# [[appareil|Appareil]] [[utilisé]] dans la [[radio-]][[transmission]].
+# {{lexique|téléphonie|fr}} [[poste téléphonique|Poste téléphonique]] desservi par un [[autocommutateur]] privé.
+# {{par métonymie|fr}} Numéro d’un tel '''poste'''.
+# {{Québec|fr}} Station de radio ou de télévision.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[poste à diode]]
+* [[poste à galène]]
+* [[poste à pyrite]]
+* [[poste de radio]]
+* [[poste de télévision]]
+* [[poste téléphonique]]
+* [[poste téléphonique sans cordon]]
+* [[sélection directe de poste supplémentaire]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* [[SDA]]
+* [[sélection directe à l’arrivée]]
+* [[standard]]
+* [[standardiste]]
+* [[chaîne]] (Québec)
+
+==== {{S|traductions}} ====
+{{trad-début|appareil utilisé dans la radio-transmission}}
+{{trad-fin}}
+
+{{trad-début|Poste téléphonique d’une installation privée|2}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=4}} ===
+{{fr-rég|pɔst}}
+'''poste''' {{pron|pɔst|fr}} {{m}}
+# {{armes|fr}} Petite [[balle]]s de [[plomb]] qui servaient à [[charger]] les [[arme à feu|armes à feu]].
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|plomb}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=5}} ===
+{{fr-rég|pɔst}}
+'''poste''' {{pron|pɔst|fr}} {{f}}
+# {{lexique|verrerie|fr}} [[ébauche|Ébauche]] d’objet en verre soufflé, qui ensuite est retrempé dans le verre en [[fusion]] pour l’[[épaissir]] et qu’il y ai la quantité nécessaire de verre pour finir l’objet.
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|poster|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui}}
+'''poste''' {{pron|pɔst|fr}}
+# ''Première personne du singulier du présent de l’indicatif de'' [[poster]].
+# ''Troisième personne du singulier du présent de l’indicatif de'' [[poster]].
+# ''Première personne du singulier du présent du subjonctif de'' [[poster]].
+# ''Troisième personne du singulier du présent du subjonctif de'' [[poster]].
+# ''Deuxième personne du singulier de l’impératif de'' [[poster]].
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|pɔst|fr}}
+* {{écouter|France|pɔst|lang=fr|titre=La poste|audio=Fr-poste.ogg}}
+* {{écouter|France (Vosges)||lang=fr|audio=LL-Q150 (fra)-LoquaxFR-poste.wav}}
+* {{écouter|Canada (Shawinigan)||lang=fr|audio=LL-Q150 (fra)-DenisdeShawi-poste.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-poste.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-poste.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[post]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+==== {{S|sources}} ====
+{{Références}}
+
+==== {{S|bibliographie}} ====
+* {{R:DAF8}}
+* Inspiré du ''Dictionnaire encyclopédique Quillet'', Paris, 1934.
+* Inspiré du ''Nouveau Larousse Illustré en 7 volumes'' Paris 1904.
+* {{R:TLFi}}
+
+[[Catégorie:Édifices en français]]
+[[Catégorie:Lexique en français des télécommunications]]
+[[Catégorie:Noms multigenres en français]]
+

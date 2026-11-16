@@ -1,0 +1,173 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|IX}} (Verbe) Du {{étyl|frm|fr|avoir}}, de l’{{étyl|fro|fr|avoir}}, {{lien|''aveir''|fro}}, du {{étyl|la|fr|mot=habeo|dif=habere|sens=[[tenir]], [[occuper]] », puis « [[habiter]]}} qui a pris le sens de « [[posséder]] » en bas latin. Apparenté à ''[[habit]]'', ''[[habiter]]'', ''[[habitude]]''.
+: (Nom) {{substantivation de|avoir|fr|type=infinitif}}. {{déverbal|lang=fr|m=1|de=avoir}}.
+
+=== {{S|verbe|fr}} ===
+'''avoir''' {{pron|a.vwaʁ|a.vwɑʁ|fr}} {{t|fr}}, {{tr-dir|fr}} {{conjugaison|fr|groupe=3}} {{lien pronominal|'|fr}}
+# Être en [[relation]] [[possessif|possessive]], soit [[concret|concrète]] ou [[abstrait]]e, soit [[permanent]]e ou [[occasionnel]]le, dont le [[possesseur]] est le sujet et le [[possédé]] est le [[complément d’objet direct]].
+/>Que les pleurs de sa mère et que son innocence.'' {{source|Jean Racine, ''Andromaque'', 1667}}
+##* {{exemple | lang=fr | '''Avoir''' des correspondants, des associés, des complices…}}
+# {{intransitif|fr}} Être dans un certain état, anormal.
+# [[se procurer|Se procurer]], [[obtenir]] quelque chose.
+# {{familier|fr}} [[tromper|Tromper]], [[berner]], [[leurrer]] quelqu’un{{R|DicoHayard|8}}.
+# {{familier|fr}} Posséder sexuellement une femme.
+# {{term|J’ai … qui …}} Introduit une nouvelle information concernant le locuteur sans relation [[thème]]-[[rhème]].
+# {{auxiliaire|fr}} [[auxiliaire|Auxiliaire]] servant à former les [[temps composé]]s, signifiant le [[passé]], la [[complétion]] ou l’[[expérience]]. {{note}} Certains verbes demandent ''[[être]]'' comme auxiliaire. En français moderne, le [[passé composé]] est beaucoup plus courant que le [[passé simple]].
+
+==== {{S|notes}} ====
+* Une faute courante consiste à faire suivre le verbe ''avoir'' d’un infinitif au lieu d’un participe passé, par exemple, ''avoir gagner'' au lieu de ''avoir gagné''. Cette faute peut venir d’une ressemblance avec le cas où le verbe précédent n’est pas un auxiliaire, par exemple, ''faire gagner''. Le problème se pose pour les verbes du premier groupe car le son ''er'' est semblable au son ''é''. On ne rencontrera pas la faute pour les verbes des autres groupes, car il est évident qu’on écrira, par exemple, ''avoir perdu''.
+* Les formes interrogatives sont :
+*: 1{{re}} personne : ''[[ai]]-[[je]]'', ''[[avons]]-[[nous]]''.
+*: {{2e|personne}} : ''[[as]]-[[tu]]'', ''[[avez]]-[[vous]]''.
+*: {{3e|personne}} : ''[[a]]-[[t-il]]'', ''[[a]]-[[t-elle]]'', ''[[a]]-[[t-on]]'', ''[[ont]]-[[ils]]'', ''[[ont]]-[[elles]]''.
+
+==== {{S|variantes}} ====
+* {{lien|awoir|fr}} {{QC|nocat=1}}
+
+==== {{S|synonymes}} ====
+'''justice'''
+: {{cf|lang=fr|arrêter}}.
+'''jouir d’un bien ou d’une personne'''
+* [[posséder]]
+
+==== {{S|dérivés}} ====
+* [[avoir à]], [[n’avoir qu’à]], [[ne plus avoir qu’à]], [[y’a plus qu’à]], [[y’a qu’à]].
+* [[désavoir]]
+* [[ravoir]]
+* [[re-avoir]]
+* [[réavoir]]
+* [[y avoir]], [[il y a]]
+* {{Annexe|Locutions en français utilisant le verbe avoir}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[c’est assez, dit la baleine, je me cache à l’eau car j’ai le dos fin]]
+* [[c’est toujours ça que les Allemands n’auront pas]]
+* [[c’est toujours ça que les Boches n’auront pas]]
+* [[ce ne sont pas ceux qui ont de grandes oreilles qui entendent le mieux]]
+* [[ce ne sont pas ceux qui ont les plus grandes oreilles qui entendent le mieux]]
+* [[cœur qui soupire n’a pas ce qu’il désire]]
+* [[en voilà encore un que les Prussiens n’auront pas]]
+* [[gentil n’a qu’un œil]]
+* [[il n’y a pas de bons vents pour le marin qui ne sait pas où il va]]
+* [[il n’y a pas de fumée sans feu]]
+* [[il n’y a pas de grenouille qui ne trouve son crapaud]]
+* [[il n’y a pas de petits profits]]
+* [[il n’y a rien de nouveau sous le soleil]]
+* [[il y a grande différence d’homme à homme]]
+* [[la plus belle fille du monde ne peut donner que ce qu’elle a]]
+* [[les mots ont un sens]]
+* [[les murs ont des oreilles]]
+* [[mieux vaut un tu l’as que deux tu l’auras]]
+* [[on n’a rien pour rien]]
+* [[où ai-je la tête]] ? 
+* [[qu’importe le flacon, pourvu qu’on ait l’ivresse]]
+* [[quand le singe veut monter au cocotier, il faut qu’il ait les fesses propres]]
+* [[quand on n’a pas de tête, il faut avoir des jambes]] 
+* [[quand on n’a pas de tête, on a des jambes]] 
+* [[qui a du pain nargue le chagrin]]
+* [[qui doit n’a rien à soi]]
+* [[qui n’a pas d’armes porte un lion]] {{info lex|héraldique}}
+* [[qui n’entend qu’une cloche n’a qu’un son]]
+* [[qui ne risque rien n’a rien]]
+* [[qui ne tente rien n’a rien]]
+* [[qui terre a guerre a]]
+* [[touche à ton cul, t’auras des verrues]]
+* [[toujours ça que les Boches n’auront pas]]
+* [[toutes les bonnes choses ont une fin]]
+* [[un mauvais ouvrier a toujours de mauvais outils]]
+* [[un tiens vaut mieux que deux tu l’auras]]
+* [[ventre affamé n’a pas d’oreilles]]
+* [[ventre affamé n’a point d’oreilles]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Posséder}}
+* {{T|ar}} : {{trad+|ar|عند|R=’inda}}, {{trad-|ar|أمتلك|tr=amtaliko}}
+{{trad-fin}}
+
+{{trad-début|Être en relation}}
+{{trad-fin}}
+
+{{trad-début|Se procurer}}
+{{trad-fin}}
+
+{{trad-début|Tromper}}
+{{trad-fin}}
+
+{{trad-début|Verbe auxiliaire}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{cf|Modèle:avoir/TableauTraductions}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|a.vwaʁ|pron2=a.vwɑʁ}}
+'''avoir''' {{pron|a.vwaʁ|a.vwɑʁ|fr}} {{m|fr}}
+# {{lexique|philosophie|fr}} Ce que [[posséder|possède]] un [[individu]].
+# [[ensemble|Ensemble]] des [[bien]]s et [[richesse]]s [[appartenant]] à un [[individu]] ou à une [[personne morale]], [[possession]].
+# {{en particulier}} {{lexique|comptabilité|fr}} [[somme|Somme]] d’[[argent]] qu’un [[établissement]] [[commercial]] (banque, entreprise, etc.) doit à son client, [[solde créditeur]].
+# Le fait de posséder, par opposition au fait d'être ou de faire.
+
+==== {{S|synonymes}} ====
+;Facture à solde créditeur
+* ''(Belgique)'' [[note de crédit]]
+
+==== {{S|antonymes}} ====
+''Somme d’argent due''
+* [[débit]]
+* [[doit]]
+* [[dû]]
+* [[solde débiteur]]
+
+==== {{S|dérivés}} ====
+* [[avoir fiscal]]
+
+==== {{S|traductions}} ====
+{{trad-début|Ce que possède un individu}}
+{{trad-fin}}
+
+{{trad-début|Ensemble des biens et richesses appartenant à un individu|2}}
+{{trad-fin}}
+
+{{trad-début|Somme d’argent dû}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|a.vwaʁ|fr}}
+* {{pron-rimes|a.vwɑʁ|fr}}
+* {{pron|a.vwaʁ|fr}}
+* {{écouter|France (Paris)|a.vwaʁ|audio=Fr-avoir.ogg|lang=fr}}
+* {{CA|nocat=1}} {{phon|a.vwɑːʁ|fr}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-avoir.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-avoir.wav}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)|audio=LL-Q150 (fra)-Pamputt-avoir.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Lyokoï-avoir.wav}}
+* {{écouter|lang=fr|France (Toulouse)||audio=LL-Q150 (fra)-Lepticed7-avoir.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-avoir.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-avoir.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-avoir.wav}}
+* {{écouter|lang=fr|France (Saint-Étienne)||audio=LL-Q150 (fra)-Touam-avoir.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-avoir.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-avoir.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-avoir.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+<references>
+</references>
+* {{Import:DAF8}}
+* {{R:TLFi}}
+* L’Office québécois de la langue française, [http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?id=1142 ''Avoir pour objet''], ''la Banque de dépannage linguistique'', 2002.
+

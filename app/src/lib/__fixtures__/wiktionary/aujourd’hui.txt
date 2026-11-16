@@ -1,0 +1,90 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: ''([[#fr-adv|Adverbe]])'' {{univerbation|fr}} ([[lexicalisation]]) de la locution, autrefois pléonastique ''[[au jour d’hui]]'' où ''[[hui]]'' signifiait « en ce jour », comme le {{étyl|la|fr|mot=hodie}} dont il provient. Intégré dans la langue française approximativement au {{siècle2|XVI}} siècle. De nos jours, ''[[hui]]'' a disparu du français et le mot a perdu son caractère pléonastique.
+: ''([[#fr-nom|Nom]])'' {{substantivation de|aujourd’hui|fr|type=adverbe}}.
+
+=== {{S|adverbe|fr}} ===
+{{fr-inv}}
+'''aujourd’hui''' {{pron|o.ʒuʁ.d‿ɥi|fr}} {{invar}} {{adverbe de temps|fr}}
+# À la [[date]] [[présent]]e, ce [[jour]] [[même]].
+# [[à présent|À présent]], à l'[[époque]] où l'on [[vivre|vit]].
+# [[date|Date]] [[quelconque]] par [[rapport]] à une autre qui en est [[très]] [[proche]]. — {{note}} Dans ce sens, on l’[[opposer|oppose]] [[ordinairement]] à ''[[demain]]'' ou à ''[[hier]]''.
+
+==== {{S|abréviations}} ====
+* [[auj.]]
+* [[ajd]] ou [[aujd]] {{SMS|nocat=1}}
+
+==== {{S|synonymes}} ====
+* [[ce jour]] {{soutenu|nocat=1}} ou {{info lex|administration}}
+* [[ce jourd’hui]] {{vieilli|nocat=1}}, {{littéraire|nocat=1}}
+* [[hui]] {{archaïsme|nocat=1}}
+* [[méshui]] {{archaïsme|nocat=1}}, {{littéraire|nocat=1}}
+
+==== {{S|dérivés}} ====
+* [[au jour d’aujourd’hui]]
+* [[d’aujourd’hui]]
+* [[d’aujourd’hui en huit]], [[d’aujourd’hui en quinze]] : dans [[huit jours]], dans [[quinze jours]], à compter d’aujourd’hui
+
+==== {{S|vocabulaire}} ====
+{{tableau-aujourd’hui}}
+* [[maintenant]]
+
+==== {{S|phrases}} ====
+* [[aujourd’hui Hong Kong, demain Taïwan]]
+* [[aujourd’hui Hong Kong, demain Taïwan, après-demain Okinawa]]
+* [[c’est pour aujourd’hui ou pour demain]]
+* [[ne remets pas à demain ce que tu peux faire aujourd’hui]]
+
+==== {{S|traductions}} ====
+{{trad-début|1. À la date présente.}}
+* {{T|ar}} : {{trad-|ar|اليَوْمَ|R=elyawma}}
+{{trad-fin}}
+
+{{trad-début|2. À présent, à l'époque où l'on vit.}}
+{{trad-fin}}
+
+{{trad-début|Date quelconque par rapport à un autre événement très proche}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+'''aujourd’hui''' {{pron|o.ʒuʁ.dɥi|fr}} {{m}} {{s}}
+# [[présent|Présent]], [[temps]] présent, [[contemporanéité]].
+/>Va-t-il nous déchirer avec un coup d’aile ivre<br
+/>Ce lac dur oublié que hante sous le givre<br
+/>Le transparent glacier des vols qui n’ont pas fui !'' {{source|{{w|Stéphane Mallarmé}}, ''Poésies'', « {{ws|« Le vierge, le vivace et le bel aujourd’hui »|Le Vierge, le vivace et le bel aujourd’hui}} », 1899}}
+
+==== {{S|abréviations}} ====
+* [[auj.]]
+
+==== {{S|notes}} ====
+: ''Aujourd’hui'' pose un certain problème dans les exercices scolaires de rédaction à nombre de mots imposé. En principe, deux groupes de lettres séparés par une apostrophe comptent comme deux mots différents, ce qui amène à compter ''aujourd’hui'' pour deux mots. Cependant, certains plaident que le mot ''aujourd’hui'' peut faire exception et compter comme un mot unique puisque aucun des deux groupes de lettres n’a de sens pris séparément (cf. [https://web.archive.org/web/20100103005229/http://lagazettedescommunes.com/concours/PDF/PreparerLesConcours/Types_Epreuves/3-ResumeTexte_TypesEpreuves.pdf ce site] concernant un concours administratif). Les verbes débutant avec ''[[entr’-]]'' plaident également en ce sens. Ce que contestent d’autres correcteurs, selon lesquels si on étudie le sens, on pourrait aussi bien dire que conformément à l’étymologie, ''aujourd’hui'' compte pour quatre mots.
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|o.ʒuʁ.d‿ɥi|fr}}
+* {{écouter|France|o.ʒuʁ.d‿ɥi|lang=fr}}
+** {{écouter|lang=fr|France (Paris)|o.ʒuʁ.d‿ɥi|audio=LL-Q150 (fra)-GrandCelinien-aujourd'hui.wav}}
+** {{écouter|lang=fr|Yvelines (France)|o.ʒuʁ.d‿ɥiç|audio=LL-Q150 (fra)-Jules78120-aujourd'hui.wav}}
+** {{écouter|lang=fr|France (Massy)|o.ʒuʁ.d‿ɥi|audio=LL-Q150 (fra)-X-Javier-aujourd'hui.wav}}
+** {{écouter|lang=fr|France (Paris)|o.ʒuʁ̥.d‿ɥi|audio=LL-Q150 (fra)-GrandCelinien-aujourd’hui.wav}}
+** {{écouter|lang=fr|France (Toulouse)|o.ʒuʁ.d‿ɥiç|audio=LL-Q150 (fra)-Lepticed7-aujourd’hui.wav}}
+** {{écouter|lang=fr|France (Vosges)|o.ʒuʁ.d‿ɥi|audio=LL-Q150 (fra)-Poslovitch-aujourd’hui.wav}}
+** {{écouter|Bordeaux (France)|o.ʒuʁ.d‿ɥiç|lang=fr|audio=LL-Q150 (fra)-Yug-aujourd'hui.wav}}
+** {{écouter|Cesseras (France)|o.ʒuʁ.d‿ɥi|lang=fr|audio=LL-Q150 (fra)-Guilhelma-aujourd'hui.wav}}
+** {{écouter|Lyon (France)|o.ʒuʁ.d‿ɥi|lang=fr|audio=LL-Q150 (fra)-WikiLucas00-aujourd’hui.wav}}
+* {{écouter|Québec|o.ʒʊʁ.d͡zɥi], [o.ʒɔʁ.d͡zɥi|lang=fr}}
+* {{écouter|Liège (Belgique)||lang=fr|audio=LL-Q150 (fra)-Shareculture-aujourd'hui.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-aujourd’hui.wav}}
+* {{écouter|Vosges (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-aujourd'hui.wav}}
+
+=== {{S|voir aussi}} ===
+* {{Vikidia}}
+
+=== {{S|références}} ===
+* {{R:Littré|aujourd'hui}}
+* {{Import:DAF8|aujourd'hui}}
+
+{{clé de tri|aujourdhui}}

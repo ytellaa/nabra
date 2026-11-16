@@ -1,0 +1,374 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr}} Du {{étyl|frm|fr|homme}}, de l’{{étyl|fro|fr|home}}, ''{{lien|hom|fro}}'', ''{{lien|hume|fr}}'', ''{{lien|omme|fro}}'', {{lien|''homme''|fro|sens=être humain, individu ; humain de genre ou sexe masculin}}, du {{étyl|la|fr|hominem|dif=hŏmĭnem}} (avec la perte de la syllabe {{pron|-in-|fr}}), accusatif singulier de {{lien|homo|dif=''hŏmo''|la|sens=être humain}}, qui a ajouté le sens de « humain de genre ou sexe masculin » en supplantant le classique ''{{lien|vir|la}}'' en latin impérial.
+
+: La forme du nominatif ''{{lien|homo|dif=hŏmo|la}}'' a donné en français le pronom indéfini ''{{lien|on|fr}}''.
+: [[cognat|Cognat]] de l’italien ''{{lien|uomo|it}}'', de l’espagnol ''{{lien|hombre|es}}'', du portugais ''{{lien|homem|pt}}'', du roumain ''{{lien|om|ro}}'', de l’occitan ''{{lien|òme|oc}}'', du catalan ''{{lien|home|ca}}''.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ɔm}}
+[[Fichier:Somov Homme nu allongé.jpg|vignette|redresse|Tableau d’un '''homme''' nu allongé sur un lit (1)]]
+'''homme''' {{h muet}} {{pron|ɔm|fr}} {{m}} {{équiv-pour|une femme|femme|2egenre=une personne non-binaire|2egenre1=enby|2egenre2=nb|lang=fr|2egenre3=non-binaire}}
+# {{lexique|anthropologie|genres humains et identités de genre|fr}} Être humain [[adulte]] de [[genre]] ou de [[sexe]] [[masculin]], par opposition à la [[femme]] et à l’[[enfant]].
+# {{par extension|fr}} Subalterne masculin, [[vassal]].
+# {{en particulier}} Personne masculine douée de [[sentiment]]s humains, soumise aux grandeurs et vicissitudes des êtres humains.
+# ''(Précédé d’un adjectif possessif)'' Personne masculine dont il a été fait mention précédemment.
+# ''(Précédé d’un adjectif possessif)'' {{lexique|famille|fr}} [[conjoint|Conjoint]], [[époux]], [[compagnon]] dans un [[couple]].
+# {{term|Collectif ou générique}} Être d’une [[espèce humaine]], du genre scientifique ''[[Homo]]'', souvent par opposition à l’[[animal]] ; l’ensemble des [[humain]]s, en particulier de l’espèce humaine actuelle (''[[Homo sapiens]]''). —  {{note}} on écrit souvent, depuis les années 1960, ''[[Homme]]'' avec une majuscule pour lever l’ambiguïté avec « être humain de genre ou sexe masculin ». Cet usage peut être considéré sexiste, en particulier au Canada{{R|Ministère de la Justice du Canada}}. Pour cette raison, une tendance se dessine qui consiste à remplacer quand c’est possible ''homme'' par ''[[humain]]''. {{w|Amnesty International}} dit les ''[[droits humains]]'' à la place des ''[[droits de l’homme]]''{{R|Amnesty International}}.
+# {{lexique|sociologie|fr}} Être humain, peu importe son genre ou sexe, ayant des valeurs sociales et morales.
+
+==== {{S|synonymes}} ====
+{{(|Être humain|1}}
+* [[être humain]]
+* {{lien|humain|fr|nom}}
+{{)}}
+
+{{(|Humain masculin|2}}
+* [[blaireau]]
+* [[bonhomme]]
+* [[gars]]
+* [[gadjo]]
+* [[gazier]]
+* [[gazou]]
+* [[gonz]], [[gonze]]
+* [[gus]]
+* [[keum]]
+* [[matz]]
+* [[mec]]
+* [[type]]
+{{)}}
+
+{{(|Conjoint, partenaire|2b}}
+* [[amant]]
+* [[époux]]
+* [[mari]]
+{{)}}
+
+{{(|Adulte|2c}}
+* [[adulte]]
+{{)}}
+
+{{(|Individu|2d}}
+* [[individu]]
+{{)}}
+
+==== {{S|antonymes}} ====
+{{(|Être humain|1}}
+* {{l|bête|fr}}
+{{)}}
+
+{{(|Humain masculin|2}}
+* [[belette]]
+* [[bonne femme]]
+* [[femme]]
+* [[gazelle]]
+* [[gonzesse]]
+* [[meuf]]
+{{)}}
+
+==== {{S|hyponymes}} ====
+* [[homme cis]]
+* [[homme trans]]
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[à hauteur d’homme]]
+* [[à la pauvre homme]]
+* [[à pas d’homme]]
+* [[abominable homme des neiges]]
+* [[année-homme]]
+* [[bon homme]]
+* [[bonhomie]]
+* [[bonhomme]], [[bonshommes]]
+* [[bonhommeau]]
+* [[brave homme]]
+* [[comme un seul homme]]
+* [[d’homme à homme]]
+* [[de mémoire d’homme]]
+* [[dépouiller le vieil homme]]
+* [[dissocier l’homme de l’artiste]]
+* [[entre hommes]]
+* [[être aux hommes]] {{QC|nocat=1}}
+* [[être un homme mort]]
+* [[faire l’homme]]
+* [[femme-homme]]
+* [[femme vers homme]]
+* [[Fils de l’homme]]
+* [[franc-homme]], [[francs-hommes]]
+* [[gentilhommaille]]
+* [[gentilhomme]], [[gentilshommes]]
+* [[gentilhommeau]]
+* [[gentilhommer]]
+* [[gentilhommerie]]
+* [[gentilhommesque]]
+* [[gentilhommière]]
+* [[grand homme]]
+* [[heure-homme]]
+* [[hombre]]
+* [[hombrée]]
+* [[homicide]]
+* [[homicider]]
+* [[hominide]]
+* [[hominidé]]
+* [[hominien]]
+* [[hominiser]]
+* [[hominisme]]
+* [[hoministe]]
+* [[hommage]]
+* [[hommagial]]
+* [[hommasse]]
+* [[hommassement]]
+* [[hommasser]]
+* [[Homme]]
+* [[homme à femmes]]
+* [[homme à la mer]]
+* [[homme à tout faire]]
+* [[homme à tout]]
+* [[homme à toute main]]
+* [[homme au fagot]]
+* [[homme augmenté]]
+* [[homme bio]]
+* [[homme d’action]]
+* [[homme d’affaires]]
+* [[homme d’argent]]
+* [[homme d’armes]] ''([[cavalier]] [[armé]] de toutes [[pièces]], mais sans [[noblesse]])''
+* [[homme d’Église]]
+* [[homme d’épée]]
+* [[homme d’équipage]]
+* [[homme d’esprit]]
+* [[homme d’État]]
+* [[homme d’honneur]]
+* [[homme d’importance]]
+* [[homme de barre]]
+* [[homme de bêtes]]
+* [[homme de bien]]
+* [[homme de cabinet]]
+* [[homme de chambre]]
+* [[homme de cheval]]
+* [[homme de cœur]]
+* [[homme de condition]]
+* [[homme de confiance]]
+* [[homme de couleur]]
+* [[homme de Dieu]]
+* [[homme de dossiers]]
+* [[homme de finance]]
+* [[homme de gout]] {{ortho1990}}
+* [[homme de goût]]
+* [[homme de guerre]]
+* [[homme de l’art]]
+* [[homme de l’ombre]]
+* [[homme de la rue]]
+* [[homme de lettres]]
+* [[homme de loi]]
+* [[homme de main]]
+* [[homme de maison]]
+* [[homme de marque]]
+* [[homme de médecine]]
+* [[homme de ménage]]
+* [[homme de mer]]
+* [[homme de métier]]
+* [[homme de néant]]
+* [[homme de paille]] ''([[prête-nom]])''
+* [[homme de parole]]
+* [[homme de péché]]
+* [[homme de peine]]
+* [[homme de peu de foi]]
+* [[homme de peu de mots]]
+* [[homme de peu]]
+* [[homme de pied]] ''(fantassin)''
+* [[homme de poids]]
+* [[homme de proie]]
+* [[homme de qualité]]
+* [[homme de référence]]
+* [[homme de rien]]
+* [[homme de robe]]
+* [[homme de science]]
+* [[homme de service]]
+* [[homme de troupe]]
+* [[homme de Vitruve]]
+* [[homme des bois]]
+* [[homme des cavernes]]
+* [[homme du commun]]
+* [[homme du jour]]
+* [[homme du monde]]
+* [[homme du peuple]]
+* [[homme du rang]]
+* [[homme du voyage]]
+* [[homme en jaune]]
+* [[homme facile]]
+* [[homme fort]]
+* [[homme fourmi]], [[homme-fourmi]]
+* [[hommelette]]
+* [[homme libre]]
+* [[homme lige]]
+* [[homme malade]]
+* [[homme mâle]]
+* [[homme marin]]
+* [[homme nouveau]]
+* [[homme qui a vu l’homme qui a vu l’ours]]
+* [[homme vert]]
+* [[homme-année]]
+* [[homme-caoutchouc]]
+* [[homme-falot]]
+* [[homme-femme]] (avec différentes orthographes)
+* [[homme-grenouille]]
+* [[homme gyné-génésique]]
+* [[homme-léopard]]
+* [[homme moderne]]
+* [[homme-mort]]
+* [[homme-orchestre]]
+* [[homme politique]]
+* [[homme qui a vu l’homme qui a vu l’homme qui a vu l’ours]]
+* [[homme qui tire plus vite que son ombre]]
+* [[homme-robot]]
+* [[homme-sandwich]]
+* [[homme soja]]
+* [[homme trans]]
+* [[homme-tronc]]
+* [[hommeau]]
+* [[hommée]]
+* [[hommelet]]
+* [[hommesse]]
+* [[hommeterruption]]
+* [[homme vers femme]]
+* [[homuncule]]
+* [[honnête homme]]
+* [[humain]]
+* [[jeune homme]]
+* [[jour-homme]]
+* [[la plus belle conquête de l’homme]] ''(le cheval)''
+* [[le meilleur ami de l’homme]]
+* [[mangeuse d’homme]]
+* [[marchand d’hommes]]
+* [[mois-homme]]
+* [[nouvel homme]]
+* [[pauvre homme]]
+* [[petit homme vert]]
+* [[post-humain]]
+* [[posthumanité]]
+* [[prud’homal]]
+* [[prud’homie]]
+* [[prud’homme]]
+* [[prudhommerie]]
+* [[prudhommesque]]
+* [[sage-femme homme]]
+* [[sage-homme]] {{rare|nocat=1}}
+* [[se dépouiller du vieil homme]]
+* [[sous-homme]]
+* [[super-homme]]
+* [[surhomme]]
+* [[transhomme]]
+* [[trou d’homme]]
+* [[trouver son homme]] ''(trouver quelqu’un avec qui se mesurer, qui est plus fort, plus habile)''
+* [[un homme à la mer]] ''(Locution interjective)''
+{{)}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[à vaillant homme courte épée]]
+* [[il n’y a pas mort d’homme]]
+* [[il y a grande différence d’homme à homme]]
+* [[je suis votre homme]] ''(je vous suis tout dévoué)''
+* [[l’homme est un loup pour l’homme]]
+* [[l’homme propose et Dieu dispose]]
+* [[l’homme propose et la femme dispose]] ''(les hommes peuvent seulement former des desseins, il ne leur arrive que ce qui plaît à leur femme)''
+* [[le rire est le propre de l’homme]]
+* [[tant vaut l’homme, tant vaut sa terre]]
+* [[tant vaut l’homme, tant vaut la terre]]
+* [[un homme averti en vaut deux]]
+* [[un homme, ça s’empêche]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|anatomie humaine|identité de genre|sexisme|racisme}}
+* [[♂]] (U+2642)
+* [[👨]] (U+1F468)
+{{(}}
+* [[garçon]]
+* [[identité de genre]]
+* [[troisième genre]]
+* [[gynandre]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Être humain adulte de genre ou sexe masculin}}
+* {{T|ar}} : {{trad+|ar|رجل|m|tr=ráǧul}}, {{trad+|ar|رَجُل}}
+* {{T|ar}} : {{trad-|ar|رَجُل (جمع رِجَال و رِجَالاَت)}}
+{{trad-fin}}
+
+{{trad-début|Époux}}
+* {{T|ar}} : {{trad+|ar|زَوْج|tr=zawj}}
+{{trad-fin}}
+
+{{trad-début|Être humain du genre Homo}}
+* {{T|ar}} : {{trad-|ar|إنْسَان|tr=insèn}}
+{{trad-fin}}
+
+{{trad-début|Individu, quidam}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|ɔm|fr}}
+* Français méridional : {{pron|ˈɔ.mə|fr}}
+* {{écouter||ʔɔm|lang=fr|audio=LL-Q150 (fra)-Fabe56-homme.wav}}
+* {{écouter||ʔɔm|lang=fr|audio=LL-Q150 (fra)-Sagnamadr-homme.wav}}
+* {{écouter|France|ʔɔm|lang=fr|audio=LL-Q150 (fra)-Mecanautes-homme.wav}}
+* {{écouter|Genève (Suisse)|ʔɔ.mə|lang=fr|audio=LL-Q150 (fra)-Nattes à chat-homme.wav}}
+* {{écouter|Hérault (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-T. Le Berre-homme.wav}}
+* {{écouter|Hérault (France)|ʔɔ.mə|lang=fr|audio=LL-Q150 (fra)-Guilhelma-homme.wav}}
+* {{écouter|Lausanne (Suisse)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-Eihel-homme.wav}}
+* {{écouter|Lyon (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-Loizbec-homme.wav}}
+* {{écouter|Lyon (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-WikiLucas00-homme.wav}}
+* {{écouter|Massy (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-X-Javier-homme.wav}}
+* {{écouter|Metz (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-val (Eavq)-homme.wav}}
+* {{écouter|Montpellier (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-GeoMechain-homme.wav}}
+* {{écouter|Montpouillan (France)|ʔɔ.mə|lang=fr|audio=LL-Q150 (fra)-Yug-homme.wav}}
+* {{écouter|Mulhouse (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-homme.wav}}
+* {{écouter|Muntzenheim (France)|ʔɔ.mə|lang=fr|audio=LL-Q150 (fra)-0x010C-homme.wav}}
+* {{écouter|Nouvelle-Aquitaine (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-Kiminou1-homme.wav}}
+* {{écouter|Paris (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-Ash Crow-homme.wav}}
+* {{écouter|Paris (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-Exilexi-homme.wav}}
+* {{écouter|Paris (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-GrandCelinien-homme.wav}}
+* {{écouter|Paris (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-LurKin-homme.wav}}
+* {{écouter|Paris (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-PJLC-Wiki-homme.wav}}
+* {{écouter|Paris (France)|ʔœ̃.n‿ɔm|lang=fr|audio=Fr-homme.ogg|titre=un homme}}
+* {{écouter|Toulouse (France)|ʔɔ.mə|lang=fr|audio=LL-Q150 (fra)-Lepticed7-homme.wav}}
+* {{écouter|Valais (Suisse)|ʔɔ.mə|lang=fr|audio=LL-Q150 (fra)-DSwissK-homme.wav}}
+* {{écouter|Vosges (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-LoquaxFR-homme.wav}}
+* {{écouter|Vosges (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-Poslovitch-homme.wav}}
+* {{écouter|France|ʔɔm|lang=fr|audio=LL-Q150 (fra)-Roll-Morton-homme.wav}}
+* {{écouter|France|ʔɔm|lang=fr|audio=LL-Q150 (fra)-Fhala.K-homme.wav}}
+* {{écouter|Grenoble (France)|ʔɔm|lang=fr|audio=LL-Q150 (fra)-Opsylac-homme.wav}}
+* {{écouter|Strasbourg (France)|ʔɔ.mːə|lang=fr|audio=LL-Q150 (fra)-Madehub-homme.wav}}
+* {{écouter||ʔɔ.mə|lang=fr|audio=LL-Q150 (fra)-Kaderousse-homme.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-homme.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-homme.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-homme.wav}}
+* {{écouter|Bordeaux (France)||lang=fr|audio=LL-Q150 (fra)-Bananax47-homme.wav}}
+==== {{S|paronymes}} ====
+* [[heaume]]
+* [[home]]
+* [[ohm]]
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+==== {{S|sources}} ====
+<references>
+{{R|Ministère de la Justice du Canada|{{Lien web|titre=Désexualisation|site=Le Ministère de la Justice du Canada|date=2015|url=https://www.justice.gc.ca/fra/pr-rp/sjc-csj/redact-legis/juril/no39.html}} :<br />''Certes, la langue évolue et il incombe au législateur de prendre acte des changements de l’usage et d’y donner suite. C’est pourquoi on parle de moins en moins des « droits de l’Homme », mais plutôt des « droits de la personne ». De fait, étant donné que le mot « homme » désigne à la fois l’espèce et l’individu mâle de l’espèce, les termes et locutions comportant ce mot (« homme d’affaires », « homme de loi », etc.) sont en voie d’extinction en français, du moins au Canada, parallèlement à la féminisation de plus en plus répandue des titres et fonctions dont il a déjà été question. La langue juridique a aussi, le plus souvent, emboîté le pas à la réforme des institutions; c’est ainsi, par exemple, que la « puissance paternelle » a fait place à l’« autorité parentale ».''}}
+{{R|Amnesty International|{{Lien web|titre=Pour un langage non sexiste des droits humains|site=Amnesty International|date=1998|url=//www.amnesty.org/fr/documents/org33/002/1998/fr/}}}}
+</references>
+
+==== {{S|bibliographie}} ====
+* {{Ouvrage|auteur={{w|Éliane Viennot}}|titre=En finir avec l’Homme. Chronique d’une imposture|lieu=Donnemarie-Dontilly|éditeur={{w|Éditions iXe}}|année=2021|pages totales=120|isbn=979-10-90062-70-2}}
+* {{R:DAF8}}
+* {{R:DMF}}
+* {{R:DAF1}}
+* {{R:TLFi}}
+

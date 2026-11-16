@@ -1,0 +1,464 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{lien-ancre-étym|fr|adj}} {{lien-ancre-étym|fr|nom|1}} {{lien-ancre-étym|fr|nom|2}} {{lien-ancre-étym|fr|interj}} {{siècle||lang=fr}} Du {{étyl|frm|fr|bon}}, de l’{{étyl|fro|fr|bon}}, forme proclitique atone qui a remplacé la forme tonique diphtonguée ''{{lien|buen|fro}}'', {{term|Cantilène de sainte Eulalie}} {{lien|''buona''|la|sens=bonne}} (880), du {{étyl|la|fr|bonus|dif=bŏnus}}.
+: {{lien-ancre-étym|fr|nom|3}} {{siècle|lang=fr|XVIII}} Dérivé de l’usage d’écrire ''[[bon à]] (payer), [[bon pour]] (accord)'' sur les documents commerciaux.
+: {{lien-ancre-étym|fr|nom|4}} {{abréviation|de=bataillon|lang=fr|texte='''b'''ataill'''on'''}}.
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-on|b}}
+'''bon''' {{pron|bɔ̃|fr}}
+# Qui a des [[qualité]]s [[conforme]]s à ce que l’on attendait.
+# Qui est [[avantageux]] ; [[favorable]] ; [[utile]] ; [[convenable]].
+# [[agréable|Agréable]] pour pratiquer une activité.
+# [[généreux|Généreux]], qui fait le [[bien]].
+# [[conforme#fr|Conforme]] aux [[norme]]s, à la [[raison]], à la [[justice]], à la [[moral]]e, au [[devoir]], à l’[[honnêteté]].
+# D’un [[goût]] agréable, {{lien|gouteux|fr}}.
+# {{informel|fr}} Se dit d’une [[blague]] ou d’un [[trait d’humour]] très [[efficace]], qui [[faire|fait]] [[beaucoup]] [[rire]].
+# D’une [[certain]]e [[intensité]] ; d'une certaine [[quantité]].
+# {{très familier|fr}} [[attirant#fr|Attirant]] physiquement. Surtout au féminin.
+# {{absolument|fr}} Je te souhaite un bon … {{note}} [[formule de politesse|Formule de politesse]] pour souhaiter quelque chose de bon à l’interlocuteur.
+# {{QC|fr}} Être [[doué]], [[talentueux]].
+# {{Nouvelle-Calédonie|fr}} {{familier|fr}} Qui va bien.
+
+==== {{S|notes}} ====
+: [[Annexe:Grammaire française:Comparatif et superlatif|Le comparatif et le superlatif]] de supériorité sont irréguliers : ''[[meilleur]]''.
+:* ''Les poires sont '''meilleures''' que les pommes.''
+: {{supplétion|mot=oui|lang=fr|meilleur}}.
+{{adj-antéposé-postposé|antéposé|postposé|ex1=C’est un '''bon''' père, cette personne est douée dans sa fonction.|ex2=C’est un père '''bon''', cette personne a un grand cœur.}}
+
+==== {{S|antonymes}} ====
+* [[nul]]
+* [[mauvais]]
+* [[inbon]]
+
+==== {{S|synonymes}} ====
+{{(|Qui fait le bien}}
+* [[altruiste]]
+* [[clément]]
+* [[généreux]]
+* [[miséricordieux]]
+{{)}}
+{{(|De goût agréable}}
+* [[délicieux]]
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[à bon compte]]
+* [[à bon droit]]
+* [[à bon entendeur]]
+* [[à bon entendeur salut]]
+* [[à bon escient]]
+* [[à bon marché]]
+* [[à bon port]]
+* [[abonnir]]
+* [[à la bonne]]
+* [[à quoi bon]]
+* [[archi-bon]]
+* [[arriver à bon port]]
+* [[au bon moment]]
+* [[avoir bon cœur]]
+* [[avoir bon dos]]
+* [[avoir bon marché]]
+* [[avoir bon nez]]
+* [[avoir bon pied, bon œil]]
+* [[avoir bonne presse]]
+* [[avoir de bons et de mauvais quarts d’heure]]
+* [[avoir du bon]]
+* [[avoir du poil au bon endroit]]
+* [[avoir la main bonne]]
+* [[avoir le bon dos]] {{info lex|sports hippiques}}
+* [[avoir une bonne descente]]
+* [[avoir une bonne presse]]
+* [[avoir une bonne tête]]
+* [[BA]], [[B.A.]] (bonne action)
+* [[BCBG]]
+* [[bête à bon Dieu]]
+* [[bon à]]
+* [[bon agir]], [[bon-agir]]
+* [[bon aloi]]
+* [[bon à jeter au fumier]]
+* [[bon à marier]], [[bonne à marier]]
+* [[bon ami]], [[bonne amie]] ''(respectivement « amant » et « maîtresse »)''
+* [[bon an, mal an]]
+* [[bon anniversaire]]
+* [[bon apôtre]]
+* [[bon appétit]]
+* [[bon à rien]]
+* [[bon-bec]]
+* [[bon, ben]]
+* [[bon chic bon genre]], [[BCBG]]
+* [[bon-chrétien]]
+* [[bon comme du bon pain]]
+* [[bon comme le bon pain]]
+* [[bon comme le pain]]
+* [[bon courage]]
+* [[bon délire]]
+* [[bon diable]] ''(personne de bon caractère et commode à vivre)''
+* [[bon Dieu]]
+* [[bon Dieu de]]
+* [[bon Dieu de bon Dieu]]
+* [[bon dol]]
+* [[bon enfant]]
+* [[bon fou]] ''(échecs)''
+* [[bon goût]]
+* [[bon gré mal gré]]
+* [[bon-henri]]
+* [[bon Homme]] {{term|Cathare}}
+* [[bon jeu bon argent]]
+* [[bon marché]]
+* [[bon matin]]
+* [[bon mot]]
+* [[bon nombre de]]
+* [[bon-papa]]
+* [[bon pied, bon œil]]
+* [[bon plaisir]]
+* [[bon point]], [[BP]]
+* [[bon pou]]
+* [[bon prince]]
+* [[bon public]]
+* [[bon sang]]
+* [[bon sens]]
+* [[bon teint]]
+* [[bon usage]]
+* [[bon vent]]
+* [[bon vieux temps]]
+* [[bon vivant]]
+* [[bon vouloir]]
+* [[bon voyage]]
+* [[bonace]]
+* [[bonasse]]
+* [[bonbon]]
+* [[bondieusaille]]
+* [[bondieusard]]
+* [[bondieuser]]
+* [[bondieuserie]]
+* [[bonheur]]
+* [[bonheur-du-jour]]
+* [[bonhomie]]
+* [[bonhomme]]
+* [[bonification]]
+* [[bonifié]]
+* [[bonifier]]
+* [[bonjour]]
+* [[bonnard]]
+* [[bonne action]] ''ou'' [[BA]] ''ou'' [[B.A.]]
+* [[bonne âme]]
+* [[bonne amie]]
+* [[bonne année]]
+* [[bonne arrivée]]
+* [[bonne chance]]
+* [[bonne continuation]]
+* [[bonne-dame]]
+* [[bonne Dame]] {{term|Cathare}}
+* [[bonne-encontre]]
+* [[bonne étoile]]
+* [[bonne-femme]]
+* [[bonne femme]]
+* [[bonne foi]]
+* [[bonne fortune]]
+* [[bonne-grâce]]
+* [[bonne heure]]
+* [[bonne journée]]
+* [[bonne lame]]
+* [[bonne limonade]]
+* [[bonne-main]]
+* [[bonne-maman]]
+* [[bonne nuit]]
+* [[bonne parole]]
+* [[bonne pâte]]
+* [[bonne pièce]]
+* [[bonne plume]]
+* [[bonne poire]]
+* [[bonne pomme]]
+* [[bonne pratique]]
+* [[bonne sœur]]
+* [[bonne soirée]]
+* [[bonne ville]]
+* [[bonnement]]
+* [[bonnes gens]]
+* [[bonnes manières]]
+* [[bonnes mœurs]]
+* [[bonnes œuvres]]
+* [[bonnes paroles]]
+* [[bonnes pratiques agricoles]] ''ou'' [[BPA]]
+* [[bonnes résolutions]]
+* [[bons et loyaux services]]
+* [[bons offices]]
+* [[bonsoir]]
+* [[BP]] (bon point)
+* [[BPA]]
+* [[doubleplusbon]]
+* [[de bon aloi]]
+* [[de bon cœur]]
+* [[de bon matin]]
+* [[de bon ton]]
+* [[de bonne famille]]
+* [[de bonne foi]]
+* [[de bonne guerre]]
+* [[de bonne heure]]
+* [[de bonne politique]]
+* [[de bonne prise]]
+* [[de la bonne manière]]
+* [[donner le bon exemple]]
+* [[elle est bien bonne]]
+* [[embonpoint]]
+* [[en avoir de bonnes]]
+* [[en bon]]
+* [[en bon état de marche]]
+* [[en bon père de famille]]
+* [[en bon point]]
+* [[en bon uniforme]]
+* [[en bonne et due forme]]
+* [[en bonne part]]
+* [[en bonnes mains]]
+* [[en de bonnes mains]]
+* [[en dire de bonnes]] ''(dire des choses singulières, extraordinaires, peu vraisemblables)''
+* [[entre de bonnes mains]]
+* [[être à bonne école]] 
+* [[être bon à jeter aux chiens]]
+* [[être bon comme la romaine]]
+* [[être bon public]]
+* [[être de bon aloi]]
+* [[être sur la bonne route]]
+* [[faire bon]]
+* [[faire bon accueil]]
+* [[faire bon ménage]]
+* [[faire bon poids]]
+* [[faire bon poids bonne mesure]]
+* [[faire bonne chère]]
+* [[faire bonne figure]]
+* [[faire bonne garde]]
+* [[faire bonne impression]]
+* [[faire le bon apôtre]]
+* [[fausse bonne idée]]
+* [[goûter bon]]
+* [[il est bon ?]]
+* [[inbon]]
+* [[la bonne blague]]
+* [[le bon Dieu en culotte de velours]]
+* [[louise-bonne]]
+* [[mettre bon ordre]]
+* [[miser sur le bon cheval]]
+* [[n’être bon ni à rôtir, ni à bouillir]]
+* [[n’être même pas bon à jeter aux chiens]]
+* [[plusbon]]
+* [[pour de bon]]
+* [[pour le bon motif]]
+* [[prendre du bon temps]] ''(se divertir, se récréer)''
+* [[revenant-bon]]
+* [[sent-bon]]
+* [[très-bon]]
+* [[toute-bonne]]
+* [[se faire du bon sang]]
+* [[s’en tirer à bon compte]]
+* [[sentir bon]]
+* [[sous bonne escorte]]
+* [[sur un bon pied]]
+* [[tenir bon]]
+* [[tirer le bon numéro]]
+* [[tout de bon]]
+* [[une bonne fois pour toutes]]
+* [[vie bonne]]
+* [[vivre à bon marché]]
+* [[y aller bon cœur bon argent]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[bien]]
+* [[boni]]
+* [[bonifier]]
+* [[bonus]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|document|guerre|choix}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[à bon chat, bon rat]]
+* [[à bon vin pas d’enseigne]]
+* [[à bon vin point d’enseigne]]
+* [[à méchant cheval bon éperon]]
+* [[à méchant ouvrier, point de bon outil]]
+* [[à quelque chose malheur est bon]]
+* [[bon cavalier monte à toute main]]
+* [[bon chien chasse de race]]
+* [[bon chien n’aboie pas pour rien]]
+* [[bon sang ne peut mentir]] {{désuet|nocat=1}}
+* [[bon sang ne saurait mentir]]
+* [[bonne terre, mauvais chemins]]
+* [[c’est bon]]
+* [[l’argent est un bon serviteur et un mauvais maitre]] {{ortho1990}}
+* [[l’argent est un bon serviteur et un mauvais maître]]
+* [[l’avare et le cochon ne sont bons qu’après leur mort]]
+* [[il fait bon]] ''(la température est douce, agréable ; se dit d’un endroit où on est agréablement et à son aise)''
+* [[il n’y a si bon cheval qui ne bronche]]
+* [[laissez les bons temps rouler]] ''(Louisiane)''
+* [[le compte est bon]]
+* [[le premier mouvement est toujours le bon]]
+* [[les bons comptes font les bons amis]]
+* [[les bons maitres font les bons valets]] {{ortho1990}}
+* [[les bons maîtres font les bons valets]]
+* [[on fait de bonne soupe dans un vieux pot]]
+* [[qui bon l’achète, bon le boit]]
+* [[son compte est bon]]
+* [[tout est bon dans le cochon]]
+* [[toute vérité n’est pas bonne à dire]]
+* [[toutes les bonnes choses ont une fin]]
+* [[trop bon, trop con]]
+* [[un bon bâilleur en fait bâiller sept]]
+* [[un bon conseil vaut un œil dans la main]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Qui a des qualités conformes à ce que l’on attendait|1}}
+* {{T|ar}} : {{trad-|ar|طيب|m|tr={{transliterator|ar|طيب}}}}, {{trad-|ar|جيد|tr={{transliterator|ar|جيد}}}}
+{{trad-fin}}
+
+{{trad-début|Qui est avantageux, favorable, utile, convenable|2}}
+{{trad-fin}}
+
+{{trad-début|Généreux, bienveillant|4}}
+{{trad-fin}}
+
+{{trad-début|Conforme aux normes, à la raison, à la justice, à la morale, au devoir, à l’honnêteté|5}}
+{{trad-fin}}
+
+{{trad-début|D’un goût agréable|6}}
+{{trad-fin}}
+
+{{trad-début|D’une certaine intensité|7}}
+{{trad-fin}}
+
+{{trad-début|Employé dans une formule de politesse pour souhaiter quelque chose de bon à l’interlocuteur|9}}
+* {{T|ar}} : {{trad-|ar|سعيد|tr={{transliterator|ar|سعيد}}}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début|À trier}}
+{{trad-fin}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|perle}}
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-inv|bɔ̃}}
+'''bon''' {{pron|bɔ̃|fr}} {{m}} {{s}}
+# Désigne ce qui est [[bon#fr-adj|bon]].
+# [[formule|Formule]] qu’on met au [[bas]] de certains [[effet]]s de [[commerce]] pour [[rappeler]] la [[somme]] mentionnée dans le [[corps]] de l’[[écrit]].
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+{{trad-début|Désigne ce qui est bon|1}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|bɔ̃}}
+'''bon''' {{pron|bɔ̃|fr}} {{m}} {{équiv-pour|lang=fr|une femme|bonne}}
+# Personne bonne.
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=3}} ===
+{{fr-rég|bɔ̃}}
+'''bon''' {{pron|bɔ̃|fr}} {{m}}
+# [[document|Document]] qui donne [[droit]] à quelque [[chose]] en [[échange]].
+# [[obligation#fr|Obligation]] financière.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[bon à tirer]]
+* [[bon au porteur]]
+* [[bon d’achat]]
+* [[bon d’État]]
+* [[bon de caisse]]
+* [[bon de commande]]
+* [[bon de réduction]]
+* [[bon de transport]] ([[BT]])
+* [[bon-prime]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* [[coupon]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=4}} ===
+'''bon''' {{pron|ba.ta.jɔ̃|fr}} {{m}} {{invar}}, {{abréviation|fr}}
+# {{lexique|militaire|fr}} [[bataillon|Bataillon]].
+
+==== {{S|variantes orthographiques}} ====
+* [[Bon]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|interjection|fr}} ===
+'''bon''' {{pron|bɔ̃|fr}}
+# [[bien#fr|Bien]], {{ébauche-déf|fr}}
+# Se dit pour marquer l’[[approbation]], la [[satisfaction]], ou pour mieux [[exprimer]] que l’on a [[compris]], [[entendu]].
+# On s’en sert quelquefois par [[antiphrase]] et pour se [[plaindre]].
+# Exprime l’[[étonnement]], le [[doute]], l’[[incrédulité]], l’[[insouciance]].
+# {{ironique|fr}} Permet de [[prétendre]] relativiser un élément [[négatif]], en en présentant un autre.
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|bɔ̃|fr}}
+* {{pron|bɔ̃|fr}}
+* Français méridional : {{pron|bɔŋ|fr}}
+* Canada : {{pron|bõ|fr}}
+* Parler gaga : {{phon|bøɔ̃|fr}} ou {{phon|bøœ̃|fr}}<ref> Jacques Plaine et Jeanluc Epallle, Les Trésors de Toutengaga : ''Dictionnaire gaga-français/français-gaga'', Actes Graphiques, 2019, ISBN 978-2368830628</ref>
+: {{note-dénasalisation}}
+{{(}}
+* {{écouter|lang=fr|France|bɔ̃|audio=Fr-bon.ogg}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-bon.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-bon.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-bon.wav}}
+* {{écouter|lang=fr|France (Occitanie)|audio=LL-Q150 (fra)-Arthur Crbz-bon.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-bon.wav}}
+* {{écouter|lang=fr|France (Grenoble)|audio=LL-Q150 (fra)-GAllegre-bon.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-bon.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-bon.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-bon.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-bon.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-bon.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-bon.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-bon.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-bon.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-bon.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-bon.wav}}
+{{)}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-bon.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-bon.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-bon.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-Vampiro (ClasseNoes)-bon.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-bon.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-bon.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-bon.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-LuneMarine (DSwissK)-bon.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-bon.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-bon.wav}}
+
+==== {{S|homophones|fr}} ====
+* {{lien|bond|fr}}
+
+=== {{S|références}} ===
+{{Références}}
+* {{R:DAF8}}
+* {{R:TLFi}}
+* {{R:Larousse}}
+* {{R:Usito}}
+
+[[Catégorie:Supplétions en français]]
+[[Catégorie:Documents en français]]
+

@@ -1,0 +1,82 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|mot=factura}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|fak.tyʁ}}
+'''facture''' {{pron|fak.tyʁ|fr}} {{f}}
+# [[manière|Manière]] dont est [[composé]]e une [[œuvre d’art]].
+# {{par extension}} Dans les autres arts, partie qui nécessite une parfaite [[maîtrise]] de la technique.
+# {{lexique|art|fr}} [[fabrication|Fabrication]] des [[instrument]]s de musique.
+# {{lexique|commerce|fr}} [[mémoire|Mémoire]] où un [[vendeur]] ou prestataire de services [[indiquer|indique]] en [[détail]] la [[quantité]], la [[qualité]] et le [[prix]] des [[marchandise]]s qu’il a [[livré]]es ou des services qu’il a [[rendu]]s à quelqu’un.
+# {{par métonymie|fr}} La [[somme]] [[facturé]]e à payer.
+# {{par extension|fr}} [[coût|Coût]], montant d’une [[dépense]].
+# {{figuré|fr}} [[prix|Prix]] à payer, [[contrepartie]], [[résultat]] négatif d’un évènement, d’une action ou d’une situation.
+# {{lexique|cartographie|fr}} Caractère traduisant la présentation générale d’une carte<ref>{{Import:CFC}}</ref>.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[cyberfacture]]
+* [[défacturation]]
+* [[défacturer]]
+* [[facturation]]
+* [[facture d’orgues]]
+* [[facturer]]
+* [[facturette]]
+* [[facturier]]
+* [[garanti sur facture]]
+* [[payer la facture]]
+* [[préfacturation]]
+* [[préfacturer]]
+* [[présenter la facture]]
+* [[refacturation]]
+* [[refacturer]]
+* [[sous-facturation]]
+* [[sous-facturer]]
+* [[surfacturation]]
+* [[surfacturer]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|4. Pièce comptable où un vendeur ou prestataire de services indique la quantité, la qualité et le prix des marchandises qu’il a livrées ou des services qu’il a rendus.}}
+{{trad-fin}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|bureau (pièce)|comptabilité|construction|document|musique}}
+* [[note de crédit]] (Belgique)
+* [[charte graphique]] {{info lex|cartographie}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|facturer|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui}}
+'''facture''' {{pron|fak.tyʁ|fr}}
+# ''Première personne du singulier du présent de l’indicatif de'' [[facturer]].
+# ''Troisième personne du singulier du présent de l’indicatif de'' [[facturer]].
+# ''Première personne du singulier du présent du subjonctif de'' [[facturer]].
+# ''Troisième personne du singulier du présent du subjonctif de'' [[facturer]].
+# ''Deuxième personne du singulier de l’impératif de'' [[facturer]].
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|fak.tyʁ|audio=Fr-facture.ogg}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-facture.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-facture.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)||lang=fr|audio=LL-Q150 (fra)-Helenou66-facture.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-facture.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-facture.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-facture.wav}}
+
+==== {{S|paronymes}} ====
+* [[fracture]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP|Facture (comptabilité)}}
+* {{WP|Facture instrumentale}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+{{Références}}
+
+[[Catégorie:Documents en français]]
+

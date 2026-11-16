@@ -1,0 +1,78 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr}} Du {{étyl|la|fr}} ''[[de#la|de]]'' et ''[[mane#la|mane]]'', « [[matin#fr|matin]] ».
+
+=== {{S|nom|fr}} ===
+{{fr-rég|də.mɛ̃}}
+'''demain''' {{pron|də.mɛ̃|fr}} {{m}}
+# Les temps à venir.
+
+=== {{S|adverbe|fr}} ===
+{{fr-inv|də.mɛ̃}}
+'''demain''' {{pron|də.mɛ̃|fr}} {{adverbe de temps|fr}}
+# Le [[jour]] qui [[suivre|suivra]] [[immédiatement]] celui où l’on est. [[dans|Dans]] un jour.
+# Dans le [[futur]].
+/>— Oh ! Oui, darling, nous vivons dans l’attente de ce que '''Demain''', '''Demain''', roi du pays des fées, apportera dans son manteau noir ou bleu, semé de fleurs, d’étoiles, de larmes. ''Oh ! bright king To-Morrow !'' '' {{source|{{w|Anatole France}}, ''{{ws|Le Lys rouge/Texte entier|Le Lys rouge}}'', 1894, réédition Le Livre de Poche, page 130}}
+# Se dit, dans un sens moins [[restreindre|restreint]], d’une [[époque]] qui en suit une autre de [[fort]] près, par opposition à ''aujourd’hui''.
+# {{proverbial|fr}} {{ébauche-déf|fr}}
+
+==== {{S|variantes}} ====
+* [[d’main]] {{populaire|nocat=1}} ou ''([[jersiais]])''
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à demain]]
+* [[après-demain]]
+* [[demain en huit]]
+* [[demain est un autre jour]]
+* [[demain, il fera jour]]
+* [[lendemain]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[aujourd’hui Hong Kong, demain Taïwan]]
+* [[aujourd’hui Hong Kong, demain Taïwan, après-demain Okinawa]]
+* [[ce n’est pas demain la veille]], [[c’est pas demain la veille]]
+* [[c’est pour aujourd’hui ou pour demain]]
+* [[demain est un autre jour]]
+* [[demain on rase gratis]]
+* [[ne remets pas à demain ce que tu peux faire aujourd’hui]]
+* [[ne pas savoir de quoi demain sera fait]]
+
+==== {{S|antonymes}} ====
+* [[hier]] (1, 2)
+* [[autrefois]] (2)
+
+==== {{S|vocabulaire}} ====
+{{tableau-aujourd’hui}}
+
+==== {{S|traductions}} ====
+{{trad-début|Dans un jour}}
+* {{T|ar}} : {{trad+|ar|غَدًا|R=Radã}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|də.mɛ̃|fr}}
+* {{pron|də.mɛ̃|fr}}
+** {{écouter|France (Paris)|dø.mæ̃|audio=Fr-demain.ogg|lang=fr}}
+** {{écouter|France (Avignon)|də.mẽᵑ|audio=Fr-demain (Avignon).ogg|lang=fr}}
+** {{écouter|Canada (Montréal)|də.mɛ̃ᵑ|audio=Qc-demain.ogg|lang=fr}}
+* {{écouter||də.mɛ̃|lang=fr|audio=LL-Q150 (fra)-Guilhelma-demain.wav}}
+
+* {{écouter||də.mɛ̃|lang=fr|audio=LL-Q150 (fra)-Jules78120-demain.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-demain.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-demain.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-demain.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-demain.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-demain.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-demain.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-demain.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+{{Autres projets
+|w=Demain
+|s=Demain}}
+

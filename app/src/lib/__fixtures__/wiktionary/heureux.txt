@@ -1,0 +1,114 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Dérivé de ''[[heur]]'', signifiant « avoir la chance de », avec le suffixe ''[[-eux]]''.
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-eux|heur|œ.ʁ}}
+'''heureux''' {{pron|œ.ʁø|fr}} ou {{pron|ø.ʁø|fr}}{{R|TLFi}}
+# Qui [[jouit]] du [[bonheur]], qui [[possède]] ce qui peut le [[rendre]] [[content]].
+# Se dit de la [[condition]], de la [[situation]], de la [[vie]] de celui qui est heureux.
+# [[favorisé|Favorisé]] par la vie ou par son sort.
+# Qui rend [[fortuné]], qui [[procure]] du [[plaisir]] ou qui est [[favorable]] et [[avantageux]].
+# Qui [[annonce]] de la [[prospérité]], qui [[promet]] de la [[bonne]] fortune, ou qui [[prévient]] [[favorablement]].
+# Choses [[sujettes]] à quelque [[danger]], lorsqu’elles [[arrivent]] sans [[accident]].
+# Se dit d’une [[chute]] ou de quelque autre chose de [[fâcheux]] qui n’a pas eu de [[mauvaise]] [[suite]].
+# {{term|Dans une acception plus étendue}} Qui est bon, [[excellent]], [[distingué]] ou [[rare]] en son [[genre]].
+
+==== {{S|synonymes}} ====
+(1)
+* [[béat]]
+* [[bienheureux]]
+* [[comblé]]
+* [[content]]
+* [[enchanté]]
+* [[épanoui]]
+* [[gai]]
+* [[joyeux]]
+* [[ravi]]
+* [[réjoui]]
+* [[satisfait]]
+
+==== {{S|antonymes}} ====
+(1)
+* [[dépité]]
+* [[désenchanté]]
+* [[malheureux]]
+* [[triste]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[Arabie heureuse]]
+* [[attendre un heureux événement]]
+* [[avoir la main heureuse]]
+* [[couler des jours heureux]]
+* [[d’heureuse mémoire]]
+* [[encore heureux]]
+* [[être heureux]]
+* [[Jours heureux]]
+* [[heureusement]]
+* [[heureuseté]]
+* [[heureux comme Dieu en France]] ''(Proverbe allemand)''
+* [[heureux comme un pape]]
+* [[heureux comme un prince]]
+* [[heureux comme un roi]]
+* [[heureux comme un poisson dans l’eau]]
+* [[heureux élu]]
+* [[heureux possesseur]]
+* [[imbécile heureux]]
+* [[malheureux]]
+* [[mondialisation heureuse]]
+* [[ne pas faire que des heureux]]
+* [[nombre heureux]]
+* [[père heureux dans ses enfants]]
+* [[père heureux en enfants]]
+* [[sous d’heureux auspices]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[heureux au jeu, malheureux en amour]]
+* [[heureux en amour, malheureux au jeu]]
+* [[ils furent heureux et eurent beaucoup d’enfants]]
+* [[ils vécurent heureux et eurent beaucoup d’enfants]]
+* [[malheureux au jeu, heureux en amour]]
+* [[malheureux en amour, heureux au jeu]]
+* [[mariage plus vieux, mariage heureux]]
+* [[mariage pluvieux, mariage heureux]]
+* [[pour vivre heureux vivons cachés]]
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|bonheur}}
+
+==== {{S|traductions}} ====
+{{trad-début|Qui jouit du bonheur|1}}
+* {{T|ar}} : {{trad-|ar|سعيد|m|tr=saiid}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début|À trier}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-inv|œ.ʁø|sp=1}}
+'''heureux''' {{pron|œ.ʁø|fr}} ou {{pron|ø.ʁø|fr}}{{R|TLFi}} {{m}} {{équiv-pour|lang=fr|une femme|heureuse}} {{sp}}
+# {{au pluriel}} Personnes heureuses.
+# On dit également, dans le [[langage]] de la [[chaire]] : les '''heureux''' du siècle.
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|œ.ʁø|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|ø.ʁø|audio=Fr-heureux.ogg}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-heureux.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-heureux.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-heureux.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)||lang=fr|audio=LL-Q150 (fra)-Helenou66-heureux.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-heureux.wav}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+* [http://www.tv5monde.com/cms/chaine-francophone/lf/Merci-Professeur/p-17081-Heureuse-je-le-suis.htm?episode=190 Explication de Bernard Cerquiglini en images sur l’origine de l’expression ''Heureuse je le suis'']
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+<references>
+{{R|TLFi}}
+</references>
+
+[[Catégorie:Mots en français suffixés avec -eux]]

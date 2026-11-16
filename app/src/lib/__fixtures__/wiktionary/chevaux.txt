@@ -1,0 +1,14 @@
+== {{langue|fr}} ==
+=== {{S|nom|fr|flexion}} ===
+{{fr-rég-al|chev|ʃə.v|pron2=ʃf}}
+'''chevaux''' {{pron|ʃə.vo|ʃfo|fr}} {{m}}
+# ''Pluriel de'' [[cheval]].
+
+==== {{S|vocabulaire}} ====
+* [[monter sur ses grands chevaux]]
+* [[l’âge n’est fait que pour les chevaux]]
+
+=== {{S|prononciation}} ===
+* {{pron|ʃə.vo|fr}},  {{pron|ʃfo|fr}}
+** {{écouter|lang=fr|Canada (Shawinigan)|ʃfo|audio=LL-Q150 (fra)-DenisdeShawi-chevaux.wav}}
+* {{écouter|Vendée (France)|ʃə.vo|lang=fr|audio=LL-Q150 (fra)-Sartus85-chevaux.wav}}

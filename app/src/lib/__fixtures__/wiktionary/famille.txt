@@ -1,0 +1,213 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr|1337}} Du {{étyl|la|fr|mot=familia|sens=domesticité, maisonnée}} dérivé de ''[[famulus]], [[famul]]'' (« [[serviteur]], [[esclave]] »).
+
+=== {{S|nom|fr}} ===
+{{fr-rég|fa.mij}}
+'''famille''' {{pron|fa.mij|fr}} {{f}}
+# {{nom collectif|fr}} {{term|strictement}} [[ensemble|Ensemble]] formé par les [[parent]]s et leurs [[enfant]]s.
+# {{nom collectif|fr}} {{désuet|fr}} Ensemble formé par les parents, les enfants et les serviteurs d’une maisonnée.
+# {{nom collectif|fr}} {{term|Au sens large}} Ensemble des [[personne]]s ayant des [[lien de parenté|liens de parenté]] par le [[sang]] ou par [[alliance]].
+# {{nom collectif|fr}} {{spécialement}} [[suite|Suite]] des [[individu]]s nés d’une même [[souche]].
+# Toutes les personnes qui [[vivre|vivent]] sous la [[protection]] d’un [[chef]].
+# Groupe, catégorie de choses ou d’êtres partageant des caractères communs.
+# {{lexique|mathématiques|fr}} [[collection|Collection]] [[indexée]] d’[[élément]](s) d’un [[ensemble]] ''E''. Rigoureusement, [[application]] d’un ensemble d’[[indice]]s ''I'' dans ''E'', notée formellement <math>(x_i)_{i\in I}</math>.
+# {{ancre|fr-biologie}} {{en particulier}} {{lexique|biologie|taxinomie|fr}} [[taxon|Taxon]] qui regroupe les [[genre]]s qui présentent le plus de similitudes entre eux.
+# {{lexique|typographie|fr}} Ensemble homogène de [[police#Nom_commun_2|polices]] apparentées, de style identique, ne différant que par la largeur, la [[graisse]] ou le caractère romain ou italique<ref>{{Import:CFC}}</ref>{{?}}.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[air de famille]]
+* [[attendre de la famille]]
+* [[attendre famille]]
+* [[bal des familles]] ''(désuet, bal public où les jeunes pouvaient danser ensemble sous la surveillance de leurs parents)''
+* [[belle-famille]]
+* [[bien de famille]]
+* [[bijou de famille]]
+* [[bijoux de famille]]
+* [[chargé de famille]]
+* [[chef de famille]]
+* [[code de la famille]]
+* [[conseil de famille]]
+* [[contrôler la famille]]
+* [[de bonne famille]]
+* [[des familles]]
+* [[en bon père de famille]]
+* [[en famille]]
+* [[esprit de famille]]
+* [[famille famille]]
+* [[famille d’accueil]]
+* [[famille de colonnes]] {{info lex|bases de données}}
+* [[famille de gènes]] {{info lex|génétique}}
+* [[famille de langues]] {{info lex|linguistique}}
+* [[famille de protéines]] {{info lex|biochimie}}
+* [[familles des vitrines]]
+* [[famille étendue]]
+* [[famille libre]] {{info lex|algèbre linéaire}}
+* [[famille liée]] {{info lex|algèbre linéaire}}
+* [[famille monoparentale]]
+* [[famille nombreuse]]
+* [[famille nucléaire]]
+* [[famille par alliance]] ''(personnes entre lesquelles existent des liens résultant de mariages : beau-frère, gendre, belle-fille, neveu, cousin par alliance)''
+* [[famille publique]]
+* [[famille recomposée]]
+* [[famille tuyau de poêle]]
+* [[fils de famille]]
+* [[fonder une famille]]
+* [[jeu des 7 familles]], [[7 familles]]
+*: [[jeu des familles]]
+* [[laver son linge sale en famille]]
+* [[livret de famille]]
+* [[maison de famille]]
+* [[médecin de famille]]
+* [[médecine de famille]]
+* [[mère de famille]]
+* [[nom de famille]]
+* [[partir en famille]]
+* [[pension de famille]]
+* [[père de famille]]
+* [[recherche dans l'intérêt des familles]]
+* [[réunion de famille]]
+* [[Sainte Famille]], [[sainte famille]]
+* [[secret de famille]]
+* [[sous-famille]]
+* [[soutien de famille]]
+* [[super-famille]]
+* [[vie de famille]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[familial]]
+* [[familiariser]]
+* [[familier]]
+* [[familleux]]
+
+==== {{S|phrases}} ====
+* [[travail, famille, patrie]] {{info lex|histoire}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|généalogie|guimauve (plante)|droits humains|famille|réanimation|groupe|sang|confinement|sociologie|pique-nique|mafia|barbecue|urgence|handicap}}
+
+==== {{S|hyperonymes}} ====
+; Taxon (6) :
+* [[taxon]]
+
+==== {{S|holonymes}} ====
+{{(|Parents et leurs enfants|1}}
+* '''famille''' (au sens large, sens 2)
+{{)}}
+
+{{(|Taxon|6}}
+* [[classe]]
+* [[embranchement]]
+* [[ordre]]
+* [[règne]]
+* [[sous-classe]]
+* [[sous-embranchement]]
+* [[sous-ordre]]
+* [[super-classe]]
+{{)}}
+
+==== {{S|méronymes}} ====
+{{(|Parents et leurs enfants|1}}
+* [[enfant]]
+* [[fils]]
+* [[fils de famille]]
+* [[fille]]
+* [[mère]]
+* [[mère de famille]]
+* [[parent]]
+* [[père]]
+* [[père de famille]]
+{{)}}
+
+{{(|Liens de parenté|2}}
+* [[arrière-grand-mère]], [[arrière-grand-père]]
+* [[beau-père]], [[belle-mère]]
+* [[bel-oncle]], [[belle-tante]]
+* [[beau-frère]], [[belle-sœur]]
+* [[belle-famille]]
+* [[bru]], [[gendre]]
+* [[cousin]], [[cousine]]
+* [[demi-frère]], [[demi-sœur]]
+* [[frère]], [[sœur]]
+* [[frère plein]]
+* [[grand-parent]], [[grand-père]], [[grand-mère]], [[grand-oncle]], [[grand-tante]]
+* [[neveu]], [[nièce]]
+* [[oncle]], [[tante]]
+* [[parent]]
+{{)}}
+
+{{(|Sous la protection d’un chef|3}}
+* [[filleul]]
+* [[parrain]]
+{{)}}
+
+{{(|Taxon|6}}
+* [[espèce]]
+* [[genre]]
+* [[sous-espèce]]
+* [[sous-famille]]
+* [[sous-genre]]
+* [[tribu]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|vie quotidienne|biologie évolutive|déménagement|morale|zingibéracées|parenté|myrtacées|malpighiacées|anacardiacées|caricacées|crassulacées|musacées|ébénacées|grossesse|analyse sociale|sociologie de l’éducation}}
+
+==== {{S|traductions}} ====
+{{trad-début|(Nom collectif) (Strictement) Ensemble formé par les parents et leurs enfants.|1}}
+* {{T|ar}} : {{trad+|ar|عائلة|tr=ʿā'ila}}, {{trad+|ar|عَائِلَة}}, {{trad+|ar|أُسْرَة}}
+{{trad-fin}}
+
+{{trad-début|(Nom collectif) (Au sens large) Ensemble des personnes ayant des liens de parenté par le sang ou par alliance.|3}}
+{{trad-fin}}
+
+{{trad-début|Catégories}}
+{{trad-fin}}
+
+{{trad-début|(En particulier) (Biologie, Taxinomie) Taxon qui regroupe les genres qui présentent le plus de similitudes entre eux.|8}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|fa.mij|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|yn fa.mij|audio=Fr-famille.ogg}}
+* {{écouter|lang=fr|France (Saint-Maurice-de-Beynost)|audio=LL-Q150 (fra)-Hector (Benoît Prieur)-famille.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-famille.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-famille.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines1-famille.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines2-famille.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines3-famille.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines5-famille.wav}}
+* {{écouter|lang=fr||audio=LL-Q150 (fra)-Aemines4-famille.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines6-famille.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-famille.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-famille.wav}}
+* {{écouter|Vosges (France)||lang=fr|audio=LL-Q150 (fra)-LoquaxFR-famille.wav}}
+* {{écouter|Rennes (France)||lang=fr|audio=LL-Q150 (fra)-VIGNERON-famille.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-famille.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+* {{WSP|familia}}
+* Traduction en langue des signes française : {{wikisign|famille}}
+{{Liste||liste=Rangs taxinomiques<br>''[[famille#biologie|famille]]''|avant=''[[super-famille]]''<br>ou<br>''[[superfamille]]''|après=''[[sous-famille]]''}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+* {{R:Babault}}
+* {{R:LarousseXXe}}
+{{Références}}
+
+[[Catégorie:Taxinomie:Rangs taxinomiques en français]]
+[[Catégorie:Lexique en français de la biologie]]
+[[Catégorie:Lexique en français de la famille]]
+

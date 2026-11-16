@@ -1,0 +1,208 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr}} populaire {{recons|lang-mot-vedette=fr|sapēre}}, en latin classique ''[[sapio#la|sapĕre]]'', « avoir de la saveur », avec influence de ''[[sapiens#la|sapiens]]'' « sage », d’où « être perspicace », « comprendre », puis « savoir », et élimination du classique ''[[scio#la|scire]]'' « savoir ». Très ancien français : ''savir'' (''Serments de Strasbourg''), puis ''[[saveir#fro|saveir]]'', et enfin '''''savoir'''''. Pendant très longtemps, du [[moyen français]] jusqu'au <small>XVIII</small>{{e}} siècle, le mot s’écrivait ''[[sçavoir]]'' par fausse régression au latin classique ''[[scio#la|scire]]'' (« savoir »). Il fallut attendre 1740 pour que l’Académie française enregistrât, en la troisième édition de son dictionnaire, le mot sous sa graphie actuelle.
+
+=== {{S|verbe|fr}} ===
+'''savoir''' {{pron|sa.vwaʁ|fr}} {{t|fr}} {{conjugaison|fr|groupe=3}}
+# [[appréhender|Appréhender]] par l’[[esprit]] ou la [[connaissance]] ; [[connaître]] de façon certaine.
+/>Que je viens pour jouir plus près de ta présence,<br
+/>Et tu '''sais''' que je '''sais''' que tu '''sais''' qui je suis :<br
+/>Lors à nous saluer pourquoi donc tant tarder ?'' {{source|Michel-Ange, ''Poésies'', traduction de Michel Orcel, XIX}}
+# Avoir dans la [[mémoire]].
+# [[posséder|Posséder]] quelque [[science]], quelque [[art]], être [[instruit]], [[habile]] en quelque [[profession]], en quelque [[exercice]].
+# {{absolument}} Avoir l’[[esprit]] [[orner|orné]] et [[rempli]] de choses [[utile]]s.
+# [[accoutumer|Être accoutumé]] ou [[exercer|exercé]] à une chose, la [[bien]] faire.
+# Avoir le [[pouvoir]], la [[force]], le [[moyen]], l’[[adresse]], l’[[habileté]] de faire [[quelque chose]].
+# [[pouvoir|Pouvoir]]. — {{note}} Dans ce sens, il s’emploie surtout avec le conditionnel et avec la négation ''[[ne]]''.
+# {{Belgique|fr}} [[pouvoir|Pouvoir]] — {{note}} Dans le sens « avoir la capacité de ». Il peut être à l’indicatif, dans une phrase positive.
+# [[apprendre|Apprendre]], [[instruire|être instruit]] ou [[informer|être informé]] de quelque chose.
+# {{term|En parlant d’une personne ou d’une chose}} Être informé qu’une personne ou qu’une chose existe ou peut [[trouver|être trouvée]].
+# Connaître, reconnaître, distinguer.
+/>Laurence me '''savait'''. Je l’avais cru, du moins.'' {{source|{{w|Philippe Delerm}}, ''Quiproquo'', nouvelle, supplément au magazine « Elle », 1999, page 4}}
+#{{archaïsme|lang=fr}} [[à savoir|À savoir]] ; précède une explicitation par une énumération.
+
+==== {{S|variantes}} ====
+* [[sachoir]] {{par plaisanterie|nocat=1}}
+
+==== {{S|synonymes}} ====
+* [[connaître]]
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[à savoir]]
+* [[aller savoir]]
+* [[ça se saurait]]
+* [[désavoir]] ''(Non standard)''
+* [[Dieu sait]]
+* [[en savoir long]]
+* [[en savoir un rayon]]
+* [[être tout je ne sais comment]]
+* [[faire de la prose sans le savoir]]
+* [[faire savoir]]
+* [[faire-savoir]]
+* [[gai savoir]]
+* [[gestion du savoir]]
+* [[je ne sais quand]]
+* [[je ne sais qui]]
+* [[je ne sais quoi]]
+* [[ne pas être sans savoir]]
+* [[ne pas savoir à quel saint se vouer]]
+* [[ne pas savoir quoi faire de sa peau]]
+* [[ne pas savoir quoi faire de ses mains]]
+* [[ne pas savoir sur quel pied danser]]
+* [[ne plus savoir où donner de la tête]]
+* [[ne plus savoir où on en est]]
+* [[ne plus savoir où se mettre]]
+* [[ne plus savoir quoi inventer]]
+* [[ne rien vouloir savoir]]
+* [[ne savoir ce qu’on veut]]
+* [[ne savoir où donner de la tête]]
+* [[ne savoir ni ce qu’on fait, ni ce qu’on dit]]
+* [[ne savoir pas distinguer sa main gauche de sa main droite]]
+* [[ne savoir que faire]]
+* [[ne savoir rien de rien]]
+* [[ne savoir rien faire de ses dix doigts]]
+* [[ne trop savoir]]
+* [[on ne sait d'où]]
+* [[on ne sait jamais]]
+* [[on sait bien]]
+* [[que vous savez]]
+* [[qui vous savez]]
+* [[resavoir]]
+* [[savant]] {{cf|savant}}
+* [[savez-vous]]
+* [[savoir à quoi s’en tenir]]
+* [[savoir ce que parler veut dire]]
+* [[savoir-faire]]
+* [[savoir gré]]
+* [[savoir la carte]]
+* [[savoir par cœur]]
+* [[savoir prendre]]
+* [[savoir ses lettres]]
+* [[savoir se tenir]]
+* [[savoir-vivre]]
+* [[savoir-être]]
+* [[savoir y faire]]
+* [[si tu savais]]
+* [[si vous saviez]]
+* [[toi-même tu sais]]
+* [[vouloir tout savoir sans rien payer]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[Homo sapiens]]
+* [[Homo sapiens sapiens]]
+* [[Sapiens]]
+
+==== {{S|phrases}} ====
+{{(}}
+* [[bon sang ne saurait mentir]]
+* [[c’est à savoir]]
+* [[cachez ce … que je ne saurais voir]]
+* [[ce que vous savez]]
+* [[il faut savoir raison garder]]
+* [[il n’y a pas de bons vents pour le marin qui ne sait pas où il va]]
+* [[je ne sais qu’une chose c’est que je ne sais rien]]
+* [[je sais ce que je sais]]
+* [[on ne sait qui vit ni qui meurt]]
+* [[on ne saurait faire boire un âne qui n’a pas soif]]
+* [[on ne saurait faire boire un âne s’il n’a pas soif]]
+* [[on ne saurait faire d’une buse un épervier]]
+* [[on ne saurait si peu boire qu’on ne s’en sente]]
+* [[on veut pas le savoir, on veut le voir]]
+* [[sait-on jamais]]
+* [[si j’avais su, je ne serais pas venu]]
+* [[tout vient à point à qui sait attendre]]
+* [[que sais-je]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Être informé d’un fait, appréhender par l’esprit|1}}
+{{trad-fin}}
+
+{{trad-début|Avoir dans la mémoire|2}}
+{{trad-fin}}
+
+{{trad-début|Posséder quelque science, quelque art, être instruit, habile en quelque profession, en quelque exercice|3}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|sa.vwaʁ}}
+'''savoir''' {{pron|sa.vwaʁ|fr}} {{m}}
+# Ensemble des [[connaissance]]s acquises par l’étude, par l’expérience.
+
+==== {{S|synonymes}} ====
+* [[connaissance]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[gai savoir]]
+* [[gestion du savoir]]
+* [[gestionnaire du savoir]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad+|ar|معرفة|f}}, {{trad+|ar|مَعْرِفَة}}, {{trad+|ar|عِلْم}}
+{{trad-fin}}
+
+=== {{S|conjonction|fr}} ===
+{{fr-inv|sa.vwaʁ}}
+'''savoir''' {{pron|sa.vwaʁ|fr}} {{invariable|fr}}
+# {{ellipse|fr}} [[à savoir|À savoir]].
+/>10 fr. qui vont à l’article Paris ;<br
+/>5 fr. qui vont à la librairie.<br
+/>Et quant à Jacques Bonhomme, il obtient pour ses 15 fr., deux objets de satisfaction, '''savoir''' :<br
+/>1° Un quintal de fer ;<br
+/>2° Un livre.'' {{source|{{w|Frédéric Bastiat}}, ''{{ws|Ce qu’on voit et ce qu’on ne voit pas/Chapitre 7|Ce qu’on voit et ce qu’on ne voit pas}}'', 1850}}
+# {{familier|fr}} Pour marquer qu’on doute que quelque chose.
+# {{familier|fr}} Pour marquer qu’on veut en savoir davantage.
+/>— '''Savoir''' ?'' {{source|{{w|Antoine Blondin}}, ''{{w|L’Europe buissonnière}}'', 1949}}
+
+=== {{S|prononciation}} ===
+* {{pron|sa.vwaʁ|fr}}
+** {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|sa.vwaʁ|audio=Fr-savoir.ogg}}
+* {{écouter||sa.vwaʁ|lang=fr|audio=LL-Q150 (fra)-Guilhelma-savoir.wav}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-savoir.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-savoir.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-savoir.wav}}
+* {{écouter|lang=fr|Suisse (Genève)|audio=LL-Q150 (fra)-Nattes à chat-savoir.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-savoir.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-savoir.wav}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)|audio=LL-Q150 (fra)-Pamputt-savoir.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-savoir.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-savoir.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-savoir.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-savoir.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-savoir.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-savoir.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-savoir.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-savoir.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-savoir.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-savoir.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-savoir.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-Loizbec-savoir.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-savoir.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-Vampiro (ClasseNoes)-savoir.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-savoir.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-savoir.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-savoir.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-savoir.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-savoir.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-savoir.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-savoir.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Wikiquote}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+

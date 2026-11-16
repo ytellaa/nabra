@@ -1,0 +1,9 @@
+== {{langue|fr}} ==
+=== {{S|nom|fr|flexion}} ===
+{{fr-rég|ɛ̃.po|s=impôt}}
+'''impôts''' {{pron|ɛ̃.po|fr}} {{m}}
+# ''Pluriel de'' [[impôt]].
+
+=== {{S|prononciation}} ===
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-impôts.wav}}
+* {{écouter|Normandie (France)||lang=fr|audio=LL-Q150 (fra)-Roptat-impôts.wav}}

@@ -1,0 +1,393 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|X|lang=fr}} Du {{étyl|frm|fr|temps}}<ref>{{R:DMF}}</ref>, de l’{{étyl|fro|fr|tems}}, {{lien|''tens''|fro}}<ref>{{R:DÉCT|tens}}</ref>, du {{étyl|la|fr|mot=tempus|sens=temps, durée, époque}}{{R|TLFi}}.
+
+=== {{S|nom|fr}} ===
+{{fr-inv|tɑ̃}}
+[[Image:Chronos fleche temps.svg|frame|Image représentant le princpe du ''Chronos'' dans le concept de '''temps'''.]]
+[[Image:Typhoon in Hong Kong.jpg|thumb|Mauvais '''temps''' : un typhon à [[Hong-Kong]].]]
+'''temps''' {{pron|tɑ̃|fr}} {{m}} {{invar}}
+# [[durée|Durée]] des choses, [[marquer|marquée]] par [[certain]]es [[période]]s, et [[principalement]] par la [[révolution]] [[apparent]]e du [[soleil]] ; [[écart]] entre le [[déroulement]] de [[deux]] [[événements]].
+# {{par extension}} {{lexique|mythologie|fr}} Sa [[représentation]] sous la [[figure]] d’un [[vieillard]] ailé qui d’une main tient une [[faux]], et de l’autre un [[sablier]].
+# [[durée|Durée]] [[limité]]e, par opposition à l’[[éternité]].
+# {{spécialement}} Durée longue ; [[époque]] ; [[période]] ; [[ère]].
+# {{spécialement}} [[succession|Succession]] des [[jour]]s, des [[heure]]s, des [[moment]]s, [[considérer|considérée]] par [[rapport]] aux [[différent]]s [[travaux]], aux [[divers]]es [[occupation]]s des personnes.
+# [[durée|Durée]] [[limiter|limitée]].
+# [[époque|Époque]] [[déterminé]]e.
+# [[conjoncture|Conjoncture]] ; [[occasion]] [[propre]] ; [[moment]].
+# Les [[siècle]]s, les [[différent]]es [[époque]]s [[par rapport à]] la [[chronologie]], des [[différent]]s âges de la vie.
+# Période déterminée par [[rapport]] à l’[[état]] où sont les choses pour le [[gouvernement]] d’un [[pays]], pour les [[manière]]s de [[vivre]], pour les [[mode]]s, etc.
+# [[moment|Moment]] [[précis]], en [[escrime]] ou en exercices militaires, pendant lesquels il faut faire [[certain]]s [[mouvement]]s qui sont [[distinguer|distingués]] et [[séparer|séparés]] par des [[pause]]s.
+# {{lexique|danse|musique|fr}} Chacune des [[principal]]es [[division]]s de la [[mesure]], dont les unes sont plus [[marquer|marquées]] que les autres dans l’[[exécution]], [[quoique]] d’[[ailleurs]] elles [[être|soient]] [[égal]]es en [[durée]].
+# [[rythme|Rythme]], en parlant de [[métrique]] de la phrase ou du vers.
+# Une des [[pause]]s ou un des [[silence]]s qu’on [[observer|observe]] entre [[certain]]es [[phrase]]s, entre [[certain]]s mots, dans une [[déclamation]].
+# {{lexique|grammaire|fr}} [[quelqu’une|Quelqu’une]] des [[différent]]es [[forme]]s qui marquent dans les [[verbe]]s le [[moment]] [[auquel]] se [[rapporter|rapporte]] l’[[action]] ou l’[[état]] dont on parle.
+# [[disposition|Disposition]] de l’[[air]] ; [[état]] de l’[[atmosphère]] ; [[climat]] du moment.
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[adverbe de temps]]
+* [[air du temps]]
+* [[à longueur de temps]]
+* [[ancien temps]]
+* [[à temps]]
+* [[à temps complet]]
+* [[à temps partiel]]
+* [[à temps plein]], [[à plein temps]]
+* [[au cours du temps]]
+* [[au fil du temps]]
+* [[au temps]]
+* [[au temps de]]
+* [[au temps pour moi]]
+* [[autres temps, autres mœurs]]
+* [[avoir du temps à perdre]]
+* [[avoir du temps devant soi]]
+* [[avoir fait son temps]]
+* [[avoir le temps]]
+* [[avoir tout son temps]]
+* [[beau temps]]
+* [[beau temps, mauvais temps]] {{Québec|nocat=1}}
+* [[bon vieux temps]]
+* [[cela n’a qu’un temps]]
+* [[concordance des temps]]
+* [[constante de temps]]
+* [[contretemps]]
+* [[crédit-temps]]
+* [[dans la plénitude du temps]]
+* [[dans la suite des temps]]
+* [[dans le même temps]]
+* [[dans le temps]]
+* [[dans le temps que]]
+* [[dans les temps]]
+* [[dans les temps et les temps]]
+* [[dans un deuxième temps]], [[dans un second temps]]
+* [[depuis les temps et les temps]]
+* [[de temps à autre]]
+* [[de temps en temps]]
+* [[de tous temps]], [[de tout temps]]
+* [[deux temps]], [[deux-temps]]
+* [[d’un autre temps]]
+* [[du temps où]]
+* [[du temps où Jésus-Christ était garde champêtre]]
+* [[du temps que]]
+* [[emploi du temps]]
+* [[en ce temps-là]]
+* [[en deux temps trois mouvements]]
+* [[en même temps]]
+* [[en même temps que]]
+* [[en moins de temps qu’il ne faut pour l’écrire]]
+* [[en moins de temps qu’il ne faut pour le dire]]
+* [[en temps et lieu]]
+* [[en temps et en heure]]
+* [[en temps normal]]
+* [[en temps ordinaire]]
+* [[en temps réel]]
+* [[en temps voulu]]
+* [[en un rien de temps]]
+* [[en un temps record]]
+* [[être temps]]
+* [[entre-temps]]
+* [[équation du temps]]
+* [[espace de temps]]
+* [[espace-temps]]
+* [[être de son temps]]
+* [[faire la pluie et le beau temps]]
+* [[faire son temps]]
+* [[fin des temps]]
+* [[flèche du temps]]
+* [[fond des temps]]
+* [[gagner du temps]]
+* [[garde-temps]]
+* [[gros temps]]
+* [[heure de temps]]
+* [[hors du temps]]
+* [[il est grand temps]]
+* [[il y a beau temps]]
+* [[il y a un temps pour tout]]
+* [[jeune temps]]
+* [[jusqu’à temps que]]
+* [[laisser le temps au temps]]
+* [[la plupart du temps]]
+* [[les temps des temps]]
+* [[les trois quarts du temps]]
+* [[le temps de dire ouf]]
+* [[le temps de le dire]]
+* [[le temps est compté]]
+* [[le temps presse]]
+* [[les temps sont durs]]
+* [[machine à remonter le temps]]
+* [[mauvais temps]]
+* [[mettre du temps]]
+* [[mettre le temps]]
+* [[mi-temps]]
+* [[moteur à deux temps]]
+* [[moteur à quatre temps]]
+* [[ne pas voir le temps passer]]
+* [[nom de temps]]
+* [[nuit des temps]]
+* [[par le temps qui court]], [[par les temps qui courent]]
+* [[parler de la pluie et du beau temps]]
+* [[pas de temps à perdre]]
+* [[passe-temps]]
+* [[passer le temps]]
+* [[passer son temps]]
+* [[pendant ce temps]]
+* [[perdre du temps]]
+* [[perdre son temps]]
+* [[personne-temps]]
+* [[pour un temps]]
+* [[prendre du bon temps]]
+* [[prendre du temps]]
+* [[prendre le temps]]
+* [[prendre le temps comme il vient]]
+* [[prendre son temps]]
+* [[propre du temps]]
+* [[quart-temps]]
+* [[quatre temps]], [[quatre-temps]]
+* [[quelque temps]]
+* [[rattraper le temps perdu]]
+* [[remonter le temps]]
+* [[revenir au temps des bougies]]
+* [[sale temps]]
+* [[se donner du bon temps]]
+* [[selon le temps]]
+* [[selon les temps]]
+* [[se payer du bon temps]]
+* [[signe des temps]], [[signe du temps]]
+* [[suivant le temps]]
+* [[suivant les temps]]
+* [[surtemps]] {{Québec|nocat=1}}
+* [[temps à ne pas mettre un chat dehors]]
+* [[temps à ne pas mettre un chien dehors]]
+* [[temps contraint]]
+* [[temps cosmologique]]
+* [[temps d’antenne]]
+* [[temps d’arrêt]]
+* [[temps d’écran]]
+* [[temps d’une rose]]
+* [[temps de cerveau disponible]]
+* [[temps de chien]]
+* [[temps de commandement]]
+* [[temps de demoiselle]]
+* [[temps de galop]]
+* [[temps de génération]] {{info lex|physique des réacteurs nucléaires}}
+* [[temps de la marine à voile]], [[temps de la marine à voiles]]
+* [[temps de latence]]
+* [[temps de loup]]
+* [[temps de mise sur le marché]] ou [[TMM]]
+* [[temps de parole]]
+* [[temps de Planck]]
+* [[temps de qualification]]
+* [[temps de qualité]]
+* [[temps de trajet]]
+* [[temps de vol]]
+* [[temps de vol cale à cale]]
+* [[temps de vol réel]]
+* [[temps des bougies]]
+* [[temps des cerises]]
+* [[temps difficile]]
+* [[temps fort]]
+* [[temps géologique]]
+* [[temps imparti]]
+* [[temps législatif programmé]]
+* [[temps libre]]
+* [[temps magnifique]]
+* [[temps marginal]]
+* [[temps modernes]]
+* [[temps mort]]
+* [[temps moyen]]
+* [[temps moyen de Greenwich]]
+* [[temps ordinaire]]
+* [[temps partagé]]
+* [[temps partiel]]
+* [[temps pascal]]
+* [[temps plein]]
+* [[temps que les moins de vingt ans ne peuvent pas connaître]]
+* [[temps réel]]
+* [[temps sidéral]]
+* [[temps universel coordonné]]
+* [[temps vrai]]
+* [[tiers-temps]]
+* [[tout d’un temps]]
+* [[tout le temps]]
+* [[trouver le temps]]
+* [[trouver le temps long]]
+* [[tuer le temps]]
+* [[un temps]]
+* [[véhicule en temps partagé]]
+* [[vieux temps]]
+* [[vivre avec son temps]]
+* [[voyage dans le temps]]
+* [[X temps]]
+{{)}}
+
+==== {{S|apparentés}} ====
+{{(|colonnes=4|Durée}}
+* [[contemporain]]
+* [[contemporanéité]]
+* [[contretemps]]
+* [[extemporané]]
+* [[extemporanéité]]
+* [[extemporanément]]
+* [[intempestif]]
+* [[intempestivement]]
+* [[intempestivité]]
+* [[intemporalité]]
+* [[intemporel]]
+* [[longtemps]]
+* [[obtempération]]
+* [[obtempérer]]
+* [[spatio-temporel]]
+* [[tempestif]]
+* [[tempo]]
+* [[temporaire]]
+* [[temporairement]]
+* [[temporaliser]]
+* [[temporalité]]
+* [[temporel]]
+* [[temporellement]]
+* [[temporisant]]
+* [[temporisateur]]
+* [[temporisation]]
+* [[temporiser]]
+* [[temporiseur]]
+{{)}}
+{{(|colonnes=4|Climat}}
+* [[intempéramment]]
+* [[intempérance]]
+* [[intempérant]]
+* [[intempéré]]
+* [[intempérément]]
+* [[intempérie]]
+* [[printemps]]
+* [[tempérament]]
+* [[tempérance]]
+* [[tempérant]]
+* [[tempérantisme]]
+* [[température]]
+* [[tempéré]]
+* [[tempérer]]
+* [[tempête]]
+* [[tempêtement]]
+* [[tempêter]]
+* [[tempêteur]]
+* [[tempétueux]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|musique|temps|horlogerie|unités de mesure|sablier|linguistique|silence|retard|calendrier|ontologie|escrime|avant|donnée de recherche|divination|ontologie (philosophie)|stérilisation|typologie linguistique}}
+{{(|Durée}}
+* {{lien|aiôn|fr|nom}}
+* [[chronomètre]]
+* {{lien|chronos|fr|nom}}
+* [[compte-minutes]]
+* [[horloge]]
+* {{lien|kairos|fr|nom}}
+* [[montre]]
+* [[sablier]]
+{{)}}
+{{(|Climat}}
+* [[grêle]]
+* [[neige]], [[neigeux]]
+* [[nuage]], [[nuageux]]
+* [[orage]], [[orageux]]
+* [[pluie]], [[pluvieux]]
+* [[soleil]], [[ensoleillé]]
+* [[tonnerre]]
+* [[vent]], [[venteux]]
+* [[grêlon]]
+* [[grésil]]
+* [[giboulées]]
+{{)}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[après la pluie vient le beau temps]]
+* [[au temps pour moi]]
+* [[autres temps, autres mœurs]]
+* [[cela n’a qu’un temps]]
+* [[c’était le beau temps]]
+* [[c’était le bon temps]]
+* [[chaque chose en son temps]]
+* [[il est à peu près temps]]
+* [[il est temps]]
+* [[il y a un temps pour tout]]
+* [[laissez les bons temps rouler]] ''(Louisiane)''
+* [[le temps dévore tout]]
+* [[le temps passe]]
+* [[le temps perdu ne se rattrape jamais]]
+* [[le temps perdu ne se retrouve jamais]]
+* [[le temps presse]]
+* [[le temps, c’est de l’argent]]
+* [[les temps sont durs]]
+* [[qui a temps a vie]]
+* [[tout vient à point à qui sait attendre]]
+* [[tout vient à temps à qui sait attendre]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Durée des choses|1}}
+* {{T|ar}} : {{trad-|ar|زَمن}}, {{trad+|ar|وَقْت}}, {{trad-|ar|أَوان|tr=waqt}}, {{trad-|ar|موْسِم}}
+{{trad-fin}}
+
+{{trad-début|Période, époque|4}}
+* {{T|ar}} : {{trad+|ar|وقت|tr=Waq't.}}
+{{trad-fin}}
+
+{{trad-début|Les différentes époques par rapport à la chronologie, des différents âges de la vie|9}}
+{{trad-fin}}
+
+{{trad-début|(Grammaire)|15}}
+* {{T|ar}} : {{trad-|ar|زَمن}}
+{{trad-fin}}
+
+{{trad-début|Disposition de l’air, état de l’atmosphère|16}}
+* {{T|ar}} : {{trad-|ar|طَقْس}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|tɑ̃|fr}}
+** {{écouter|France (Paris)|tɑ̃|audio=Fr-Paris--temps.ogg|lang=fr}}
+** {{écouter||a tɑ̃|titre=à temps|lang=fr|audio=Fr-temps.ogg}}
+* Canada : {{phono|tã|fr}}
+** {{écouter|Canada|tã|audio=Qc-temps.ogg|lang=fr}}
+* Parler gaga : {{pron|tɛɑ̃|tɛ̃ɑ̃|fr}}{{R|Toutengaga|223}}
+* {{note}} Au singulier, on ne fait la liaison entre ''temps'' et le mot suivant que dans certaines locutions figées comme ''de temps en temps, de temps à autre''. Au pluriel, on peut lier le ''s'' de ''temps'' au mot suivant si celui-ci commence par une voyelle, ce qui n’est rien d’autre que l’expression habituelle du pluriel en français oral.
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Fhala.K-temps.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-GrandCelinien-temps.wav}}
+* {{écouter|lang=fr|France (Saint-Maurice-de-Beynost)|audio=LL-Q150 (fra)-Benoît Prieur-temps.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-temps.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-temps.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-temps.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-temps.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-temps.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-temps.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[tan]], [[tans]]
+* [[tant]]
+* [[taon]], [[taons]]
+* [[tend]], [[tends]] {{cf|tendre|lang=fr}}
+* [[Thaon]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+* {{catégorie|Lexique en français du temps}}
+* {{Wikipédia|temps}}
+* {{Wikivoyage|temps}}
+* {{Wikinews|Page:Météo}}
+* {{Wikiquote|temps}}
+
+=== {{S|références}} ===
+{{références}}
+* {{R:DAF8}}
+
+[[Catégorie:Lexique en français du temps|*]]
+

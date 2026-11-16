@@ -1,0 +1,278 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr|1080}} ''(Temps)'' Du {{étyl|frm|fr|mot=heure}}, de l’{{étyl|fro|fr|mot=eure}}, {{lien|''ure''|fro}}, primitivement {{lien|''ore''|fro}}, issu du {{étyl|la|fr|mot=hora|dif=hōra}}, emprunt au {{étyl|grc|fr|mot=ὥρα|tr=hôra|sens=division du temps}}, qui remonte à l’{{étyl|indo-européen commun|fr}} {{recons|lang-mot-vedette=fr|yóh₁r|sens=an|lang=PIE}}{{R|Pokorny}} qui l’apparente au {{la}} {{lien|''hornus''|sens=de l’année|la}}.
+: ''(15 degrés dans l’astronomie)'' Du fait qu’en une heure, la [[Terre]] effectue une [[rotation]] (sidérale) de 360 / 24 = 15 [[degré]]s.
+: ''(Directions)'' De l’utilisation d’un [[cadran]] d’[[horloge]] ou de [[montre]] en donnant le nombre des heures comme nom à la [[direction]].
+::{{note}} Dans la mythologie grecque, les {{w|Heures (mythologie)|Heures}} (au pluriel en grec ancien Ὧραι / Hôrai, « saisons », en latin Horae) sont un groupe de déesses personnifiant les divisions du temps. Elles étaient célébrées lors de la fête de l'Horée marquant le changement des saisons. Indénombrables à l'origine, leur nombre grandit et passe à 3, 4, 9, 10 ou 12. 
+
+=== {{S|nom|fr}} ===
+{{fr-rég|œʁ|préfpron={{h muet|fr}}}}
+'''heure''' {{h muet|fr}}{{pron|œʁ|fr}} {{f}}
+[[File:AnalogClockAnimation1 2hands 1h in 6sec.gif|thumb|Animation montrant le mouvement des deux aiguilles sur une horloge analogique pendant une '''heure''' ramenée à six secondes.]]
+# {{info lex|métrologie}} [[unité de mesure|Unité de mesure]] du [[temps]], compatible avec le [[Système international]], dérivée de la [[seconde]], dont le [[symbole]] est '''[[h]]'''. 1 heure&nbsp;=&nbsp;60 [[minute]]s&nbsp;=&nbsp;3600 [[seconde]]s.
+# [[durée|Durée]] mesurée par cette unité.
+# {{par extension}} Ce temps qui est [[consacrer|consacré]] à une [[tâche]], à une [[activité]], etc. — {{usage}} Il est alors suivi de la préposition ''[[de#fr-prép|de]]''.
+# Une des [[vingt-quatre]] [[division]]s de la [[journée]], durant [[soixante]] [[minute]]s.
+# [[moment|Moment]] d’une [[journée]].
+# Moment du [[jour]] [[considérer|considéré]] par rapport au temps, aux '''heures''' [[écouler|écoulées]] depuis [[minuit]] ou depuis [[midi]]. {{note}} Écrit au pluriel excepté ''une heure'', mais employé souvent au singulier. Peut être suivi par la [[minute]] ou par ''et [[demie]]''.
+# {{lexique|militaire|fr}} {{anglicisme|fr}} {{au pluriel}} Indique l’heure et la minute sur le [[cadran de 24 heures]] montrées respectivement avec deux chiffres.
+# {{lexique|horlogerie|fr}} [[indication|Indication]] de l’'''heure''' qu’il est, [[donnée]] par une [[horloge]], par une [[montre]], etc.
+# {{au pluriel}} {{rare|fr}} Les [[signe]]s d’un [[cadran]] qui [[servent]] à l’[[indication]] des '''heures'''.
+# [[moment|Moment]] qu’on [[indiquer|indique]], qu’on [[fixer|fixe]] pour un [[rendez-vous]], pour une [[affaire]], etc.
+# Moment de la [[journée]] où l’on fait [[habituellement]] [[quelque chose]].
+# Divers moments de la [[journée]], [[par rapport à]] la [[manière]] dont on les [[passer|passe]], dont on les [[employer|emploie]]. — {{note}} Dans ce sens on le met ordinairement au pluriel, et il est souvent précédé de l’adjectif possessif.
+# {{term|plus largement}} Temps, moment ou [[époque]] [[quelconque]].
+# ''(Avec article défini et complément de nom et, souvent, le verbe ''[[sonner]]'')'' Moment où une chose arrive ou doit arriver.
+# {{absolument}} {{term|avec l’adjectif possessif}} [[temps|Temps]], [[moment]] où [[quelque chose]] [[devoir|doit]] [[arriver]] à [[quelqu’un]].
+# {{en particulier}} Le [[moment]] de la [[mort]].
+# {{lexique|astronomie|fr}} [[unité|Unité]] d’[[angle]] [[valoir|valant]] 15 [[degré]]s.
+# {{lexique|militaire|fr}} {{par extension}} Trente [[degré]]s, utilisé pour [[indiquer]] les [[direction]]s [[approximative]]s selon le [[cadran de 12 heures]].
+# {{au pluriel}} {{lexique|religion|fr}} {{ellipse|fr}} [[livre d’heures|Livre d’heures]]. {{cf|lang=fr|heures}}
+
+==== {{S|synonymes}} ====
+* [[plombe]] {{argot|nocat=1}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[24 heures sur 24]]
+* [[à cette heure]]
+* [[à c’t’heure]]
+* [[à la bonne heure]]
+* [[à la male heure]]
+* [[à l’heure]]
+* [[à l’heure actuelle]]
+* [[à l’heure de]]
+* [[à l’heure dite]]
+* [[à l’heure du laitier]]
+* [[à l’heure où je vous parle]]
+* [[à l’heure qu’il est]]
+* [[à heure fixe]]
+* [[à pas d’heure]]
+* [[à point d’heure]]
+* [[à ses heures]]
+* [[à tout à l’heure]]
+* [[à toute heure]]
+* [[aiguille des heures]]
+* [[ampère-heure]]
+* [[avant l’heure]]
+* [[avoir de bons et de mauvais quarts d’heure]]
+* [[avoir des heures de vol]]
+* [[avoir quelques heures de vol]]
+* [[belle-d’onze-heures]]
+* [[belle heure]] ''(Vous venez à une belle heure ; il est belle '''heure''' pour venir ; la belle '''heure''' pour arriver'' : se dit à une personne qui arrive tard dans un lieu où on l’attend)''
+* [[bonne heure]]
+* [[bouillon de onze heures]]
+* [[cadran de 12 heures]]
+* [[cadran de 24 heures]]
+* [[changement d’heure]]
+* [[chercher midi à quatorze heures]]
+* [[cheval-heure]]
+* [[dame-d’onze-heures]]
+* [[de bonne heure]]
+* [[de la onzième heure]]
+* [[de la première heure]]
+* [[de la vingt-cinquième heure]]
+* [[de toutes les heures]] ''(c’est un homme, un ami de toutes les '''heures''''' : {{figuré|nocat=1}} et {{familier|nocat=1}} Se dit d’un homme qu’on est toujours heureux de voir et avec lequel on est toujours en sympathie ; se dit également d’un homme qui est toujours prêt à obliger)''
+* [[demi-heure]]
+* [[dernière heure]]
+* [[des heures durant]]
+* [[d’heure en heure]]
+* [[d’une heure à l’autre]]
+* [[dix-heures]]
+* [[en temps et en heure]]
+* [[être à l’heure]]
+* [[exawatt-heure]]
+* [[fourmi 24 heures]]
+* [[fuite des heures]]
+* [[gagner l’heure]]
+* [[heure astronomique]]
+* [[heure avancée]]
+* [[heure bleue]]
+* [[heure complémentaire]]
+* [[heure creuse]]
+* [[heure d’été]]
+* [[heure d’hiver]]
+* [[heure de fourche]]
+* [[heure de gloire]]
+* [[heure de grande écoute]]
+* [[heure de pointe]]
+* [[heure de temps]]
+* [[heure de vérité]]
+* [[heure des mamans]]
+* [[heure dernière]]
+* [[heure dorée]]
+* [[heure double]]
+* [[heure douce]] {{vaudois|nocat=1} 
+* [[heure du berger]] {{figuré|nocat=1}}
+* [[heure du départ]]
+* [[heure du réveil]]
+* [[heure favorable]]
+* [[heure H]]
+* [[heure HS]]
+* [[heure-homme]]
+* [[heure indue]]
+* [[heure légale]]
+* [[heure-lumière]]
+* [[heure normale]]
+* [[heure miroir]]
+* [[heure pile]]
+* [[heure propice]]
+* [[heure supplémentaire]]
+* [[heure suprême]]
+* [[heures]] {{info lex|religion}}
+* [[heures canoniales]] {{info lex|religion}}
+* [[heures de gloire]]
+* [[heures de loisir]]
+* [[heures dérobées]] ''(faire quelque chose à ses '''heures''' dérobées'' : Prendre sur ses occupations ordinaires le temps de faire une chose)''
+* [[heures perdues]]
+* [[heures pleines]]
+* [[heurette]]
+* [[gigawatt-heure]]
+* [[grandes heures]]
+* [[hectowatt-heure]]
+* [[jusqu’à pas d’heure]]
+* [[jusqu’à point d’heure]]
+* [[kilomètre-heure]]
+* [[kilowatt-heure]]
+* [[l’heure qu’il était hier à la même heure]]
+* [[la bonne heure]]
+* [[livre d’heures]]
+* [[lumen-heure]]
+* [[mégawatt-heure]]
+* [[mettre à l’heure]]
+* [[mille à l’heure]]
+* [[minuit, l'heure du crime]]
+* [[ne pas avoir une heure à soi]]
+* [[ne pas demander l’heure qu’il est]]
+* [[ne pas marquer l’heure]]
+* [[passer un mauvais quart d’heure]]
+* [[pétawatt-heure]]
+* [[petites heures]]
+* [[pour l’heure]] {{familier|nocat=1}}
+* [[prendre l’heure]]
+* [[prières de quarante heures]]
+* [[quarante heures]] {{info lex|liturgie}}
+* [[quarante-huit heures]]
+* [[quart d’heure]]
+* [[quart d’heure de grâce]]
+* [[quart d’heure de Rabelais]]
+* [[quatre heures]]
+* [[quatre-heures]]
+* [[quatre-vingt-seize heures]]
+* [[record de l’heure]]
+* [[référé d’heure à heure]]
+* [[remettre les pendules à l’heure]]
+* [[riches heures]]
+* [[sac de 72 heures]]
+* [[soixante-douze heures]]
+* [[sur l’heure]]
+* [[tout à l’heure]]
+* [[trente-six heures]]
+* [[une heure de temps]]
+* [[vingt-quatre heures]]
+* [[térawatt-heure]]
+* [[watt-heure]]
+* [[yottawatt-heure]]
+* [[zettawatt-heure]]
+{{)}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[cent heures de chagrin ne payent pas un sou de dettes]]
+* [[l’heure a sonné]]
+* [[l’heure est grave]]
+* [[l’heure est venue]]
+* [[l’heure tourne]]
+* [[toutes ses heures sont marquées]] ''(se dit d’une personne occupée à différentes choses dont chacune a son temps marqué)
+* [[une heure plus tard dans les Maritimes]]
+{{)}}
+
+==== {{S|apparentés}} ====
+{{(}}
+* [[horaire]]
+* [[horloge]]
+* [[horloger]]
+* [[horlogerie]]
+* [[horodatage]]
+* [[horodateur]]
+* [[horodictique]]
+* [[horographe]]
+* [[horographie]]
+* [[horographique]]
+* [[horokilométrique]]
+* [[horométrie]]
+* [[horométrique]]
+* [[horoptère]]
+* [[horoscope]]
+* [[horoscopie]]
+* [[horoscopique]]
+* [[horoscopiser]]
+* [[horotrope]]
+{{)}}
+
+==== {{S|holonymes}} ====
+* [[jour]]
+
+==== {{S|méronymes}} ====
+* [[demi-heure]]
+* [[minute]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|travail|temps|horlogerie|unités de mesure|réveil|jour (cycle)|montre}}
+
+==== {{S|traductions}} ====
+{{trad-début|Unité de mesure du temps|1}}
+* {{T|ar}} : {{trad-|ar|ساعة|tr=sāʿah|dif=سَاعَة}}
+{{trad-fin}}
+
+{{trad-début|Ce temps lui-même}}
+{{trad-fin}}
+
+{{trad-début|Heures écoulées depuis minuit ou midi|6}}
+* {{T|ar}} : {{trad+|ar|ساعة|tr=sāʿa}}
+{{trad-fin}}
+
+{{trad-début|Heures et minutes écoulées depuis minuit|7}}
+{{trad-fin}}
+
+{{trad-début|Temps, moment, époque quelconque|13}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|œʁ|fr}}
+** {{écouter|lang=fr|France (Paris)|l‿œːʁ|titre=l’heure|audio=Fr-heure.ogg}}
+** {{écouter|lang=fr|France (Paris)|œʁ̥|audio=LL-Q150 (fra)-GrandCelinien-heure.wav}}
+** {{écouter|lang=fr|France (Saint-Étienne)|əːʁ̥|audio=LL-Q150 (fra)-0x010C-heure.wav}}
+** {{écouter||œːʁ|lang=fr|audio=LL-Q150 (fra)-Jules78120-heure.wav}}
+** {{écouter|lang=fr|France|œːʁ̥|audio=LL-Q150 (fra)-Sarah2149-heure.wav}}
+** {{écouter|lang=fr|Suisse (canton du Valais)|əːʁ|audio=LL-Q150 (fra)-DSwissK-heure.wav}}
+** {{écouter|France (Vosges)|øːʁ|lang=fr|audio=LL-Q150 (fra)-LoquaxFR-heure.wav}}
+** {{écouter|Belgique (Liège)|əːʁ̥|lang=fr|audio=LL-Q150 (fra)-Shareculture-heure.wav}}
+** {{écouter|France (Vendée)|əːʁ̥|lang=fr|audio=LL-Q150 (fra)-Sartus85-heure.wav}}
+** {{écouter|lang=fr|France (Vosges)|əːʁ̥|audio=LL-Q150 (fra)-Poslovitch-heure.wav}}
+* Français méridional : {{pron|ˈœ.ʁə|fr}}
+** {{écouter|France|ˈœ.ʁə|lang=fr|audio=LL-Q150 (fra)-Guilhelma-heure.wav}}
+** {{écouter|lang=fr|France (Massy)|ˈœː.ʁə|audio=LL-Q150 (fra)-X-Javier-heure.wav}}
+* Canada : {{phon|ɶːʁ|fr}} ou {{phon|aœ̯ʁ|fr}}
+
+==== {{S|homophones|fr}} ====
+* [[Eure]]
+* [[heurt]]
+* [[heur]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP|heure (temps)}}
+* {{Wikiquote|heure d'été|heure d’été}}
+* {{WP|ascension droite}}
+* {{WP|heure (direction)}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{R:DAF8}}
+{{Références}}
+
+[[Catégorie:Unités de mesure de temps en français]]
+

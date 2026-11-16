@@ -1,0 +1,77 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Pluriel de ''{{lien|elle|fr}}''.
+
+=== {{S|pronom personnel|fr|num=1}} ===
+{{fr-accord-mixte|ms=il|fs=elle|pm=il|pf=ɛl|titre=3{{e}} personne sujet}}
+'''elles''' {{pron|ɛl|fr}} {{f}} {{p}}
+# Pronom [[clitique]] de la [[troisième personne du pluriel]] [[féminin]] [[sujet]], pour parler d’un groupe de [[femme]]s, d’animaux ou de choses grammaticalement féminines.
+
+==== {{S|notes}} ====
+* Utilisée pour se référer à un groupe de femmes ou un groupe de choses grammaticalement féminines.
+* La forme masculine et non genrée ''{{lien|ils|fr}}'', aussi sous sa forme contractée ''{{lien|y|fr}}'', est souvent utilisée à la place de ''elles'' en [[français canadien]].
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad-|ar|هما|d}}, {{trad+|ar|هن|p}}
+{{trad-fin}}
+
+=== {{S|pronom personnel|fr|num=2}} ===
+{{fr-accord-mixte|ms=lui|mp=eux|fs=elle|pms=lɥi|pmp=ø|pf=ɛl|titre=3{{e}} personne tonique}}
+'''elles''' {{pron|ɛl|fr}} {{f}} {{p}}
+# Pronom tonique de la troisième personne du pluriel féminin.
+# {{term|après un sujet féminin pluriel}} Quant à elles [[par contre]].
+
+==== {{S|dérivés}} ====
+* [[celles]]
+* [[elles-mêmes]]
+
+==== {{S|vocabulaire}} ====
+{{pronoms personnels/fr}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|ɛl|fr}}
+** {{écouter|lang=fr|France|ɛl|audio=Fr-elles.ogg}}
+** {{écouter|lang=fr|France|ɛl|audio=LL-Q150 (fra)-Guilhelma-elles.wav}}
+** {{écouter|lang=fr|France|ɛl|audio=LL-Q150 (fra)-Roll-Morton-elles.wav}}
+** {{écouter|lang=fr|France (Massy)|ɛl|audio=LL-Q150 (fra)-X-Javier-elles.wav}}
+* Français méridional : {{pron|ˈɛl.ə|fr}}
+* {{écouter|lang=fr|Suisse (Genève)|audio=LL-Q150 (fra)-Nattes à chat-elles.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-elles.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-elles.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-elles.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-elles.wav}}
+* {{écouter|lang=fr|France (Montpouillan)|audio=LL-Q150 (fra)-Yug-elles.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-elles.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-elles.wav}}
+* {{écouter|lang=fr|France (Saint-Berain-sous-Sanvignes)||audio=LL-Q150 (fra)-Chavagne-elles.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-elles.wav}}
+* {{écouter|lang=fr|France (Saint-Étienne)||audio=LL-Q150 (fra)-Touam-elles.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-elles.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-elles.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-elles.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-elles.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-elles.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-elles.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-Loizbec-elles.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-elles.wav}}
+* {{écouter|Montpellier (France)||lang=fr|audio=LL-Q150 (fra)-GeoMechain-elles.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-elles.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-elles.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-elles.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-elles.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-elles.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Annexe|Pronoms en français}}
+
+=== {{S|références}} ===
+{{Références}}
+

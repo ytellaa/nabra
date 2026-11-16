@@ -1,0 +1,83 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: ''([[#fr-adj-pos|Adjectif possessif]], [[#fr-pronom-pers|Pronom personnel]])'' Du {{étyl|la|fr|illorum}}, génitif masculin pluriel de ''{{lien|ille|la}}'' (pronom démonstratif).
+: ''([[#fr-nom|Nom commun]])'' [[troncation|Troncation]] de ''[[leurleur]]''.
+
+=== {{S|déterminant possessif|fr}} ===
+{{fr-rég|lœʁ|mf=oui}}
+'''leur''' {{pron|lœʁ|fr}} {{mf}}
+# Qui est à eux ou à elles. {{note}} Plusieurs possesseurs de la [[troisième personne]] et un seul [[possédé]].
+
+===== {{S|notes}} =====
+: Ce mot était précédemment grammaticalement rangé dans les « adjectifs possessifs », on trouve encore cette dénomination dans quelques dictionnaires et grammaires éditées aujourd’hui.
+
+==== {{S|dérivés}} ====
+* [[faire leur]]
+* [[le leur]]
+
+==== {{S|vocabulaire}} ====
+{{déterminants possessifs/fr}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad-|ar|هم، هن}}
+{{trad-fin}}
+
+=== {{S|pronom personnel|fr}} ===
+{{fr-accord-mf|s=lui|p=leur|ps=lɥi|pp=lœʁ|mf=oui|titre=3{{e}} personne objet indirect}}
+'''leur''' {{pron|lœʁ|fr}} {{mf}}, {{p}}
+# Pronom [[clitique]] de la [[troisième personne]] du [[pluriel]]. À eux ou à elles. Il s’emploie toujours comme [[complément d’attribution]].
+
+==== {{S|vocabulaire}} ====
+{{pronoms personnels/fr}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad-|ar|لهم|tr=lihim}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|lœʁ}}
+'''leur''' {{pron|lœʁ|fr}} {{m}}
+# {{argot|fr}} [[employé|Employé]] chargé de [[contrôler]] la [[validité]] des [[titre de transport|titres de transport]] dans les [[transport en commun|transports en commun]].
+
+==== {{S|synonymes}} ====
+* [[contrôleur]]
+* [[leurleur]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|lœʁ|fr}}
+** {{écouter|lang=fr|France (Paris)|lœːʁ|audio=Fr-leur.ogg}}
+** {{écouter|lang=fr|France (Vosges)|lœːʁ|audio=LL-Q150 (fra)-LoquaxFR-leur.wav}}
+** {{écouter|lang=fr|France (Cornimont)|lœːʁ|audio=LL-Q150 (fra)-Poslovitch-leur.wav}}
+** {{écouter|lang=fr|France|lœʁ|audio=LL-Q150 (fra)-Sarah2149-leur.wav}}
+** {{écouter|lang=fr|Canada (Shawinigan)|lœːʁ|audio=LL-Q150 (fra)-DenisdeShawi-leur.wav}}
+** {{écouter|lang=fr|Canada (Estrie)|lɶː|audio=LL-Q150 (fra)-Estrie-leur.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-leur.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[leurs]]
+* [[leurre]]
+* [[leurres]]
+* l’[[heure]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Annexe|Pronoms en français}}
+
+=== {{S|références}} ===
+==== {{S|sources}} ====
+{{Références}}
+
+==== {{S|bibliographie}} ====
+* {{R:DAF8}}
+
+[[Catégorie:Lexique en français du transport]]
+[[Catégorie:Lexique en français du chemin de fer]]
+

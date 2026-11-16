@@ -1,0 +1,182 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|frm|fr|nuit}}, ''{{lien|nuict|fro}}'', de l’{{étyl|fro|fr|nuit}}, ''{{lien|noit|fro}}'' {{circa|980}}, du {{étyl|la|fr|mot=noctem|dif=nŏctem}} accusatif singulier de {{lien|''nox''|sens=nuit}}, de l’{{étyl|indo-européen commun|fr}} {{recons|lang-mot-vedette=fr|[[Reconstruction:indo-européen commun/*nókʷts|nókʷts]]}}{{réf|1}}. {{lien|cognat|fr|dif=Cognat}} de l’italien ''{{lien|notte|it}}'', de l’espagnol ''{{lien|noche|es}}'', du portugais ''{{lien|noite|pt}}'' ; également apparenté, dans les langues germaniques, par exemple à l’anglais ''{{lien|night|en}}'', à l’allemand ''{{l|Nacht|de}}'' et au suédois ''{{lien|natt|sv}}'', ainsi que, dans les langues slaves, au tchèque {{l|''noc''|cs}}, au slovaque {{l|''noc''|sk}}, au polonais {{l|''noc''|pl}}, au russe {{l|''ночь''|ru}} et à l’ukrainien {{l|''ніч''|uk}} et, dans les langues baltes, au letton {{l|''nakts''|lv}} et au lithuanien {{l|''naktis''|lt}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|nɥi}}
+[[Image:Prague Castle as seen at night.jpg|thumb|Le Château de Prague et le pont Charles pendant la '''nuit'''.]]
+'''nuit''' {{pron|nɥi|fr}} {{f}}
+# [[période|Période]] qui s’écoule entre le [[coucher de soleil]] et le [[lever du soleil]].
+# [[période|Période]] [[quotidienne]] durant laquelle le soleil est sous notre [[horizon]] et qu'il [[faire noir|fait noir]].
+# {{par extension}} [[obscurité|Obscurité]], [[ténèbres]].
+# [[symbole|Symbole]] de [[destruction]], d’[[oubli]], de [[mort]], de [[néant]].
+
+==== {{S|synonymes}} ====
+* [[neuille]] {{argot|nocat=1}}
+
+==== {{S|antonymes}} ====
+* [[jour]]
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[astre de la nuit]]
+* [[belle-de-nuit]]
+* [[berceau de nuit]]
+* [[bleu nuit]]
+* [[boite de nuit]] {{ortho1990}}
+* [[boîte de nuit]]
+* [[bonne nuit]]
+* [[bonnet de nuit]]
+* [[chemise de nuit]]
+* [[comme le jour et la nuit]]
+* [[corbeau de nuit]]
+* [[costume de nuit]]
+* [[de nuit]]
+* [[effet de nuit]]
+* [[faire la nuit]]
+* [[faire nuit]]
+* [[faire nuit à ne pas se voir]]
+* [[faire nuit comme dans le derrière d’un nègre]]
+* [[faire ses nuits]]
+* [[filet de nuit]]
+* [[garde de nuit]]
+* [[jardin où le soleil luit nuit et jour]]
+* [[jasmin de nuit]]
+* [[jour et nuit]]
+* [[la nuit venue]]
+* [[lavandière de nuit]]
+* [[minuit]]
+* [[mi-nuit]]
+* [[monde de la nuit]]
+* [[ni jour ni nuit]]
+* [[noir de nuit]]
+* [[nuit absolue]]
+* nuit aéronautique
+* [[nuit américaine]]
+* [[nuit blanche]]
+* [[nuit bleue]]
+* [[nuit de Bagdad]]
+* [[nuit de noces]]
+* [[nuit de l’âme]]
+* [[nuit des temps]]
+* [[nuit du destin]]
+* [[nuit équatoriale]]
+* [[Nuit et brouillard]]
+* [[nuit et jour]]
+* [[nuit niveau 5]]
+* [[nuit noire]]
+* [[nuit pascale]]
+* [[nuit pleine]]
+* [[nuit serrée]]
+* [[nuit tropicale]]
+* [[nuitamment]]
+* [[nuitard]], [[nuitarde]]
+* [[nuitée]]
+* [[nuiteuse]]
+* [[nuits brouillardeuses]]
+* [[oiseau de nuit]]
+* [[papillon de nuit]]
+* [[passer la nuit]]
+* [[petit paon de nuit]]
+* [[pieuvre chatrou de nuit]]
+* [[prendre le jour pour la nuit]]
+* [[sac de nuit]]
+* [[sorcière de la nuit]]
+* [[train de nuit]]
+* [[travail de nuit]]
+* [[veilleur de nuit]]
+* [[vêtement de nuit]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[bonne nuit]] ''(se dit avant de se coucher)''
+* [[la nuit porte conseil]] ''(il faut attendre au lendemain pour prendre une résolution sur un cas douteux)''
+* [[la nuit, tous les chats sont gris]] ''(dans l’obscurité, on ne remarque plus les différences)''
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|travail|temps|nuit|Halloween|sombre|rêve|jour (cycle)}}
+* [[🌃]] (U+1F303)
+* [[🌉]] (U+1F309)
+* [[🌌]] (U+1F30C)
+
+==== {{S|apparentés}} ====
+* {{cf|lang=fr|noct-}}
+* [[nyctalopie]], [[nyctalope]]
+
+==== {{S|traductions}} ====
+{{trad-début|Période quotidienne durant laquelle il fait noir|1}}
+* {{T|ar}} : {{trad-|ar|ليلة|R=layla|f}}
+{{trad-fin}}
+
+{{trad-début|Obscurité, ténèbres|2}}
+{{trad-fin}}
+
+{{trad-début|Destruction, oubli, mort, néant|3}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|adjectif|fr}} ===
+'''nuit''' {{pron|nɥi|fr}} {{invar}}
+# Désigne une couleur [[bleu]] profond tirant légèrement sur le [[violet]]. {{couleur|#0F056B}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|nuire|grp=3|ind.p.3s=oui}}
+'''nuit''' {{pron|nɥi|fr}}
+# ''Troisième personne du singulier de l’indicatif présent de'' [[nuire]].
+
+==== {{S|phrases}} ====
+* [[abondance de biens ne nuit pas]]
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|nɥi|fr}}
+* {{écouter|France|nɥi|lang=fr}}
+** {{écouter|lang=fr|France||titre=une nuit|audio=Fr-nuit.ogg}}
+* {{écouter|Québec {{term|standard}}|nɥi|lang=fr}}
+* {{écouter|Québec {{popu|nocat=1}}|nɥɪt|lang=fr}}
+** {{écouter|lang=fr|Canada (Québec, Mauricie, Shawinigan)(nom-vernaculaire)|titre=Nuit. J'passe pas ma nuit à ravauder|audio=V-nuit.ogg}}
+* {{écouter||nɥi|lang=fr|audio=LL-Q150 (fra)-Guilhelma-nuit.wav}}
+* {{écouter||nɥi|lang=fr|audio=LL-Q150 (fra)-Jules78120-nuit.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-nuit.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-nuit.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-nuit.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-nuit.wav}}
+* {{écouter|lang=fr|France (Grenoble)|audio=LL-Q150 (fra)-GAllegre-nuit.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-nuit.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-nuit.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-nuit.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-nuit.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-nuit.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-nuit.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-nuit.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-nuit.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-nuit.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-nuit.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-nuit.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-nuit.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-nuit.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Roll-Morton-nuit.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-nuit.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-LuneMarine (DSwissK)-nuit.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-nuit.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-nuit.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-nuit.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Wikiquote}}
+* Traduction en langue des signes française : {{wikisign|nuit}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+* {{RÉF|1}} Loïc Mangin, ''L’Iliade, une œuvre un peu datée'', Pour la science, septembre 2013, page 86.
+
+[[Catégorie:Couleurs bleues en français]]
+[[Catégorie:Homophonographes non apparentés en français]]
+[[Catégorie:Couleurs violettes en français]]
+

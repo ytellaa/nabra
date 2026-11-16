@@ -1,0 +1,127 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|fro|fr|mot=tousjours}}. S’est écrit autrefois ''[[toûjours]]''.
+
+=== {{S|adverbe|fr}} ===
+{{fr-inv|tu.ʒuʁ}}
+'''toujours''' {{pron|tu.ʒuʁ|fr}} {{invar}} ''adverbe de temps''
+# En tout [[temps]], [[continuellement]], sans [[cesse]], sans [[relâche]], sans fin.
+# Le plus [[souvent]] ; [[habituellement]] ; [[ordinairement]].
+# Comme par le [[passé]].
+# Sans [[exception]] ; en toute [[rencontre]] ; en toute [[occasion]].
+# [[attendre|En attendant]], [[cependant]], [[néanmoins]], du moins, en tout cas.
+# [[de toute façon|De toute façon]].
+
+==== {{S|abréviations}} ====
+* {{lien|tj|fr}}
+* {{lien|tjr|fr}}
+* {{lien|tjrs|fr}}
+* {{lien|tjs|fr}}
+
+==== {{S|synonymes}} ====
+* [[éternellement]]
+* [[continuellement]]
+* [[habituellement]]
+* [[perpétuellement]]
+* [[sempiternellement]]
+
+==== {{S|antonymes}} ====
+* [[exceptionnellement]]
+* [[jamais]]
+* [[parfois]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à toujours]]
+* [[avoir toujours un pied en l’air]]
+* [[buis toujours vert]]
+* [[cause toujours]] ''(Locution interjective)''
+* [[cause toujours tu m’intéresses]] ''(Locution interjective)''
+* [[depuis toujours]]
+* [[encore et toujours]]
+* [[pour toujours]]
+* [[rosier toujours vert]]
+* [[toujours autant]]
+* [[toujours courir]]
+* [[toujours est-il que]]
+* [[pouvoir toujours courir]]
+* [[pouvoir toujours rêver]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+*{{voir thésaurus|fr|degrés de certitude|logique modale}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[bis repetita ne placent pas toujours]]
+* [[c’est toujours à recommencer]]
+* [[c’est toujours autant de pris]]
+* [[c’est toujours ça de pris]]
+* [[c’est toujours ça que les Allemands n’auront pas]]
+* [[c’est toujours ça que les Boches n’auront pas]]
+* [[chien hargneux a toujours l’oreille déchirée]]
+* [[chien hargneux a toujours oreilles déchirées]]
+* [[faire et défaire c’est toujours travailler]]
+* [[il manque toujours dix-huit sous pour faire un franc]]
+* [[il manque toujours dix-neuf sous pour faire un franc]]
+* [[il y a toujours moyen de moyenner]]
+* [[l’eau va toujours à la rivière]]
+* [[l’herbe est toujours plus verte ailleurs]]
+* [[l’herbe est toujours plus verte dans le pré du voisin]]
+* [[l’on tombe toujours du côté où l’on penche]]
+* [[la caque sent toujours le hareng]]
+* [[la raison du plus fort est toujours la meilleure]]
+* [[le mort a toujours tort]]
+* [[le premier mouvement est toujours le bon]]
+* [[les absents ont toujours tort]]
+* [[mauvaise herbe croît toujours]]
+* [[n’est pas marchand qui toujours gagne]]
+* [[scout un jour, scout toujours]]
+* [[toujours ça que les Boches n’auront pas]]
+* [[un mauvais ouvrier a toujours de mauvais outils]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|En tout temps}}
+* {{T|ar}} : {{trad-|ar|دائماً}}
+{{trad-fin}}
+
+{{trad-début|Le plus souvent, habituellement}}
+{{trad-fin}}
+
+{{trad-début|Comme par le passé}}
+{{trad-fin}}
+
+{{trad-début|Sans exception}}
+{{trad-fin}}
+
+{{trad-début|En attendant}}
+{{trad-fin}}
+
+{{trad-début|De toute façon}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+* {{T|ar}} : {{trad-|ar|ابدا}}, {{trad-|ar|دائما|R=daymann}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|tu.ʒuʁ|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|tu.ʒuʁ|audio=Fr-toujours.ogg}}
+* {{écouter||tu.ʒuʁ|lang=fr|audio=LL-Q150 (fra)-Guilhelma-toujours.wav}}
+* {{écouter||tu.ʒuʁ|lang=fr|audio=LL-Q150 (fra)-Jules78120-toujours.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-toujours.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-toujours.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-toujours.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-toujours.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-toujours.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-toujours.wav}}
+
+=== {{S|voir aussi}} ===
+{{Autres projets
+|w=Toujours
+|s=Toujours}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}

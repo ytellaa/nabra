@@ -1,0 +1,165 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|?}} Du {{étyl|la|fr|mot=venire|dif=vĕnīre}} (même sens). Parfaitement régulier en latin, ce verbe en passant en français, est devenu irrégulier, du fait de l’évolution phonétique (alternance des fortes et faibles au présent de l’indicatif ''ven/vien'', amuïssement des voyelles finales atones ou prétoniques internes, épenthèse au futur et au conditionnel présent ; dans l’ordre, on pourrait retracer comme suit la morphologie du mot : *''venirát'' > ''venrat'' > ''vendra'' > ''viendra'', etc.).
+
+=== {{S|verbe|fr}} ===
+'''venir''' {{pron|və.niʁ|fr}} {{i|fr}} {{perfectif|fr}} {{conjugaison|fr|groupe=3}}
+# Se rendre sur le [[lieu]] où se trouve celui qui parle ou dont on parle.
+# S’étendre jusqu’à un point précis, atteindre une [[limite]].
+# [[survenir|Survenir]], [[arriver]], se [[produire]] [[inopinément]] ou [[fortuitement]].
+# Se [[déplacer]] en sens inverse, quand celui qui parle [[invite]] un autre à l’[[accompagner]].
+# [[parvenir|Parvenir]] à la connaissance de quelqu’un.
+# [[arriver|Arriver]] par [[succession]], [[échoir]].
+# [[succéder|Succéder]].
+# [[provenir|Provenir]] de ; trouver son origine dans.
+# [[naître|Naître]] {{cf|lang=fr|venir au monde}}.
+# [[pousser|Pousser]] ; [[croître]] ; [[produire|être produit]].
+# Devenir.
+# {{auxiliaire|fr}} [[semi-auxiliaire|Semi-auxiliaire]] du passé récent. {{cf|lang=fr|venir de}}.
+# {{impersonnel|fr}} Forme [[impersonnelle]], voir aussi [[revenir]].
+# {{anglicisme|fr}} [[jouir|Jouir]].
+
+==== {{S|notes}} ====
+:{{note-auxiliaire|fr|être}}
+:L’emploi de ''venir'' au sens de ''jouir'' est un [[calque]] de l'{{calque|en|fr|come}} absent des ouvrages de référence<ref>[https://dictionnaire.lerobert.com/definition/venir « venir »], ''Le Robert''</ref><sup>,</sup><ref>[https://cnrtl.fr/definition/venir « venir »], ''CNRTL''</ref><sup>,</sup><ref>[https://www.dictionnaire-academie.fr/article/A8V0228 « venir »], ''Dictionnaire de l’Académie française''</ref><sup>,</sup><ref>[https://www.larousse.fr/dictionnaires/francais/venir/81409 « venir »], ''Larousse''</ref>.
+
+==== {{S|variantes}} ====
+* {{lien|v’nir|fr}} {{populaire|nocat=1}}
+* {{lien|viendre|fr}} {{populaire|nocat=1}}
+
+==== {{S|synonymes}} ====
+* {{lien|arriver|fr}} (1,2,4)
+* {{lien|produire|fr}} (4)
+
+==== {{S|antonymes}} ====
+* {{lien|partir|fr}}
+* s’{{lien|éloigner|fr}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* {{lien|à venir|fr}}
+* {{lien|advenir|fr}}
+* {{lien|aller et venir|fr}}
+* {{lien|avenir|fr}}
+* {{lien|bien venu|fr}}
+* {{lien|en venir à|fr}}
+* {{lien|en venir aux mains|fr}}
+* {{lien|faire venir l’eau à la bouche|fr}}
+* {{lien|faire venir l’eau au moulin|fr}} ''(procurer du profit par son industrie ou à soi ou aux siens)''
+* [[innocent comme l’agneau qui vient de naître]] {{cf|venir de}}
+* [[innocent comme l’enfant qui vient de naître]] {{cf|venir de}}
+* {{lien|laisser venir|fr}} ''(attendre, ne pas se presser)''
+* {{lien|mal venu|fr}}
+* {{lien|ne pas venir à la cheville de|fr}}
+* {{lien|nouveau venu|fr}}
+* {{lien|premier venu|fr}}
+* {{lien|parvenir|fr}}
+* {{lien|parvenu|fr}}
+* {{lien|pouvoir y venir|fr}}
+* {{lien|prendre les choses comme elles viennent|fr}}
+* {{lien|prévenir|fr}}
+* {{lien|prévention|fr}}
+* {{lien|prévenu|fr}}
+* {{lien|provenance|fr}}
+* {{lien|provenir|fr}}
+* {{lien|revenant|fr}}
+* {{lien|revenir|fr}}
+* {{lien|revenu|fr}}
+* {{lien|s’en venir|fr}}
+* {{lien|souvenance|fr}}
+* {{lien|souvenir|fr}}
+* {{lien|subvenir|fr}}
+* {{lien|subvention|fr}}
+* {{lien|survenir|fr}}
+* {{lien|va-et-vient|fr}}
+* {{lien|venir à|fr}}
+* {{lien|venir à bout|fr}} ''(parvenir à faire une chose, arriver à son but, à ses fins)''
+* {{lien|venir à la rencontre|fr}}
+* {{lien|venir à la traverse|fr}} ''(traverser, troubler un projet, une affaire)''
+* {{lien|venir à l’oreille|fr}} de quelqu’un
+* {{lien|venir à résipiscence|fr}}
+* {{lien|venir au monde|fr}}
+* {{lien|venir de|fr}}
+* {{lien|venir dire des grâces|fr}}
+* {{lien|venir dire grâce|fr}}
+* {{lien|venir en aide|fr}}
+* {{lien|venir sur le tapis|fr}}
+* [[vient-ensuite]]
+* [[y venir]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* {{lien|bienvenue|fr}}, {{lien|bienvenir|fr}}
+* {{lien|malvenue|fr}}
+* {{lien|venu|fr}}
+* {{lien|venue|fr}}
+
+==== {{S|phrases}} ====
+{{(}}
+* {{lien|a beau mentir qui vient de loin|fr}}
+* {{lien|après la pluie vient le beau temps|fr}}
+* {{lien|ce qui vient de la flûte s’en retourne au tambour|fr}}
+* {{lien|l’appétit vient en mangeant|fr}}
+* {{lien|l’heure est venue|fr}}
+* {{lien|la fortune vient en dormant|fr}} ''(les biens de la fortune arrivent quand on s’y attend le moins)''
+* {{lien|quand vient la gloire, s’en va la mémoire|fr}}
+* [[si j’avais su, je ne serais pas venu]]
+* {{lien|tout vient à point à qui sait attendre|fr}}
+* {{lien|tout vient à temps à qui sait attendre|fr}}
+* {{lien|un malheur ne vient jamais seul|fr}}
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Survenir, arriver}}
+{{trad-fin}}
+
+{{trad-début|Se rendre sur le lieu où se trouve celui qui parle ou dont on parle}}
+{{trad-fin}}
+
+{{trad-début|Parvenir à la connaissance de quelqu’un}}
+{{trad-fin}}
+
+{{trad-début|Provenir}}
+{{trad-fin}}
+
+{{trad-début|Jouir}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France (Paris)|vø.niʁ|audio=Fr-venir.ogg}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-venir.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-venir.wav}}
+* {{écouter|lang=fr|France (Paris)|vø.niʁ|audio=LL-Q150 (fra)-GrandCelinien-venir.wav}}
+* {{écouter|lang=fr|Suisse (Genève)|audio=LL-Q150 (fra)-Nattes à chat-venir.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-venir.wav}}
+* {{écouter|lang=fr|France (Grenoble)|audio=LL-Q150 (fra)-GAllegre-venir.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-venir.wav}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)|audio=LL-Q150 (fra)-Pamputt-venir.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-venir.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-venir.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-venir.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-venir.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-venir.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-venir.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-venir.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-venir.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-venir.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-venir.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-venir.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-venir.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-venir.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-venir.wav}}
+* {{écouter|Quimper (France)||lang=fr|audio=LL-Q150 (fra)-Llegoff29-venir.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-venir.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-venir.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-venir.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-venir.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-venir.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|références}} ===
+{{références}}
+* {{Import:DAF8}}
+

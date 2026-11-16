@@ -1,0 +1,570 @@
+{{voir|Computer}}
+
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{lien-ancre-étym|fr|verb}} {{date|Attesté en 1595|lang=fr}}{{R|TLFi}} Du verbe {{étyl|la|fr|computo|sens=calculer}}.
+: {{lien-ancre-étym|fr|nom}} {{siècle|Seconde moitié du XX|lang=fr}} Emprunt du nom {{étyl|en|fr|computer}}, dérivé du verbe {{l|''compute''|en}}, lui-même peut-être via le verbe {{étyl|fr|fr|computer}}{{R|etymonline|compute}}, ou directement du verbe {{étyl|la|fr|computo|sens=calculer}}{{R|Collins|compute}}{{R|MW|compute}}.
+
+=== {{S|verbe|fr}} ===
+'''computer''' {{pron|kɔ̃.py.te|fr}} {{conj|grp=1|fr}}
+# [[supputer|Supputer]].
+#* {{exemple | lang=fr
+ | Supputer les temps relatifs au calendrier. On '''compute''' encore par les ères julienne, grégorienne, etc.
+ | source={{w|François-René de Chateaubriand}}, ''Génie du christianisme'', 1802}}
+# [[compter|Compter]], [[calculer]] ; effectuer un [[comput]].
+#* {{exemple | lang=fr
+ | Socrates, pour n’avoir sceu '''computer''' les suffrages de sa tribu.
+ | source={{w|Michel de Montaigne}}, ''Essais'', livre IV, page 133}}
+#* {{exemple | lang=fr
+ | Il estoit pour lors gouverneur de l’Estat de Milan pour l’empereur, où Ferdinand de Gonzagues ayant mesme charge, cela se peut '''computer''' aisement.
+ | source=Brantôme, ''Vie des hommes illustres et grands capitaines français'' tome II, page 331}}
+#* {{exemple | lang=fr
+ | Tout l’hiver, accoudé à une haute fenêtre, entre le ciel froid et les plaines gelées du lac, [Zénon] s'occupa de '''computer''' les positions des étoiles susceptibles d'apporter le bonheur ou le malheur à la maison des Vasa[.]
+ | source={{w|Marguerite Yourcenar}}, ''{{w|L'Œuvre au noir}}'', réédition Folio, 1968, page 179}}
+#* {{exemple | lang=fr
+ | Recréons en nous cet océan vert, non pas immobile, comme le sont les trois quarts de nos représentations du passé, mais bougeant et changeant au cours des heures, des jours et des saisons qui fluent sans '''avoir été computés''' par nos calendriers et par nos horloges.
+ | source={{w|Marguerite Yourcenar}}, ''{{w|Archives du Nord}}'', Gallimard, 1977, pages 16-17}}
+#* {{exemple|C'était encore s'opposer au temps : un nom, une somme de vie, dont personne ne '''computerait''' les éléments innombrables, une marque laissée par un homme égaré dans cette succession de siècles.
+|source={{w|Marguerite Yourcenar}}, ''{{w|Mémoires d'Hadrien}}'', chap. 4 Saeculum aureum, éd. Plon, 1951.
+|lang=fr}}
+
+==== {{S|dérivés}} ====
+* [[computeur]]
+* [[recomputer]]
+
+==== {{S|traductions}} ====
+{{trad-début|Supputer|1}}
+{{trad-fin}}
+{{trad-début|Compter|2}}
+* {{T|en}} : {{trad+|en|compute}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|kɔ̃.pju.tœʁ}}
+'''computer''' {{pron|kɔ̃.pju.tœʁ|fr}} {{m}}
+# {{anglicisme informatique|fr}} {{vieilli|fr}} [[ordinateur|Ordinateur]].
+#* {{exemple | lang=fr
+ | Seules les poubelles étaient pleines, bourrées de téléphones portables désormais bons à jeter, de '''computers''' inutilisables et de tout un bazar électronique qui ne servait plus à rien.
+ | source=Daniel Meynard et {{w|Jack Manini}}, ''La Guerre des toiles'', Magnard, 1998, page 85}}
+
+==== {{S|variantes}} ====
+* [[computeur]]
+
+==== {{S|synonymes}} ====
+* [[ordinateur]] {{beaucoup plus courant}}
+
+==== {{S|dérivés}} ====
+* [[computériser]], [[computeriser]]
+
+==== {{S|traductions}} ====
+→ ''Voir les traductions de'' [[ordinateur]]
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France (Toulouse)||audio=LL-Q150 (fra)-Lepticed7-computer.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-computer (verbe).wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-computer (nom commun).wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-computer.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|références}} === 
+{{Références}}
+
+[[Catégorie:Homographes non homophones en français]]
+[[Catégorie:er prononcés /œʁ/ en français]]
+
+== {{langue|en}} ==
+=== {{S|étymologie}} ===
+: {{composé de|compute|-er|lang=en|m=1}}. Le verbe {{l|''compute''|en|sens=calculer}} dérivant peut-être du verbe {{étyl|fr|fr|computer}}{{R|etymonline|compute}}, ou directement du verbe {{étyl|la|fr|computo|sens=calculer}}{{R|Collins|compute}}{{R|MW|compute}}.
+: (Sens 1.a — occupation) {{date|1613|lang=en}}{{R|MW|computer}}
+: (Sens 1.b — machine) {{date|1897|lang=en}}{{R|etymonline|computer}} Du sens 1.a.
+: (Sens 2 — ordinateur) {{date|1945|lang=en}}{{R|etymonline|computer}} Du sens 1.b. (Conceptualisé en 1937 sous le terme de {{l|''Turing machine''|en}}){{R|etymonline}}.
+
+=== {{S|nom|en}} ===
+{{en-nom-rég|kəm.ˈpjuː.tə|pron2=kəm.ˈpju.ɾɚ}}
+[[Image:IBM PC 5150.jpg|vignette|{{Lang|en|A '''computer''' (1) in 1983.}}]]
+[[Image:Human computers - Dryden.jpg|thumb|{{Lang|en|'''Computers''' (2) in 1949.}}]]
+'''computer''' {{pron|kəm.ˈpjuː.tə|en}} {{UK|nocat=1}}, {{pron|kəm.ˈpju.ɾɚ|en}} {{US|nocat=1}}
+# {{vieilli|en}} ''ou'' {{term|historique}} [[calculateur|Calculateur]], [[calculatrice]]
+## {{métiers|en}} [[personne|Personne]] qui s’occupe de calculs 
+## {{par extension|en}} {{lexique|technologie|en}} [[machine|Machine]] pour réaliser des calculs.
+# {{par extension|en}} {{lexique|informatique|en}} [[ordinateur|Ordinateur]].
+
+==== {{S|dérivés}} ====
+{{(|{{info lex|informatique}} Mots}}
+* {{lien|computerate|en}}
+* {{lien|computerize|en}}
+* {{lien|minicomputer|en}}
+* {{lien|microcomputer|en}}
+* {{lien|nanocomputer|en}}
+* {{lien|supercomputer|en}}
+{{)}}
+{{(|{{info lex|informatique}} Locutions}}
+* {{lien|computer aided acquisition and logistic support|en}}
+* {{lien|computer architecture|en}}
+* {{lien|computer cluster|en}}
+* {{lien|computer engineering|en}}
+* {{lien|computer game|en}}
+* {{lien|computer graphics|en}}
+* {{lien|computer illiteracy|en}}
+* {{lien|computer language|en}}
+* {{lien|computer literacy|en}}
+* {{lien|computer literate|en}}
+* {{lien|computer network|en}}
+** {{lien|computer network attacks|en}}
+** {{lien|computer network defence|en}}
+** {{lien|computer network exploitation|en}}
+** {{lien|computer network operation|en}}
+* {{lien|computer programming|en}}
+* {{lien|computer science|en}}
+** {{lien|computer science ontology|en}}
+* {{lien|computer scientist|en}}
+* {{lien|computer security|en}}
+* {{lien|computer telephony integration|en}}
+* {{lien|desktop computer|en}}
+* {{lien|notebook computer|en}}
+* {{lien|palmtop computer|en}}
+* {{lien|personal computer|en}}
+* {{lien|pocket computer|en}}
+* {{lien|quantum computer|en}}
+* {{lien|Small Computer System Interface|en}}
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|en|zombie}}
+
+==== {{S|dérivés autres langues}} ====
+{{(|{{info lex|informatique}}|2}}
+* {{L|sq}} : {{lien|kompjuter|sq}}
+* {{L|de}} : {{lien|Computer|de}}
+* {{L|am}} : {{lien|ኮምፒዩተር|am}}
+* {{L|ar}} : {{lien|كمبيوتر|ar}}
+* {{L|bg}} : {{lien|компютър|bg}}
+* {{L|ko}} : {{lien|컴퓨터|ko|tr=keompyuteo}}
+* {{L|hr}} : {{lien|kompjuter|hr}}
+* {{L|da}} : {{lien|computer|da}}
+* {{L|es}} : {{lien|computadora|es}}
+* {{L|eo}} : {{lien|komputilo|eo}}
+* {{L|fr}} : [[computer#fr-nom-1|computer]], [[computeur#fr|computeur]]
+* {{L|gd}} : {{lien|coimpiutair|gd}}
+* {{L|ka}} : {{lien|კომპიუტერი|ka}}
+* {{L|hi}} : {{lien|कंप्यूटर|hi}}
+* {{L|id}} : {{lien|komputer|id}}
+* {{L|ia}} : {{lien|computator|ia}}
+* {{L|it}} : {{lien|computer|it}}
+* {{L|ja}} : {{lien|コンピュータ|ja|tr=konpyūta}}
+* {{L|la}} : {{lien|computatrum|la}}
+* {{L|mwl}} : {{lien|computador|mwl}}
+* {{L|nl}} : {{lien|computer|nl}}
+* {{L|ug}} : {{lien|كومپيۇتېر|ug}}
+* {{L|ur}} : {{lien|کمپیوٹر|ur}}
+* {{L|pap}} : {{lien|kòmpiuter|pap}}
+* {{L|fa}} : {{lien|کامپیوتر|fa}}
+* {{L|pl}} : {{lien|komputer|pl}}
+* {{L|pt}} : {{lien|computador|pt}}
+* {{L|ro}} : {{lien|computer|ro}}
+* {{L|ru}} : {{lien|компьютер|ru|tr=kompʹûter}}
+* {{L|sr}} : {{lien|kompjutor|sr}}
+* {{L|sw}} : {{lien|kompyuta|sw}}
+* {{L|tg}} : {{lien|компютер|tg}}
+* {{L|uk}} : {{lien|компютер|uk|tr=kompjuter}}
+* {{L|vo}} : {{lien|kompütöm|vo}}
+* {{L|yi}} : {{lien|קאָמפּיוטער|yi}}
+* {{L|yo}} : {{lien|kọ̀mpútà|yo}}
+* {{L|zu}} : {{lien|ikompiyutha|zu}}
+{{)}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=en|Royaume-Uni (Londres)|kəm.ˈpjuː.tə|audio=En-uk-computer.ogg}}
+* {{écouter|lang=en|États-Unis (Californie)|kəm.ˈpju.ɾɚ|audio=En-us-computer.ogg}}
+* {{écouter|lang=en|Suisse (Genève)|audio=LL-Q1860 (eng)-Nattes à chat-computer.wav}}
+* {{écouter|lang=en|États-Unis (New Jersey)||audio=LL-Q1860 (eng)-Simplificationalizer-computer.wav}}
+* {{écouter|lang=en|France (Toulouse)||audio=LL-Q1860 (eng)-Lepticed7-computer.wav}}
+* {{écouter|Texas (États-Unis)||lang=en|audio=LL-Q1860 (eng)-Wodencafe-computer.wav}}
+* {{écouter|Connecticut (États-Unis)||lang=en|audio=LL-Q1860 (eng)-Grendelkhan-computer.wav}}
+* {{écouter|Aurora (États-Unis)||lang=en|audio=LL-Q1860 (eng)-Samuel Muldoon (Muldoonsamuel55)-computer.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP|lang=en}}
+
+=== {{S|références}} ===
+* {{R:etymonline}}
+* {{R:Oxford}}
+* {{R:Merriam-Webster}}
+
+== {{langue|it}} ==
+=== {{S|étymologie}} ===
+: {{siècle|XX|lang=it}} De l’{{étyl|en|it|mot=computer}}.
+
+=== {{S|nom|it}} ===
+{{it-inv|kom.ˈpju.ter}}
+'''computer''' {{pron|kom.ˈpju.ter|it}} {{m}} {{invariable}}
+# {{anglicisme informatique|it}} [[ordinateur#fr|Ordinateur]].
+#* {{exemple|lang=it|Un '''computer''' è una macchina molto utile.|Un ordinateur est une machine très utile.}}
+
+==== {{S|synonymes}} ====
+* {{lien|calcolatore|it}} {{moins courant|nocat=1}}
+* {{lien|elaboratore|it}} {{moins courant|nocat=1}}
+* {{lien|ordinatore|it}} {{Suisse|nocat=1}}
+
+==== {{S|dérivés}} ====
+* {{lien|computer di bordo|it|sens=ordinateur de bord}}
+* {{lien|traduzione assistita dal computer|it|sens=traduction assistée par ordinateur}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|it|informatique}}
+
+==== {{S|méronymes}} ====
+{{(}}
+* {{lien|disco fisso|sens=disque dur|it}}
+* {{lien|disco rigido|sens=disque dur|it}}
+* {{lien|mouse|it|sens=souris}}
+* {{l|scheda grafica|sens=carte graphique|it}}
+* {{l|scheda madre|sens=carte mère|it}}
+* {{lien|schermo|it|sens=écran}}
+* {{lien|tastiera|it|sens=clavier}}
+{{)}}
+
+=== {{S|prononciation}} ===
+* {{pron|kom.ˈpju.ter|it}}
+* {{écouter|lang=it|Italie (Milan)|uŋ kɔm.pju.ˈtɛr|audio=It-un computer.ogg|titre=un computer}}
+* {{écouter|Monopoli (Italie)||lang=it|audio=LL-Q652 (ita)-XANA000-computer.wav}}
+* {{écouter|Italie||lang=it|audio=LL-Q652 (ita)-Ciampix-computer.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP|lang=it}}
+* {{WQ|lang=it}}
+
+=== {{S|références}} ===
+* {{R:ALDO}}
+* {{R:De Mauro}}
+* {{R:Olivetti}}
+* {{R:SDAS}}
+* {{R:Treccani}}
+
+== {{langue|nl}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|en|nl|computer}}.
+
+=== {{S|nom|nl}} ===
+{{nl-nom|n.s=computer|n.pl=computers|dim.s=computertje|dim.pl=computertjes}}
+'''computer''' {{pron|kɔm.ˈpju.tər|nl}} {{m}}
+# {{lexique|informatique|nl}} [[ordinateur|Ordinateur]].
+#* {{exemple | lang=nl
+ | Hij zit achter z’n '''computer'''.
+ | Il est derrière son ordinateur.}}
+#* {{exemple | lang=nl
+ | Draagbare '''computer'''.
+ | Ordinateur portable.}}
+#* {{exemple | lang=nl
+ | U beheerst steno en kunt uitstekend overweg met de '''computer'''.
+ | Vous maîtrisez la sténo et l’outil informatique.}}
+
+==== {{S|synonymes}} ====
+* [[pc#nl|pc]]
+
+==== {{S|quasi-synonymes}} ====
+* [[homecomputer#nl|homecomputer]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[aanraakcomputer]]
+* [[aftapcomputer]]
+* [[bankcomputer]]
+* [[belcomputer]]
+* [[besturingscomputer]]
+* [[boordcomputer]]
+* [[computeraanval]]
+* [[computerafhankelijk]]
+* [[computerafval]]
+* [[computeragressie]]
+* [[computeralgebra]]
+* [[computeranalfabeet]]
+* [[computeranalfabetisme]]
+* [[computerangst]]
+* [[computeranimatie]]
+* [[computerapparatuur]]
+* [[computerarchitectuur]]
+* [[computeratleet]]
+* [[computerband]]
+* [[computerbank]]
+* [[computerbedrijf]]
+* [[computerbeeld]]
+* [[computerbeeldscherm]]
+* [[computerbende]]
+* [[computerberekening]]
+* [[computerbestand]]
+* [[computerbeurs]]
+* [[computerbeveiliger]]
+* [[computerbeveiliging]]
+* [[computerbewerking]]
+* [[computerbewijs]]
+* [[computerblad]]
+* [[computerbranche]]
+* [[computerbreakdown]]
+* [[computerbridge]]
+* [[computerbus]]
+* [[computercapaciteit]]
+* [[computercentrum]]
+* [[computerchip]]
+* [[computerclub]]
+* [[computercluster]]
+* [[computercoach]]
+* [[computercommunicatie]]
+* [[computerconcern]]
+* [[computerconsument]]
+* [[computercontrole]]
+* [[computercrash]]
+* [[computercriminaliteit]] ''(criminalité informatique)''
+* [[computercrimineel]]
+* [[computercursus]]
+* [[computerdammen]]
+* [[computerdata]]
+* [[computerdeck]]
+* [[computerdelict]]
+* [[computerdeskundige]]
+* [[computerdienst]]
+* [[computerdiploma]]
+* [[computerdivisie]]
+* [[computeren]]
+* [[computerervaring]]
+* [[computerexpert]]
+* [[computerfabriek]]
+* [[computerfabrikant]]
+* [[computerfirma]]
+* [[computerfonds]]
+* [[computerfoto]]
+* [[computerfout]]
+* [[computerfraude]]
+* [[computerfraudeur]]
+* [[computerfreak]]
+* [[computergame]]
+* [[computergebied]]
+* [[computergebruik]]
+* [[computergebruiker]]
+* [[computergegenereerd]]
+* [[computergegevens]]
+* [[computergeheugen]]
+* [[computergeneratie]]
+* [[computergerelateerd]]
+* [[computergestuurd]]
+* [[computergigant]]
+* [[computergo]]
+* [[computergrafiek]]
+* [[computergrid]]
+* [[computerhandel]]
+* [[computerhandleiding]]
+* [[computerhardware]]
+* [[computerheilige]]
+* [[computerheldin]]
+* [[computerinbraak]]
+* [[computerindustrie]]
+* [[computerinformatie]]
+* [[computeringenieur]]
+* [[computeriseren]]
+* [[computerisering]]
+* [[computerkast]]
+* [[computerkennis]]
+* [[computerkleding]]
+* [[computerkoken]]
+* [[computerkoppeling]]
+* [[computerkraak]]
+* [[computerkracht]]
+* [[computerkraken]]
+* [[computerkraker]] ''(pirate informatique)''
+* [[computerkunde]]
+* [[computerkunst]]
+* [[computerland]]
+* [[computerles]]
+* [[computerliefhebber]]
+* [[computerlijst]]
+* [[computerlinguïstiek]]
+* [[computerlokaal]]
+* [[computermaatschappij]]
+* [[computermaker]]
+* [[computermarkt]]
+* [[computermeubel]]
+* [[computerminded]]
+* [[computermisdadiger]]
+* [[computermisdrijf]]
+* [[computermodel]]
+* [[computermonitor]]
+* [[computermuis]]
+* [[computermuziek]]
+* [[computernerd]]
+* [[computernet]]
+* [[computernetwerk]]
+* [[computerneut]]
+* [[computeronderdeel]]
+* [[computeronderneming]]
+* [[computerondersteund]]
+* [[computeronderwijs]]
+* [[computeroorlog]]
+* [[computerparasiet]]
+* [[computerpark]]
+* [[computerparty]]
+* [[computerpassie]]
+* [[computerpersoneel]]
+* [[computerpiloot]]
+* [[computerpiraat]]
+* [[computerplatform]]
+* [[computerpop]]
+* [[computerprint]]
+* [[computerprobleem]]
+* [[computerproducent]]
+* [[computerprogramma]]
+* [[computerprogrammatuur]]
+* [[computerprogrammeur]]
+* [[computerproject]]
+* [[computerreparatie]]
+* [[computerreserveringssysteem]]
+* [[computerreus]]
+* [[computerrijbewijs]]
+* [[computerruimte]]
+* [[computerschaak]]
+* [[computerschaken]]
+* [[computerscherm]]
+* [[computerschieten]]
+* [[computerschijf]]
+* [[computerschuw]]
+* [[computersector]]
+* [[computerseks]]
+* [[computersimulatie]]
+* [[computersoftware]]
+* [[computerspecialist]]
+* [[computerspel]]
+* [[computerspion]]
+* [[computerstaar]]
+* [[computerstem]]
+* [[computerstoring]]
+* [[computersukkel]]
+* [[computersysteem]]
+* [[computertaal]]
+* [[computertape]]
+* [[computertechniek]]
+* [[computertechnologie]]
+* [[computertekening]]
+* [[computerterminal]]
+* [[computerterminologie]]
+* [[computerterrorisme]]
+* [[computerterrorist]]
+* [[computertijd]]
+* [[computertijdperk]]
+* [[computertijdschrift]]
+* [[computertoepassing]]
+* [[computertomograaf]]
+* [[computertomografie]]
+* [[computertomogram]]
+* [[computeruitdraai]]
+* [[computervaardig]]
+* [[computervaardigheid]]
+* [[computervaardigheidsbewijs]]
+* [[computervaardigheidstest]]
+* [[computerverbinding]]
+* [[computerverkoop]]
+* [[computerverkoper]]
+* [[computerverslaafde]]
+* [[computervertaling]]
+* [[computerverwerking]]
+* [[computervirus]]
+* [[computervoorspelling]]
+* [[computervredebreuk]]
+* [[computervrij]]
+* [[computerweduwe]]
+* [[computerwereld]]
+* [[computerwetenschap]]
+* [[computerwinkel]]
+* [[computerwinkelen]]
+* [[computerworm]]
+* [[computerzuil]]
+* [[derdegeneratiecomputer]]
+* [[desktopcomputer]]
+* [[drumcomputer]]
+* [[duikcomputer]]
+* [[fietscomputer]]
+* [[filecomputer]]
+* [[firewallcomputer]]
+* [[gobookcomputer]]
+* [[handcomputer]]
+* [[handheldcomputer]]
+* [[hobbycomputer]]
+* [[homecomputer]]
+* [[hoofdcomputer]]
+* [[hostcomputer]]
+* [[huiscomputer]]
+* [[IBM-computer]]
+* [[knuffelcomputer]]
+* [[kookcomputer]]
+* [[kwantumcomputer]]
+* [[laptopcomputer#nl|laptopcomputer]]
+* [[lichtcomputer]]
+* [[lokcomputer]]
+* [[microcomputer#nl|microcomputer]]
+* [[minicomputer#nl|minicomputer]]
+* [[multimediacomputer]]
+* [[nanocomputer#nl|nanocomputer]]
+* [[navigatiecomputer]]
+* [[netwerkcomputer]]
+* [[neurocomputer]]
+* [[palmcomputer]]
+* [[personal computer#nl|personal computer]]
+* [[pocketcomputer]]
+* [[politiecomputer]]
+* [[polscomputer]]
+* [[quantumcomputer]]
+* [[schaakcomputer]]
+* [[schootcomputer]]
+* [[schrijfblokcomputer]]
+* [[settopcomputer]]
+* [[spelcomputer]]
+* [[spelletjescomputer]]
+* [[spraakcomputer]]
+* [[stemcomputer]]
+* [[stepcomputer]]
+* [[supercomputer#nl|supercomputer]]
+* [[tabletcomputer]]
+* [[tafelcomputer]]
+* [[thuiscomputer]]
+* [[vertaalcomputer]]
+* [[vestzakcomputer]]
+* [[vluchtcomputer]]
+* [[volkscomputer]]
+* [[weercomputer]]
+* [[zakcomputer]]
+* [[zetcomputer]]
+* [[zombiecomputer]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* [[laptop#nl|laptop]]
+* [[tablet#nl|tablet]]
+
+=== {{S|taux de reconnaissance}} ===
+{{nl-taux|99,3|99,2|pourB=99|pourNL=99}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=nl|Pays-Bas (région ?)|kɔm.ˈpju.tər|audio=Nl-computer.ogg}}
+* {{écouter|lang=nl|Pays-Bas (partie continentale) (Wijchen)|audio=LL-Q7411 (nld)-Robin van der Vliet-computer.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP|computer|computer|nl}}
+
+=== {{S|références}} ===
+{{références}}
+
+[[Catégorie:Anglicismes en néerlandais]]
+[[Catégorie:Machines en anglais]]
+[[Catégorie:Machines en roumain]]
+
+== {{langue|ro}} ==
+=== {{S|étymologie}} ===
+: {{siècle|XX|lang=ro}} De l’{{étyl|en|ro|mot=computer}}.
+
+=== {{S|nom|ro}} ===
+{{ro-nom-tab|gen={{n}}|ns=computer|np=computere|as=computerul|ap=computerele|ds=computerului|dp=computerelor}}
+'''computer''' {{pron||ro}} {{nominatif|ro}} {{accusatif|ro}} {{n}} {{s}}
+# {{lexique|informatique|ro}} [[ordinateur#fr|Ordinateur]].
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=ro|||audio=LL-Q7913 (ron)-Andreea Teodoraa-computer.wav}}

@@ -1,0 +1,140 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+:{{date|lang=fr}} Du {{étyl|la|fr|mot=rapidus|sens=[[violent]]}}, qui qualifie au départ l’eau [[torrentueux|torrentueuse]] qui emporte tout sur son passage, issu de ''[[rapio#la|răpĕrĕ]]'' (« [[saisir]] », « ravir », « emporter ») lui-même d'une racine dont sont issus ''[[rapt]], [[rapace]], [[rapine]]''.
+
+=== {{S|adjectif|fr}} ===
+{{fr-rég|ʁa.pid|mf=1}}
+'''rapide''' {{pron|ʁa.pid|fr}} {{mf}}
+# Qui se [[mouvoir|meut]] avec [[vitesse]].
+# {{par extension}} Qui se fait avec vitesse.
+# Très [[incliné]].
+# Qui [[comprendre|comprend]], qui [[agir|agit]] avec [[rapidité]].
+# {{figuré|fr}} [[animé|Animé]], [[vif]], [[entrainant]].
+# {{lexique|échecs|fr}} Qualifie une [[cadence]] de jeu où le temps de réflexion de chaque joueur est réduit.
+## {{date|lang=fr|avant 2000}} Synonyme de [[blitz]].
+## {{date|lang=fr|2000-2014}} Au moins 15 minutes et moins d’une heure.
+## {{date|lang=fr|depuis 2014}} Au moins 10 minutes et moins d’une heure.
+
+==== {{S|synonymes}} ====
+{{(}}
+* [[bref]]
+* [[diligent]]
+* [[expéditif]]
+* [[hâtif]]
+* [[précipité]]
+* [[prompt]]
+* [[véloce]]
+* [[vivace]]
+{{)}}
+
+==== {{S|antonymes}} ====
+{{(}}
+* [[lent]]
+* [[long]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|vitesse|bref|fleuve}}
+{|border="1"
+|+ Cadences de jeu aux échecs
+|-
+| align="center" | [[lent]] ou [[classique]]
+| align="center" | '''rapide''' <br/> ([[semi-rapide]] avant 2000)
+| align="center" | [[blitz]] <br/> (aussi appelé '''rapide''' avant 2000)
+| align="center" | [[bullet]] <br/> (jeu en ligne)
+|}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[acier rapide]]
+* [[allumage rapide]] {{info lex|nucléaire}}
+* [[amplification rapide d’extrémités d’ADNc]]
+* [[avance rapide]] {{info lex|audiovisuel}}
+* [[changement rapide d’outillage]] ''ou'' [[CRO]]
+* [[conversion rapide]]
+* [[échange rapide de batterie]]
+* [[en circuit rapide]]
+* [[fission rapide]]
+* [[hyperrapide]]
+* [[mémoire d’accès rapide]]
+* [[neutron rapide]]
+* [[rapide comme l’éclair]]
+* [[rapide comme un serpent]]
+* [[rapidement]]
+* [[rapidissime]]
+* [[rapidité]]
+* [[restauration rapide]]
+* [[retour rapide]]
+* [[short rapide]]
+* [[sucre rapide]]
+* [[tri rapide]]
+* [[trottoir rapide]]
+* [[ultrarapide]], [[ultra-rapide]]
+* [[voie rapide]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Qui se meut avec vitesse}}
+{{trad-fin}}
+
+{{trad-début|Très incliné}}
+{{trad-fin}}
+
+{{trad-début|Qui comprend, qui agit avec rapidité}}
+{{trad-fin}}
+
+{{trad-début|Animé, vif, entrainant}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|ʁa.pid}}
+[[File:Rapids before the Rhine Falls.jpg|thumb|Un '''rapide'''. (sens 1)]]
+'''rapide''' {{pron|ʁa.pid|fr}} {{m}}
+# {{lexique|géographie|fr}} Partie d’un [[cours d’eau]] qui [[descendre|descend]] très [[rapidement]] sur une [[déclivité]].
+# [[train|Train]] qui avance à grande [[vitesse]] et ne s’arrête qu’à quelques gares importantes.
+# {{lexique|échecs|fr}} [[tournoi|Tournoi]] joué à la cadence rapide.
+
+==== {{S|traductions}} ====
+{{trad-début|Cataracte.}}
+{{trad-fin}}
+
+{{trad-début|Train.}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|ʁa.pid|mf=oui}}
+'''rapide''' {{pron|ʁa.pid|fr}} {{mf}}
+# {{familier|fr}} Personne très rapide dans ce qu’elle entreprend.
+
+==== {{S|synonymes}} ====
+* [[nerveux]]
+* [[furieux]]
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|ʁa.pid|fr}}
+* {{pron|ʁa.pid|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|ʁa.pid|audio=Fr-rapide.ogg}}
+* {{écouter||ʁa.pid|lang=fr|audio=LL-Q150 (fra)-0x010C-rapide.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-rapide.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-rapide.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-rapide.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-rapide.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-rapide.wav}}
+* {{écouter|lang=fr|Canada (Sainte-Marie)||audio=LL-Q150 (fra)-Webfil-rapide.wav}}
+* {{écouter|lang=fr|France (Strasbourg)||audio=LL-Q143 (epo)-Psychoslave-rapide.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-DSwissK-rapide.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Estrie-rapide.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-rapide.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+{{Autres projets
+|w=Rapide}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+[[Catégorie:Chutes en français|*]]
+

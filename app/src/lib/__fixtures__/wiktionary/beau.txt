@@ -1,0 +1,272 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|mot=bellus|sens=beau, élégant, gracieux}}, devenu très fréquent en bas latin en supplantant le classique ''[[pulcher]]''.
+: {{term|Mots composés de parenté}} : Vers 980, « beau » était un terme d’affection surtout employé entre parents ; en ancien français on disait ''fillastre'' ({{cf|lang=fr|filsâtre}}) pour ''[[beau-fils]]'', ''marastre'' ({{cf|lang=fr|marâtre}}) pour ''[[belle-mère]]'' et ''parastre'' ({{cf|lang=fr|parâtre}}) pour ''[[beau-père]]''. Le suffixe ''[[-âtre]]'' ayant plus tard pris une signification péjorative, la périphrase construite avec « beau- » a été adoptée en remplacement.
+
+=== {{S|adjectif|fr|num=1}} ===
+{{fr-accord-eau|b|b}}
+{{fr-inv|inv_titre=Masc. sing. devant<br>
+une voyelle ou un h muet|s=bel|pron=bɛl}}
+'''beau''' {{pron|bo|fr}}
+# D’[[aspect]] [[agréable]] à l’[[œil]] ou à l’[[oreille]].
+# {{par extension}} [[agréable|Agréable]].
+# {{lexique|météorologie|fr}} Qualifie un [[temps]] [[ensoleillé]].
+# {{lexique|cuisine|fr}} [[gros|Gros]].
+# [[grand|Grand]].
+/>— J’en ai mangé deux, mais j’ai encore une '''belle''' faim.'' {{source|{{w|Hector Malot}}, ''{{w|En famille (roman)|En famille}}'', 1893}}
+# Dans les [[nom composé|noms composés]] de [[parenté]], [[indiquer|indique]] que la [[relation]] [[devoir|est due]] à une [[alliance]] ([[inclure|incluant]] un [[second]] [[mariage]]).
+
+==== {{S|notes}} ====
+: Le masculin singulier devient [[bel]] lorsque l’adjectif est placé avant un nom commençant par une voyelle ou un h muet.
+
+==== {{S|synonymes}} ====
+{{(|(1)}}
+* [[avenant]]
+* [[chouette]]
+* [[cute]] {{Canada|nocat=1}} {{anglicisme|nocat=1}}
+* [[élégant]]
+* [[formeux]]
+* [[formose]] {{poétique|nocat=1}}
+* [[gracieux]]
+* [[joli]]
+* [[magnifique]]
+* [[mignon]]
+* [[pulchre]] {{poétique|nocat=1}}
+* [[ridère]]
+* [[splendide]]
+* [[sublime]]
+* [[superbe]]
+* [[supercoquentieux]]
+{{)}}
+
+==== {{S|antonymes}} ====
+{{(}}
+* [[affreux]]
+* [[atroce]]
+* [[déplaisant]]
+* [[hideux]]
+* [[horrible]]
+* [[laid]]
+* [[repoussant]]
+* [[vilain]]
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[à la belle étoile]]
+* [[au beau milieu de]]
+* [[avoir beau]]
+* [[avoir beau jeu]]
+* [[avoir le beau rôle]]
+* [[avoir un bel organe]]
+* [[beau brin de]]
+* [[beau-chasseur]]
+* [[beau comme le prince de Galles]]
+* [[beau comme un ange]]
+* [[beau comme un astre]]
+* [[beau comme un camion]]
+* [[beau comme un dieu]]
+* [[beau comme un Jésus]]
+* [[beau cul belle gueule]] ''d’ou'' [[BCBG]]
+* [[beau dommage]]
+* [[beau-fils]], [[beaux-fils]]
+* [[beau-frère]], [[beaux-frères]]
+* [[beau fixe]]
+* [[beau-grand-parent]], [[beaux-grands-parents]]
+* [[beau-grand-père]], [[beaux-grands-pères]]
+* [[beau-livre]]
+* [[beau merle]]
+* [[beau monde]]
+* [[beau-neveu]], [[beaux-neveux]]
+* [[beau-papa]]
+* [[beau-parent]], [[beaux-parents]]
+* [[beau parleur]]
+* [[beau-père]], [[beaux-pères]]
+* [[beau-petit-fils]], [[beaux-petits-fils]]
+* [[beau risque]]
+* [[Beaux-Arts]]
+* [[beaucairois]]
+* [[beaucir]]
+* [[beaucoup]]
+* [[Beaufort]]
+* [[beaufortain]]
+* [[beaujolais]]
+* [[Beaulieu]]
+* [[Beaumont]]
+* [[beaumontie]]
+* [[beaumontois]]
+* [[Beauport]]
+* [[beauprésent]]
+* [[beausir]]
+* [[Beausoleil]]
+* [[beauté]]
+* [[beauvaisien]]
+* [[beauvaisin]]
+* [[Beauval]]
+* [[beauvoisin]]
+* [[bel-abbésien]]
+* [[bel âge]]
+* [[bel air]]
+* [[bel appartement]]
+* [[bel-enfant]], [[beaux-enfants]]
+* [[bel esprit]], [[bel-esprit]]
+* [[bel et bien]]
+* [[bel et bon]]
+* [[bel étage]]
+* [[bel-oncle]], [[beaux-oncles]]
+* [[bel-outil]]
+* [[Belfort]]
+* [[belfortain]]
+* [[belfortin]]
+* [[bellâtre]]
+* {{cf|lang=fr|belle|belle-}}
+* [[belle comme la femme d’un autre]]
+* [[belle-fleur]]
+* [[Bellechasse]]
+* [[bellée]]
+* [[bellegarde]]
+* [[bellement]]
+* [[Belleville]]
+* [[bellevillois]]
+* [[bellevue]]
+* [[bellifontain]]
+* [[bellissime]]
+* [[coco-bel-œil]]
+* [[comme un beau diable]]
+* [[coucher à la belle étoile]]
+* [[déplorer que la mariée soit trop belle]]
+* [[désembellir]]
+* [[dormir à la belle étoile]]
+* [[du beau linge]]
+* [[elle est belle]]
+* [[embellir]]
+* [[embellissement]]
+* [[embellisseur]]
+* [[être dans de beaux draps]]
+* [[être dans son beau]]
+* [[faire la part belle]]
+* [[grand-beau]]
+* [[herbe à la belle fille]]
+* [[il y a beaux jours]]
+* [[jouer le beau rôle]]
+* [[la belle affaire]]
+* [[la plus belle conquête de l’homme]] ''(le cheval)''
+* [[mourir de sa belle mort]]
+* [[porter beau]]
+* [[pour les beaux yeux]]
+* [[rembellir]]
+* [[s’endormir de sa plus belle mort]]
+* [[se donner le beau rôle]]
+* [[se faire beau]]
+* [[se plaindre que la mariée est trop belle]]
+* [[tout-beau]]
+* [[trop beau pour être vrai]]
+* [[un beau jour]]
+* [[un beau matin]]
+* [[un beau soir]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[c’est du beau]]
+* [[c’était le beau temps]]
+* [[on ne peut pas être beau et rester au village]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|bijou|catch}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad+|ar|جميل|R=ǧamiyl|dif=جَمِيل}}
+{{trad-fin}}
+
+{{trad-début|D’aspect agréable à l’œil ou à l’oreille|1}}
+* {{T|ar}} : {{trad+|ar|جميل|tr=jamīl}}
+{{trad-fin}}
+
+{{trad-début|Qualifie un temps ensoleillé|3}}
+{{trad-fin}}
+
+=== {{S|adjectif|fr|num=2}} ===
+{{fr-accord-eau|b|b}}
+'''beau''' {{pron|bo|fr}}
+# Relatif à [[Beaux]], [[commune]] [[français]]e située dans le [[département]] de la [[Haute-Loire]].
+
+=== {{S|nom|fr|num=1}} ===
+'''beau''' {{pron|bo|fr}} {{m}} {{invar}}
+# {{au singulier}} Tout ce qui est [[excellent]], [[parfait]], [[admirable]] dans son [[genre]].
+
+==== {{S|synonymes}} ====
+* [[beauté]]
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég-x|bo}}
+'''beau''' {{pron|bo|fr}} {{m}}
+# {{péjoratif|fr}} [[homme|Homme]] qui [[jouer|joue]] de sa [[beauté]].
+
+==== {{S|dérivés}} ====
+* [[faire le beau]] (pour un homme, se dresser et se rengorger, et pour un chien, se dresser sur son postérieur)
+* [[vieux beau]]
+
+=== {{S|nom|fr|num=3}} ===
+{{fr-rég-x|bo}}
+'''beau''' {{pron|bo|fr}} {{m}}
+# {{ellipse|fr}} [[beau temps|Beau temps]].
+
+==== {{S|dérivés}} ====
+* [[grand beau]]
+
+=== {{S|adverbe|fr}} ===
+'''beau''' {{pron|bo|fr}}
+# [[marque|Marque]] des [[effort]]s [[vain]]s, [[inutile]]s. {{cf|lang=fr|avoir beau}}
+# {{Québec|fr}} C’est '''beau''' : [[d’accord|D’accord]] ; équivaut à : ''C’est [[bon]]'' en France.
+
+==== {{S|dérivés}} ====
+* [[avoir beau]]
+* [[en beau]] ''(sous un bel aspect)''
+
+==== {{S|phrases}} ====
+* [[il fait beau voir]] (''il est agréable de voir ; il est risible, ridicule de voir)''
+* [[il ferait beau voir]]
+* [[tout beau]] ! ''([[doucement]] ! [[arrêtez]] !)''
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|bo|fr}}
+* {{pron|bo|fr}}
+** {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|bo|audio=Fr-beau.ogg}}
+* {{écouter|lang=fr|France (Occitanie)|audio=LL-Q150 (fra)-Arthur Crbz-beau.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-beau.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-beau.wav}}
+* {{écouter|lang=fr|France (Lyon)|audio=LL-Q150 (fra)-Ltrlg-beau.wav}}
+* {{écouter|lang=fr|France (Toulouse)||audio=LL-Q150 (fra)-Lepticed7-beau.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-beau.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-beau.wav}}
+* {{écouter|lang=fr|France (Saint-Étienne)||audio=LL-Q150 (fra)-Touam-beau.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-beau.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Estrie-beau.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-beau.wav}}
+* {{écouter|Bordeaux (France)||lang=fr|audio=LL-Q150 (fra)-Bananax47-beau.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-beau.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[bau]], [[baux]]
+* [[Baud]]
+* [[baud#Nom_commun_1|baud]]
+* [[baux]]
+* [[Beau]], [[Beaux]]
+* [[Le Bô|Bô]]
+* [[bot#Adjectif|bot]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+* {{Wikiquote}}
+
+=== {{S|références}} ===
+* {{mercihabitants}}
+* {{R:DAF8}}
+* {{R:Rivarol}}
+* {{Import:DAF8}}
+

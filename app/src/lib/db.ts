@@ -1,5 +1,6 @@
 import Dexie, { type EntityTable } from 'dexie';
 import type { Lang } from '../i18n';
+import type { WordInfo } from './dictionary';
 
 export interface Session {
   id: string;
@@ -25,6 +26,8 @@ export interface MyWord {
   addedAt: number;
   /** Lectures où le mot a été ajouté. */
   sessionIds: string[];
+  /** Définition et traduction (Wiktionnaire), ou statut de la dernière recherche. */
+  info?: WordInfo;
 }
 
 interface Kv {
@@ -71,6 +74,8 @@ export interface Prefs {
   debugOn: boolean;
   /** Vitesse de lecture (0,5 à 1, pas de 0,1). */
   speed: number;
+  /** Accord pour chercher les mots sur le Wiktionnaire (seul accès Internet). */
+  dictionaryConsent: 'unknown' | 'yes' | 'no';
 }
 
 export async function loadPrefs(defaults: Prefs): Promise<Prefs> {

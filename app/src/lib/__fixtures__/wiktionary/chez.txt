@@ -1,0 +1,71 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: De l'{{étyl|fro|fr|chies|sens=en l'hôtel de, chez}}, lui-même hérité du {{étyl|la|fr|casae|sens=maison}}, un locatif. Si le substantif ''[[chiese]]'' dérivant du nominatif latin ''[[casa]]'' est bien attesté en ancien français, l'absence de voyelle finale dans la préposition ''chez'' (en ancien français ''chiés'' ou ''chiez'') induit que cette dernière est l'évolution naturelle du locatif ''casae'', littéralement « à la maison » en latin.
+
+=== {{S|préposition|fr}} ===
+{{fr-inv|ʃe}}
+'''chez''' {{pron|ʃe|fr}} {{invariable|fr}}
+# Dans la [[maison]] de, au [[logis]] de ; [[associer|associé]] au [[lieu]] de [[résidence]] ou d'[[activité]] d'une [[personne]].
+# {{par extension|fr}} Se dit du [[pays]] [[natal]], du [[lieu]] qu’on [[habiter|habite]] [[ordinairement]].
+# [[parmi|Parmi]].
+# {{figuré|fr}} En la [[personne]] de, en parlant de [[quelqu’un]].
+# {{figuré|fr}} {{par extension|fr}} Dans les [[œuvre]]s de quelqu’un.
+
+==== {{S|notes}} ====
+Au Québec, au Nouveau-Brunswick ainsi que dans toutes les parties francophones du Canada, on dit souvent ''chez nous, chez vous, chez eux'' même si la personne en question vit seule, donc à la place de ''chez moi, chez toi, chez lui/elle''.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[aller chez le bonhomme]] {{Québec|nocat=1}}
+* [[aller se faire voir chez les Grecs]] {{familier|nocat=1}}
+* [[chez les Bisounours]] ''(Locution adverbiale)''
+* [[chez ma tante]]
+* [[chez-moi]], [[chez-soi]]
+* [[de chez]]
+* [[de plus en plus fort comme chez Nicolet]] ''(Locution adverbiale)''
+* [[du côté de chez Swann]] {{info lex|sexualité}} {{argot|nocat=1}}
+* [[faire comme chez soi]]
+* [[habiller chez Francœur le poivre et la cannelle]] {{vieilli|nocat=1}} {{rare|nocat=1}}
+* [[habiller chez Francœur le sucre et la cannelle]] {{vieilli|nocat=1}} {{rare|nocat=1}}
+* [[loger chez l’habitant]]
+* [[nul de chez nul]]
+{{)}}
+
+==== {{S|dérivés autres langues}} ====
+{{(}}
+* {{L|eo}} : {{lien|ĉe|eo}}
+{{)}}
+
+==== {{S|phrases}} ====
+* [[on est chez les fous]]
+* [[on est pas chez mémé]]
+* [[va chez le diable]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad+|ar|عند|tr=ʿinda|dif=عِنْدَ}}
+{{trad-fin}}
+
+{{trad-début|Dans la maison de, au logis de}}
+{{trad-fin}}
+
+{{trad-début|Au pays natal, au lieu qu’on habite ordinairement}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|ʃe|fr}}
+* {{pron|ʃe|fr}}
+** {{écouter|lang=fr|France|ʃe|audio=Fr-chez.ogg}}
+** {{écouter|lang=fr|France (Vosges)|ʃe|audio=LL-Q150 (fra)-LoquaxFR-chez.wav}}
+** {{écouter|lang=fr|France (Lyon)|ʃe|audio=LL-Q150 (fra)-WikiLucas00-chez.wav}}
+** {{écouter|lang=fr|France (Vosges)|ʃe|audio=LL-Q150 (fra)-Poslovitch-chez.wav}}
+** {{écouter|lang=fr|France|ʃe|audio=LL-Q150 (fra)-Mecanautes-chez.wav}}
+* {{écouter|lang=fr|Québec {{soutenu|nocat=1}}|ʃe}}
+* {{écouter|lang=fr|Québec {{populaire|nocat=1}}|ʃə}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-chez.wav}}
+
+=== {{S|références}} ===
+* {{RÉF|1}}{{R:TLFi|étym=1}}
+* {{R:DAF8}}
+* [https://web.archive.org/web/20070526225858/http://www.tv5.org/TV5Site/lf/merci_professeur.php?id=3336 Explication de Bernard Cerquiglini en images]
+

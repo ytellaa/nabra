@@ -1,0 +1,103 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|frm|fr|semaine}}<ref>{{R:DMF}}</ref>, de l’{{étyl|fro|fr|semaine}}<ref>{{R:DÉCT}}</ref>, {{lien|''sepmaine''|fro}}, attesté (au moins) aux {{siècle2|XVI}} et {{siècle2|XVII}} siècles<ref>{{w|La Sepmaine|La Sepmaine sur Wikipédia}}</ref>, du {{étyl|latin ecclésiastique|fr|mot=septimana}}<ref>{{R:TLFi}}</ref>, dérivé de {{lien|''septimus''|sens=septième|la}}, de {{lien|''septem''|sens=sept|la}}. Cognat de l’italien {{lien|''settimana''|it}}, de l’espagnol {{lien|''semana''|es}}, du portugais {{lien|''semana''|pt}}, du catalan {{lien|''setmana''|ca}}.
+
+=== {{S|nom|fr}} ===
+[[Fichier:Calendrier 2020 semaines ISO fr.svg|vignette|redresse=2|Calendrier de l'année 2020 avec numérotation des '''semaines''' (du lundi au dimanche) selon la norme ISO 8601.]]
+'''semaine''' {{pron|sə.mɛn|smɛn|fr}} {{f}}
+# [[séquence|Séquence]] constituée des sept [[jour]]s : [[lundi]], [[mardi]], [[mercredi]], [[jeudi]], [[vendredi]], [[samedi]] et [[dimanche]]. Chaque [[date]] a un seul [[jour de la semaine]] dans cet ordre, mais le commencement de la semaine dépend de la tradition locale.
+# {{par extension|fr}} Une [[tranche]] de [[sept]] [[jour]]s à partir de la [[date]] [[courant]]e (''semaine flottante'').
+# [[période|Période]] de [[cinq]] jours [[travaillé]]s (du lundi au vendredi) [[au sein de]]s sept jours de la semaine, par [[opposition]] à la [[fin de semaine]] (ou [[week-end]]).
+# [[temps|Temps]] [[légal]] de [[travail]] [[pendant]] une semaine.
+# [[salaire|Salaire]] [[obtenir|obtenu]] [[au bout d’]]une semaine de travail.
+# [[durée|Durée]] d’une [[campagne publicitaire]].
+# {{littéraire|fr}} {{rare|fr}} [[ensemble|Ensemble]] de sept [[objet]]s de [[même]] [[nature]].
+# {{Québec|fr}} Période de menstruation, règles.
+# {{lexique|militaire|fr}} Espèce de conciergerie assurée par une permanence à tour de rôle des sous-officiers et des hommes de troupe et qui dure une semaine.
+
+==== {{S|antonymes}} ====
+; Période de cinq jours travaillés (du lundi au vendredi) au sein des sept jours de la semaine (3) :
+* [[fin de semaine]]
+* [[week-end]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à la petite semaine]]
+* [[demi-semaine]]
+* [[être dans sa semaine]]
+* [[en semaine]]
+* [[fête des Semaines]]
+* [[fin de semaine]]
+* [[jour de semaine]]
+* [[male semaine]] ''(menstruation)''
+* [[prendre pour un lapin de six semaines]]
+* [[prêter à la petite semaine]] ''(tirer un intérêt exorbitant d’une petite somme remboursable à un terme très court)''
+* [[semaine anglaise]]
+* [[semaine aux quatre jeudis]]
+* [[semaine de quatre jours]]
+* [[semaine des charlatans]]
+* [[semaine des quatre jeudis]]
+* [[semaine en quatre jours]]
+* [[semaine-lumière]]
+* [[semaine parisienne]] ''(dans les imprimeries)''
+* [[semaine sainte]] ''(semaine qui précède Pâques)''
+* [[semainier]]
+* [[sur semaine]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+{{voir thésaurus|fr|dimanche|sept|calendrier|cinq|jour (cycle)|rémunération}}
+* [[hebdomadaire]]
+
+==== {{S|traductions}} ====
+{{trad-début|Séquence constituée de sept jours}}
+* {{T|ar}} : {{trad-|ar|أسبوع|m|tr=ʾusbūʿ|dif=أُسْبُوع}}
+{{trad-fin}}
+
+{{trad-début|Tranche de sept jours à partir de la date courante}}
+* {{T|ar}} : {{trad-|ar|أسبوع|tr=ʾusbūʿ}}
+{{trad-fin}}
+
+{{trad-début|Période de cinq jours travaillés}}
+{{trad-fin}}
+
+{{trad-début|Temps légal de travail}}
+{{trad-fin}}
+
+{{trad-début|Salaire obtenu au bout d’une semaine de travail}}
+{{trad-fin}}
+
+{{trad-début|Durée d’une campagne publicitaire}}
+{{trad-fin}}
+
+{{trad-début|Ensemble de sept objets de même nature}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|sə.mɛn|fr}}
+* {{pron-rimes|smɛn|fr}}
+* {{pron|sə.mɛn|smɛn|fr}}
+* Français méridional : {{pron|sə.ˈmɛ.nə|fr}}
+* Canada : {{pron|sə.mɛn|smɛn|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|yn sə.mɛn|audio=Fr-semaine.ogg}}
+* {{écouter||sə.mɛn|lang=fr|audio=LL-Q150 (fra)-Guilhelma-semaine.wav}}
+* {{écouter||sə.mɛn|lang=fr|audio=LL-Q150 (fra)-Jules78120-semaine.wav}}
+* {{écouter|lang=fr|France (Paris)|sə.mɛn|audio=LL-Q150 (fra)-GrandCelinien-semaine.wav}}
+* {{écouter|lang=fr|France (Massy)|sə.mɛn|audio=LL-Q150 (fra)-X-Javier-semaine.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-semaine.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-semaine.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-semaine.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+<references />
+
+[[Catégorie:Calendrier en français]]
+[[Catégorie:Unités de mesure de temps en français]]
+

@@ -1,0 +1,91 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du participe passé de « [[fatiguer]] ».
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-rég|fa.ti.ɡe}}
+'''fatigué''' {{pron|fa.ti.ɡe|fr}} {{m}}
+# Qui [[avoir besoin de|a besoin de]] [[repos]].
+# {{familier|fr}} {{par analogie|fr}} [[usé|Usé]], [[usagé]].
+# {{par analogie|fr}} En mauvais état, en raison d’une longue existence ou d’un manque d’entretien.
+# {{Corse|fr}} {{Provence|fr}} [[malade|Malade]], en mauvaise santé.
+
+==== {{S|synonymes}} ====
+{{(|Manquant de repos|1}}
+* [[claqué]] {{par hyperbole|nocat=1}}
+* [[crevé]] {{par hyperbole|nocat=1}}
+* [[épuisé]]
+* [[éreinté]]
+* [[exténué]]
+* [[fourbu]]
+* [[harassé]]
+* [[las]]
+* [[lavé]] {{Québec|nocat=1}}
+* [[lessivé]]
+* [[mort]] {{par hyperbole|nocat=1}}
+* [[recru]]
+* [[waka]] {{Côte d'Ivoire|nocat=1}}
+{{)}}
+'''Usé, usagé (2)''' :
+* [[élimé]]
+* [[érodé]]
+* [[râpé]]
+
+==== {{S|antonymes}} ====
+'''Manquant de repos''' (1) :
+* [[frais]]
+* [[reposé]]
+'''Usé, usagé''' (2) :
+* [[frais]]
+* [[neuf]]
+
+==== {{S|dérivés}} ====
+* [[fatigué de naissance]]
+* [[être fatigué]]
+
+==== {{S|apparentés}} ====
+* [[fatigable]]
+* [[fatigant]]
+* [[fatigue]]
+* [[fatiguer]]
+
+==== {{S|traductions}} ====
+{{trad-début|Manquant de repos.}}
+* {{T|ar}} : {{trad-|ar|متعب|tr=mútʿab}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|fatiguer|pp=oui}}
+'''fatigué''' {{pron|fa.ti.ɡe|fr}}
+# ''Participe passé masculin singulier de'' [[fatiguer]].
+
+=== {{S|adverbe|fr}} ===
+'''fatigué''' {{pron|fa.ti.ɡe|fr}}
+# {{Afrique|fr}} [[assez|Assez]], [[trop]].
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|fa.ti.ɡe|fr}}
+** {{écouter|France (Paris)|ˈfa.t͡si.ɡe|audio=Fr-fatigué.ogg|lang=fr}}
+** {{écouter|Suisse|ˈfɑ.t͡si.ɡe|lang=fr|audio=LL-Q150 (fra)-DSwissK-fatigué.wav}}
+** {{écouter|lang=fr|France (Bouches-du-Rhône)|fa.t͡si.ˈɡe|audio=LL-Q150 (fra)-Josette (O2)-fatigué.wav}}
+** {{écouter|lang=fr|France (Vosges)|ˈfa.t͡si.ɡe|audio=LL-Q150 (fra)-LoquaxFR-fatigué.wav}}
+** {{écouter|lang=fr|France|fa.t͡si.ˈɡe|audio=LL-Q150 (fra)-ClasseNoes-fatigué.wav}}
+** {{écouter|lang=fr|France|ˈfa.t͡si.ɡe|audio=LL-Q150 (fra)-Julien Baley-fatigué.wav}}
+** {{écouter|France (Lyon)|ˈfa.t͡si.ɡe|lang=fr|audio=LL-Q150 (fra)-WikiLucas00-fatigué.wav}}
+** {{écouter|France (Auriol)|fa.t͡si.ˈɡe|lang=fr|audio=LL-Q150 (fra)-Louis (O2)-fatigué.wav}}
+** {{écouter|France (Cornimont)|ˈfa.t͡si.ɡe|lang=fr|audio=LL-Q150 (fra)-Poslovitch-fatigué.wav}}
+* {{phon|fa.t͡si.ˈɡe|fr}} ou {{phon|fat͡s.ˈke|fr}} {{term|Québec}}
+** {{écouter|Canada (Montréal) {{familier|nocat=1}}|fat͡s.ˈke|audio=LL-Q150 (fra)-VincentPH-fatigué.wav|lang=fr}}
+** {{écouter|Canada {{familier|nocat=1}}|ˈfat͡s.ke|audio=Qc-fatigué.ogg|lang=fr}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+* Expressions béninoises : [http://blogcooperation.be/2012/05/01/expressions-beninoises http://blogcooperation.be/2012/05/01/expressions-beninoises]
+
+[[Catégorie:français du Bénin]]
+[[Catégorie:français du Togo]]
+[[Catégorie:Lexique en français de la médecine]]
+

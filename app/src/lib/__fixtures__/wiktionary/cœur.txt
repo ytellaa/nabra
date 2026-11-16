@@ -1,0 +1,420 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr|1048}} Du {{étyl|frm|fr|coeur}}, de l’{{étyl|fro|fr|cuer}}, {{lien|''coer''|fro}}, {{lien|''quer''|fro}}, {{lien|''quor''|fro}}, du {{étyl|la|fr|mot=cor}}, génitif ''[[cordis]]'' (« cœur, [[estomac]] »), de l’{{étyl|indo-européen commun|fr}} {{recons|lang-mot-vedette=fr|{{LienRouge|lang=en|trad=Appendix:Proto-Indo-European/ḱḗr|fr=Reconstruction:indo-européen commun/*ḱḗr|texte=ḱḗr}}}} (« [[entrailles]] »). Apparenté à l’anglais ''[[heart]]'' ou l’allemand ''[[Herz]]'', au grec ancien {{polytonique|[[καρδία]]|kardía|cœur}}{{RÉF}}, qui a donné de nombreux dérivés en « [[cardio-]] ».
+: Étymologiquement parlant, on fait donc référence à une très ancienne origine du mot quand on dit que l’on a « mal au '''cœur''' » et que l’on désigne par là un [[ventre]] récalcitrant ou un [[estomac]] ''[[écœuré]]''.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|kœʁ}}
+[[Image:Human healthy pumping heart fr.svg|vignette|Anatomie du '''cœur''' de l’homme et circulation sanguine. (sens 1)]]
+[[Image:Hals-HommeALaMainSurLeCoeur-Bordeaux.jpg|vignette|redresse|''L’homme à la main sur le '''cœur''''' (sens 2) de Frans Hals]]
+[[Image:Noto Emoji v2.034 2764.svg|vignette|120px|Symbole en forme de '''cœur''' (sens 12)]]
+[[Image:Queen of hearts fr.svg|vignette|redresse|Dame de '''cœur''' au portrait de Paris (sens 14)]]
+'''cœur''' {{pron|kœʁ|fr}} {{m}}
+# {{lexique|anatomie|fr}} [[organe|Organe]] [[musculaire]], [[creux]] et [[pulsatile]] [[assurer|assurant]] la [[circulation]] [[sanguin]]e dans le [[corps]] [[humain]] ou [[animal]].
+# {{en particulier}} Organe [[considérer|considéré]] comme [[susceptible]] de [[mouvement]]s [[causer|causés]] par les [[passion]]s.
+# {{par extension}} [[être|Être]] [[aimant]] et [[aimé]].
+# {{par métonymie|fr}} [[partie|Partie]] de la [[poitrine]] où les [[battement]]s du cœur se [[faire|font]] [[sentir]].
+# {{par extension}} {{familier|fr}} [[estomac|Estomac]].
+# {{figuré|fr}} Organe considéré [[comme]] le [[siège]] de la [[sensibilité]] [[moral]]e, des [[sentiment]]s et des passions.
+# {{par extension}} {{vieilli|fr}} [[courage|Courage]] ; [[fermeté]] d’[[âme]] ; [[constance]].
+# {{par extension}} [[personnage|Personnage]] qui [[posséder|possède]] ces qualités de courage, de [[vaillance]], [[etc.]]
+# {{figuré|fr}} [[centre|Centre]] de l’[[affectivité]] par [[opposition]] à la [[raison]], à l’[[esprit]].
+# [[pensée|Pensée]] [[intime]], [[disposition]]s de l’âme.
+# {{familier|fr}} Sujet des affections de quelqu’un.
+/>— C’est toi qui es bon, un bon garçon, un brave petit '''cœur'''. Vois-tu, il y a des moments dans la vie où l’on est disposé à reconnaître ces choses-là et à se laisser attendrir.'' {{source|Hector Malot, ''{{ws|Sans famille/Dentu, 1887/Texte entier|Sans famille}}'', 1878}}
+# Ce qui [[rappeler|rappelle]] la [[forme]] de l’organe.
+# {{région}} [[bigarreau|Bigarreau]].
+# {{lexique|cartes à jouer|fr}} Une des [[quatre]] [[enseigne]]s d’un [[jeu de cartes]] [[français]] ou [[germanique]], ainsi nommée parce que les [[carte]]s de cette [[couleur]] sont [[marquer|marquées]] de '''cœurs''' rouges [[styliser|stylisés]] (<span style="color:red">[[♥]]</span>).
+# {{par analogie|fr}} [[milieu|Milieu]] de [[quelque chose]], [[particulièrement]] d’un [[état]] ou d’une [[ville]], [[centre]], parfois [[symbolique]], d’un [[objet]], d’un [[endroit]].
+# {{par extension|fr}} {{France|fr}} [[zone|Zone]] [[centrale]] d’un [[parc naturel]], bénéficiant d’une [[protection]] [[renforcé|renforcée]].
+# [[Image:Blason ville fr Eix (Meuse).svg|vignette|redresse|Porte en '''cœur''' ''(17)'']] {{par extension|fr}} {{lexique|héraldique|fr}} Centre de l’[[écu]]. Voir [[en cœur]].
+# [[Image:Blason ville fr Condat-sur-Gavaneix (Corrèze).svg|vignette|redresse|Armoiries avec 3 '''cœurs''' ''(18)'']] {{meubles héraldiques|fr}} [[meuble|Meuble]] représentant un cœur [[stylisé]] ([[cardioïde]]) dans les [[armoiries]]. À rapprocher de [[cœur vendéen]].
+# {{lexique|foresterie|menuiserie|fr}} Partie [[central]]e du [[corps]] [[ligneux]] des [[arbre]]s.
+# {{lexique|technologie des réacteurs nucléaires|fr}} Partie d’un réacteur nucléaire à fission dans laquelle est placé le combustible nucléaire et qui est agencée de manière à permettre une réaction de fission en chaîne.
+# {{lexique|technologie des réacteurs nucléaires|fr}} Quantité de combustible nucléaire située dans cette partie du réacteur.
+# {{composants|fr}} [[cœur de processeur|Cœur de processeur]].
+# [[Image:WTW B.A.C.H WTW 13 Hayley Foster 007.JPG|vignette|redresse|Le '''cœur''' d’un aiguillage. (23)]] {{lexique|chemin de fer|fr}} Partie d’un [[aiguillage]] où se croisent deux [[rail]]s.
+# {{par extension}} {{lexique|horlogerie|fr}} [[dispositif|Dispositif]] en forme de cœur, inventé en 1862 par le Suisse {{w|Adolphe Nicole}} et permettant aux [[chronographe]]s de remettre rapidement l’aiguille à zéro d’une seule pression.
+# [[jeu de cartes|Jeu de cartes]] dans lequel les cartes se jouent par couleur. La dame de pique permet de briser le cœur, et cette couleur peut alors être jouée.
+# {{lexique|anatomie|fr}} {{Terre-Neuve|fr}} [[plante|Plante]], [[paume]].
+
+==== {{S|variantes orthographiques}} ====
+* {{lien|coeur|fr}} {{term|variante typographique}}
+
+==== {{S|synonymes}} ====
+; Organe (1)
+* [[gugus]] {{argot|nocat=1}}
+* [[palpitant]] {{argot|nocat=1}}
+* [[patate]] {{populaire|nocat=1}} {{Québec|nocat=1}}
+; Générosité, courage (3)
+* [[générosité]]
+; Centre symbolique (7)
+* [[centre]]
+* [[sein]]
+; En héraldique
+* [[abîme]]
+; Ferroviaire (21)
+* [[pointe-de-cœur]]
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[Acœur]], [[A cœur]]
+* [[à cœur]]
+* [[à cœur de journée]]
+* [[à cœur jeûn]]
+* [[à cœur ouvert]]
+* [[à cœur perdu]]
+* [[à contre-cœur]]
+* [[à contrecœur]]
+* [[à plein cœur]]
+* [[à votre bon cœur]]
+* [[accroche-cœur]]
+* [[affaire de cœur]]
+* [[aller au cœur]]
+* [[aller droit au cœur]]
+* [[ancœur]]
+* [[anticœur]]
+* [[apprendre par cœur]]
+* [[argent du cœur]]
+* [[arrêt du cœur]]
+* [[as de cœur]] {{info lex|cartes à jouer}}
+* [[au cœur de]] : au plus fort de
+* [[avant-cœur]]
+* [[avoir à cœur]]
+* [[avoir bon cœur]]
+* [[avoir cœur à l’ouvrage]]
+* [[avoir cœur au métier]]
+* [[avoir du cœur au ventre]]
+* [[avoir gros cœur]]
+* [[avoir le cœur à l’ouvrage]]
+* [[avoir le cœur à la gorge]]
+* [[avoir le cœur au métier]]
+* [[avoir le cœur au bord des lèvres]]
+* [[avoir le cœur bien accroché]]
+* [[avoir le cœur brisé]]
+* [[avoir le cœur gros]]
+* [[avoir le cœur lourd]]
+* [[avoir le cœur sec]]
+* [[avoir le cœur serré]]
+* [[avoir le cœur sur les lèvres]], être franc et sincère
+* [[avoir le cœur sur la main]]
+* [[avoir le cœur sur la main et le poignet coupé]]
+* [[avoir le cœur tendre]]
+* [[avoir le cœur velu]]
+* [[avoir tatoué sur le cœur]]
+* [[avoir mal au cœur]]
+* [[avoir un cœur d’artichaut]]
+* [[avoir un cœur de pierre]]
+* [[avoir un cœur gros comme ça]]
+* [[avoir une crotte sur le cœur]]
+* [[avoir une pierre à la place du cœur]]
+* [[avoir sur le cœur]]
+* [[briser le cœur]]
+* [[bucarde-cœur de Vénus]]
+* [[cache-cœur]]
+* [[casse-cœur]]
+* [[chaine des cœurs]] {{ortho1990}}
+* [[chaîne des cœurs]] {{tradit}}
+* [[chasse-cœur]]
+* [[chauffe-cœur]]
+* [[cœur à cœur]]
+* [[cœur au ventre]]
+* [[cœur battant]]
+* [[cœur copulatoire]]
+* [[cœur croisé]]
+* [[cœur d’artichaut]]
+* [[cœur de bœuf]]
+* [[cœur-de-Jeannette]]
+* [[cœur de lion]] : grand courage
+* [[cœur de Marie]]
+* [[cœur de métier]]
+* [[cœur de palmier]]
+* [[cœur-de-pigeon]]
+* [[cœur de poule]] : extrême poltronnerie.
+* [[cœur de pierre]] : personne insensible, sans compassion
+* [[Cœur de Saintonge]]
+* [[cœur du réacteur]]
+* [[cœur hétérogène]] {{info lex|physique des réacteurs nucléaires}}
+* [[cœur homogène]] {{info lex|physique des réacteurs nucléaires}}
+* [[cœur rouge]]
+* [[cœuraçon]] {{Terre-Neuve|nocat=1}}
+* [[cœurée]]
+* [[contre-cœur]], [[contrecœur]]
+* [[cosse-cœur]]
+* [[coup au cœur]]
+* [[coup de cœur]]
+* [[courrier du cœur]]
+* [[crève-cœur]]
+* [[crever le cœur]]
+* [[d’abondance de cœur]]
+* [[dame de cœur]] {{info lex|cartes à jouer}}
+* [[dans le cœur de]] {{Terre-Neuve|nocat=1}}
+* [[de bon cœur]]
+* [[de cœur]]
+* [[de grand cœur]]
+* [[de gaieté de cœur]]
+* [[de tout cœur]]
+* [[décharger son cœur]]
+* [[décœurer]]
+* [[diner par cœur]] {{ortho1990}}
+* [[dîner par cœur]]
+* [[du fond du cœur]]
+* [[écœuranterie]]
+* [[écœurantiser]]
+* [[écœurement]]
+* [[écœurer]]
+* [[électron de cœur]]
+* [[en avoir gros sur le cœur]]
+* [[en avoir le cœur net]]
+* [[en plein cœur]]
+* [[être de tout cœur]]
+* [[être tout cœur]]
+* [[faire bondir le cœur]]
+* [[faire chaud au cœur]]
+* [[faire contre mauvaise fortune, bon cœur]]
+* [[faire froid au cœur]]
+* [[faire gros cœur]]
+* [[faire la bouche en cœur]]
+* [[faire le joli cœur]]
+* [[faire mal au cœur]]
+* [[faire saigner le cœur]]
+* [[fendre le cœur]]
+* [[frapper au cœur]]
+* [[garde-cœur]]
+* [[gens de cœur]]
+* [[grand cœur]]
+* [[haut-le-cœur]]
+* [[le cœur battant]]
+* [[le cœur gai]]
+* [[le cœur joyeux]]
+* [[le cœur sur la main]]
+* [[laisser parler son cœur]]
+* [[lever le cœur]]
+* [[mal au cœur]]
+* [[mauvais cœur]]
+* [[mauvaise tête et bon cœur]]
+* [[mettre du cœur à]]
+* [[mini-cœur]], [[minicœur]]
+* [[multi-cœur]]
+* [[n’être qu’un cœur et qu’une âme]]
+* [[nez-en-cœur]]
+* [[ouvrir son cœur]]
+* [[par cœur]] : de mémoire
+* [[peine de cœur]]
+* [[perçage à cœur]]
+* [[peser sur le cœur]]
+* [[pincement au cœur]]
+* [[pleurer de toutes les larmes de son cœur]]
+* [[pointe-de-cœur]]
+* [[porter au cœur]]
+* [[porter dans son cœur]]
+* [[prendre à cœur]]
+* [[prendre son cœur à deux mains]]
+* [[prénom de cœur]]
+* [[princesse des cœurs]]
+* [[rai-de-cœur]]
+* [[ramasser son cœur à deux mains]]
+* [[rancœur]]
+* [[remettre le cœur]] (redonner du courage)
+* [[retourner le cœur]]
+* [[roi de cœur]] {{info lex|cartes à jouer}}
+* [[sacré-cœur]]
+* [[sans-cœur]]
+* [[savoir par cœur]]
+* [[s’en donner à cœur joie]]
+* [[se marcher sur le cœur]]
+* [[se ronger le cœur]]
+* [[se vider le cœur]]
+* [[serrement de cœur]]
+* [[si le cœur vous en dit]]
+* [[sonder le cœur et les reins]]
+* [[son cœur balance]]
+* [[souffle au cœur]]
+* [[soulever le cœur]]
+* [[tant que le cœur me battra]]
+* [[tenir à cœur]]
+* [[tenir au cœur]]
+* [[tombeau de cœur]]
+* [[tourner le cœur]]
+* [[y aller bon cœur bon argent]]
+
+{{)}}
+
+==== {{S|phrases}} ====
+* [[à cœur vaillant rien d’impossible]]
+* [[bon estomac et mauvais cœur, c’est le secret pour vivre longtemps]]
+* [[bouche de miel, cœur de fiel]]
+* [[cœur qui soupire n’a pas ce qu’il désire]]
+* [[la vengeance est douce au cœur de l’Indien]]
+* [[le cœur a ses raisons que la raison ignore]]
+* [[le cœur a ses raisons que la raison ne connait pas]] {{ortho1990}}
+* [[le cœur a ses raisons que la raison ne connaît pas]]
+* [[le cœur a ses raisons que la raison ne connait point]] {{ortho1990}}
+* [[le cœur a ses raisons que la raison ne connaît point]]
+* [[le cœur y est]]
+* [[loin des yeux, loin du cœur]]
+
+==== {{S|apparentés}} ====
+* [[cardio-]], issu du grec
+** [[cardiaque]]
+** [[cardioïde]]
+** [[cardiologie]]
+** [[cardiologique]]
+** [[cardiologue]]
+** [[cardiovasculaire]]
+* du latin ''[[cor#la|cor]]''
+** [[concorde]]
+** [[discorde]]
+** [[cordialité]], [[cordial]], [[cordialement]]
+** [[cordiforme]]
+** [[accord]], [[accorder]], [[d'accord]]
+** [[courage]], [[courageux]], [[courageusement]], [[encourager]]
+** [[décourager]], [[découragement]]
+
+==== {{S|vocabulaire}} ====
+{{émoji cœur}}
+* [[systole]]
+* [[diastole]]
+* [[stéthoscope]]
+* {{voir thésaurus|fr|art funéraire|boucherie|corps humain|courage|héraldique|jeu de cartes|musique|ordinateur|padel|voie ferrée|serpent|bonheur|momie égyptienne|diamant|fibre optique|requin|poisson|tennis}}
+
+==== {{S|holonymes}} ====
+* [[appareil circulatoire]]
+
+==== {{S|méronymes}} ====
+[[Image:Heart numlabels.svg|thumb|Coupe schématique du '''cœur''' humain (1)]]<!---
+l’ordre n’est pas alphabétique mais correspond a l’illustration ci-dessus (usage de # au lieu de *).
+Ne pas alphabétiser ! --->
+; Légende de l’illustration
+# [[oreillette droite]]
+# [[oreillette gauche]]
+# [[veine cave supérieure]]
+# [[aorte]]
+# [[artère pulmonaire]]
+# [[veine pulmonaire]]
+# [[valve mitrale]]
+# [[valve aortique]]
+# [[ventricule gauche]]
+# [[ventricule droit]]
+# [[veine cave inférieure]]
+# [[valve tricuspide]]
+# [[valve sigmoïde]]
+; Autre
+* [[myocarde]]
+* [[nœud septal]]
+* [[nœud sinusal]]
+* [[péricarde]]
+
+==== {{S|traductions}} ====
+{{trad-début|Organe ''(Sens général)''}}
+* {{T|ar}} : {{trad-|ar|قَلْبٌ|m|tr=qalbũ}}
+{{trad-fin}}
+
+{{trad-début|Organe considéré comme susceptible de mouvements causés par les passions}}
+{{trad-fin}}
+
+{{trad-début|Tendresse, amour}}
+{{trad-fin}}
+
+{{trad-début|Partie de la poitrine où les battements du cœur se font sentir}}
+{{trad-fin}}
+
+{{trad-début|Compassion, générosité}}
+* {{T|ar}} : {{trad+|ar|فُؤَاد}}
+{{trad-fin}}
+
+{{trad-début|Fermeté, courage (Par extension) (Vieilli)}}
+{{trad-fin}}
+
+{{trad-début|Centre de l’affectivité}}
+{{trad-fin}}
+
+{{trad-début|Forme de l’organe}}
+{{trad-fin}}
+
+{{trad-début|Symbole de carte}}
+{{trad-fin}}
+
+{{trad-début|Centre symbolique}}
+{{trad-fin}}
+
+{{trad-début|Centre des arbres}}
+{{trad-fin}}
+
+{{trad-début|Partie centrale d’un réacteur nucléaire}}
+{{trad-fin}}
+
+{{trad-début|(Électronique) Unité de calcul}}
+{{trad-fin}}
+
+{{trad-début|Partie d’un aiguillage}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|kœʁ|fr}}
+* Canada : {{phon|kœʁ|fr}}, {{phon|kaœ̯ʁ|fr}} ou {{phon|kɶːʁ|fr}}
+** Terre-Neuve : {{phon|tʃɶːʁ|fr}}<ref>[https://www.google.fr/books/edition/Dictionnaire_des_r%C3%A9gionalismes_du_fran/5HwULAu8aSgC?hl=fr&gbpv=1&dq=%22cœur%22+%22acadie%22&pg=PA108&printsec=frontcover Patrice Brasseur, ''Dictionnaire des régionalismes du français de Terre-Neuve'', De Gruyter, 2011, page 117]</ref>
+* {{écouter|lang=fr|France (Paris)|lø kəːʁ|titre=le cœur|audio=Fr-cœur.ogg}}
+* {{écouter|lang=fr|France (Lyon)|kəːʁ|audio=LL-Q150 (fra)-Ltrlg-cœur.wav}}
+* {{écouter|lang=fr|France|kœːʁ|audio=LL-Q150 (fra)-Roll-Morton-cœur.wav}}
+* {{écouter|lang=fr|France (Massy)|kœːʁ|audio=LL-Q150 (fra)-X-Javier-cœur.wav}}
+* {{écouter|lang=fr|Suisse (Genève)|kœːʀ̥|audio=LL-Q150 (fra)-Nattes à chat-cœur.wav}}
+* {{écouter|lang=fr|France (Toulouse)|kœʁ̥|audio=LL-Q150 (fra)-Lepticed7-cœur.wav}}
+* {{écouter|Canada (Montréal)|kaœ̯ʁ|audio=Qc-cœur.oga|lang=fr}}
+* {{écouter|lang=fr|France (Grenoble)||audio=LL-Q150 (fra)-GAllegre-cœur.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Penegal-cœur.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Aemines1-cœur.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Aemines2-cœur.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Aemines3-cœur.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Aemines5-cœur.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Aemines4-cœur.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Aemines6-cœur.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-cœur.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-cœur.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-cœur.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-cœur.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Anonymât (Kvardek du)-cœur.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-cœur.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-cœur.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-cœur.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-cœur.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-cœur.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-Loizbec-cœur.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-cœur.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-LuneMarine (DSwissK)-cœur.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-Vampiro (ClasseNoes)-cœur.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-cœur.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-cœur.wav}}
+* {{écouter|Cesseras (France)||lang=fr|audio=LL-Q150 (fra)-Guilhelma-cœur.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-cœur.wav}}
+* {{écouter|Strasbourg (France)||lang=fr|audio=LL-Q150 (fra)-Madehub-cœur.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Kaderousse-cœur.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-cœur.wav}}
+* {{écouter|Canada (Québéc)||audio=LL-Q150 (fra)-Estrie-coeur.wav|lang=fr}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-cœur.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-cœur.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-cœur.wav}}
+==== {{S|homophones|fr}} ====
+* [[chœur]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr|ceoru}}
+
+=== {{S|voir aussi}} ===
+{{Enseignes/fr}}
+* {{WP}}
+* {{Wikiquote}}
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{R:FranceTerme}}
+* {{R:DAF8}}
+* {{RÉF}} Calvert Watkins, ''Dictionary of Indo-European Roots'', Houghton Mifflin Harcourt, 2011, page 42.
+{{références}}
+[[Catégorie:Mots affectueux en français]]
+

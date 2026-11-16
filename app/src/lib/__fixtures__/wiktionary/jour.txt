@@ -1,0 +1,322 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|frm|fr|jour}}, de l’{{étyl|fro|fr|jor}}, ''{{lien|jorn|fro}}'' {{circa|980}}, du {{étyl|la|fr|mot=diurnus|dif=diŭrnus}} ({{cf|lang=fr|diurne}}), adjectif devenu substantif en bas latin de [[Gaule]] et d’Italie (en italien, ''[[giorno]]''), où il a éliminé le classique ''{{lien|dies|la}}'', maintenu en [[Ibérie]] et [[Dacie]] (→ voir l’espagnol ''[[día]]'', le gascon ''[[dia]]'', le portugais ''[[dia]]'' et le roumain ''{{lien|zi|ro}}''). Cognat du corse ''{{lien|ghjornu|co}}'' {{pron|ˈdjɔr.nu|co}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ʒuʁ}}
+[[Image:A day panorama - digital art.jpg|thumb|Durée d’un '''jour''' (1).]]
+'''jour''' {{pron|ʒuʁ|fr}} {{m}}
+# [[période|Période]] de [[vingt-quatre]] [[heure]]s, commençant [[généralement]] à [[minuit]] ; en [[certain]]s [[lieu]]x et à certaines [[époque]]s, le jour [[commencer|commençait]] plutôt avec le [[lever]] ou le [[coucher]] du [[soleil]].
+# {{par extension}} Cette même période sur d’autres [[corps]] [[céleste]]s.
+# {{en particulier}} {{info lex|métrologie}} [[unité|Unité]] de [[mesure]] du [[temps]] ([[compatible]] avec le [[Système international]]) dérivée de la [[seconde]]. Symbole '''d''' (du latin ''diurnus'').
+# {{par extension}} [[date|Date]] [[particulière]] du [[calendrier]].
+# [[jour de la semaine|Jour de la semaine]]. Un des sept noms de jour de chaque [[semaine]].
+# {{lexique|agriculture|fr}} {{archaïsme|fr}} [[étendue|Étendue]] de [[terrain]] qu’un [[attelage]] pouvait [[labourer]] en une [[journée]] de [[travail]].
+# [[vie|Vie]]. {{note}} {{généralement pluriel|fr}}
+# Période durant laquelle le soleil [[apporter|apporte]] sa [[lumière]], pour une [[zone]] donnée de la [[Terre]].
+# [[source|Source]] de [[lumière]] ; [[percement]] par lequel la lumière peut [[pénétrer]].
+# {{par extension}} Lumière du jour ou parfois d’une autre [[source lumineuse]].
+# {{par extension}} [[trou|Trou]] dans une [[surface]] [[continu]]e ou un [[tamis]].
+# {{par extension}} Espace ménagé dans l’étoffe d’un vêtement.
+# {{vieilli|fr}} Manière dont un [[objet]] est [[frapper|frappé]] par la [[lumière]].
+# {{figuré|fr}} Manière de présenter quelqu'un ou quelque chose.
+# {{lexique|peinture|fr}} [[imitation|Imitation]] de la [[lumière]] qui se [[répandre|répand]] sur les [[objet]]s [[représenter|représentés]] dans un [[tableau]].
+# {{lexique|industrie minière|fr}} L’ensemble des tâches effectuées en dehors de la [[mine]] proprement dite.
+# {{lexique|industrie minière|fr}} Installations situées à l’extérieur d’une mine.
+# Jour de la semaine où a lieu la réception des relations d'une personne.
+
+==== {{S|anciennes orthographes}} ====
+* {{lien|ïour|fr}} {{archaïsme|nocat=1}}
+
+==== {{S|synonymes}} ====
+* [[journée]]
+
+==== {{S|antonymes}} ====
+* [[nuit]]
+* [[fond]] {{info lex|industrie minière}}
+
+==== {{S|méronymes}} ====
+'''installations à l’extérieur d’une mine'''
+* [[lampisterie]]
+* [[recette]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à jour]]
+* [[à un de ces jours]]
+* [[abat-jour]]
+* [[adventiste du septième jour]]
+* [[ajour]]
+* [[ajourer]]
+* [[ajournement]]
+* [[ajourner]]
+* [[astre du jour]]
+* [[au grand jour]]
+* [[au jour le jour]]
+* [[au petit jour]]
+* [[aujourd’hui]]
+* [[aussi clair qu’il fait jour]]
+* [[auteur de ses jours]]
+* [[autre jour]]
+* [[beau comme le jour]] ''(d’une grande beauté)''
+* [[beaux jours]]
+* [[belle-de-jour]]
+* [[belle-d’un-jour]]
+* [[boite de jour]] {{ortho1990}}
+* [[boîte de jour]]
+* [[bonheur-du-jour]]
+* [[bonjour]]
+* {{lien|centijour|fr}}
+* [[clair comme le jour]]
+* [[comme le jour et la nuit]]
+* [[contre-jour]], [[contrejour]]
+* [[couler des jours heureux]]
+* [[couler des jours tranquilles]]
+* [[créneau de jour]] {{info lex|audiovisuel}}
+* {{lien|décajour|fr}}
+* {{lien|décijour|fr}}
+* [[de jour à autre]]
+* [[de jour en jour]]
+* [[de nos jours]]
+* [[déjour]]
+* [[demi-jour]]
+* [[demi-journée]]
+* [[dernier jour]]
+* [[donne-jour]]
+* [[du jour]]
+* [[du jour au lendemain]]
+* [[d’un jour]]
+* [[d’un jour à l’autre]]
+* [[en plein jour]]
+* [[faire jour]]
+* [[faux jour]]
+* [[fièvre de trois jours]]
+* [[forfait jours]]
+* [[gout du jour]] {{ortho1990}}
+* [[goût du jour]]
+* [[grand jour]]
+* {{lien|hectojour|fr}}
+* [[hôpital de jour]]
+* [[il y a beaux jours]]
+* [[jour à jour]]
+* [[jour-amende]]
+* [[jour après jour]]
+* [[jour avec]]
+* [[jour chez soi]]
+* [[jour civil]]
+* [[jour d’abstinence]]
+* [[jour d’après]]
+* [[jour de l’an]]
+* [[jour de la semaine]]
+* [[jour de paye]]
+* [[jour de peine]]
+* [[jour de peines]]
+* [[jour de repos]]
+* [[jour de souffrance]]
+* [[jour de triomphe]]
+* [[jour des enfants]] ([[mercredi]])
+* [[jour des morts]] (''ou'' [[jour des Morts]])
+* [[jour du dépassement de la Terre]]
+* [[jour du dérèglement]]
+* [[jour du Seigneur]]
+* [[jour droit]]
+* [[jour et nuit]], [[nuit et jour]]
+* [[jour férié]]
+* [[jours gras]]
+* [[jour-homme]]
+* [[jour-lumière]]
+* [[jour naturel]]
+* [[jour ouvrable]]
+* [[jour ouvrier]]
+* [[jour-personne]]
+* [[jour pour jour]]
+* [[jourd’hui]], [[jourd’huy]]
+* [[journal]]
+* [[journaleux]]
+* [[journalier]]
+* [[journaliser]]
+* [[journalisme]]
+* [[journaliste]]
+* [[journalistique]]
+* [[journau]]
+* [[journée]]
+* [[journel]]
+* [[journellement]]
+* [[journoyer]]
+* [[jour sans]]
+* {{lien|kilojour|fr}}
+* [[l’autre jour]]
+* [[long comme un jour sans pain]]
+* [[mauvais jours]]
+* [[mettre à jour]]
+* [[mettre au jour]]
+* {{lien|millijour|fr}}
+* [[mise à jour]]
+* [[ne pas s’en sentir le jour de ses noces]]
+* [[percer à jour]]
+* [[perdreau du jour]]
+* [[petit jour]]
+* [[pique du jour]]
+* [[plat du jour]]
+* [[plique-à-jour]]
+* [[plus beau jour de sa vie]]
+* [[point du jour]]
+* [[prendre jour]]
+* [[prendre le jour pour la nuit]]
+* [[quinze jours]]
+* [[rabat-jour]]
+* [[réajourner]]
+* [[se faire jour]]
+* [[second jour]]
+* [[séjour]]
+* [[séjournement]]
+* [[séjourner]]
+* [[Six-Jours]]
+* [[sept jours sur sept]]
+* [[sous un nouveau jour]]
+* [[tenir à jour]]
+* [[tiers de jour]]
+* [[toucher au jour]]
+* [[toujours]]
+* [[tous les jours]]
+* [[treize jours]]
+* les [[trois jours]], les [[Trois Jours]]
+* [[un beau jour]]
+* [[un jour]]
+* [[un jour ou l’autre]]
+* [[un jour viendra]]
+* [[vieux jours]]
+* [[voir le jour]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[à chaque jour suffit sa peine]]
+* [[à la Sainte-Luce, les jours croissent du saut d’une puce]]
+* [[demain est un autre jour]]
+* [[il y a des jours avec et des jours sans]]
+* [[Paris ne s’est pas fait en un jour]]
+* [[les jours se suivent et ne se ressemblent pas]] (l’humeur, la condition des gens l’état des choses sont sujets à changer du jour au lendemain)
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|escalier|temps|unités de mesure|dimanche|calendrier|jour (cycle)|divination|Terre}}
+* [[diurne]]
+* [[journalier]]
+* [[quotidien]]
+
+==== {{S|holonymes}} ====
+* [[mois]]
+* [[semaine]]
+* [[weekend]]
+
+==== {{S|méronymes}} ====
+* [[heure]]
+
+==== {{S|traductions}} ====
+{{trad-début|Période de vingt-quatre heures|1}}
+* {{T|ar}} : {{trad+|ar|يوم|R=yawm|dif=يَوم}}
+{{trad-fin}}
+
+{{trad-début|Cette même période sur d’autres corps célestes|2}}
+{{trad-fin}}
+
+{{trad-début|Unité de mesure du temps|3}}
+* {{T|ar}} : {{trad+|ar|يوم|tr=yawm}}
+{{trad-fin}}
+
+{{trad-début|Date particulière du calendrier|4}}
+* {{T|ar}} : {{trad+|ar|يوم|m|tr=yawm}}
+{{trad-fin}}
+
+{{trad-début|Jour de la semaine|5}}
+{{trad-fin}}
+
+{{trad-début|{{term|archaïsme}} Étendue de terrain qu’un attelage pouvait labourer en une journée de travail|6}}
+{{trad-fin}}
+
+{{trad-début|Vie|7}}
+{{trad-fin}}
+
+{{trad-début|Période durant laquelle le soleil apporte sa lumière|8}}
+* {{T|ar}} : {{trad+|ar|يوم|tr=yawm}}, {{trad+|ar|نهار|tr=nahār|dif=نَهَار}}
+{{trad-fin}}
+
+{{trad-début|Percement par lequel la lumière peut pénétrer|9}}
+{{trad-fin}}
+
+{{trad-début|Lumière du jour ou parfois d’une autre source lumineuse|10}}
+{{trad-fin}}
+
+{{trad-début|Trou dans une surface continue ou un tamis|11}}
+{{trad-fin}}
+
+{{trad-début|Espace ménagé dans l’étoffe d’un vêtement|12}}
+{{trad-fin}}
+
+{{trad-début|Manière dont un objet est frappé par la lumière|13}}
+{{trad-fin}}
+
+{{trad-début|Manière de présenter quelqu'un ou quelque chose|14}}
+{{trad-fin}}
+
+{{trad-début|Imitation de la lumière qui se répand sur les objets représentés dans un tableau|15}}
+{{trad-fin}}
+
+{{trad-début|{{term|Industrie minière}} L’ensemble des tâches effectuées en dehors de la mine proprement dite|16}}
+{{trad-fin}}
+
+{{trad-début|{{term|Industrie minière}} Installations situées à l’extérieur d’une mine|17}}
+{{trad-fin}}
+
+{{trad-début|Jour de la semaine où a lieu la réception des relations d'une personne|18}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|interjection|fr}} ===
+'''’jour''' {{pron|ʒuʁ|fr}}
+# Aphérèse de [[bonjour]], formule de salutation utilisée lorsqu’on rencontre quelqu’un.
+/>— '''’jour''', dit l’homme aux cheveux roux, comme si prononcer deux syllabes avait constitué un effort au-dessus de ses forces.'' {{source|{{w|Robert Merle}}, ''Week-end à Zuydcoote'', 1949, réédition Le Livre de Poche, page 82}}
+
+=== {{S|prononciation}} ===
+* {{écouter|France <!-- précisez svp la ville ou la région -->|œ̃ ʒuʁ|titre=un jour|audio=Fr-jour.ogg|lang=fr}}
+* {{écouter||ʒuʁ|lang=fr|audio=LL-Q150 (fra)-Guilhelma-jour.wav}}
+* {{écouter||ʒuʁ|lang=fr|audio=LL-Q150 (fra)-Jules78120-jour.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-jour.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-jour.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-jour.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-jour.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-jour.wav}}
+* {{écouter|lang=fr|France (Grenoble)|audio=LL-Q150 (fra)-GAllegre-jour.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-jour.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-jour.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-jour.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-jour.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-jour.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-jour.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-jour.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-jour.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-jour.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-jour.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-jour.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-Vampiro (ClasseNoes)-jour.wav}}
+* {{écouter|Québec (Canada)|jʊːʁ̞|lang=fr|audio=LL-Q150 (fra)-Estrie-jour.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-jour.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-jour.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-jour.wav}}
+* {{écouter|canton du Valais (Suisse)|ãuʀ|lang=fr|audio=LL-Q150 (fra)-LuneMarine (DSwissK)-jour.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-jour.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-jour.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-jour.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-jour.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+
+[[Catégorie:Unités de mesure de temps en français]]
+[[Catégorie:Calendrier en français]]
+

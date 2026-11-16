@@ -1,0 +1,112 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr|1459}} De l’{{étyl|fro|fr|mot=billette}} {{date|lang=fr|1389}}, altération de ''[[bullette]]'', diminutif de ''[[bulle]]''.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|bi.jɛ}}
+[[Image:US-$1-SC-1923-Fr.237.jpg|thumb|Un '''billet''' d’un dollar américain. (sens 3 et 7)]]
+[[Fichier:Billet de théâtre - 2.JPG|vignette|Un '''billet''' de théâtre (sens 4).]]
+'''billet''' {{pron|bi.jɛ|fr}} {{m}}
+# Petit [[écrit]] que l’on [[adresse]] à quelqu’un ; petite [[lettre]] [[missive]] dans laquelle on peut se [[dispenser]] des [[formule]]s de [[compliment]]s utilisées dans les lettres.
+# Écrits [[imprimer|imprimés]] ou à la [[main]], par lesquels on [[informe]] les [[particulier]]s ou le [[public]] de [[divers]]es choses.
+# [[écrit|Écrit]], [[promesse]] par laquelle on s’[[obliger|oblige]] de [[payer]] une [[certain]]e [[somme]].
+# [[carte|Carte]] ou petit [[écrit]] qui [[donner|donne]] [[entrée]] dans quelque [[lieu]], à quelque [[spectacle]], à quelque [[assemblée]] ou [[accès]] dans un [[train]], etc.
+# {{vieilli|fr}} [[bulletin|Bulletin]] de [[vote]].
+# Bulletins [[délivrer|délivrés]] aux personnes qui prennent part à une [[loterie]].
+# {{ellipse|fr}} [[billet de banque|Billet de banque]].
+# {{par extension}} [[effet de commerce|Effet de commerce]].
+# {{argot|fr}} {{France|fr}} {{désuet|fr}} [[somme|Somme]] de [[mille]] [[franc]]s, avant 1960, de [[dix]] francs ensuite.
+# {{lexique|Internet|fr}} [[note|Note]] ou [[article]] publié dans un [[blogue]] ou un [[forum]].
+
+==== {{S|synonymes}} ====
+'''carte ou petit écrit qui donne entrée ou accès'''
+* [[ticket]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[avoir un nom à coucher dehors avec un billet de logement]]
+* [[billet à ordre]]
+* [[billet circulaire]]
+* [[billet coupe-file]]
+* [[billet d’appel]] ''(bulletin établi dans chaque compagnie par l’adjudant de service après l’appel du soir pour faire connaître le résultat de cet appel)''
+* [[billet d'honneur]]
+* [[billet d’hôpital]] ''(pièce donnant à un soldat ou à un marin reconnu malade le droit d’entrée dans un hôpital militaire ou civil)''
+* [[billet de banque]]
+* [[billet de change]]
+* [[billet de confession]] ''(attestation par laquelle un prêtre certifie qu’il a entendu quelqu’un en confession)''
+* [[billet de faveur]]
+* [[billet de logement]] ''(écrit portant injonction à un habitant de loger un ou plusieurs soldats)''
+* [[billet de mille]]
+* [[billet de nécessité]]
+* [[billet de satisfaction]]
+* [[billet de trésorerie]]
+* [[billet de trésorerie adossé à des créances titrisées]] ([[BTACT]])
+* [[billet doux]]
+* [[billet drapeau]]
+* [[billet Lagrange]]
+* [[billet ouvert]]
+* [[billet promissoire]]
+* [[billet vert]]
+* [[billeteur]]<!--
+* [[billetier]] étymologie commune au niveau du latin bulla -->
+* [[billetophile]]
+* [[billetophilie]]
+* [[billetterie]]
+* [[billettique]]
+* {{lien|billettiste|fr}}
+* [[distributeur de billets]]
+* [[distributeur automatique de billets]] ([[DAB]])
+* [[en donner son billet]]
+* [[faux billet]]
+* [[ficher son billet]]
+* [[foutre son billet]]
+* [[piège à billets]]
+* [[planche à billets]]
+* [[porte-billet]] {{ortho1990}}
+* [[porte-billets]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|vote|concert|aéroport|chemin de fer|jeu de société|numismatique|Jeux olympiques|entrée|théâtre|portefeuille}}
+
+==== {{S|traductions}} ====
+{{trad-début|Petit écrit ; petite lettre missive}}
+{{trad-fin}}
+
+{{trad-début|Carte ou petit écrit qui donne entrée ou accès}}
+{{trad-fin}}
+
+{{trad-début|Article de blogue}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|bi.jɛ|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|bi.jɛ|audio=Fr-billet.ogg}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-billet.wav}}
+* {{écouter|lang=fr|France (Lyon)|audio=LL-Q150 (fra)-Ltrlg-billet.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines1-billet.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines2-billet.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines3-billet.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines5-billet.wav}}
+* {{écouter|lang=fr||audio=LL-Q150 (fra)-Aemines4-billet.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines6-billet.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-billet.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-billet.wav}}
+* {{écouter|France (Lyon)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-billet.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-billet.wav}}
+* {{écouter|Vosges (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-billet.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-billet.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[billaient]], [[billais]], [[billait]] (formes du verbe ''[[biller]]'')
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Vikidia}}
+* [[part]]
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+[[Catégorie:Lexique en français de l’argent]]
+

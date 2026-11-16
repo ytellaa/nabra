@@ -1,0 +1,185 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|mot=villa|sens=[[maison de campagne]]}} ; les villas [[gallo-romain]]es, [[mérovingien]]nes et [[carolingien]]nes gagnant en [[importance]] au [[fur]] et à [[mesure]] du [[Moyen Âge]], le sens évolue vers ''village'', car [[certain]]es sont devenues des ''[[village]]s'' et certaines des ''villes''. Le nom a [[progressivement]] suivi leur [[évolution]] et remplacé le latin ''[[vicus]]'' alors que ''[[cité]]'' s’est maintenu.
+: Pour une évolution [[similaire]], voir ''[[bourg]]'' ; le ''[[burg]]'' (« [[château-fort]] ») [[germanique]] est aussi devenu [[synonyme]] de ''village'' et de ''[[petit]]e ville''.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|vil}}
+[[Fichier:Centro SP2.jpg|vignette|La '''ville''' de São Paulo au Brésil (1).]]
+'''ville''' {{pron|vil|fr}} {{f}}
+# [[assemblage|Assemblage]] ordonné d'un nombre assez [[considérable]] de [[maison]]s [[disposer|disposé]]es par [[rue]]s, et [[limiter|limité]]es parfois par une [[enceinte]].
+# Entité administrative ayant [[légalement]] obtenu le [[statut]] de ville, comme par exemple certaines [[commune]]s de [[Belgique]] ou du [[Luxembourg]].
+# {{par extension}} L’[[administration]] de cette [[cité]].
+# {{par extension}} [[population|Population]] d’une '''ville'''.
+# [[vie|Vie]] [[urbaine]], [[mœurs]] qui y [[régner|règnent]], par opposition au [[séjour]], à la vie et aux [[mœurs]] de la [[campagne]].
+# {{lexique|histoire|fr}} {{ellipse|fr}} [[corps|Corps]] des [[officier]]s [[municipaux]].
+# {{ellipse|fr}} Médecine de ville.
+
+==== {{S|synonymes}} ====
+* [[cité]]
+
+==== {{S|quasi-synonymes}} ====
+* [[commune]]
+
+==== {{S|antonymes}} ====
+* [[campagne]]
+
+==== {{S|hyponymes}} ====
+{{(}}
+* [[bourg]]
+* [[capitale]]
+* [[citadelle]]
+* [[cité]]
+* [[conurbation]]
+* [[mégalopole]] ou [[mégapole]]
+* [[métropole]]
+{{)}}
+
+==== {{S|dérivés}} ====
+{{cf|lang=fr|-ville}}
+{{(}}
+* [[à la scène comme à la ville]] ''(se dit des acteurs qui joue sur scène avec les partenaires de vie)''
+* [[à la ville]]
+* [[à la ville comme à la scène]]
+* [[agroville]]
+* [[arriver en ville]] ''(au Canada, se mettre à jour, au courant, au parfum)''
+* [[avoir ville gagnée]] ''(se dit en parlant de toute difficulté vaincue, surmontée)''
+* [[battre la ville]]
+* [[bidonville]]
+* [[baise-en-ville]]
+* [[bonne ville]]
+* [[centre-ville]]
+* [[compagne à la ville]]
+* [[compagnon à la ville]]
+* [[corps de ville]] ''(corps des officiers municipaux)''
+* [[côté ville]]
+* [[déjeuner en ville]] ''(déjeuner dans une maison où l’on est invité)''
+* [[diner en ville]] {{ortho1990}}
+* [[dîner en ville]] ''(dîner dans une maison où l’on est invité)''
+* [[eau de ville]]
+* [[en ville]] ''(en agglomération)''
+* [[entrée de ville]]
+* [[être à la ville]] ''(n’être pas à la campagne)''
+* [[être en ville]] ''(n’être pas actuellement chez soi)''
+* [[gourbiville]]
+* [[hôtel de ville]]
+* [[intra-ville]]
+* [[la ville et la cour]] ''(s’est dit de l’ensemble des gens de la bonne bourgeoisie de Paris et des nobles qui avaient accès à la cour du roi)''
+* [[médecin de ville]]
+* [[médecine de ville]]
+* [[monoville]]
+* [[narcoville]]
+* [[ouvrage de ville]]
+* [[sergent de ville]]
+* [[sortir en ville]]
+* [[tenue de ville]]
+* [[toilette de ville]]
+* [[travailler en ville]] ''(aller travailler chez des particuliers)''
+* [[vélo de ville]]
+* [[ville aux 500 coupoles]] ''(Naples)''
+* [[ville aux cent clochers]] ''(Surnom de plusieurs villes)''
+* [[ville aux cent églises]] ''(Surnom de plusieurs villes)''
+* [[ville basse]]
+* [[ville bleue]]
+* [[ville câblée]]
+* [[ville-cathédrale]]
+* [[ville-centre]]
+* [[ville champignon]], [[ville-champignon]]
+* [[ville d’eaux]] ''(station thermale)''
+* [[ville dans la ville]]
+* [[ville-dortoir]]
+* [[ville du quart d’heure]]
+* [[ville-éponge]]
+* [[ville estudiantine]]
+* [[ville-État]]
+* [[ville éternelle]] ''(Rome)''
+* [[ville fantôme]]
+* [[ville fédérale]]
+* [[ville fictive]]
+* [[ville fortifiée]]
+* [[ville globale]]
+* [[ville intelligente]]
+* [[ville haute]]
+* [[ville libre]]
+* [[ville linéaire]]
+* [[ville lumière]] ''(Paris)''
+* [[Ville merveilleuse]] (Rio de Janeiro)
+* [[ville-monde]]
+* [[ville mondiale]]
+* [[ville morte]]
+* [[ville-musée]]
+* [[ville nouvelle]]
+* [[ville ouverte]]
+* [[ville-préfecture]] ''(En Chine)''
+* [[ville-province]]
+* [[ville reine]] ''(Toronto)''
+* [[Ville rose]] ''(Toulouse)''
+* [[ville rouge]]
+* [[ville sanctuaire]]
+* [[ville sainte]] ''(Jérusalem)''
+* [[ville-satellite]]
+* [[ville sèche]]
+* [[ville trois fois sainte]] ''(Jérusalem)''
+* [[ville universitaire]]
+* [[Ville-Marie]]
+* [[Villeneuve]]
+* [[ville qui ne dort jamais]] ''(New York)''
+* [[Villeray]]
+* [[Villeroy]]
+* [[Ville-sans-Nom]] ''(Marseille en 1794)''
+* [[ville-usine]]
+* [[ville Zoom]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[Alphaville]]
+* [[Madame Blancheville]]
+* [[village]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|ville|Toulouse|Lyon|gratte-ciel|urbanisme|fouille (archéologie)|Monaco|Fontainebleau}}
+
+==== {{S|phrases}} ====
+* [[château pris, ville rendue]]
+* [[ville qui parlemente est à moitié rendue]] ''(une personne qui écoute les propositions qu’on lui fait n’est pas éloignée d’accorder ce qu’on lui demande)''
+
+==== {{S|traductions}} ====
+{{trad-début|Assemblage ordonné d'un nombre assez considérable de maisons disposées par rues|1}}
+* {{T|ar}} : {{trad-|ar|مَدِينَةٌ|tr=madîn@ũ}}
+{{trad-fin}}
+
+{{trad-début|Population d’une ville|4}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|vil|fr}}
+* {{écouter|lang=fr|Canada (Montréal)|vɪl}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|yn̪ vil̪|titre=une ville|audio=Fr-ville.ogg}}
+* {{écouter|lang=fr|France|vil̪|audio=LL-Q150 (fra)-Fhala.K-ville.wav}}
+* {{écouter|lang=fr|France (Paris)|vil̪|audio=LL-Q150 (fra)-GrandCelinien-ville.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)|vil̪|audio=LL-Q150 (fra)-0x010C-ville.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines1-ville.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines2-ville.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines3-ville.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines5-ville.wav}}
+* {{écouter|lang=fr||audio=LL-Q150 (fra)-Aemines4-ville.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines6-ville.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-ville.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-ville.wav}}
+* {{écouter|Canet-en-Roussillon (France)|vil̪|lang=fr|audio=LL-Q150 (fra)-Baptiste C. (BiblioCanet66)-ville.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-ville.wav}}
+* {{écouter|Millau (France)||lang=fr|audio=LL-Q150 (fra)-Antochkat-ville.wav}}
+* {{écouter|Abidjan (Côte d'Ivoire)||lang=fr|audio=LL-Q150 (fra)-Axel toualy-ville.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[vil]], [[vile]], [[viles]], [[vils]] {{cf|vil}}
+
+=== {{S|voir aussi}} ===
+* [[:Catégorie:Localités en français]]
+* {{WP}}
+* {{Wikiquote}}
+* [https://web.archive.org/web/20090316193320/http://www.tv5.org/TV5Site/lf/merci_professeur.php?id=4228 Explication de Bernard Cerquiglini en images]
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+

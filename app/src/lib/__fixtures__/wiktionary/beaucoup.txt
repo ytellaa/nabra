@@ -1,0 +1,132 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|XIII|lang=fr}}{{R|TLFi}} {{composé de|beau|coup|lang=fr|m=1}}{{R|TLFi}}{{R|Littré}}. {{supplétion|mot=oui|lang=fr|plus}}.
+
+=== {{S|adverbe|fr}} ===
+'''beaucoup''' {{pron|bo.ku|fr}}
+# En [[grand]]e [[quantité]].
+# [[considérablement|Considérablement]].
+# Suivi d’un [[adjectif]] ou d’un [[adverbe]] de [[comparaison]], il [[exprimer|exprime]] une [[augmentation]] ou une [[différence]] considérable.
+# {{adj-indéf-avec-de}} Un grand [[nombre]]. — {{note}} Il est alors suivi de l’article partitif ''[[de]]'', puis d’un substantif au pluriel.
+# {{adj-indéf-avec-de}} Une grande [[quantité]] ou une grande [[intensité]]. — {{note}} Il est alors suivi de l’article partitif ''[[de]]'', puis d’un substantif au singulier.
+
+==== {{S|abréviations}} ====
+* [[bcp]]
+
+==== {{S|synonymes}} ====
+{{(|En grande quantité}}
+* [[brâment]] {{Bourgogne|nocat=1}}
+* [[énormément]]
+* [[en sale]] {{QC|nocat=1}}
+* [[moult]] {{soutenu|nocat=1}}
+{{)}}
+{{(|De nombreux}}
+* [[beaufaire]] de {{Normandie|nocat=1}}
+* [[bellement]] de {{Normandie|nocat=1}} {{Louisiane|nocat=1}}
+* [[énormément]] de
+* [[joliment]] de {{Normandie|nocat=1}} {{Québec|nocat=1}} {{Louisiane|nocat=1}}
+* [[maint]] {{soutenu|nocat=1}}
+* [[masse]] de {{familier|nocat=1}}
+* [[moult]] {{soutenu|nocat=1}}
+* [[plein]] de {{familier|nocat=1}}
+{{)}}
+{{(|Une grande quantité de}}
+* [[énormément]] de
+* [[maint]] {{soutenu|nocat=1}}
+* [[masse]] de {{familier|nocat=1}}
+* [[moult]] {{soutenu|nocat=1}}
+* [[plein]] de {{familier|nocat=1}}
+{{)}}
+
+==== {{S|antonymes}} ====
+* [[peu#fr-adv|peu]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|beaucoup}}
+* [[très]]
+
+==== {{S|phrases}} ====
+* [[beaucoup de bruit pour rien]]
+* [[ils vécurent heureux et eurent beaucoup d’enfants]]
+* [[un peu, beaucoup, passionnément, à la folie, pas du tout]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+{{trad-début|Considérablement|2}}
+* {{T|ar}} : {{trad-|ar|كثيرا|tr=kaṯīran}}
+{{trad-fin}}
+
+{{trad-début|De nombreux|4}}
+{{trad-fin}}
+
+{{trad-début|Une grande quantité de|5}}
+{{trad-fin}}
+
+=== {{S|pronom indéfini|fr}} ===
+'''beaucoup''' {{pron|bo.ku|fr}}
+# De nombreuses gens.
+# De [[nombreuses]] choses.
+
+==== {{S|abréviations}} ====
+* [[bcp]]
+
+==== {{S|antonymes}} ====
+* [[peu#fr-pronom-indéf|peu]]
+
+==== {{S|dérivés}} ====
+* [[à beaucoup près]]
+* [[de beaucoup]]
+* [[pour beaucoup]] (de façon déterminante)
+
+==== {{S|phrases}} ====
+* [[c’est beaucoup]] ''(c’est une chose considérable)''
+* [[il s’en faut de beaucoup]] ''(il y a une grande différence)''
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad-|ar|كثيرا}}
+{{trad-fin}}
+
+{{trad-début|De nombreuses gens|1}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|bo.ku|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|bo.ku|audio=Fr-beaucoup.ogg}}
+* {{écouter||bo.ku|lang=fr|audio=LL-Q150 (fra)-Guilhelma-beaucoup.wav}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-beaucoup.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-beaucoup.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-beaucoup.wav}}
+* {{écouter|lang=fr|Suisse (Genève)|audio=LL-Q150 (fra)-Nattes à chat-beaucoup.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-beaucoup.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-beaucoup.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-beaucoup.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-beaucoup.wav}}
+* {{écouter|lang=fr|France (Montpouillan)|audio=LL-Q150 (fra)-Yug-beaucoup.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-beaucoup.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-beaucoup.wav}}
+* {{écouter|lang=fr|France (Saint-Berain-sous-Sanvignes)||audio=LL-Q150 (fra)-Chavagne-beaucoup.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-beaucoup.wav}}
+* {{écouter|lang=fr|France (Saint-Étienne)||audio=LL-Q150 (fra)-Touam-beaucoup.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-beaucoup.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-beaucoup.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-beaucoup.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-beaucoup.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-beaucoup.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-Loizbec-beaucoup.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-beaucoup.wav}}
+* {{écouter|Montpellier (France)||lang=fr|audio=LL-Q150 (fra)-GeoMechain-beaucoup.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-beaucoup.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-beaucoup.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-beaucoup.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-beaucoup.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-beaucoup.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-beaucoup.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-beaucoup.wav}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+[[Catégorie:Adverbes de quantité en français]]
+

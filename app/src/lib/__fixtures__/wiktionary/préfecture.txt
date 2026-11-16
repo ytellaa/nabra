@@ -1,0 +1,72 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|mot=praefectura}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|pʁe.fɛk.tyʁ}}
+[[Image:Bar-le-Duc-Préfecture.JPG|thumb|La '''préfecture''' (6) de la Meuse.]]
+[[Image:Regions and Prefectures of Japan (fr).svg|thumb|Les 47 '''préfectures''' (9) du Japon]]
+'''préfecture''' {{pron|pʁe.fɛk.tyʁ|fr}} {{f}}
+# {{lexique|Antiquité|fr}} Nom de [[plusieurs]] [[charge]]s [[principal]]es dans l’[[Empire romain]].
+# {{France|fr}} [[charge|Charge]] de l’[[administrateur]] de [[département]] [[appeler|appelé]] [[préfet]], dans l’[[organisation]] [[administrative]] [[actuel]]le de la [[France]].
+# {{par extension}} {{FR|fr}} [[administration|Administration]] [[préfectoral]]e.
+# {{par extension}} {{France|fr}} [[durée|Durée]] des [[fonction]]s d’un préfet.
+# {{par extension}} {{France|fr}} [[étendue|Étendue]] de [[territoire]] qu’[[administrer|administre]] un préfet.
+# {{par extension}} {{France|fr}} [[ville|Ville]] où [[résider|réside]] un préfet ; [[chef-lieu]] de [[département]].
+# [[maison|Maison]], [[hôtel]] où [[demeurer|demeure]] le préfet et où [[placer|sont placés]] ses [[bureau]]x.
+# {{ellipse|fr}} [[préfecture de police|Préfecture de police]].
+# Une des 47 [[subdivision]]s [[administratif|administratives]] au premier niveau du [[Japon]], chacun ayant un [[gouverneur]] et une [[assemblée]].
+
+==== {{S|synonymes}} ====
+* [[département]] (5)
+* [[hôtel du département]] (6)
+
+==== {{S|dérivés}} ====
+* [[conseil de préfecture]]
+* [[journalisme de préfecture]]
+* [[préf]] (''Familier'')
+* [[Préfectance]] {{argot|nocat=1}}
+* [[préfecture de région]]
+* [[préfecture de police]]
+* [[préfecture maritime]]
+* [[sous-préfecture]]
+* [[ville-préfecture]] ''(En Chine)''
+
+==== {{S|vocabulaire}} ====
+* [[chef-lieu]]
+* [[chef-lieu de département]]
+* {{voir thésaurus|fr|administration|Lyon|Toulouse}}
+
+==== {{S|holonymes}} ====
+* [[région]] (4)
+
+==== {{S|méronymes}} ====
+* [[arrondissement départemental|arrondissement]] (4)
+* [[sous-préfecture]] (4)
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|pʁe.fɛk.tyʁ|fr}}
+* {{écouter|lang=fr|France (Paris)||audio=Fr-Paris--préfecture.ogg}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)||audio=LL-Q150 (fra)-Pamputt-préfecture.wav}}
+* {{écouter|France (Lyon)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-préfecture.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-préfecture.wav}}
+* {{écouter|Céret (France)|pʁe.fɛk.tyʁ|lang=fr|audio=LL-Q150 (fra)-Fabricio Cardenas (Culex)-préfecture.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-préfecture.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-préfecture.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+*{{Import:DAF8}}
+
+
+[[Catégorie:Lexique en français de l’administration]]
+[[Catégorie:Édifices en français]]

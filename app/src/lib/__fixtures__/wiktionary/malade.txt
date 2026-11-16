@@ -1,0 +1,118 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{circa|980}}<!-- Passion du Christ--> De l’{{étyl|fro|fr|mot=malabde}} venant du {{étyl|la|fr}} vulgaire ''{{lien|male|la}} {{lien|habitus|la}}'' signifiant « qui se trouve en mauvais état », en latin classique ''{{lien|aeger|la}}''.
+
+=== {{S|adjectif|fr}} ===
+{{fr-rég|mf=oui|ma.lad}}
+'''malade''' {{pron|ma.lad|fr}}
+# Dont la [[santé]] est [[altérer|altérée]].
+# {{par extension}} Se dit aussi des choses.
+# {{familier|fr}} [[fou|Fou]], [[dérangé]].
+# {{familier|fr}} [[génial|Génial]], [[excellent]], qui sort de l’[[ordinaire]].
+
+==== {{S|synonymes}} ====
+* [[égrotant]]
+* [[nauséeux]]
+* [[souffrant]]
+* [[valétudinaire]]
+
+==== {{S|antonymes}} ====
+* [[bien portant]]
+* [[guéri]]
+* [[hypocondriaque]]
+* [[sain]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[homme malade]]
+* [[malade comme un chien]]
+* [[rendre malade]]
+* [[tomber malade]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[maladie]]
+* [[maladif]]
+* [[maladivement]]
+* [[maladrerie]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|folie|pestiféré|absence|hôpital}}
+==== {{S|phrases}} ====
+* [[parle à mon cul, ma tête est malade]]
+
+==== {{S|traductions}} ====
+{{trad-début|Dont la santé est altérée|1}}
+* {{T|ar}} : {{trad+|ar|مريض|tr=marīḍ}}
+{{trad-fin}}
+
+{{trad-début|Sens figuré|2}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+* {{T|ar}} : {{trad+|ar|مريض}} ; {{trad-|ar|معتل}} ; {{trad-|ar|عليل}}
+{{trad-fin}}
+
+==== {{S|hyponymes}} ====
+* [[asymptomatique]]
+* [[eczémateux]]
+* [[infecté]]
+* [[nosocomial]]
+* [[tuberculeux]]
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ma.lad}}
+'''malade''' {{pron|ma.lad|fr}} {{mf}}
+# [[personne|Personne]] en mauvaise santé.
+# {{spécialement}} Personne faisant l'objet des soins d'un médecin ou d'un établissement de santé. ''(syn. : [[patient]])''
+# {{familier|fr}} Personne dangereuse parce que dérangée mentalement, ou présentée comme telle.
+# {{familier|fr}} Dément, personne au comportement extraordinaire ou excessif
+# {{lexique|droit|fr}} Personne ne participant plus aux hostilités du fait d'une maladie et qui à ce titre ne constitue plus une cible légitime et bénéficie de la protection du droit international humanitaire si elle dépose les armes.
+
+==== {{S|synonymes}} ====
+* [[patient]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[comme un malade]]
+* [[de malade]]
+* [[lève-malade]]
+* [[grand malade]]
+* [[lit de malade]]
+* [[malade de la gâchette]]
+* [[malade imaginaire]]
+* [[malade mental]]
+* [[malade mentale]]
+* [[tasse de malade]]
+* [[visiteur de malades]]
+* [[visiteuse de malades]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|ma.lad|fr}}
+** {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|ma.lad|audio=Fr-malade.ogg}}
+* Français méridional : {{pron|ma.ˈla.də|fr}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-malade.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-malade.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-malade.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-malade.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-malade.wav}}
+* {{écouter|Cesseras (France)||lang=fr|audio=LL-Q150 (fra)-Guilhelma-malade.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)||lang=fr|audio=LL-Q150 (fra)-Helenou66-malade.wav}}
+* {{écouter|Liège (Belgique)||lang=fr|audio=LL-Q150 (fra)-Shareculture-malade.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-malade.wav}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+
+[[Catégorie:Lexique en français du droit des conflits armés]]
+[[Catégorie:Lexique en français de la médecine]]
+

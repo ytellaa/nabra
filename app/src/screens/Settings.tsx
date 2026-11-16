@@ -22,6 +22,10 @@ interface Props {
   onListenWord: (w: MyWord) => void;
   onOpenSession: (s: Session) => void;
   onRemoveWord: (w: MyWord) => void;
+  lookingUp: ReadonlySet<string>;
+  dictionaryConsent: 'unknown' | 'yes' | 'no';
+  onDictionaryConsent: (yes: boolean) => void;
+  onLookupWord: (w: MyWord) => void;
   totalWords: number;
   exporting: boolean;
   onBack: () => void;
@@ -148,6 +152,10 @@ export function Settings(p: Props) {
           onListen={p.onListenWord}
           onOpenSession={p.onOpenSession}
           onRemove={p.onRemoveWord}
+          lookingUp={p.lookingUp}
+          consent={p.dictionaryConsent}
+          onConsent={p.onDictionaryConsent}
+          onLookup={p.onLookupWord}
         />
       )}
 
@@ -234,6 +242,7 @@ export function Settings(p: Props) {
           <section className="legal-card">
             <h2>{t('legal.servicesTitle')}</h2>
             <p>{t('legal.services')}</p>
+            <p>{t('legal.dictionary')}</p>
           </section>
           <section className="legal-card">
             <h2>{t('legal.limitsTitle')}</h2>

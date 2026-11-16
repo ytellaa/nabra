@@ -1,0 +1,40 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|vadere}}. {{supplétion|aller|lang=fr}}. En effet les formes de ''aller'' viennent de trois verbes latins :
+:* radical ''all-'' issu du latin ''{{lien|ambulare|la}}'' ;
+:* radical ''va-'' issu du latin ''{{lien|vadere|la}}'' ;
+:* radical ''ir-'' issu du latin ''{{lien|ire|la}}''.
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|aller|grp=3|ind.p.3p=oui}}
+'''vont''' {{pron|vɔ̃|fr}}
+# ''Troisième personne du pluriel de l’indicatif présent de ''[[aller#fr-verb|aller]].
+
+==== {{S|notes}} ====
+: Ce mot est l’une des quatre formes indicatives irrégulières de la troisième personne du pluriel qui n’ont pas le suffixe muet ''-ent''. Les autres trois sont ''[[font#fr-flex-verb|font]]'', ''[[ont#fr-flex-verb|ont]]'' et ''[[sont#fr-flex-verb|sont]]''.
+==== {{S|abréviations}} ====
+* [[vt]] {{argot internet|nocat=1}} {{langage SMS|nocat=1}} {{term|en prise de notes}}
+
+==== {{S|variantes orthographiques}} ====
+* [[võt]] {{archaïsme|nocat=1}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[au train où vont les choses]]
+* [[qui vont bien]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[les nouvelles vont vite]]
+* [[les têtes vont rouler]]
+* [[tous les chemins vont à Rome]]
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France (Île-de-France)|vɔ̃|audio=Fr-Paris--vont.ogg}}
+* {{écouter|lang=fr|France (Île-de-France)|il vɔ̃|titre=ils '''vont'''|audio=Fr-Paris--vont (ils).ogg}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)|audio=LL-Q150 (fra)-Pamputt-vont.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Lyokoï-vont.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-vont.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-vont.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-vont.wav}}
+

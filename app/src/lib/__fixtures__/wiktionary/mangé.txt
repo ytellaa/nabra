@@ -1,0 +1,12 @@
+== {{langue|fr}} ==
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|manger|pp=oui}}
+'''mangé''' {{pron|mɑ̃.ʒe|fr}}
+# ''Participe passé masculin singulier de'' [[manger]].
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)||audio=LL-Q150 (fra)-Pamputt-mangé.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-mangé.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}

@@ -1,0 +1,604 @@
+{{voir|päin}}
+
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|?|lang=fr}} Du {{étyl|frm|fr|pain}}, de l’{{étyl|fro|fr|mot=pain}}, ''{{lien|pan|fro}}'', du {{étyl|la|fr|mot=panem}}, accusatif singulier de {{lien|''panis''|sens=pain|la}}. Le pain désigne dès l’origine le résultat de la cuisson de la matière panifiable, c’est-à-dire une pâte levée à base de farine et de levain. Aussi dès le {{siècle2|XII}} siècle, il existe une grande diversité de formes de pains, à savoir les [[boule]]s, les [[boulot]]s, les [[ficelle]]s, les épis, les [[touron]]s, les [[bâtard]]s, les [[fougasse]]s, les [[saucisse]]s ou [[saucisson]]s, les [[baguette]]s, etc.
+: {{date|2025|lang=fr}} Le sens (9), de personne que l’on désire, pourrait avoir transité par le {{lien|nouchi|fr|nom}} où le mot « pain » désigne une personne craquante, donc un joli garçon ou une jolie fille<ref>{{article |prénom1=Fiona |nom1=Bonassin |titre=Vous avez un “crush” ? C’est ringard, maintenant on l’appelle “mon pain” |périodique=20 Minutes |date2025-05-20 |url=https://www.20minutes.fr/tempo/4154420-20250520-crush-ringard-maintenant-appelle-pain |consulté le=2025-12-21}}.</ref>.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|pɛ̃}}
+[[Fichier:Assorted bread.jpg|thumb|Différentes sortes de '''pain'''. (1)]]
+'''pain''' {{pron|pɛ̃|fr}} {{m}}
+# {{indénombrable|fr}} [[pâte|Pâte]] [[cuire|cuite]] au [[four]], [[à base de]] [[farine]], d’[[eau]] et de [[levure de boulanger]] ou de [[levain]].
+#* {{exemple | lang=fr
+ | Sophie emportait dans un petit panier du '''pain''', qu’elle émiettait aux poules.
+ | source={{w|Sophie Rostopchine, comtesse de Ségur|Comtesse de Ségur}}, ''{{ws|Les Malheurs de Sophie}}'', }}
+#* {{exemple | lang=fr
+ | </i>[…]<i> voilà vingt ans que ça durait ; tout en piochant ferme, et en ne vivant que de '''pain''' et de pommes de terre, il avaient pu, tout juste, payer les intérêts et les frais de renouvellement.
+ | source={{w|Émile-Ambroise Thirion}}, ''La Politique au village'', Fischbacher, 1896, page 325}}
+#* {{exemple | lang=fr
+ | Il trempait son '''pain''' dans sa soupe et il en mordait d’énormes bouchées </i>[…]<i>
+ | source={{Citation/H. G. Wells/La Guerre dans les airs/1921|246}}}}
+#* {{exemple | lang=fr
+ | Zaheira disparut vers la cuisine, revint avec des plats alléchants, disposa gentiment l’eau et le '''pain''' sur la table.
+ | source={{w|Out-el-Kouloub}}, « Zaheira », dans ''Trois Contes de l’Amour et de la Mort'', 1940}}
+#* {{exemple | lang=fr
+ | Le '''pain''' joue tant de rôles ! Nous avons appris à reconnaître, dans le '''pain''', un instrument de la communauté des hommes, à cause du '''pain''' à rompre ensemble. Nous avons appris à reconnaître, dans le '''pain''', l’image de la grandeur du travail, à cause du '''pain''' à gagner à la sueur du front. Nous avons appris à reconnaître, dans le '''pain''', le véhicule essentiel de la pitié, à cause du '''pain''' que l’on distribue aux heures de misère. La saveur du '''pain''' partagée n’a point d’égale. […] Il est du '''pain''' comme de l’huile des lampes à huile. Elle se change en lumière.
+ | source={{w|Antoine de Saint-Exupéry}}, ''{{w|Pilote de guerre}}'', XXIV, 1942}}
+#* {{exemple | lang=fr
+ | Le '''pain''' à mie compacte et bise, à la croûte épaisse couleur de couque, sent la farine honnête.
+ | source={{Citation/Jean Rogissart/Passantes d’Octobre/1958}}}}
+#* ''— L’odeur de ce bon '''pain''' me remplit de bonheur<br 
+/>Debout de bon matin, promesse d’un grand cœur.'' {{source|''{{w|Case départ (film)|Case départ}}'', 2011}}
+# {{pains|fr|clé=*}} [[morceau|Morceau]] de pain considéré en tant qu’[[unité]] de [[cuisson]] ou de [[vente]], [[en général]] sous une [[forme]] [[définie]] : une [[baguette]] de pain, un [[pain de campagne]], un [[pain azyme]], etc.
+#* {{exemple | lang=fr
+ | On en sort le plus souvent avec de gros '''pains''' d'un kilo ou des miches qu'on conserve. Pour nous, le luxe c'était la baguette ou la ficelle qu'on achetait exceptionnellement et qu'on ne trouvait pas d'ailleurs tout les jours </i>[…]<i>
+ | source=Jacqueline Roux, ''Jhroe'', Société des Écrivains, 2008, page 97}}
+# {{en particulier}} {{Paris|fr}} [[baguette|Baguette]] de 400 grammes (le terme ''[[baguette]]'' étant dans ce cas réservé à la baguette de 250 grammes).
+#* {{exemple | lang=fr | Donnez-moi un '''pain''' s’il vous plaît.}}
+# {{par extension|fr}} Tout [[objet]] qui [[prend]] la forme d’un pain.
+#* {{exemple | lang=fr
+ | La préparation du '''pain''' de poisson, pour laquelle des brevets ont été pris en France en 1870, est malheureusement peu pratiquée jusqu’ici.
+ | source=Albert Seigneurie, ''Dictionnaire encyclopédique de l’épicerie et des industries annexes'', 1904}}
+#* {{exemple | lang=fr
+ | Muni même d’un '''pain''' de savon, il prit, sur le bord d’un cours d’eau, hors la ville, son premier bain depuis seize mois.
+ | source={{Citation/H. G. Wells/La Guerre dans les airs/1921|421}}}}
+#* {{exemple | lang=fr
+ | Entre Yari et Sissy, dans une savane immense de gamba, nous avons croisé, ce matin, quatre Manga menant à Kano dix ânes chargés de '''pains''' de sel et de couffins de natron — une production de ce pays très particulier où abondent les mares salines.
+ | source=Louis Alibert, ''Méhariste, 1917-1918'', Éditions Delmas, 1944, page 32}}
+# {{par extension|fr}} [[nourriture|Nourriture]], moyens de [[subsistance]].
+#* {{exemple | lang=fr
+ | M. Fabre représentait l’Honneur, la Loyauté, la Probité, la vie régulière et laborieuse, le livret de Caisse d’Épargne, le '''pain''' gagné à la sueur d’un front d’exploité, — bref tout ce que les bourgeois proclament des lèvres comme des vertus civiques.
+ | source={{w|Émile Armand}}, « La Revanche des « bandits tragiques » », dans ''Les Réfractaires'', {{n°|2}}, février-mars 1914}}
+# {{familier|fr}} {{FR|fr}} [[coup de poing|Coup de poing]].
+#* {{exemple|lang=fr|L’homme s’est débattu sous moi comme un démon, j’ai même encaissé dans la bagarre un bon '''pain''' sur la gueule.|source={{w|Paul Berna}}, ''Le Cheval sans tête'', 1955, réédition Le Livre de Poche, 1980, page 184}}
+#* ''Tu sais que ça lui va bien, un '''pain''' dans la gueule à ce nœud coulant ?'' {{source|{{w|Frédéric Dard}} ({{w|San-Antonio (série)|San-Antonio}}), ''Les huîtres me font bâiller'', Fleuve Noir, 1995, page 96}}
+# {{lexique|musique|fr}} {{argot|fr}} Erreur grossière, [[fausse note]], [[couac]].
+#* {{exemple||source=|lien=|lang=fr}}
+# {{argot|fr|militaire}} Jour de prison{{R|languefrancaise.net}}.
+#* {{exemple||source=|lien=|lang=fr}}
+# {{néologisme|fr}} [[crush|Crush]], [[personne]] pour qui on a une [[attirance]].
+#* {{exemple|« Les '''pains''' sont de sortie », « Quand mon '''pain''' me parle plus mais c’est pas grave parce que j’ai une boulangerie »… Alors non, les utilisateurs de TikTok ne sont pas devenus des professionnels de la baguette. Sur les réseau sociaux, le '''pain''' a un double sens. |source={{article |prénom1=Fiona |nom1=Bonassin |titre=Vous avez un “crush” ? C’est ringard, maintenant on l’appelle “mon pain” |périodique=20 Minutes |date2025-05-20 |url=https://www.20minutes.fr/tempo/4154420-20250520-crush-ringard-maintenant-appelle-pain |consulté le=2025-12-21}} |lang=fr}}
+
+==== {{S|synonymes}} ====
+* [[brignolet]] (''Argot'')
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[à la mie de pain]]
+* [[arbre à pain]]
+* [[avoir du pain sur la planche]]
+* [[avoir le pain et le couteau]]
+* [[avoir son pain cuit]]
+* [[boite à pain]] {{ortho1990}}
+* [[boîte à pain]]
+* [[bon comme du bon pain]]
+* [[bon comme le bon pain]]
+* [[bon comme le pain]]
+* [[bouchée de pain]]
+* [[carnipain]]
+* [[carte de pain]]
+* [[cherche-pain]] ''(mendiant)''
+* [[chercher son pain]] ''(mendier)''
+* [[copain]]
+* [[coupe-pain]]
+* [[couteau à pain]]
+* [[croustipain]] {{Québec|nocat=1}}
+* [[demi-pain]]
+* [[dépôt de pain]], [[dépôt de pains]]
+* [[du pain et des roses]]
+* [[embrasser comme du bon pain]]
+* [[emprunter un pain sur la fournée]] ''(avoir un enfant hors mariage)''
+* [[enlever le pain de la bouche]]
+* [[être au pain et à l’eau]]
+* [[être au pain quérant]]
+* [[être au pain sec et à l’eau]]
+* [[être du pain bien dur à manger]]
+* [[exagérer sur le pain béni]]
+* [[faire passer le gout du pain]] {{ortho1990}}
+* [[faire passer le goût du pain]]
+* [[faire perdre le gout du pain]] {{ortho1990}}
+* [[faire perdre le goût du pain]]
+* [[four à pain]]
+* [[fruit à pain]]
+* [[gagne-pain]]
+* [[gagner son pain]]
+* [[gagner son pain à la sueur de son front]]
+* [[grille-pain]]
+* [[gros pain]]
+* [[grossier comme du pain d’orge]]
+* [[la meilleure chose depuis l’invention du pain tranché]]
+* [[long comme un jour sans pain]]
+* [[manger son pain à la fumée du rôt]]
+* [[manger son pain blanc]]
+* [[manger son pain blanc le premier]]
+* [[manger son pain noir]]
+* [[morceau de pain]]
+* [[moule à pain]]
+* [[ne pas manger de ce pain-là]]
+* [[ne valoir pas le pain qu’on mange]]
+* [[offrir le pain et le sel]] ''(offrir l’hospitalité)''
+* [[ôter le pain de la bouche]]
+* [[pain à cacheter]]
+* [[pain à chanter]]
+* [[pain à la grecque]]
+* [[pain amer]]
+* [[pain au beurre]]
+* [[pain au chocolat]]
+* [[pain au lait]]
+* [[pain au son]]
+* [[pain aux raisins]]
+* [[pain azyme]]
+* [[pain bagnat]]
+* [[pain bénit]]
+* [[pain-beurre]]
+* [[pain bis]]
+* [[pain blanc]]
+* [[pain breton]]
+* [[pain brié]]
+* [[pain brioché]]
+* [[pain brûlé]]
+* [[pain-brûlé]]
+* [[pain bûcheron]]
+* [[pain céleste]]
+* [[pain complet]]
+* [[pain crestou]]
+* [[pain d’abeille]], [[pain d’abeilles]]
+* [[pain d’autel]] ''(hostie)''
+* [[pain de campagne]]
+* [[pain de chien]]
+* [[pain de coucou]]
+* [[pain de couleuvre]]
+* [[pain de deux]], [[pain de 2]]
+* [[pain de fougère]]
+* [[pain de Gênes]]
+* [[pain de glace]]
+* [[pain de gruau]]
+* [[pain de guerre]]
+* [[pain de l’Égalité]]
+* [[pain de maïs]]
+* [[pain de ménage]]
+* [[pain de méteil]]
+* [[pain de mie]]
+* [[pain de munition]]
+* [[pain de poisson]]
+* [[pain-de-pourceau]]
+* [[pain de quatre livres]]
+* [[pain de seigle]]
+* [[pain de soupe]]
+* [[pain de sucre]]
+* [[pain de trois]], [[pain de 3]]
+* [[pain de troupe]]
+* [[pain de viande]]
+* [[pain d’épices]] ''ou'' [[pain d’épice]]
+* [[pain des anges]]
+* [[pain doré]]
+* [[pain du Cardinal]]
+* [[pain du roi]]
+* [[pain Égalité]]
+* [[pain épi]]
+* [[pain eucharistique]]
+* [[pain fantaisie]]
+* [[pain fendu]]
+* [[pain français]]
+* [[pain gradile]]
+* [[pain grec]]
+* [[pain grillé]]
+* [[pain indien]]
+* [[pain liquide]]
+* [[pain melon]]
+* [[pain mollet]]
+* [[pain naan]]
+* [[pain Napoléon]]
+* [[pain noir]]
+* [[pain paillasse]]
+* [[pain perdu]]
+* [[pain pita]]
+* [[pain polka]]
+* [[pain quotidien]]
+* [[pain russe]]
+* [[pain rustique]]
+* [[pain sec]]
+* [[pain suédois]]
+* [[pain suisse]]
+* [[pain surprise]]
+* [[pain tabouna]]
+* [[pain thon]], [[pain-thon]]
+* [[pain viennois]]
+* [[partager le pain et le sel]] ''(recevoir l’hospitalité)''
+* [[partir comme des petits pains]]
+* [[petit pain]]
+* [[petit pain au chocolat]]
+* [[planche à pain]]
+* [[porte-pain]]
+* [[pour un morceau de pain]]
+* [[pour une bouchée de pain]]
+* [[promettre plus de beurre que de pain]]
+* [[quart de pain]] {{Québec|nocat=1}}
+* [[retirer le pain de la bouche]]
+* [[riz-pain-sel]]
+* [[saucipain]]
+* [[se vendre comme des petits pains]]
+{{)}}
+
+==== {{S|apparentés}} ====
+{{(}}
+* [[companage]]
+* [[panaire]]
+* [[panasserie]]
+* [[pané]]
+* [[paner]]
+* [[panetière]]
+* [[paneton]]
+* [[panière]]
+* [[panivore]]
+* [[panure]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{thésaurus|fr|pain}}
+* {{voir thésaurus|fr|église|savon|sandwich|carotte|bagarre|boulangerie|soupe|petit-déjeuner|pique-nique|barbecue|châtaigne|alimentation|farine|vie quotidienne|divination|céréales|aliment fermenté|industrie agroalimentaire|viennoiserie|fermentation alimentaire}}
+{{(}}
+* [[grigne]]
+* [[grosse baguette]]
+* [[baguette]]
+* [[bannette]]
+* [[déjeunette]]
+* [[ficelle]]
+* [[flute]] {{ortho1990}}
+* [[flûte]]
+{{)}}
+* {{cf|arto-|lang=fr}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[ça mange pas de pain]]
+* [[ça ne mange pas de pain]]
+* [[ça ne mange pas de pain, ça ne boit pas de vin]]
+* [[celui louer devons, de qui le pain mangeons]]
+* [[croute de pâté vaut bien pain]] {{ortho1990}}
+* [[croûte de pâté vaut bien pain]]
+* [[du pain et des jeux]]
+* [[pain coupé n’a pas de maître]]
+* [[pain volé réveille l’appétit]]
+* [[qui a du pain nargue le chagrin]]
+{{)}}
+
+{{voir thésaurus|fr|farine|pain}}
+
+==== {{S|traductions}} ====
+{{trad-début|Aliment}}
+* {{T|abx}} : {{trad|abx|tinapay}}
+* {{T|af}} : {{trad+|af|brood}}
+* {{T|agq}} : {{trad|agq|bɛ ke ŋ̀kala}}
+* {{T|aht}} : {{trad|aht|łiba’}}
+* {{T|sq}} : {{trad+|sq|bukë}}
+* {{T|ale}} : {{trad|ale|xliimax̂}}
+* {{T|de}} : {{trad+|de|Brot|n}}
+* {{T|alt}} : {{trad|alt|калаш}}
+* {{T|ems}} : {{trad|ems|gelipaq}}
+* {{T|zgh}} : {{trad|zgh|ⴰⴳⵔⵄⵎ|m|tr=aghrom}}
+* {{T|angevin}} : {{trad|angevin|arton}}
+* {{T|en}} : {{trad+|en|bread}}
+* {{T|ang}} : {{trad+|ang|bread}}, {{trad-|ang|hlaf}}
+* {{T|ar}} : {{trad+|ar|خبز}}, {{trad+|ar|خُبْز}}
+* {{T|arq}} : {{trad|arq|كسرة|f|tr=kesra}}
+* {{T|aeb}} : {{trad|aeb|5obz}}
+* {{T|hy}} : {{trad+|hy|հաց|tr=hacʿ}}
+* {{T|az}} : {{trad+|az|çörək}}
+* {{T|ba}} : {{trad|ba|икмәк}}
+* {{T|bm}} : {{trad-|bm|buuru}}
+* {{T|eu}} : {{trad+|eu|ogi}}
+* {{T|bar}} : {{trad|bar|Brod|n}}
+* {{T|bol}} : {{trad|bol|burodi}}
+* {{T|bum}} : {{trad|bum|fembé}}
+* {{T|br}} : {{trad+|br|bara|m}}
+* {{T|bg}} : {{trad+|bg|хляб|tr=hljab|m}}
+* {{T|ca}} : {{trad+|ca|pa|m}}
+* {{T|shy}} : {{trad+|shy|aɣṛum}}
+* {{T|ctc}} : {{trad|ctc|baa-shvk}}, {{trad|ctc|saa-bee-li}}
+* {{T|zh}} : {{trad+|zh|面包|tr=miànbāo|tradi=麵包}}
+* {{T|shi}} : {{trad|shi|ⴰⵖⵔⵓⵎ}}
+* {{T|cop}} : {{trad|cop|ⲟⲉⲓⲕ|tr=oeik}}
+* {{T|ko}} : {{trad+|ko|빵|tr=ppang}}
+* {{T|co}} : {{trad+|co|pane}}
+* {{T|ht}} : {{trad|ht|pen}}
+* {{T|hr}} : {{trad+|hr|hleb}}, {{trad+|hr|hljeb}}, {{trad+|hr|kruh}}, {{trad-|hr|kruv}}
+* {{T|da}} : {{trad+|da|brød|n}}
+* {{T|did}} : {{trad|did|oboni}}
+* {{T|egy}} : {{trad|egy|TA}}, {{trad|egy|𓏏}}
+* {{T|es}} : {{trad+|es|pan|m}}
+* {{T|eo}} : {{trad+|eo|pano}}
+* {{T|et}} : {{trad+|et|leib}}
+* {{T|fo}} : {{trad+|fo|breyð|n}}
+* {{T|fi}} : {{trad+|fi|leipä}}
+* {{T|nld}} : {{trad|nld|bruuëd}}, {{trad|nld|broeëd}}
+* {{T|fy}} : {{trad-|fy|bôle}}, {{trad-|fy|brea}}
+* {{T|stq}} : {{trad|stq|Brood}}
+* {{T|gd}} : {{trad-|gd|aran}}
+* {{T|ga}} : {{trad+|ga|arán}}
+* {{T|gag}} : {{trad|gag|ekmek}}
+* {{T|gallo}} : {{trad|gallo|ajetis}}
+* {{T|gallo-italique de Sicile}} : {{trad|gallo-italique de Sicile|pangh}}
+* {{T|cy}} : {{trad+|cy|bara|m}}
+* {{T|ka}} : {{trad+|ka|პური|tr=puri}}
+* {{T|got}}&nbsp;: {{trad|got|𐌷𐌻𐌰𐌹𐍆𐍃|R=hláifs|m}}
+* {{T|el}} : {{trad+|el|ψωμί|R=psomí|n}}, {{trad+|el|άρτος|m|tr=ártos}}
+* {{T|grc}} : {{trad|grc|ἄρτος|m|tr=ártos}}
+* {{T|griko}} : {{trad|griko|psomì}}, {{trad|griko|sciomì}}, {{trad|griko|ssomì}}, {{trad|griko|tsomì|n}}
+* {{T|he}} : {{trad+|he|לחם|R=lahm}}
+* {{T|mww}} : {{trad|mww|khaub cij}}
+* {{T|hoi}} : {{trad|hoi|naghinadltthʼin}}
+* {{T|hu}} : {{trad+|hu|kenyér}}
+* {{T|sah}} : {{trad|sah|килиэп}}
+* {{T|io}} : {{trad+|io|pano}}
+* {{T|id}} : {{trad+|id|roti}}
+* {{T|ia}} : {{trad+|ia|pan}}
+* {{T|iu}} : {{trad-|iu|ᕿᖂᔭᖅ|R=[[qiquujaq]]}}
+* {{T|is}} : {{trad+|is|brauð|n}}
+* {{T|it}} : {{trad+|it|pane}}
+* {{T|ja}} : {{trad+|ja|パン|tr=pan}}
+* {{T|kab}} : {{trad|kab|ⴰⵖⵔⵓⵎ}}
+* {{T|krc}} : {{trad|krc|ётмек}}
+* {{T|kk}} : {{trad+|kk|нан|tr=nan}}
+* {{T|ken}} : {{trad|ken|bɛbe}}
+* {{T|kjh}} : {{trad|kjh|iпек}}, {{trad|kjh|халас}}
+* {{T|rw}} : {{trad-|rw|gati}} (umugati)
+* {{T|ky}} : {{trad+|ky|нан|tr=nan}}
+* {{T|avk}} : {{trad|avk|beg}}
+* {{T|kum}} : {{trad|kum|экмек}}
+* {{T|ku}} : {{trad+|ku|nan}}
+* {{T|ldn}} : {{trad|ldn|bal}}
+* {{T|la}} : {{trad+|la|panis}}, {{trad+|la|panis}}
+* {{T|lv}} : {{trad+|lv|maize}}
+* {{T|li}} : {{trad-|li|wegk|m}}
+* {{T|lt}} : {{trad+|lt|duona|f}}
+* {{T|lorrain}} : {{trad|lorrain|pin}}
+* {{T|lb}} : {{trad+|lb|Brout|n}}
+* {{T|mk}} : {{trad+|mk|леб|tr=lɛb}}
+* {{T|ms}} : {{trad+|ms|roti}}
+* {{T|mg}} : {{trad+|mg|mofo}}
+* {{T|mcn}} : {{trad|mcn|fúnà}}
+* {{T|yua}} : {{trad|yua|pam}}, {{trad|yua|pan}}, {{trad|yua|waah}}
+* {{T|mic}} : {{trad|mic|pipnaqan}}
+* {{T|moh}} : {{trad|moh|kaná:taro}}, {{trad|moh|kanà:tarohk}}
+* {{T|lij-MC}} : {{trad|lij-MC|pan}}
+* {{T|nl}} : {{trad+|nl|brood|n}}, {{trad+|nl|mik}}
+* {{T|nio}} : {{trad|nio|кириба}}
+* {{T|niv}} : {{trad|niv|леп}}
+* {{T|nog}} : {{trad|nog|оьтпек}}
+* {{T|normand}} : {{trad|normand|pain}}, {{trad|normand|pan}}
+* {{T|non}} : {{trad|non|brauð}}
+* {{T|nb}} : {{trad+|no|brød|n}}
+* {{T|nn}} : {{trad+|no|brød|n}}
+* {{T|ngh}} : {{trad|ngh|presi}}
+* {{T|oc}} : {{trad+|oc|pan|m}}
+* {{T|uz}} : {{trad+|uz|non}}
+* {{T|pap}} : {{trad|pap|pan}}
+* {{T|fa}} : {{trad+|fa|نان|R=nān}}
+* {{T|pl}} : {{trad+|pl|chleb|m}}
+* {{T|pt}} : {{trad+|pt|pão|m}}
+* {{T|rom}} : {{trad|rom|manro}}
+* {{T|ro}} : {{trad+|ro|pâine|f}}
+* {{T|ru}} : {{trad+|ru|хлеб|tr=khleb|m}}
+* {{T|slm}} : {{trad|slm|tinapay}}
+* {{T|sa}} : {{trad+|sa|पूपः|R=pūpaḥ}}
+* {{T|sr}} : {{trad+|sr|хлеб|m|tr=hleb}}, {{trad-|sr|хљеб|m|tr=hljeb}}, {{trad-|sr|крух|m|tr=kruh}}, {{trad-|sr|крув|tr=kruv}}
+* {{T|xsr}} : {{trad|xsr|खाट}}
+* {{T|zdj}} : {{trad|zdj|mkatre}}
+* {{T|fsl}} : {{wikisign|pain}}
+* {{T|quz}} : {{trad|quz|t’anta}}
+* {{T|cu}} : {{trad|cu|хлѣбъ|R=}}
+* {{T|sk}} : {{trad+|sk|chlieb|m}}
+* {{T|sl}} : {{trad+|sl|kruh|m}}
+* {{T|solrésol}} : {{trad|solrésol|dolafala}}, {{trad|solrésol|d'olafala}}
+* {{T|ses}} : {{trad|ses|buuru}}
+* {{T|srn}} : {{trad|srn|brede}}
+* {{T|sv}} : {{trad+|sv|bröd|n}}
+* {{T|sw}} : {{trad+|sw|mkate}}
+* {{T|tl}} : {{trad-|tl|tinápay}}
+* {{T|tzm}} : {{trad|tzm|ⴰⵖⵔⵓⵎ}}
+* {{T|crh}} : {{trad|crh|ötmek}}
+* {{T|tt}} : {{trad+|tt|икмәк}}
+* {{T|cs}} : {{trad+|cs|chléb|m}}
+* {{T|cv}} : {{trad|cv|çăкăр}}
+* {{T|te}} : {{trad+|te|రొట్టె}}
+* {{T|th}} : {{trad+|th|ขนมปัง|R=|n}}
+* {{T|ti}} : {{trad-|ti|ባኒ}}
+* {{T|kim}} : {{trad|kim|һіләәмэ}}
+* {{T|tourangeau}} : {{trad|tourangeau|torriau}}, {{trad|tourangeau|tourriau}}
+* {{T|tr}} : {{trad+|tr|ekmek}}
+* {{T|tk}} : {{trad+|tk|çörek}}
+* {{T|uk}} : {{trad+|uk|хліб|R=khlib|m}}
+* {{T|uum}} : {{trad|uum|экмек}}
+* {{T|vi}} : {{trad+|vi|bánh mì}}
+* {{T|volapük classique}} : {{trad|volapük classique|bod}}
+* {{T|vo}} : {{trad+|vo|bod}}
+* {{T|wa}} : {{trad+|wa|pan}}, {{trad+|wa|pwin}}
+* {{T|woe}} : {{trad|woe|filōwa}}
+* {{T|wo}} : {{trad-|wo|mburu m-}}
+* {{T|esu}} : {{trad|esu|láibi}}
+* {{T|dje}} : {{trad|dje|buuru}}
+* {{T|zu}} : {{trad-|zu|isinkwa}}
+{{trad-fin}}
+
+{{trad-début|Morceau de pain considéré en tant qu’unité de cuisson ou de vente.|2}}
+* {{T|de}} : {{trad+|de|Brot|n}}, {{trad+|de|Laib|m}}
+* {{T|en}} : {{trad+|en|loaf}}
+* {{T|ar}} : {{trad-|ar|رَغِيف}}
+* {{T|bar}} : {{trad|bar|Brod|n}}, {{trad|bar|Brodloab|m}}
+* {{T|ca}} : {{trad+|ca|pa|m}}
+* {{T|zh}} : {{trad+|zh|面包|tr=miànbāo|tradi=麵包}}
+* {{T|kab}} : {{trad|kab|aɣrum}}, {{trad|kab|ⴰⵖⵔⵓⵎ}}
+* {{T|avk}} : {{trad|avk|begxa}}
+* {{T|lb}} : {{trad+|lb|Brout|n}}
+* {{T|swb}} : {{trad|swb|dipe}}
+* {{T|solrésol}} : {{trad|solrésol|dolafala}}, {{trad|solrésol|d'olafala}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|pɛ̃|fr}}
+* {{pron|pɛ̃|fr}}
+* {{écouter|lang=fr|France (Paris)|pæ̃|audio=Fr-Pain-fr-Paris.ogg}}
+* {{écouter|lang=fr|France|pæ̃|audio=LL-Q150 (fra)-Fhala.K-pain.wav}}
+* {{écouter|lang=fr|France (Paris)|pã|audio=LL-Q150 (fra)-GrandCelinien-pain.wav}}
+* {{écouter|lang=fr|France (Paris)|pã|audio=LL-Q150 (fra)-Aemines1-pain.wav}}
+* {{écouter|lang=fr|France (Paris)|pã|audio=LL-Q150 (fra)-Aemines2-pain.wav}}
+* {{écouter|lang=fr|France (Paris)|pã|audio=LL-Q150 (fra)-Aemines3-pain.wav}}
+* {{écouter|lang=fr|France (Paris)|pã|audio=LL-Q150 (fra)-Aemines5-pain.wav}}
+* {{écouter|lang=fr||pã|audio=LL-Q150 (fra)-Aemines4-pain.wav}}
+* {{écouter|lang=fr|France (Paris)|pã|audio=LL-Q150 (fra)-Aemines6-pain.wav}}
+* {{écouter|lang=fr|France (Lyon)|pæ̃|audio=LL-Q150 (fra)-Ltrlg-pain.wav}}
+* {{écouter|lang=fr|France (Vosges)|pæ̃|audio=LL-Q150 (fra)-LoquaxFR-pain.wav}}
+* {{écouter|lang=fr|France (Lyon)|pæ̃|audio=LL-Q150 (fra)-WikiLucas00-pain.wav}}
+* {{écouter|lang=fr|France (Vosges)|pã|audio=LL-Q150 (fra)-Poslovitch-pain.wav}}
+* {{écouter|lang=fr|France (Cesseras)|pæ̃|audio=LL-Q150 (fra)-Guilhelma-pain.wav}}
+* {{écouter|lang=fr|France|pã|audio=LL-Q150 (fra)-Mecanautes-pain.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)|pã|audio=LL-Q150 (fra)-Eihel-pain.wav}}
+* {{écouter|France (Canet-en-Roussillon)|pɑ̃|lang=fr|audio=LL-Q150 (fra)-Théo L. (Culex)-pain.wav}}
+* {{écouter|Saint-Nazaire (France)|pæ̃|lang=fr|audio=LL-Q150 (fra)-Amélia S. (BiblioCanet66)-pain.wav}}
+* {{écouter|Abidjan (Côte d'Ivoire)|pɛ̃|lang=fr|audio=LL-Q150 (fra)-Axel toualy-pain.wav}}
+* {{écouter|France (Vendée)|pɑ̃|lang=fr|audio=LL-Q150 (fra)-Sartus85-pain.wav}}
+* Français méridional : {{pron|pɛŋ|fr}}
+* {{écouter|lang=fr|France (Avignon)|pẽːŋ|audio=Fr-pain (Avignon).ogg}}
+* {{écouter|lang=fr|France (Pyrénées-Orientales)|pɛ̃ŋ|audio=LL-Q150 (fra)-Tom (Culex)-pain.wav}}
+* Canada : {{pron|pẽ|fr}}
+* {{écouter|Canada (Estrie)|pɛ̃ẽ̯|lang=fr|audio=LL-Q150 (fra)-Estrie-pain.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[peins]], [[peint]] {{cf|peindre}}
+* [[pin]], [[pins]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Wikiquote}}
+* {{WP|Pain}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+* {{w|Jules Vallès}} sous le pseudonyme Jean La Rue, ''Dictionnaire d’argot et des principales locutions populaires'', 1894
+<references>
+{{R|languefrancaise.net|[http://www.languefrancaise.net/bob/detail.php?id&#x3d;7141 www.languefrancaise.net]}}
+</references>
+
+== {{langue|fro}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fro|vers 980}} ''{{lien|pan|fro}}''. Du {{étyl|la|fro|panis}}.
+
+=== {{S|nom|fro}} ===
+'''pain''' {{pron-recons||fro}} {{m}}
+# {{pains|fro|clé=*}} [[pain#fr|Pain]].
+#* {{exemple|lang=fro}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[emprunter un pain sur la fournee]]
+* [[estre en pain]]
+* [[être au pain de]] quelqu’un
+* [[faire de tel pain soupe]]
+* [[faire petit pain]]
+* [[hors du pain]]
+* [[pain de chapitre]]
+* [[pain de pourceaux]]
+* [[punir de mesme pain soupe]]
+* [[rendre pain pour farine]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fro|condiment}}
+
+==== {{S|dérivés autres langues}} ====
+* {{L|fr}} : [[pain#fr|pain]]
+* {{L|frm}} : [[pain#frm|pain]]
+
+=== {{S|références}} ===
+* {{R:Godefroy}}
+
+== {{langue|en}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|fro|en|paine}}, ''{{lien|peine|fro}}'' (« douleur, peine »), du {{étyl|la|en|mot=poena|sens=peine}}.
+
+=== {{S|nom|en}} ===
+{{en-nom-rég|peɪn}}
+[[Fichier:La douleur musée piscine.jpg|vignette|Pain (sens 1).]]
+'''pain''' {{pron|peɪn|en}}
+# [[douleur|Douleur]], [[souffrance]].
+#* {{exemple | lang=en
+ | I feel your '''pain'''.
+ | Je ressens ta douleur.}}
+# [[inconfort|Inconfort]].
+# [[sacrifice|Sacrifice]].
+# [[tristesse|Tristesse]] d’une certaine situation.
+# {{familier|en}} (de [[pain in the neck]]) Personne [[ennuyeux|ennuyeuse]], un [[boulet]].
+#* {{exemple | lang=en
+ | He is a real '''pain'''.
+ | C’est un vrai boulet.}}
+# {{au pluriel|en}} Grand [[soin]].
+#* {{exemple | lang=en
+ | He took '''pains''' to ensure that each guest would feel comfortable.
+ | Il prit grand soin de s’assurer que chaque invité se sentît à l’aise.}}
+
+==== {{S|dérivés}} ====
+* {{lien|painful|en}}
+* {{lien|painfully|en}}
+* {{lien|painless|en}}
+* {{lien|painlessly|en}}
+* {{lien|painstaking|en}} (''méticuleux''; ''pains'' = ''grand soin'')
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|en|pain|douleur}}
+
+=== {{S|verbe|en}} ===
+{{en-conj-rég|inf.pron=peɪn|ppr.pron=ˈpeɪ.nɪŋ}}
+'''pain''' {{pron|peɪn|en}}
+# [[faire mal|Faire mal]], [[peiner]], [[faire de la peine]].
+#* {{exemple | lang=en
+ | It '''pains''' me to say this.
+ | Ça me fait mal de dire cela.}}
+#*: Ça me peine de dire cela.
+
+=== {{S|prononciation}} ===
+* {{pron|peɪn|en}}
+* {{écouter|lang=en|États-Unis (Californie)|peɪn|audio=En-us-pain.ogg}}
+* {{écouter|lang=en|Suisse (Genève)|audio=LL-Q1860 (eng)-Nattes à chat-pain.wav}}
+* {{écouter|lang=en|Royaume-Uni (Londres)||audio=LL-Q1860 (eng)-Back ache-pain.wav}}
+* {{écouter|Texas (États-Unis)||lang=en|audio=LL-Q1860 (eng)-Wodencafe-pain.wav}}
+* {{écouter|Connecticut (États-Unis)||lang=en|audio=LL-Q1860 (eng)-Grendelkhan-pain.wav}}
+
+==== {{S|homophones|en}} ====
+* [[pane#en|pane]]
+
+=== {{S|voir aussi}} ===
+* {{WP|Pain|lang=en|titre=pain (douleur)}}
+* {{WP|Pain_(disambiguation)|lang=en|titre=pain (tous les sens)}}
+* {{WP|Douleur|titre=douleur}}
+
+== {{langue|frm}} ==
+=== {{S|étymologie}} ===
+: {{siècle|?|lang=frm}} De l’{{étyl|fro|frm|mot=pain}}, ''{{lien|pan|fro}}'', du {{étyl|la|fr|mot=panem}}, accusatif singulier de {{lien|''panis''|sens=pain|la}}. 
+
+=== {{S|nom|frm}} ===
+'''pain''' {{pron-recons||frm}} {{m}}
+# {{pains|frm|clé=*}} [[pain#fr|Pain]], pâte cuite au four, à base de farine, d’eau et de levure de boulanger ou de levain.
+#* {{exemple|lang=frm}}
+
+==== {{S|dérivés autres langues}} ====
+* {{L|fr}} : {{lien|pain|fr}}
+
+=== {{S|références}} ===
+* « pain », dans ''Dictionnaire du moyen français (1330-1500)'', 2023 [http://www.atilf.fr/dmf/definition/pain → consulter cet ouvrage]
+
+== {{langue|plodarisch}} ==
+=== {{S|nom|plodarisch|flexion}} ===
+'''pain''' {{pron||plodarisch}} {{f}}
+# ''Pluriel de ''[[paine#plodarisch|paine]].
+
+== {{langue|esu}} ==
+=== {{S|nom|esu|flexion}} ===
+'''pain''' {{pron||esu}}
+# ''Forme possessive à la deuxième personne du singulier de'' {{lien|pai|esu}}.
+
+=== {{S|prononciation}} ===
+* Dialecte du bas Kuskokwim : {{phon|pain|esu}}

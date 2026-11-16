@@ -1,0 +1,26 @@
+== {{langue|fr}} ==
+=== {{S|verbe|fr|flexion|num=1}} ===
+{{fr-verbe-flexion|lire|grp=3|ind.p.1p=oui|imp.p.1p=oui}}
+'''lisons''' {{pron|li.zɔ̃|fr}}
+# ''Première personne du pluriel de l’indicatif présent de'' [[lire]].
+# ''Première personne du pluriel de l’impératif de'' [[lire]].
+
+=== {{S|verbe|fr|flexion|num=2}} ===
+{{fr-verbe-flexion|liser|ind.p.1p=oui|imp.p.1p=oui}}
+'''lisons''' {{pron|li.zɔ̃|fr}}
+# ''Première personne du pluriel de l’indicatif présent du verbe'' [[liser]].
+# ''Première personne du pluriel de l’impératif du verbe'' [[liser]].
+
+=== {{S|prononciation}} ===
+* {{pron|li.zɔ̃|fr}}
+* {{écouter|lang=fr|(avec [[sigmatisme latéral]])|li.ɮ͡zɔ̃|audio=Fr-Paris--Lison.ogg}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)||audio=LL-Q150 (fra)-Pamputt-lisons.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-lisons.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-lisons.wav}}
+
+
+==== {{S|homophones|fr}} ====
+* [[Lison]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}

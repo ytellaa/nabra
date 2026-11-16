@@ -1,0 +1,66 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr|1577}} {{composé de|trotter|-oir|lang=fr|m=1}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|tʁɔ.twaʁ}}
+[[Fichier:Chodnik wzdłuż wschodniego krańca Parku Dietla w ciagu ulicy Żeromskiego , czerwiec 2024 , 034.jpg|vignette|redresse|Un '''trottoir''' (1)]]
+'''trottoir''' {{pron|tʁɔ.twaʁ|fr}} {{m}}
+# {{lexique|urbanisme|fr}} [[espace|Espace]] [[surélever|surélevé]] [[ménager|ménagé]] sur le [[côté]] d’une [[chaussée]], d’un [[quai]], d’une rue pour le [[passage]] des [[piéton]]s.
+# {{métaphore|fr}} {{par euphémisme|fr}} {{populaire|fr}} [[prostitution|Prostitution]] de [[rue]], tirée de l’expression ''[[faire le trottoir]]''.
+# {{par extension|fr}} {{populaire|fr}} [[bord#fr|Bord]] d’une [[tarte]], d’une [[pizza]].
+# [[File:Hindbærtærte med marcipan (6776406805).jpg|thumb|Un '''trottoir''' aux framboises. (sens 3)]] {{QC|fr}} {{pâtisseries|fr}} Nom d’une sorte de [[pâtisserie]], consistant en une pâte feuilletée, généralement rectangulaire, avec une garniture fruitée recouverte de lanières de pâte entrecroisées, dont l’aspect rappelle celui d’un trottoir{{réf}}.
+# {{QC|fr}} ''([[Enseignement]])'' Interligne sur un cahier d'écriture.
+
+==== {{S|synonymes}} ====
+* [[usoir]], {{région}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[battre le trottoir]] 
+* [[faire le trottoir]]
+* [[fille de trottoir]]
+* [[fille du trottoir]] 
+* [[micro-trottoir]]
+* [[radio trottoir]]
+* [[rouler les trottoirs]] ''(Québec)'' ''(Familier)''
+* [[trottoir rapide]]
+* [[trottoir roulant]]
+* [[trottoir traversant]]
+* [[uritrottoir]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|route|voie urbaine|eaux pluviales|génie civil|travaux publics|arbre d’alignement|arbre de rue|espace public}}
+{{(}}
+* [[bateau]]
+* [[macadam]]
+* [[passage clouté]]
+* [[piéton]]
+* [[prostitution de rue]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Espace surélevé sur le côté d’une chaussée}}
+* {{T|ar}} : {{trad-|ar|طِوَار|tr=Tiwaèr}}, {{trad-|ar|رَصِيف}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|tʁɔ.twaʁ|fr}}
+* {{écouter|lang=fr|France|tʁɔ.twaʁ|audio=Fr-trottoir.ogg}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-trottoir.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-trottoir.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Althea81-trottoir.wav}}
+* {{écouter|Reims (France)||lang=fr|audio=LL-Q150 (fra)-Phmavipe-trottoir.wav}}
+* {{écouter|Millau (France)||lang=fr|audio=LL-Q150 (fra)-Antochkat-trottoir.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-trottoir.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Vikidia}}
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+* {{RÉF}} : [http://www.google.ca/search?q=p%C3%A2tisserie+trottoirs&safe=images&hl=fr&tbm=isch Clichés de pâtisseries trottoirs sur Google Images]
+

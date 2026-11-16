@@ -1,0 +1,277 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: ''([[sur#fr-prép|Préposition]])'' {{date|lang=fr}} Du {{étyl|la|fr|mot=super|sens=au-dessus de}}.
+: ''([[sur#fr-adj|Adjectif]])'' {{date|lang=fr}} Du {{étyl|frk|fr}} {{recons|lang-mot-vedette=fr|sûr}} (« acide, aigre »), qui a aussi donné le moyen néerlandais ''[[suur#dum|suur]]'', le vieux haut allemand ''[[sur#goh|sur]]'', l’allemand moderne ''[[sauer#de|sauer]]'' et l’anglais ''[[sour#en|sour]]''.
+
+=== {{S|préposition|fr}} ===
+{{fr-inv|syʁ}}
+'''sur''' {{pron|syʁ|fr}} {{invar}}
+# Indique une [[position]] plus [[élever|élevée]].
+# {{par extension|fr}} Indique une [[supériorité]].
+# Indique une [[direction]].
+# Indique une position [[temporelle]], un [[instant]] [[donner|donné]].
+# Indique l’[[origine]], la [[base]] ou ce qui [[servir|sert]] de [[garantie]] [[morale]].
+# Indique un [[rapport]] de [[dimension]].
+# Indique un rapport de [[proportion]].
+# Indique un rapport de [[répétition]].
+# {{lexique|mathématiques|fr}} Indique une fraction.
+# [[exprimer|Exprime]] une [[idée]] de [[contact]].
+# {{familier|fr}} {{France|fr}} Indique une [[proximité]] géographique. [NB : L'Académie française juge cet emploi inapproprié, mais en supposant que le mot est employé dans le sens de ''à''{{R|Académie}}.]
+# {{vieilli|fr}} Indique une approximation de temps ; [[vers]].
+# Indique une idée de connaissance.
+
+==== {{S|vocabulaire}} ====
+* [[su’]]
+
+==== {{S|abréviations}} ====
+
+* {{lien|s/|fr}}
+
+==== {{S|synonymes}} ====
+{{(}}
+'''Position plus élevée''' (1) :
+* [[au-dessus]]
+* [[par-dessus]]
+'''Supériorité''' (2) :
+* [[contre]]
+'''Direction''' (3) :
+* [[à]]
+* [[en direction de]]
+* [[vers]]
+'''Instant donné''' (4) :
+* [[à]]
+'''Origine ou base morale''' (5) :
+* [[d’après]]
+'''Rapport de dimension''' (6) :
+* [[par]]
+
+'''Rapport de proportion''' (7) :
+* [[pour]]
+'''Répétition''' (8) :
+* [[après]]
+''' Fraction''' (9) :
+* [[par]]
+'''Contact''' (10) :
+* [[à]]
+* [[contre]]
+'''Proximité géographique''' (11) :
+* [[aux alentours de]]
+* [[à proximité de]]
+* [[aux environs de]]
+* [[dans]] le [[secteur]] de
+* [[vers]]
+'''Idée de connaissance''' (13) :
+* [[à propos de]]
+* [[au sujet de]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[sur-]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[aller sur des roulettes]]
+* [[avoir des vues sur]]
+* [[avoir les yeux rivés sur]]
+* [[avoir pignon sur rue]]
+* [[avoir sur la conscience]]
+* [[avoir sur le cœur]]
+* [[avoir sur le dos]]
+* [[avoir sur les oreilles]]
+* [[avoir toute sa fortune sur son dos]]
+* [[avoir un cheveu sur la langue]]
+* [[brochant sur le tout]]
+* [[cerise sur le gâteau]]
+* [[coiffer sur le poteau]]
+* [[comme sur des roulettes]]
+* [[coup sur coup]]
+* [[cyclisme sur piste]]
+* [[cyclisme sur route]]
+* [[cycliste sur piste]]
+* [[cycliste sur route]]
+* [[doré sur tranche]]
+* [[dormir sur les deux oreilles]] 
+* [[dormir sur ses deux oreilles]] 
+* [[en avoir gros sur la patate]]
+* [[en avoir gros sur le cœur]]
+* [[envoyer sur les roses]]
+* [[être porté sur]]
+* [[être sur écoute]]
+* [[être sur le bureau]]
+* [[être sur un nuage]]
+* [[être sur un petit nuage]]
+* [[gagner sur soi]]
+* [[hockey sur gazon]]
+* [[hockey sur glace]]
+* [[hockey sur luge]]
+* [[hockey sur patins]]
+* [[hockey sur patins à roulettes]]
+* [[impôt sur la fortune]]
+* [[impôt sur le revenu]]
+* [[impôt sur les portes et fenêtres]]
+* [[impôt sur les sociétés]] ([[IS]])
+* [[loucher sur]]
+* [[marche sur Rome]]
+* [[mariage sur la croix de l’épée]]
+* [[mettre des mots sur]]
+* [[mettre le doigt sur]]
+* [[mettre sur la table]]
+* [[mettre sur la voie]]
+* [[mettre sur le gril]]
+* [[mettre sur le tapis]]
+* [[mettre sur le marché]]
+* [[mettre sur les bras]]
+* [[mettre sur les dents]]
+* [[mettre sur pause]]
+* [[mettre sur pied]]
+* [[mettre sur soi tout ce qu’on gagne]]
+* [[mothais sur feuille]]
+* [[n’avoir que la peau sur les os]]
+* [[ne pas savoir sur quel pied danser]]
+* [[parcours sur la toile]] {{info lex|Internet}}
+* [[position sur orbite]]
+* [[prendre sur soi]]
+* [[rapport poussée sur poids]]
+* [[remettre sur le métier]]
+* [[remettre sur le tapis]]
+* [[rester sur l’estomac]]
+* [[rester sur le cœur]]
+* [[saucisse sur pattes]]
+* [[silicium sur isolant]] ([[SSI]])
+* [[stabilisation sur trois axes]]
+* [[sur ce]]
+* [[sur ce terrain]]
+* [[sur commande]]
+* [[sur écoute]]
+* [[sur étagère]]
+* [[sur la fesse]] {{Québec|nocat=1}}
+* [[sur la mappe]] {{Québec|nocat=1}}
+* [[sur la paille]]
+* [[sur la pointe des pieds]]
+* [[sur la touche]]
+* [[sur le banc de touche]]
+* [[sur le bout des doigts]]
+* [[sur le carré]]
+* [[sur le carreau]]
+* [[sur-le-champ]]
+* [[sur le coup de]]
+* [[sur le cul]]
+* [[sur le fil]] ''(de justesse, in extremis)''
+* [[sur le fly]]
+* [[sur le fond]]
+* [[sur le même pied]]
+* [[sur le papier]]
+* [[sur le pied de guerre]]
+* [[sur le pied de paix]]
+* [[sur le plan]]
+* [[sur le point de]]
+* [[sur le pont]]
+* [[sur le pouce]]
+* [[sur le qui-vive]]
+* [[sur le tard]]
+* [[sur le tas]]
+* [[sur le terrain]]
+* [[sur le tout du tout]] ''(Héraldique)''
+* [[sur le vif]]
+* [[sur les chapeaux de roues]]
+* [[sur les ondes]]
+* [[sur les rails]]
+* [[sur ma foi]]
+* [[sur pied]]
+* [[sur semaine]]
+* [[sur son trente et un]]
+* [[sur table d’écoute]]
+* [[sur tapis vert]]
+* [[sur terre]]
+* [[sur toute la ligne]]
+* [[sur toutes les coutures]]
+* [[sur un bon pied]]
+* [[sur un coup de dé]]
+* [[sur un coup de tête]]
+* [[sur un pied d’égalité]]
+* [[sur un terrain glissant]]
+* [[sur une grande échelle]]
+* [[taxe sur la valeur ajoutée]] ([[TVA]]) 
+{{)}}
+
+==== {{S|dérivés autres langues}} ====
+* {{L|eo}} : {{lien|sur|eo}}
+
+==== {{S|phrases}} ====
+* [[blanc sur rouge rien ne bouge, rouge sur blanc tout fout le camp]] {{info lex|œnologie}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad+|ar|على|R=ʿalaa|dif=عَلى}} (1)
+{{trad-fin}}
+
+{{trad-début|Indique une position plus élevée|1}}
+* {{T|ar}} : {{trad+|ar|على|tr=ʿalā}}
+{{trad-fin}}
+
+{{trad-début|Exprime une idée de contact|10}}
+{{trad-fin}}
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-rég|syʁ}}
+'''sur''' {{pron|syʁ|fr}}
+# Qui a un [[goût]] [[acide]] et [[aigrelet]].
+/>L’eau verte pénétra ma coque de sapin.'' {{source|{{w|Rimbaud}}, ''{{ws|Le Bateau ivre}}''}}
+# {{lexique|chimie|fr}} {{désuet|fr}} [[qualifier|Qualifiait]] les [[eaux]] qui servaient à [[amollir]] les [[cuirs]], ou bien l’eau [[résiduelle]] issue de l’[[extraction]] de [[sels]], de [[cristaux]] ou d’[[amidon]].
+
+==== {{S|dérivés}} ====
+* [[surelle]]
+
+==== {{S|synonymes}} ====
+* [[bouté]] (Sologne)
+* [[suri]]
+* {{thématique|adjectifs décrivant une saveur|fr}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-inv|syʁ|inv_titre=Singulier}}
+'''sur''' {{pron|syʁ|fr}} {{m}} {{s}}
+# {{langues|fr}} Langue des états [[Plateau]] et [[Bauchi]] du [[Nigeria]], code ISO 639-3 '''[[tdl]]'''.
+
+==== {{S|synonymes}} ====
+* [[kusur]]
+* [[myet]]
+* [[sur–myet]]
+* [[tapshin]]
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|syʁ|fr}}
+* {{pron|syʁ|fr}}
+* {{écouter|lang=fr|France (Paris)|syʁ|audio=Fr-sur-fr-Paris.ogg}}
+* {{CA|nocat=1}} {{pron|sʏʁ|sʏy̯ʁ|fr}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|syʁ|audio=LL-Q150 (fra)-DSwissK-sur.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-sur.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-sur.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-sur.wav}}
+* {{écouter|lang=fr|France (Strasbourg)||audio=LL-Q143 (epo)-Psychoslave-sur.wav}}
+* {{écouter|France (Lyon)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-sur.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Estrie-sur.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-sur.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[sûr]], [[sûre]]/[[sure]], [[sûres]]/[[sures]], [[sûrs]]/[[surs]]
+* [[surent]] {{cf|lang=fr|savoir}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+* [http://www.tv5monde.com/cms/chaine-francophone/lf/Merci-Professeur/p-17081-Sur.htm?episode=91 Explication de Bernard Cerquiglini en images]
+* {{R:TLFi}}
+* [[:Catégorie:sur|mots en sur du Wiktionnaire]]
+
+=== {{S|références}} ===
+<references>
+{{R|Académie|[//web.archive.org/web/20160224180731/www.academie-francaise.fr/la-langue-francaise/questions-de-langue#84_strong-em-sur-paris-em-strong Avis de l'Académie française sur l'emploi géographique]}}
+</references>
+* {{Import:DAF8}}
+

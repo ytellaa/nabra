@@ -1,0 +1,99 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|XIV}} Du {{étyl|frm|fr|corier}}, emprunt d’après l’{{étyl|it|fr|mot=corriere}} (« porteur de messages »), attesté depuis le XIII{{e}} siècle, dérivé du latin médiéval ''[[currerius]]'' (« messager »), attesté dès 1162 à Gênes. En italien ''corriere'' désigne, au XIII{{e}} siècle, les porteurs de messages entre l’Italie et les foires de Champagne{{réf}}, dérivé de ''[[correre]]'' (« [[courir]] ») avec le suffixe ''{{lien|-iere|it}}''.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ku.ʁje}}
+'''courrier''' {{pron|ku.ʁje|fr}} {{m}}
+# {{lexique|histoire|fr}} ou {{littéraire|fr}} Celui qui [[courir|courait]] la [[poste]] en [[avant]] des [[voiture]]s pour [[préparer]] les [[relais]].
+# {{désuet|fr}} Personne qui [[porter|porte]] des [[dépêche]]s. — {{note}} En ce sens, il y a un féminin rare et littéraire : ''[[courrière]]''.
+# {{en particulier}} {{lexique|histoire|fr}} Celui qui [[porter|portait]] les [[dépêche]]s [[diplomatique]]s.
+# {{siècle|lang=fr|XIX}} [[véhicule|Véhicule]] qui [[servir|servait]] à [[transporter]] des [[lettre]]s, des [[journaux]], etc., pour le [[service]] [[postal]].
+# [[poste|Poste]], système de [[transmission]] de [[message]]s, de [[lettre]]s, de [[journaux]], d'[[écrit]]s entre [[différent]]s [[utilisateur]]s, [[en différé]], par [[voie]] de [[terre]], de [[fer]] ou par voie [[aérien]]ne.
+# [[correspondance|Correspondance]] qu’on [[recevoir|reçoit]] ou [[envoyer|envoie]] par ce [[service]].
+# [[titre|Titre]] de [[certain]]s journaux.
+# [[article|Article]] de [[journal]], qui [[paraître|paraît]] [[régulièrement]] et qui [[destiner|est destiné]] à mettre au [[courant]] des [[théâtre]]s, des [[sport]]s, de la [[mode]], du [[mouvement]] de la [[bourse|Bourse]], etc.
+
+==== {{S|synonymes}} ====
+* [[lettre]]
+* [[malle]] {{Québec|nocat=1}}
+
+==== {{S|hyponymes}} ====
+; Personne qui porte les dépêches
+* [[estafette]]
+
+==== {{S|dérivés}} ====
+* [[avant-courrier]]
+* [[chambre de courrier]]
+* [[courriel]]
+* [[courrieller]]
+* [[courrier du cœur]]
+* [[courrier électronique]]
+* [[courrier de cabinet]], [[courrier diplomatique]], [[courrier d’ambassade]]
+* [[courriériste]]
+* [[courrier par courrier]]
+* [[court-courrier]]
+* [[long-courrier]]
+* [[moyen-courrier]]
+* [[par retour de courrier]]
+* [[par retour du courrier]]
+* [[retour de courrier]]
+
+==== {{S|dérivés autres langues}} ====
+* {{L|af}} : {{lien|koerier|af}}
+* {{L|de}} : {{lien|Kurier|de}}
+* {{L|en}} : {{lien|courier|en}}
+* {{L|fi}} : {{lien|kuriiri|fi}}
+* {{L|nl}} : {{lien|koerier|nl}}
+* {{L|oc}} : {{lien|corrièr|oc}}
+* {{L|pl}} : {{lien|kurier|pl}}
+* {{L|sh}} : {{lien|kurir|sh}}
+* {{L|sv}} : {{lien|kurir|sv}}
+* {{L|ru}} : {{lien|курьер|ru}}
+* {{L|cs}} : {{lien|kurýr|cs}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|bureau (pièce)|courrier|document}}
+{{symboles courrier}}
+
+==== {{S|traductions}} ====
+{{trad-début|(Désuet) Personne qui porte des dépêches}}
+{{trad-fin}}
+
+{{trad-début|(Histoire) Celui qui portait les dépêches diplomatiques}}
+{{trad-fin}}
+
+{{trad-début|Celui qui courait la poste en avant des voitures pour préparer les relais}}
+{{trad-fin}}
+
+{{trad-début|Poste, système de transmission de messages}}
+{{trad-fin}}
+
+{{trad-début|Correspondance qu’on reçoit ou envoie par ce service}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|ku.ʁje|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|lø ku.ʁje|audio=Fr-courrier.ogg}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-courrier.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-courrier.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-courrier.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-courrier.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-courrier.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-courrier.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[khourryyé]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+* {{RÉF}} {{R:TLFi}}
+
+[[Catégorie:Documents en français]]
+[[Catégorie:Lexique en français de la poste]]

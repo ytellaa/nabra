@@ -1,0 +1,81 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Issu d’un latin vulgaire {{recons|lang-mot-vedette=fr|illúī}}, réfection de ''{{lien|illi|la}}'' (qui donne régulièrement ''{{lien|li|fro}}'' en ancien français), [[datif]] singulier du démonstratif {{étyl|la|fr|ille}}.
+
+=== {{S|pronom personnel|fr|num=1}} ===
+{{fr-accord-mf|s=lui|p=leur|ps=lɥi|pp=lœʁ|mf=oui|titre=3{{e}} personne objet indirect avant le verbe}}
+'''lui''' {{pron|lɥi|fr}}
+# Pronom [[clitique]] de la [[troisième personne]] du singulier [[épicène]] du [[complément d’objet indirect]].
+
+==== {{S|notes}} ====
+: Le pronom '''''lui''''' est [[épicène]] quand il est employé comme [[COI]] et qu’il est placé directement devant le verbe, sans préposition, ou encore après un [[impératif]]. Dans tous les autres cas il est remplacé par ''[[elle]]'' au féminin :
+: {| class="wikitable" style="white-space: nowrap;"
+! rowspan="2" colspan="2" |
+! colspan="2" | COI
+|-
+! {{3e|personne}} masculin !! {{3e|personne}} féminin
+|-
+! rowspan="2" | COD
+! Syntagme nominal
+| Je '''lui''' ai présenté Jacques. || Je '''lui''' ai présenté Jacques.
+|-
+! {{1er|personne}}
+| Je me suis présenté à '''lui'''. || Je me suis présenté à '''elle'''.
+|}
+:* ''J’ai fait cela pour '''elle'''.''
+:* ''C’est d’'''elle''' que je tiens cette nouvelle.''
+:* ''C’est à '''elle''' que j’écris.''
+
+==== {{S|phrases}} ====
+* [[les yeux lui sortent de la tête]]
+*  [[si on lui pinçait le nez, il en sortirait du lait]]
+*  [[si on lui pressait le nez, il en sortirait du lait]]
+
+==== {{S|traductions}} ====
+{{trad-début|COI clitique de la troisième personne du singulier}}
+* {{T|ar}} : {{trad+|ar|هو|m}}
+{{trad-fin}}
+
+=== {{S|pronom personnel|fr|num=2}} ===
+{{fr-accord-mixte|ms=lui|mp=eux|fs=elle|pms=lɥi|pmp=ø|pf=ɛl|titre=3{{e}} personne autres cas}}
+'''lui''' {{pron|lɥi|fr}}
+# Pronom tonique de la troisième personne du singulier masculin.
+# {{term|après un sujet masculin singulier}} Quant à lui [[par contre]].
+
+==== {{S|dérivés}} ====
+* [[celui]]
+* [[lui-même]]
+* [[luiprésident]]
+
+==== {{S|vocabulaire}} ====
+{{pronoms personnels/fr}}
+
+==== {{S|traductions}} ====
+{{trad-début|Pronom tonique}}
+* {{T|ar}} : {{trad+|ar|هو|m}}, {{trad+|ar|هي|f}}, {{trad-|ar|هما|d}}, {{trad+|ar|هم|p}}, {{trad+|ar|هن|p}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|luire|grp=3|pp=oui}}
+'''lui''' {{pron|lɥi|fr}}
+# ''Participe passé masculin singulier de'' [[luire]].
+
+=== {{S|prononciation}} ===
+* {{pron|lɥi|fr}}
+** {{écouter|France (Paris)|lɥi|audio=Fr-lui.ogg|lang=fr}}
+** {{écouter|lang=fr|France|lɥiç|audio=LL-Q150 (fra)-Mecanautes-lui.wav}}
+** {{écouter|Cornimont (France)|lɥi|lang=fr|audio=LL-Q150 (fra)-Poslovitch-lui.wav}}
+* {{BE|nocat=1}} {{pron|lwi|fr}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-lui.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Annexe|Pronoms en français}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{R:DAF8}}
+{{Références}}
+

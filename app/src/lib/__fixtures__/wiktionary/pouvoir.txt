@@ -1,0 +1,228 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Le {{étyl|la|fr|possum|dif=posse}} est intrinsèquement un verbe composé ''{{lien|potis|la}} {{lien|sum|la}}'' (« je suis maître de »). De fait, à part l’infinitif ''{{lien|posse|la}}'' (pour ''{{lien|potis|la}} {{lien|esse|la}}''), le verbe est « presque » régulier sur la base {{recons|lang-mot-vedette=fr|pot-sum}} {{cf|possum|potes|potest|possumus|potestis|possunt|lang=la}} pour le présent, {{cf|potero|poteris|poterit|poterimus|poteritis|poterunt|lang=la}} pour le futur, le participe présent ''{{lien|potens|la}}'' étant régulier.
+:Sur cette base, les langues romanes ont régularisé l’infinitif ''{{lien|posse|la}}'' en {{recons|lang-mot-vedette=fr|pŏtēre}}, analogique des formes à radical ''pot-'' (''{{lien|potui|la}}'', ''{{lien|poteram|la}}'', ''{{lien|potens|la}}'', etc.)
+::Pour le catalan {{cf|poder|puc|podré|podent|lang=ca}}
+::Pour l’espagnol {{cf|poder|puedo|podré|pudiendo|lang=es}}.
+::Pour l’italien {{cf|potere|posso|potrò|potente|lang=it}}.
+::Pour le portugais {{cf|poder|posso|poderei|podendo|lang=pt}}.
+::Pour l'occitan {{cf|poder|pòdi|podrai|podent|lang=oc}}
+::Pour le francoprovençal {{cf|poyeir|pois|porrai|poyent|lang=frp}}
+::Pour le très ancien français, {{recons|lang-mot-vedette=fr|pŏtēre|la}} donne ''{{lien|podir|fro}}'', attesté dans les ''{{ws|Serments de Strasbourg}}'' (842). En ancien français, nous avons ''poeir, pooir'', passé très rapidement à ''povoir'' avec un ''v'' [[épenthétique]] pour éliminer l’[[hiatus]].
+
+=== {{S|verbe|fr}} ===
+'''pouvoir''' {{pron|pu.vwaʁ|fr}} {{t|fr}} {{conjugaison|fr|groupe=3|déf=oui}}
+# {{auxiliaire|fr}} Être [[capable]] de ; avoir la [[faculté]] de ; être en état de ; [[être en mesure de]].
+# Avoir la possibilité matérielle de faire quelque chose.
+# {{auxiliaire|fr}} Avoir la permission de faire quelque chose.
+# {{auxiliaire|fr}} Exprime une possibilité, un choix, qui s’offre à une personne.
+# {{en particulier|fr}} {{ironique|fr}} Utilisé pour une proposition [[insultante]], dans le but de faire taire, d’[[envoyer promener]].
+# Exprime une éventualité, une [[probabilité]], ou une [[hypothèse]]. On peut dire aussi : « Il se peut que … » (+ subjonctif).
+# {{term|interrogatif}} Fait appel à la bonne volonté de l’[[interlocuteur]].
+# {{proverbial|fr}} Définit un souhait, un désir.
+# {{transitif|fr}} S’emploie au [[subjonctif]] [[présent]] par une manière de vœu, de [[souhait]].
+# {{intransitif|fr}} Se dit encore pour [[marquer]] la [[possibilité]] de quelque [[événement]], de quelque [[dessein]].
+## {{impersonnel|fr}} {{pronominal|fr}} Employé [[soit]] [[seul]], [[être|soit]] [[avec]] le [[pronom]] ''se'', dans cette [[acception]].
+##* {{exemple | lang=fr | Il se '''peut''' que votre [[projet]] réussisse.}}
+##* {{exemple | lang=fr | Il '''pourra''' venir un temps meilleur.}}
+##* {{exemple | lang=fr | Il '''pourra''', il '''pourrait''' arriver que… Il se '''pourrait''' que…}}
+# {{transitif|fr}} Avoir l’[[autorité]], le [[crédit]], le [[moyen]], la [[faculté]], etc., de faire.
+#''N’en pouvoir plus, N’en plus pouvoir'', être dans un accablement causé soit par la vieillesse, soit par la maladie, soit par la fatigue, le travail, la faim, la soif, ou encore par la souffrance morale, l’inquiétude, le chagrin.
+
+==== {{S|notes}} ====
+: Quand le pronom ''je'' doit suivre le verbe, on préfère, pour des raisons [[euphonique]]s '''''puis''''' à '''''peux'''.''
+:* '''''Puis'''-je vous être utile ?''
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[autant qu’un curé peut en bénir]]
+* [[autant que faire se peut]]
+* [[n’en plus pouvoir]]
+* [[n’en pouvoir mais]]
+* [[ne pas pouvoir blairer]]
+* [[ne pas pouvoir ne pas]]
+* [[ne pas pouvoir sentir]]
+* [[ne pas pouvoir voir en peinture]]
+* [[ne plus pouvoir voir en peinture]]
+* [[ne pouvoir être partout à la fois]]
+* [[on ne peut plus]]
+* [[on peut dire que]]
+* [[peut-être]]
+* [[pouvoir discrétionnaire]]
+* [[pouvoir en dire des nouvelles]]
+* [[pouvoir toujours courir]]
+* [[pouvoir toujours rêver]]
+* [[pouvoir y venir]]
+* [[qui que ce puisse être]]
+* [[sauve-qui-peut]]
+* [[autant que faire se peut]]
+* [[tant que ça peut]]
+* [[tant que faire se peut]]
+* [[temps que les moins de vingt ans ne peuvent pas connaitre]] {{ortho1990}}
+* [[temps que les moins de vingt ans ne peuvent pas connaître]]
+{{)}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[advienne que pourra]]
+* [[avec une seule fève, on ne peut pas préparer la soupe]]
+* [[bon sang ne peut mentir]]
+* [[fais ce que dois, advienne que pourra]]
+* [[la plus belle fille du monde ne peut donner que ce qu’elle a]]
+* [[nul ne peut se prévaloir de sa propre turpitude]]
+* [[nul ne peut servir deux maitres]] {{ortho1990}}
+* [[nul ne peut servir deux maîtres]]
+* [[on ne peut forcer sa planète]] 
+* [[on ne peut pas être et avoir été]]
+* [[on peut marcher et mâcher de la gomme en même temps]]
+* [[peut mieux faire]]
+* [[pourquoi faire simple quand on peut faire compliqué]] 
+* [[proverbe ne peut mentir]]
+* [[quand on veut, on peut]]
+* [[qui peut le plus, peut le moins]]
+* [[un train peut en cacher un autre]]
+* [[vouloir c’est pouvoir]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|homéopathie|démocratie|diamant|politique}}
+
+==== {{S|traductions}} ====
+{{trad-début|à trier}}
+* {{T|ar}} : {{trad+|ar|قدر|tr=qadara}}
+{{trad-fin}}
+
+{{trad-début|Être capable, avoir la faculté, être en état de|1}}
+{{trad-fin}}
+
+{{trad-début|Avoir la possibilité de faire quelque chose|2}}
+{{trad-fin}}
+
+{{trad-début|Avoir la permission de|3}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|pu.vwaʁ}}
+'''pouvoir''' {{pron|pu.vwaʁ|fr}} {{m}}
+# [[capacité|Capacité]] à [[produire]] un [[effet]].
+#{{lexique|science politique|sociologie politique|fr}} [[capacité|Capacité]] à [[commander]], à [[contraindre]], à [[imposer]] sa [[volonté]].
+# {{lexique|droit|administration|fr}} [[capacité|Capacité]] légale (de faire une chose) ; ''(par extension)'' [[mandat]].
+# {{lexique|science politique|droit public|fr}} Puissance [[publique]], [[autorité]], droit de commander.
+# {{lexique|politique|fr}} {{par métonymie|fr}} Les [[personnes]] mêmes qui sont [[investi]]es du pouvoir, de l’[[autorité]] politique.
+# {{Canada|fr}}, {{vieilli|fr}} Puissance au sens physique du terme.
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[abus de pouvoir]]
+* [[arriver au pouvoir]]
+* [[biopouvoir]]
+* [[bon pour pouvoir]]
+* [[cinquième pouvoir]]
+* [[contrepouvoir]]
+* [[distribution des pouvoirs]]
+* [[fondé de pouvoir]]
+* [[lieu de pouvoir]]
+* [[pleins pouvoirs]]
+* [[pouvoir adjudicateur]]
+* [[pouvoir alimentaire]]
+* [[pouvoir constituant]]
+* [[pouvoir coutumier]]
+* [[pouvoir d’achat]]
+* [[pouvoir d’appréciation]]
+* [[pouvoir de convaincre]]
+* [[pouvoir de marché]]
+* [[pouvoir de rejet]]
+* [[pouvoir de résolution]]
+* [[pouvoir de séparation]]
+* [[pouvoir disciplinaire]]
+* [[pouvoir discrétionnaire]]
+* [[pouvoir germinatif]]
+* [[pouvoir hydrogène]]
+* [[pouvoir intelligent]]
+* [[pouvoir lubrifiant]]
+* [[pouvoir magique]]
+* [[pouvoir politique]]
+* [[pouvoir rotatoire]]
+* [[pouvoir séparateur]]
+* [[pouvoir social]]
+* [[pouvoir sucrant]]
+* [[pouvoir suprême]]
+* [[pouvoir symbolique]]
+* [[pouvoir temporel]]
+* [[pouvoirs publics]]
+* [[prendre le pouvoir]]
+* [[quatrième pouvoir]]
+* [[recours pour excès de pouvoir]]
+* [[séparation des pouvoirs]]
+* [[superpouvoir]] ''ou'' [[super-pouvoir]]
+* [[troisième pouvoir]]
+* [[verticale du pouvoir]]
+{{)}}
+
+==== {{S|apparentés}} ====
+{{(|colonnes=4}}
+* [[despotisme]]
+* [[épuisette]]
+* [[équipotence]]
+* [[French Power]]
+* [[horse-power]]
+* [[impossibilité]]
+* [[pacha]]
+* [[podestat]]
+* [[possibilité]]
+* [[potence]]
+* [[potentat]]
+* [[potentialité]]
+* [[potentiométrie]]
+* [[poteur]]
+* [[prépotence]]
+* [[puissance]]
+{{)}}
+==== {{S|vocabulaire}} ====
+*{{voir thésaurus|fr|sociologie politique}}
+* [[autorité]] 
+* [[domination]] 
+* [[contre-pouvoir]] 
+* [[État]] 
+* [[gouvernement]] 
+* [[mandat]] 
+* [[souveraineté]]
+
+==== {{S|traductions}} ====
+{{trad-début|à trier}}
+* {{T|ar}} : {{trad-|ar|قُدْرَة}} (1), {{trad-|ar|مَقْدِرَة}} (1), {{trad-|ar|إِسْتِطَاعَة}} (1), {{trad-|ar|مَقْدُور}} (1),
+{{trad-fin}}
+
+{{trad-début|(Politique) Puissance, autorité, droit de commander}}
+* {{T|ar}} : {{trad-|ar|سُلْطَة}}
+{{trad-fin}}
+
+{{trad-début|Personnes qui sont investies du pouvoir}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|pu.vwaʁ|fr}}
+** {{écouter|France (Paris)|pu.vwaʁ|audio=Fr-pouvoir.ogg|lang=fr}}
+** {{écouter|Québec|pu.vwɑːʁ|lang=fr}}
+** {{écouter|Québec|pu.vwɛːʁ|lang=fr}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-pouvoir.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-pouvoir.wav}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)|audio=LL-Q150 (fra)-Pamputt-pouvoir.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-pouvoir.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-pouvoir.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-pouvoir.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-pouvoir.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-DSwissK-pouvoir.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-pouvoir.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-pouvoir.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+* {{Wikiquote}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}

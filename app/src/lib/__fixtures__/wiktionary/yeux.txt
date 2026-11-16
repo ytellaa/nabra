@@ -1,0 +1,105 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date||lang=fr}} De l’{{étyl|fro|fr|ialz}}, du {{étyl|la|fr|oculos}} (accusatif pluriel de ''{{lien|oculus|la}}'')<ref>{{R:TLFi}}</ref>.
+
+=== {{S|nom|fr|flexion}} ===
+{{fr-accord-mf|s=œil|p=yeux|ps=œj|pp=jø|pp2=zjø}}
+[[File:Dog's eye.JPG|thumb|Les '''yeux''' d’un chien]]
+'''yeux''' {{pron|jø|fr}} ({{pron|zjø|fr}} par [[agglutination]]) {{m}}
+# ''Pluriel de'' [[œil]]. 
+}}
+
+==== {{S|variantes}} ====
+* [[z’yeux]] ''(non standard)''
+* [[zyeux]]
+
+==== {{S|synonymes}} ====
+*{{l|mirettes|fr}} {{familier|nocat}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[avoir de la peau de saucisson devant les yeux]]
+* [[avoir de la peau de sauss devant les yeux]]
+* [[avoir de petits yeux]]
+* [[avoir des yeux de cocker]]
+* [[avoir des yeux de lapin russe]]   
+* [[avoir des yeux de lynx]]   
+* [[avoir le paradis dans les yeux]]
+* [[avoir les larmes aux yeux]]
+* [[avoir les yeux dans la graisse de binnes]] {{Québec|nocat=1}}
+* [[avoir les yeux dans le même trou]] {{Québec|nocat=1}}
+* [[avoir les yeux de Chimène]]
+* [[avoir les yeux en couilles d’hirondelle]] {{argot|nocat=1}} {{vulgaire|nocat=1}} {{rare|nocat=1}}
+* [[avoir les yeux en face des trous]]
+* [[avoir les yeux en fusil]]
+* [[avoir les yeux en trou de bite]]
+* [[avoir les yeux en trou de pine]]
+* [[avoir les yeux gros de larmes]]
+* [[avoir les yeux plus grands que la panse]] {{Québec|nocat=1}}
+* [[avoir les yeux plus gros que le ventre]]
+* [[avoir les yeux qui saignent]]
+* [[avoir les yeux qui se ferment]]
+* [[avoir les yeux qui sortent de la tête]]
+* [[avoir les yeux rivés sur]]
+* [[clignement d’yeux]]
+* [[entre les deux yeux]]
+* [[entre quatre yeux]]
+* [[faire des yeux de velours]]
+* [[faire les gros yeux]]
+* [[les yeux au ciel]]
+* [[lever les yeux au ciel]]
+* [[manger des yeux]]
+* [[ne pas avoir froid aux yeux]]
+* [[ne pas avoir les yeux dans sa poche]]
+* [[ne pas garder les yeux dans sa poche]]
+* [[plisser les yeux]] {{Québec|nocat=1}}
+* [[regarder quelqu’un dans le blanc des yeux]]
+* [[requin-marteau à petits yeux]]
+* [[rouler des yeux de lapin effrayé]]
+* [[rouler des yeux de poisson frit]]
+* [[se faire les yeux]]
+* [[se regarder dans le blanc des yeux]]
+* [[suivre des yeux]]
+* [[suzanne aux yeux noirs]]
+* [[tout yeux]]
+* [[tout yeux tout oreilles]], [[tout yeux, tout oreilles]]
+* [[tout yeux tout ouïe]]
+* [[viréo aux yeux rouges]]
+* [[yeux de braise]]
+* [[yeux de carpe frite]]
+* [[yeux de merlan frit]]
+* [[yeux en boutons de bottine]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|corps humain|tortue}}
+
+==== {{S|phrases}} ====
+* [[les yeux lui sortent de la tête]]
+
+=== {{S|prononciation}} ===
+* {{pron|jø|fr}}
+** {{écouter|Paris (France)|jø|lang=fr|audio=Fr-Paris--yeux.ogg}}
+** {{écouter|lang=fr|France (Vosges)|jø|audio=LL-Q150 (fra)-LoquaxFR-yeux.wav}}
+** {{écouter|lang=fr|France (Vosges)|jø|audio=LL-Q150 (fra)-Poslovitch-yeux.wav}}
+** {{écouter|lang=fr|France (Nancy)|jø|audio=LL-Q150 (fra)-VictorDtmtc-yeux.wav}}
+* {{pron|zjø|fr}}
+** {{écouter|lang=fr|France (Quimper)|zjø|audio=LL-Q150 (fra)-Vaulque-yeux.wav}}
+** {{écouter|lang=fr|Canada (Shawinigan)|zjø|audio=LL-Q150 (fra)-DenisdeShawi-yeux.wav}}
+** {{écouter|lang=fr|France|zjø|audio=LL-Q150 (fra)-Mecanautes-yeux.wav}}
+** {{écouter|Québec (Canada)|zjø|lang=fr|audio=LL-Q150 (fra)-Estrie-yeux.wav}}
+
+* {{écouter|lang=fr|France (Paris)|le.zjø|titre=les yeux|audio=Fr-yeux.ogg|fr}}
+* {{écouter|lang=fr|France (Muntzenheim)|jɘ|audio=LL-Q150 (fra)-0x010C-yeux.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-yeux.wav}}
+* {{écouter|Liège (Belgique)||lang=fr|audio=LL-Q150 (fra)-Shareculture-yeux.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-yeux.wav}}
+
+[[Catégorie:Pluriels irréguliers en français]]
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+==== {{S|sources}} ====
+{{Références}}

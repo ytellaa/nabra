@@ -1,0 +1,59 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|mot=locarium|sens=prix du gîte}}, de ''[[loco#la|loco]]''.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|lwa.je}}
+'''loyer''' {{pron|lwa.je|fr}} {{m}}
+# {{lexique|droit de propriété|fr}} [[prix|Prix]] de la [[location]] d’une [[maison]] ou d’un [[appartement]].
+# {{spécialement|fr}} Prix qu’on paie ou qu’on reçoit pour le [[bail]] d’une [[ferme]] ; [[fermage]].
+# [[salaire|Salaire]], ce qui [[devoir|est dû]] à un [[serviteur]], à un [[ouvrier]] pour ses [[service]]s, pour son [[travail]].
+# {{désuet|fr}} [[récompense|Récompense]].
+# {{Québec|fr}} {{populaire|fr}} {{vieilli|fr}} Logement locatif.
+
+==== {{S|synonymes}} ====
+* [[fermage]]
+* [[loyage]] {{term|Vallée d’Aoste}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* habitation à loyer modéré ''ou'' [[HLM]]
+* [[loyer de l’argent]]
+* loyer minimum garanti ''ou'' [[LMG]]
+* [[surloyer]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+{{trad-début|Prix de la location d’une maison ou d’un appartement.|1}}
+* {{T|ar}} : {{trad-|ar|كراء|tr=kirāʾ|dif=كِرَاء}}
+{{trad-fin}}
+
+{{trad-début|Fermage}}
+{{trad-fin}}
+
+{{trad-début|Salaire}}
+{{trad-fin}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|rémunération|logement|université}}
+
+=== {{S|prononciation}} ===
+* {{pron|lwa.je|fr}}
+** {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|lwa.je|audio=Fr-loyer.ogg}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-loyer.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-loyer.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-loyer.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-loyer.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+{{Autres projets
+|w=Loyer}}
+
+=== {{S|références}} ===
+*{{Import:DAF8}}

@@ -1,0 +1,298 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Ce verbe [[supplétif]] est fait à partir de trois verbes distincts :
+:# le {{étyl|la|fr|mot=eo}}, ''is, ii (ivi), itum, [[ire]]'' (j’irai) pour les formes en ''ir-'' ;
+:# et le {{étyl|la|fr|mot=vado}}, ''vadis, [[vadere]]'' (je vais) pour les formes en ''v-'' ;
+:# une origine incertaine pour les formes en ''all-'' et ''aill-'', lesquelles ont fait l'objet de nombreuses hypothèses parmi lesquelles :
+::# le {{étyl|la|fr|mot=ambulo}}, ''ambulas, [[ambulare]], ambulavi, ambulatum'' (je marche), bien que cette étymologie soit difficilement convaincante phonétiquement ;
+::# d'un verbe populaire *''allare'' formé à partir du participe passé ''allatum'' de ''adfero'' (j'apporte) ; ce participe passé, couramment employé dans une tournure passive ''allatum esse'' (« être transporté à », « être allé à ») bien attesté durant la période classique, aurait été détaché du verbe ''adfero'' auquel il appartenait (il est à noter que la dissemblance évidente entre les radicaux ''adfer-'' et ''allat-'' de ce verbe a pu grandement faciliter ce phénomène) pour devenir une forme orpheline mais d'usage courant à partir de laquelle on se basa pour former un infinif *''allare'' régulier selon les verbes du {{1er|groupe}} latin (''amatum'' > ''amare''), ce nouvel infinitif *''allare'' servant de supplétif au verbe ''aller'' en bas-latin local au moment où les formes en ''i-'' commençaient à être abandonnées. Cette explication, phonétiquement plus convaincante, manque cependant d'être étayée par quelques traces écrites (en particulier d'un usage commun en latin populaire de Gaule de la locution ''allatum esse'' avec une dérivation de son sens ''être transporté à'' vers ''être allé à'').
+: Ces verbes avaient des sens assez proches et souvent synonymes. Seul un verbe fut conservé pour chacune des formes conjuguées. Cet usage étant extrêmement courant et très large, les différentes formes verbales sont devenues totalement synonymes. Ces formes verbales ont subi d’importantes mutations phonétiques pour faciliter les distinctions (notamment avec d’autres verbes très courants non synonymes tels les formes conjuguées de ''[[avoir]]''), abréger et faciliter la prononciation. Ceci explique la grande irrégularité de la conjugaison actuelle de ce verbe. On retrouve les racines initiales dans les verbes dérivés avec un préfixe tels que ''[[déambuler]]'' ou ''[[évader]]'' qui eux sont restés réguliers.
+{{supplétion|lang=fr|vais|irai}}.
+
+=== {{S|verbe|fr}} ===
+'''aller''' {{pron|a.le|fr}} {{i|fr}} {{perfectif|fr}} {{conjugaison|fr|groupe=3}}
+# [[se déplacer|Se déplacer]] jusqu'à un [[endroit]].
+# {{auxiliaire|fr}} [[suivre|Suivi]] d’un [[infinitif]], il [[servir|sert]] de [[semi-auxiliaire]] pour [[conjuguer]] un [[verbe]] au [[futur proche]], [[indiquer|indiquant]] que [[quelque chose]] [[être|est]] sur le [[point]] d’[[avoir lieu]].
+# [[fonctionner|Fonctionner]], en [[parlant]] d’un [[mécanisme]], d’un [[projet]] ou de la [[santé]] de [[quelqu'un]].
+# [[indique|Indique]] la [[façon]] dont une [[chose]] [[seoir|sied]] à [[quelqu'un]] ou à [[quelque chose]] d’autre ; [[convenir]], être [[assorti]].
+# [[indiquer|Indique]] l’[[étendue]] de [[certain]]es [[choses]].''
+# [[marquer|Marque]] la [[destination]] d’un [[chemin]], la [[direction]] des [[chose]]s.
+# {{figuré|fr}} Indique une [[évolution]], un [[progrès]] de [[quelque chose]].
+# [[désigner|Désigne]] l'[[objectif]], le [[résultat]] de [[quelque chose]].
+# [[manière|Manière]] dont on [[agir|agit]], dont on se [[comporter|comporte]] en de [[certain]]es [[choses]], et, dans cette [[acception]], on l’emploie souvent avec la [[particule]] ''[[y]]'' ([[y aller]]).
+# {{vieilli|fr}} {{term|Jeux de hasard}} [[miser|Miser]] au [[jeu]].
+# Il se [[joint]] au [[participe présent]] d’un [[verbe]] pour lui [[exprimer]], avec l’[[idée]] d’une [[progression]], celle d’une [[certain]]e [[durée]] de l’[[action]]. — {{note}} ''Voyez l'entrée'' [[participe présent]].
+# À l’[[impératif]], il [[servir|sert]] également à [[faire]] des [[souhait]]s, des [[exhortation]]s ou des [[menace]]s et à [[marquer]] de l’[[indignation]].
+# À l’[[impératif]], invitation à continuer, à poursuivre ce qui était en cours.
+/>– '''Allez''' toujours.'' {{source|{{w|André Gide}}, ''{{w|Les Caves du Vatican}}'', 1914}}
+# {{impersonnel|fr}} ([[y aller de]]) [[joint|Joint]] à l'[[adverbe]] ''y'' et [[employer|employé]] comme [[verbe]] [[impersonnel]], [[servir|sert]] à [[marquer]] ce qui est [[mettre en cause|mis en cause]], de quoi il [[s’agir|s’agit]].
+# {{impersonnel|fr}} ([[en aller de]]) [[joint|Joint]] à l'[[adverbe]] ''[[en]]'' et [[employer|employé]] comme [[verbe]] [[impersonnel]], il [[servir|sert]] à [[exprimer]] une comparaison.
+# {{ellipse|fr|de=aller à la selle}} [[déféquer|Déféquer]].
+/>C’est qu’il touche juste, le pharmacien, et qu’il a mis le doigt où il fallait !'' {{source|{{w|Jules Vallès}}, ''{{ws|L’Insurgé (Vallès)/Texte entier|L’Insurgé}}'', G. Charpentier, 1908}}
+# Aller à la [[rencontre]], aller au [[combat]], aller à l’[[affrontement]].
+# Continuer à [[vivre]], [[survivre]].
+# {{très rare|fr}} [[mêler|Mêler]].
+
+==== {{S|notes}} ====
+* {{note-auxiliaire|fr|être}}
+* Quand ''aller'' désigne un déplacement, son complément [[indiquer|indique]] [[souvent]] l’objectif de ce déplacement :
+** '''''Aller''' à la chasse.'' —  '''''Aller''' à la rencontre de quelqu’un.'' — '''''Aller''' aux nouvelles.''
+* Ce complément peut alors aussi être un [[infinitif]] [[présent]]
+** '''''Aller''' se promener.'' —  '''''Allez''' me chercher cela.''
+* En français canadien, dans le registre informel à courant, la forme de la première personne du singulier à l’indicatif présent est « [je] {{lien|vas|fr}} ».
+* Pour l''''impératif présent''' à la deuxième personne du singulier de « aller » suivi du « pronom adverbial » ''y'', avec le son \z\ qui s'intercale pour des raisons d'[[euphonie]], l'Académie française préconise la graphie '''''<u>vas-y</u>''''' comme pour ''profites-en''<ref name="Académie française"> {{Lien web|langue=fr |auteur= Académie française|titre=entrée « impératif » |année= |url=https://www.academie-francaise.fr/questions-de-langue#41_strong-em-impratif-em-strong |site=academie-francaise.fr |consulté le=01/02/2025}}. </ref>. Et ce malgré le fait que cette personne de l’impératif présent des verbes du premier groupe ou du verbe irrégulier ''aller'' ne comporte normalement pas de ''“-s”'' dans sa [[désinence]] : ''va à la messe ma fille'' (dicton provençal pour éloigner une guêpe importune), ou ''profite bien de tes vacances''<ref name="Académie française"/>. <br>Quoiqu'elles soient parfois attestées, y compris en littérature, l'Académie récuse les formes [[enclitique]]s des deux pronoms ou adverbes ''[[z’en]]'' et ''[[z’y]]'', ''[[z-en]]'' et ''[[z-y]]'' ; elle considère donc comme incorrectes ou familières les graphies : ''*va-z-y'' ou ''*va-z’y'', ''*profite-z-en'' ou ''*profite-z’en''<ref name="Académie française"/>. <br>Voir aussi la « note d'usage » à l'entrée “[[-z-]]”.
+
+==== {{S|synonymes}} ====
+* {{lien|se déplacer|fr}}
+* {{lien|se rendre|fr}}
+* {{lien|partir|fr}}
+
+==== {{S|antonymes}} ====
+* [[rester]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[allable]]
+* [[allant]]
+* [[aller à bien]]
+* [[aller à dame]]
+* [[aller à la moutarde]]
+* [[aller à la parade]]
+* [[aller à la selle]]
+* [[aller à la soupe]]
+* [[aller à Montretout]]
+* [[aller à sa perte]]
+* [[aller à vau-l’eau]]
+* [[aller au but]]
+* [[aller au cœur]]
+* [[aller au diable]]
+* [[aller au charbon]]
+* [[aller au fait]]
+* [[aller au feu]]
+* [[aller au panier]]
+* [[aller au paradis]]
+* [[aller au paradis avec ses souliers]]
+* [[aller au pétard]]
+* [[aller au plus pressé]]
+* [[aller au tapis]]
+* [[aller au trône]]
+* [[aller aux Allemands]]
+* [[aller aux asperges]]
+* [[aller aux cabinets]]
+* [[aller aux danseuses]]
+* [[aller aux fraises]]
+* [[aller aux nouvelles]]
+* [[aller aux nues]] ''(avoir un succès éclatant)''
+* [[aller aux provisions]]
+* [[aller aux putes]]
+* [[aller aux renseignements]]
+* [[aller aux toilettes]]
+* [[aller aux urnes]]
+* [[aller aux vaches]]
+* [[aller bien]]
+* [[aller chez le bonhomme]] {{Québec|nocat=1}}
+* [[aller chez Plumeau]]
+* [[aller comme le vent]]
+* [[aller comme les écrevisses]]
+* [[aller contre le vent]]
+* [[aller crescendo]]
+* [[aller d’un pied léger]]
+* [[aller dans l’autre monde]]
+* [[aller de l’avant]]
+* [[aller de pair]]
+* [[aller de soi]]
+* [[aller en champ]]
+* [[aller en enfer]]
+* [[aller en Germanie]]  {{info lex|journalisme|imprimerie}}
+* [[aller entretenir le duc d’Aumale]]
+* [[aller et venir]]
+* [[aller faire téter les puces]]
+* [[aller l’amble]]
+* [[aller le droit chemin]]
+* [[aller par haut et par bas]]
+* [[aller par le haut]] ''(vomir)''
+* [[aller par le haut et par le bas]]
+* [[aller plus vite que la musique]]
+* [[aller plus vite que le vent]]
+* [[aller plus vite que les violons]]
+* [[aller selon le vent]]
+* [[aller se faire]]
+* [[aller se faire cuire un œuf]]
+* [[aller se faire empapaouter]] {{France|nocat=1}}
+* [[aller se faire enculer]] {{vulgaire|nocat=1}}
+* [[aller se faire endauffer]] {{France|nocat=1}}
+* [[aller se faire fiche]] {{France|nocat=1}}
+* [[aller se faire foutre]]
+* [[aller se faire mettre]]
+* [[aller se faire pendre ailleurs]]
+* [[aller se faire rhabiller]]
+* [[aller se faire voir]]
+* [[aller se faire voir ailleurs]]
+* [[aller se faire voir chez Plumeau]] {{France|nocat=1}}
+* [[aller se faire voir chez les Grecs]] {{France|nocat=1}}
+* [[aller se rhabiller]]
+* [[aller son chemin]]
+* [[aller son petit bonhomme de chemin]]
+* [[aller son grand chemin]]
+* [[aller sur des roulettes]]
+* [[aller trop loin]]
+* [[aller vite en besogne]]
+* [[aller voir ailleurs]]
+* [[allons donc]] 
+* [[au train où vont les choses]]
+* [[faire aller]]
+* [[là où le roi va seul]]
+* [[laisser-aller]]
+* [[laisser aller]]
+* [[laisser le chat aller au fromage]]
+* [[ne pas aller à la cheville de]]
+* [[ne pas aller sans]]
+* [[ne pas y aller avec le dos de la cuillère]]
+* [[ne pas y aller de main morte]]
+* [[se laisser aller]]
+* [[s’en aller]]
+* [[s’en aller en fumée]]
+* [[va-de-l’avant]]
+* [[va-de-la-gueule]]
+* [[va-nu-pieds]]
+* [[va-nu-tête]]
+* [[va-outre]]
+* [[va-t-en-guerre]]
+* [[y aller de]]
+* [[y aller comme une corneille qui abat des noix]]
+* [[y aller de la larme]]
+* [[y aller franc jeu]]
+* [[y aller rondement]]
+* [[zyva]] & [[zyva]]
+{{)}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[aller comme on le mène]]
+* [[allez vous promener]] ''(se dit lorsqu’on s’impatiente contre un importun, lorsqu’on se met en colère)''
+* [[c’est quand qu’on va où ?]]
+* [[cela va comme il plaît à Dieu]] ''(c’est une affaire négligée, mal menée, dont on ne prend aucun soin)''
+* [[cela va tout seul]] ''(la chose est aisée, elle n’offre pas de difficulté)''
+* [[cela va sans dire]]
+* [[il n’y a pas de bons vents pour le marin qui ne sait pas où il va]]
+* [[il va sans dire]] ''(c’est une chose tellement certaine, incontestable, ou tellement claire, naturelle, qu’il est inutile d’en parler, de la dire, de l’expliquer)''
+* [[il y a assez à faire de regarder ce qui cuit dans sa marmite sans aller regarder ce qui cuit dans celle du voisin]]
+* [[je l’irai dire à Pékin]]
+* [[je l’irai dire à Rome]]
+* [[l’argent va à l’argent]]
+* [[l’eau va toujours à la rivière]]
+* [[l’habit volé ne va pas au voleur]]
+* [[le petit oiseau va sortir]]
+* [[les nouvelles vont vite]]
+* [[ne pas y aller par quatre chemins]] 
+* [[on ne va pas se mentir]]
+* [[petit train va loin]]
+* [[quand il faut y aller, il faut y aller]]
+* [[quand le bâtiment va, tout va]]
+* [[qui va à la chasse perd sa place]]
+* [[qui va lentement va surement]] {{ortho1990}}
+* [[qui va lentement va sûrement]]
+* [[si la montagne ne va pas à toi, va à la montagne]]
+* [[si on va par là]]
+* [[s’en aller comme on est venu]]
+* [[tant va la cruche à l’eau qu’à la fin elle se brise]]
+* [[tant va la cruche à l’eau qu’à la fin elle se casse]]
+* [[tous les chemins vont à Rome]] 
+* [[tout va pour le mieux dans le meilleur des mondes]]
+* [[tout y va, la paille et le blé]] ''(on n’y a rien épargné)''
+* [[va chez le diable]]
+* [[va comprendre Charles]]
+* [[va-t’en voir]]
+* [[va-t’en voir s’ils viennent]]
+* [[va te faire une soupe d’esques]] {{Marseille|nocat=1}}
+* [[va-tout]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Se déplacer jusqu’à un endroit}}
+* {{T|ar}} : {{trad+|ar|راح|tr=rāʿ|dif=راحَ}}, {{trad+|ar|ذَهَبَ|tr=Vahaba}}
+{{trad-fin}}
+
+{{trad-début|Semi-auxiliaire pour conjuguer un verbe au futur proche}}
+{{trad-fin}}
+
+{{trad-début|« Fonctionner » en parlant d’un mécanisme, d’un projet ou de la santé de quelqu’un}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|a.le}}
+'''aller''' {{pron|a.le|fr}} {{m}}
+# [[trajet|Trajet]] pour se rendre à un autre endroit.
+# {{lexique|transport|fr}} [[titre de transport|Titre de transport]] qui permet de se rendre à un autre endroit.
+# {{lexique|sport|fr}} Dans un [[championnat]], le premier des matchs entre deux équipes qui jouent chacune successivement à domicile.
+==== {{S|synonymes}} ====
+* [[départ]] (1)
+
+==== {{S|antonymes}} ====
+* [[retour]] (1, 2, 3)
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[aller-retour]]
+* [[aller simple]]
+* [[pis aller]]
+* [[voyage d’aller]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[au long aller, petit fardeau pèse]] (il n’y a point de charge si légère qui ne devienne pénible à la longue)
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|faim|sommeil}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France|sɑ̃.na.le|titre=s’en aller|audio=Fr-aller.ogg}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-aller.wav}}
+* {{écouter|lang=fr||audio=LL-Q150 (fra)-0x010D-aller.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-aller.wav}}
+* {{écouter|lang=fr|France (Lyon)|audio=LL-Q150 (fra)-Ltrlg-aller.wav}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)|audio=LL-Q150 (fra)-Pamputt-aller.wav}}
+* {{écouter|lang=fr||audio=LL-Q150 (fra)-Kiminou1-aller.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Lyokoï-aller.wav}}
+* {{écouter|lang=fr|France (Canet)|audio=LL-Q150 (fra)-Guilhelma-aller.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-aller.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-aller.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-aller.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-aller.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-aller.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-aller.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[allée]], [[allées]]
+* [[allé]], [[allée]], [[allées]], [[allés]], [[allez]] {{cf|lang=fr|aller}}
+* [[allers]]
+
+==== {{S|paronymes}} ====
+* [[allai]]
+* [[halai]], [[halé]], [[halée]], [[halées]], [[haler]], [[halés]], [[halez]] {{cf|lang=fr|haler}}
+* [[hâlai]], [[hâlé]], [[hâlée]], [[hâlées]], [[hâler]], [[hâlés]], [[hâlez]] {{cf|lang=fr|hâler}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{Import:DAF8}}
+<references/>
+
+[[Catégorie:Supplétions en français]]
+[[Catégorie:Verbes de mouvement en français]]
+[[Catégorie:Verbes irréguliers en français]]
+

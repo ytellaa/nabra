@@ -1,0 +1,263 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|?|lang=fr}} Du {{étyl|frm|fr|mot=mere}}, de l’{{étyl|fro|fr|mot=mere}}, du {{étyl|la|fr|matrem}}, accusatif de ''{{lien|mater|la}}'', issu de l’{{étyl|indo-européen commun|fr}} {{recons|lang-mot-vedette=fr|[[Reconstruction:indo-européen commun/*méh₂tēr|méh₂tēr]]}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|mɛʁ}}
+[[Image:Decker Brothers Pianos (3092713457).jpg|thumb|right|180px|Une '''mère''' avec son [[enfant]]]]
+'''mère''' {{pron|mɛʁ|fr}} {{f}} {{équiv-pour|lang=fr|un homme|père}}
+# [[femme|Femme]] qui [[donner naissance|a donné naissance]] à au moins un [[enfant]].
+# Femme qui [[prendre|a pris]] le [[rôle]] et la [[responsabilité]] [[maternelle]] dans la [[vie]] d’un [[enfant]].
+# [[animal|Animal]] [[femelle]], lorsqu’elle a un ou plusieurs petits.
+# [[hôtesse|Hôtesse]] d’une [[auberge]] qui recevait des [[compagnon]]s, dans la tradition du [[compagnonnage]].
+/>Celle-là était la jeune veuve d’un ferronnier, qui était tombé d’un clocher dont il venait de poser la croix.'' {{source|{{w|Marcel Pagnol}}, ''{{w|Le temps des secrets}}'', 1960, Le Livre de Poche, page 39}}
+# {{figuré|fr}} [[environnement|Environnement]] ou [[lieu]] où une [[chose]] [[commencer|a commencé]], [[ou bien]] [[source]], [[origine]].
+# {{lexique|religion|fr}} [[religieuse|Religieuse]] qui [[dirige]] un [[couvent]].
+# [[restauratrice|Restauratrice]], [[cheffe cuisinière]].
+# {{familier|fr}} Femme [[âgée]]. — {{note}} se dit parfois de façon ironique, et souvent précède le nom de cette femme.
+# {{familier|fr}} Interpellation familière adressée par un homme à une femme d'un certain âge, notamment par l'époux à son épouse.
+# [[levure|Levure]] de première [[fermentation]], levure d’origine.
+
+==== {{S|synonymes}} ====
+{{(}}
+* [[autrice]] (1)
+* [[daronne]] {{argot|nocat=1}} (1, 2)
+* [[génitrice]] (1)
+* [[maman]] {{familier|nocat=1}} (1, 2)
+* [[religieuse]] (6)
+* [[reum]] ''(verlan)'' (1, 2)
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[aller niquer sa mère]]
+* [[allomère]]
+* [[bande mère]]
+* [[bateau-mère]]
+* [[belle-mère]]
+* [[bonne mère]]
+* [[branche mère]]
+* [[carte mère]]
+* [[catégorie mère]]
+* [[classe mère]]
+* [[couleurs mères]]
+* [[dure-mère]]
+* [[eau mère]]
+* [[enculé de ta mère]]
+* [[fête des mères]]
+* [[fille-mère]]
+* [[grand-mère]]
+* [[idée mère]]
+* [[la mère]]
+* [[langue mère]]
+* [[la croix de sa mère]]
+* [[le con de ta mère]]
+* [[loge mère]]
+* [[ma mère]]
+* [[ma petite mère]]
+* [[maison mère]]
+* [[mémé]]
+* [[mémérage]]
+* [[mémère]]
+* [[mémérer]]
+* [[méremptoire]]
+* [[mère à tous]]
+* [[mère adoptive]]
+* [[mère artificielle]]
+* [[mère au bleu]]
+* [[mère aubergiste]]
+* [[mère aux écus]]
+* [[mère biologique]]
+* [[mère célibataire]]
+* [[mère commanditaire]]
+* [[mère courage]]
+* [[mère d’intention]]
+* [[mère d’occasion]]
+* [[mère de cœur]]
+* [[mère de Dieu]]
+* [[mère de famille]]
+* [[mère de petite fille]]
+* [[mère de Satan]]
+* [[mère de toutes les batailles]]
+* [[mère de vinaigre]]
+* [[mère douloureuse]]
+* [[mère du marais]]
+* [[mère fondatrice]]
+* [[mère fouettarde]]
+* [[mère-grand]]
+* [[mère héroïne]]
+* [[mère lyonnaise]] 
+* [[teinture-mère]]{{info lex|homéopathie}}
+* [[mère maquerelle]]
+* [[mère naturelle]]
+* [[mère noble]]
+* [[mère Noël]]
+* [[mère patrie]]
+* [[mère perle]]
+* [[mère porteuse]]
+* [[mère poule]]
+* [[mère putative]]
+* [[mère réfrigérateur]]
+* [[mère supérieure]]
+* [[mères couleurs]]
+* [[niquer sa mère]]
+* [[père et mère]]
+* [[petite mère]]
+* [[pie-mère]]
+* [[pied-mère]]
+* [[plante mère]]
+* [[putain de sa mère]]
+* [[reine mère]]
+* [[rester dans les jupes de sa mère]]
+* [[retourner dans les jupes de sa mère]]
+* [[Sainte Mère des Anges]] !
+* [[sa mère]]
+* [[société mère]]
+* [[révérende mère]]
+* [[Terre Mère]], [[Terre-Mère]]
+* [[vaisseau mère]]
+* [[vendre père et mère]]
+* [[teinture-mère]]{{)}}
+
+==== {{S|apparentés}} ====
+{{(|colonnes=4}}
+* [[alma mater]]
+* [[immatriculation]]
+* [[immatriculer]]
+* [[maternaliser]]
+* [[maternel]]
+* [[maternellement]]
+* [[materner]]
+* [[materniser]]
+* [[maternité]]
+* [[mater semper certa est]]
+* [[matriarcal]]
+* [[matriarcat]]
+* [[matriçage]]
+* [[matricaire]]
+* [[matrice]]
+* [[matricer]]
+* [[matricide]]
+* [[matriciel]]
+* [[matricite]]
+* [[matriculaire]]
+* [[matriculation]]
+* [[matriculer]]
+* [[matriculier]]
+* [[matrilinéaire]]
+* [[matrilinéarité]]
+* [[matrimonial]]
+* [[matrimonialement]]
+* [[matrimonialité]]
+* [[matrimoniomane]]
+* [[matrimoniomaniaque]]
+* [[matrimoniomanie]]
+* [[matrimonium]]
+* [[matronal]]
+* [[matrone]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[à père avare, enfant prodigue, à mère avare, galant escroc]]
+* [[l’oisiveté est la mère de tous les vices]]
+* [[la nécessité est mère de l’invention]]
+* [[nécessité est mère d’invention]]
+* [[prudence est mère de sureté]] {{ortho1990}}
+* [[prudence est mère de sûreté]]
+* [[ta mère]] {{argot|nocat=1}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|femme|généalogie|artichaut|famille|autorat|allaitement|sociologie de la famille|parenté|archétype narratif}}
+
+==== {{S|hyperonymes}} ====
+* [[parent]]
+
+==== {{S|traductions}} ====
+{{trad-début|Femme qui a donné naissance|1}}
+* {{T|ar}} : {{trad+|ar|أم|tr=ʾum|f}}
+** Westfälisch: {{trad-|nds|Meume}}, {{trad-|nds|Moime}}
+*** Münsterländisch: {{trad+|nds|Moder}}, {{trad-|nds|Mooder}}
+{{trad-fin}}
+
+{{trad-début|Femme qui a le rôle maternel|2}}
+* {{T|ar}} : {{trad+|ar|ام|tr=’umm|f}}
+{{trad-fin}}
+
+{{trad-début|Femelle d’un animal, lorsqu’elle a un ou plusieurs petits|3}}
+{{trad-fin}}
+
+{{trad-début|Source, origine (de qqchose)|5}}
+{{trad-fin}}
+
+{{trad-début|Religieuse|6}}
+{{trad-fin}}
+
+=== {{S|adjectif|fr}} ===
+{{fr-rég|mɛʁ}}
+'''mère''' {{pron|mɛʁ|fr}} {{mf}}
+# {{idiomatique|fr}} Qualifie ce qui est à la source d’une autre chose.
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|mɛʁ|fr}}
+* {{pron|mɛʁ|fr}}
+* Français méridional : {{pron|ˈmɛ.ʁə|fr}}
+* Canada : {{pron|mɛːʁ|fr}}, {{phon|maɛ̯ʁ|fr}}
+* {{écouter|France (Paris)|la mɛʁ|titre=la mère|audio=Fr-mère.ogg|lang=fr}}
+* {{écouter|lang=fr|France (Massy)|mɛʁ|audio=LL-Q150 (fra)-X-Javier-mère.wav}}
+* {{écouter|France (Cesseras)|ˈmɛ.ʁə̆|lang=fr|audio=LL-Q150 (fra)-Guilhelma-mère.wav}}
+* {{écouter|lang=fr|France (Toulouse)|ˈmɛ.ʁə|audio=LL-Q150 (fra)-Lepticed7-mère.wav}}
+* {{écouter|Québec (Canada)|maɛ̯ʁ|lang=fr|audio=LL-Q150 (fra)-Estrie-mère.wav}}
+* {{écouter|Acadie (Bathurst)|meɐ̯|fr|audio=fr-ca-mère.ogg|titre=mère}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-mère.wav}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Fhala.K-mère.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-mère.wav}}
+* {{écouter|lang=fr|Suisse (Genève)|audio=LL-Q150 (fra)-Nattes à chat-mère.wav}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-mère.wav}}
+* {{écouter|lang=fr|France (Grenoble)|audio=LL-Q150 (fra)-GAllegre-mère.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-mère.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-mère.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-mère.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-mère.wav}}
+* {{écouter|lang=fr|France (Montpouillan)|audio=LL-Q150 (fra)-Yug-mère.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-mère.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-mère.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-mère.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-mère.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-mère.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-mère.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-mère.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-mère.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-Loizbec-mère.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-mère.wav}}
+* {{écouter|Montpellier (France)||lang=fr|audio=LL-Q150 (fra)-GeoMechain-mère.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-mère.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-mère.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Lunagrouh-mère.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-mère.wav}}
+* {{écouter|Valence (France)||lang=fr|audio=LL-Q150 (fra)-Johanboss-mère.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-mère.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-mère.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)||lang=fr|audio=LL-Q150 (fra)-Helenou66-mère.wav}}
+
+==== {{S|homophones|fr}} ====
+* {{lien|maire|fr}}
+* {{lien|mer|fr}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* [[Annexe:Famille en français]]
+* {{WP}}
+* {{Wikiquote}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{R:Robert}}
+* {{R:Larousse|mère}}
+* {{R:Usito}}
+* {{R:DAF9|mère}}
+* {{R:DAF8|mère}}
+
+[[Catégorie:Lexique en français de la famille]]
+[[Catégorie:Lexique en français de la religion]]

@@ -1,0 +1,131 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr}} Du {{étyl|frm|fr|mot=ensemble}}, lui-même de l’{{étyl|fro|fr|mot=ensamble}}, issus du {{étyl|la|fr|mot=insimul|sens=en même temps}} {{cf|in-|simul|lang=la}}. Avec une évolution phonétique identique à celle qui de ''[[similare]]'' donne ''[[sembler]]''. Comparer avec l’italien ''[[insieme]]'' ou l’occitan ''[[ensem]]'' issus de ce même adverbe latin.
+: {{siècle|XII}} ''ensemble'' dans "''Ensemble'' en jostent li meiilor ", {{source|1={{w|Benoît de Sainte-Maure}}, [https://gallica.bnf.fr/ark:/12148/bpt6k6224416q/f30.item ''Chronique des ducs de Normandie (tome 2) page 12''], vers 15608}}
+
+=== {{S|adverbe|fr}} ===
+'''ensemble''' {{pron|ɑ̃.sɑ̃bl|fr}} {{invariable|fr}}
+# L’un avec l’autre : les uns avec les autres ; [[conjointement]].
+# En [[couple]] amoureux. 
+# [[en même temps|En même temps]], [[concomitamment]], [[simultanément]].
+
+==== {{S|notes}} ====
+* <u>Orthographe</u> : selon l'usage, ''« ensemble »'' en tant qu'adverbe est toujours invariable ; s'il comporte le “-s” final, marque du pluriel, c'est qu'il s'agit du nom. Mais attention, des locutions homonymes peuvent prendre alternativement la marque du pluriel ou non : elles ont alors des sens différents. Ainsi « les deux ensemble » signifiera : « les deux [personnes] conjointement » ; mais « les deux ensemble'''s''' » signifiera « les deux groupes d'éléments ».      
+
+==== {{S|synonymes}} ====
+* [[coude à coude]]
+* [[de concert]]
+* [[de conserve]]
+* [[en chœur]]
+* [[ensemblement]] ''(désuet)''
+* [[main dans la main]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[sortir ensemble]]
+* [[tout ensemble]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|musique|xylophone|géométrie|univers|bidule, truc, machin|langage de programmation|groupe|tout|foule|coopération}}
+
+==== {{S|traductions}} ====
+{{trad-début|Les uns avec les autres, conjointement.}}
+* {{T|ar}} : {{trad-|ar|معا|tr=maʿan (maʿā)|dif=مَعًا}}
+{{trad-fin}}
+
+{{trad-début|En même temps, concomitamment, simultanément.}}
+{{trad-fin}}
+
+{{trad-début|En s’harmonisant, harmonieusement}}
+{{trad-fin}}
+
+{{trad-début|Traductions à trier}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ɑ̃.sɑ̃bl}}
+'''ensemble''' {{pron|ɑ̃.sɑ̃bl|fr}} {{m}}
+# [[réunion|Réunion]] d’[[élément]]s qui [[former|forment]] un [[tout]], une [[totalité]].
+# [[unité|Unité]] [[résulter|résultant]] du [[concours]] [[harmonieux]] des [[divers]]es [[partie]]s d’un [[tout]] ; [[accord]].
+# [[collection|Collection]] d’éléments [[harmonisé]]s, [[assorti]]s.
+# {{vêtements|fr}} [[costume|Costume]] [[féminin]] [[composé]] de [[deux]] ou [[trois]] [[pièce]]s, équivalent du [[complet#fr-nom|complet]] masculin.
+# {{lexique|mathématiques|fr}} [[collection|Collection]] d’éléments mathématiques.
+# {{lexique|urbanisme|fr}} [[groupe|Groupe]] [[plus ou moins]] [[important]] d’[[habitation]]s [[bénéficier|bénéficiant]] de [[certain]]s [[équipement]]s [[collectif]]s.
+# Groupe de [[musicien]]s, de [[chanteur]]s ; [[formation]] [[musical]]e, [[orchestre]], [[chorale]].
+# {{lexique|programmation|fr}} [[type abstrait|Type abstrait]] de données non ordonnées et sans doublon.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[d’ensemble]]
+* [[dans l’ensemble]]
+* [[ensemble de lancement]]
+* [[ensemble routier de grande capacité]], [[ERGC]]
+* [[ensemble vide]]
+* [[ensemblier]]
+* [[ensembliser]]
+* [[ensemblité]]
+* [[ensemblitude]]
+* [[grand ensemble]]
+* [[vue d’ensemble]]
+{{)}}
+
+==== {{S|synonymes}} ====
+* [[barre]] (6)
+
+==== {{S|traductions}} ====
+{{trad-début|Réunion d’éléments qui forment un tout, une totalité|1}}
+{{trad-fin}}
+
+{{trad-début|Unité résultant du concours harmonieux des diverses parties d’un tout, accord|2}}
+{{trad-fin}}
+
+{{trad-début|Collection d’éléments harmonisés, assortis|3}}
+{{trad-fin}}
+
+{{trad-début|Costume féminin composé de deux ou trois pièces, équivalent du complet masculin|4}}
+{{trad-fin}}
+
+{{trad-début|{{info lex|mathématiques}} Collection d’éléments ou de nombres ayant en commun une ou plusieurs propriétés qui les caractérisent|5}}
+* {{T|ar}} : {{trad+|ar|مَجْمُوعَة|tr=majmuu'a}}
+{{trad-fin}}
+
+{{trad-début|{{term|Habitat|nocat=1}} Groupe plus ou moins important d’habitations bénéficiant de certains équipements collectifs|6}}
+{{trad-fin}}
+
+{{trad-début|Groupe de musiciens, de chanteurs ; formation musicale, orchestre, chorale|7}}
+{{trad-fin}}
+
+{{trad-début|{{info lex|programmation}} Type abstrait de données non ordonnées et sans doublon|8}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|ɑ̃.sɑ̃bl|fr}}
+* {{écouter|France|ɑ̃.sɑ̃bl], [ã.ˈsãm.blə|lang=fr}}
+** {{écouter|lang=fr|France (Paris)|ɑ̃.sɑ̃bl|audio=Fr-ensemble.ogg}}
+** {{écouter|lang=fr|France (Avignon)|ã.ˈsãm.blə|audio=Fr-ensemble (Avignon).ogg}}
+* {{écouter|lang=fr|Québec|ã.sãːbl], [ã.sãːb], [ã.sãm}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-ensemble.wav}}
+* {{écouter|lang=fr|France (Toulouse)||audio=LL-Q150 (fra)-Lepticed7-ensemble.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-ensemble.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-ensemble.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-ensemble.wav}}
+* {{écouter|Vosges (France)||lang=fr|audio=LL-Q150 (fra)-LoquaxFR-ensemble.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-ensemble.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-ensemble.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+* {{WP|Ensemble (homonymie)}}
+* {{WV|Ensemble (mathématiques)}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+* {{R:TLFi}}
+

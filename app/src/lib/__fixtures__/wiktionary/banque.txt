@@ -1,0 +1,167 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|XV}} Du {{étyl|frm|fr|banque}}, de l’{{étyl|it|fr|mot=banca|sens=table de comptoir}} (puis « établissement de crédit »). Les banquiers lombards du nord de l’[[Italie]] accomplissaient leur travail dans des lieux ouverts et s’installaient sur des [[banc]]s. Autre origine : le mot allemand ''{{lien|Bank|de}}'' dont le féminin était ''banque''<ref>[https://web.archive.org/web/20120128165450/http://www.presse-francophone.org/apfa/motdor/etymolog/banque.htm Site de l'APFA]</ref>.
+: {{date|lang=fr}} {{term|sens 11}} Dérivé de ''[[banc]]'' (comme dans ''[[saltimbanque]]''), au sens de ''[[tréteau]]'' ; le vocable est associé au théâtre de foire, et à son charlatanisme<ref>Note de bas de page à {{w|Eugène Labiche}}, ''{{w|Le Voyage de monsieur Perrichon}}'', édition Le Livre de poche, présentée et annotée par Yannic Mancel, page 69</ref>.
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|bɑ̃k}}
+[[File:Bilbao Bankoa Credit Agricole.jpg|thumb|Une '''banque''' (3)]]
+'''banque''' {{pron|bɑ̃k|fr}} {{f}}
+# [[commerce|Commerce]] de l'[[argent]] et du [[crédit]] qui consiste à [[recevoir]] des capitaux en [[compte courant]] avec ou sans [[intérêt]] ; à [[échanger]] des [[effet]]s ou à les [[escompter]] avec des espèces, à des [[taux]] et [[moyennant]] des [[commission]]s [[variable]]s ; à [[exécuter]] pour le [[compte]] de [[tiers]] toutes [[opération]]s de ce [[genre]] et à se [[charger]] de tous [[service]]s [[financier]]s ; à [[créer]] et à [[émettre]] des [[lettres de change]] ; d’une [[façon]] générale, [[commercer]] de l’[[argent]], ainsi que des [[titre]]s et [[valeur]]s.
+# {{par extension}} [[entreprise|Entreprise]] ou [[société]] qui fait ce commerce.
+# {{en particulier}} [[établissement|Établissement]] où se fait ce commerce.
+# {{par extension}} [[négociant|Négociants]] mêmes qui font ce commerce.
+# {{vieilli|fr}} [[paiement|Paiement]] qui se faisait aux [[ouvrier]]s, [[chaque]] [[semaine]], ou tous les [[quinze jours]], ordinairement le [[samedi]].
+# {{info lex|jeux}} [[somme|Somme]] que celui qui tient le [[jeu]] [[devant]] lui utilise pour [[payer]] ceux qui [[gagner|gagnent]].
+# {{lexique|cartes à jouer|fr}} Sorte de [[jeu de cartes]].
+# [[table|Table]] ou [[banc]] devant lesquels [[travailler|travaillent]] les [[ouvrier]]s, dans certains corps de [[métier]]s.
+# {{région}} [[étal|Étal]], [[comptoir]] chez un commerçant ou dans une bibliothèque.
+# {{par extension}} Endroit où l'on peut [[entreposer]] en toute [[sécurité]], toute sorte de choses.
+# {{vieilli|fr}} [[boniment|Boniment]], flatterie.
+>— Nous le mettrons au musée…<br
+>— De Versailles ?<br
+>— Non, de Paris…<br
+>— Ah ! oui… à l’Exposition !<br
+>— Et nous inscrirons sur le livret cette notice…<br
+>— Non ! pas de '''banque''' ! pas de réclame !'' {{source|{{w|Eugène Labiche}}, ''{{w|Le Voyage de monsieur Perrichon}}'', 1860, acte III, scène 8. L’édition de 1985 précise « Ce texte est conforme à l’édition originale ; cependant les graphies ont été modernisées. »}}
+
+==== {{S|abréviations}} ====
+* [[bq]], [[bq.]], [[BQ]] {{term|1, 2, 3}}
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[agence bancaire]]
+* [[bancabiliser]]
+* [[bancable]]
+* [[bancaire]]
+* [[bancarisation]]
+* [[bancassurance]]
+* [[banco]]
+* [[banquable]]
+* [[banque à domicile]]
+* [[banque à pitons]]
+* [[banque alimentaire]]
+* [[banque centrale]]
+* [[banque d’actifs naturels]]
+* [[banque d’ADN complémentaire]]
+* [[banque d’ADNc]]
+* [[banque d’émission]]
+* [[banque d’entreprise]]
+* [[banque d’épreuves]]
+* [[banque d’expression]]
+* [[banque d’investissement]]
+* [[banque d’yeux]]
+* [[banque de dépôt]]
+* [[banque de détail]]
+* [[banque de données]]
+* [[banque de gènes]]
+* [[banque de graines]]
+* [[banque de graines du sol]]
+* [[banque de premier rang]]
+* [[banque de sang]]
+* [[banque de second rang]]
+* [[banque de sperme]]
+* [[banque en ligne]]
+* [[banque mutualiste]]
+* [[banque populaire]]
+* [[banque sans fil]]
+* [[banque universelle]]
+* [[banque verte]]
+* [[Banque verte]]
+* [[banquer]]
+* [[banquerie]]
+* [[banqueroute]]
+* [[banquier]], [[banquière]]
+* [[billet de banque]]
+* [[biobanque]]
+* [[braqueur de banque]]
+* [[compte de banque]]
+* [[compte en banque]]
+* [[faire sauter la banque]]
+* [[haute banque]]
+* [[interdit bancaire]]
+* [[maison de banque]]
+* [[mégabanque]]
+* [[néobanque]], [[néo-banque]]
+* [[rebanquer]]
+{{)}}
+
+==== {{S|hyponymes}} ====
+{{(}}
+; Établissement de crédit
+* [[banque à domicile]]
+* [[banque à pitons]]
+* [[banque centrale]]
+* [[banque d’émission]]
+* [[banque d’investissement]]
+* [[banque de dépôt]]
+* [[banque de détail]]
+* [[banque de premier rang]]
+* [[banque mutualiste]]
+* [[banque sans fil]]   
+* [[banque universelle]]
+* [[caisse d’épargne]]
+* [[mégabanque]]
+; Endroit où entreposer quelque chose
+* [[banque d’yeux]]
+* [[banque de données]]
+* [[banque de gènes]]
+* [[banque de graines]]
+* [[banque de sang]]
+* [[banque de sperme]]
+* [[biobanque]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Commerce|1}}
+* {{T|ar}} : {{trad+|ar|بنك|tr=bank}}, {{trad-|ar|مصرف|tr=maSraf}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|bɑ̃k}}
+'''banque''' {{pron|bɑ̃k|fr}} {{m}}
+# {{vieilli|fr}} {{désuet|fr}} Variante de [[bangue]],<small> selon le {{R:Rivarol}}</small>.
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|banquer|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui}}
+'''banque''' {{pron|bɑ̃k|fr}}
+# ''Première personne du singulier de l’indicatif présent de'' [[banquer]].
+# ''Troisième personne du singulier de l’indicatif présent de'' [[banquer]].
+# ''Première personne du singulier du subjonctif présent de'' [[banquer]].
+# ''Troisième personne du singulier du subjonctif présent de'' [[banquer]].
+# ''Deuxième personne du singulier de l’impératif de'' [[banquer]].
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|bɑ̃k|fr}}
+* {{pron|bɑ̃k|fr}}
+** {{écouter|France (Paris)|yn bɒ̃k|audio=Fr-banque.ogg|titre=une banque|lang=fr}}
+* Canada : {{pron|bãk|fr}}
+* Français méridional : {{pron|bãŋˈkə|fr}}
+** {{écouter|France (Avignon)|la ˈbãŋ.kə|audio=Fr-banque (Avignon).ogg|titre=la banque|lang=fr}}
+* {{écouter|lang=fr|France (Muntzenheim)|audio=LL-Q150 (fra)-0x010C-banque.wav}}
+* {{écouter|lang=fr|France (Saint-Étienne)||audio=LL-Q150 (fra)-Touam-banque.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-banque.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-banque.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-banque.wav}}
+* {{écouter|Villelongue-de-la-Salanque (France)|bɑ̃k|lang=fr|audio=LL-Q150 (fra)-Maël K. (BiblioCanet66)-banque.wav}}
+* {{écouter|Céret (France)||lang=fr|audio=LL-Q150 (fra)-Fabricio Cardenas (Culex)-banque.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Althea81-banque.wav}}
+* {{écouter|Millau (France)||lang=fr|audio=LL-Q150 (fra)-Antochkat-banque.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-banque.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+* {{Wikiquote}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+{{Références}}
+
+[[Catégorie:Noms multigenres en français]]
+[[Catégorie:Jeux de cartes en français]]
+[[Catégorie:Commerces en français]]
+

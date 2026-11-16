@@ -1,0 +1,55 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date||lang=fr}} {{composé de|boulanger|-erie|lang=fr|m=1}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|bu.lɑ̃ʒ.ʁi}}
+[[Fichier:Montmoreau 16 Boulangerie 2011.jpg|vignette|redresse|Devanture d’une '''boulangerie''' (sens 1)]]
+[[Fichier:0 Frameries - Boulangerie-pâtisserie Godefroid (4).JPG|vignette|redresse|Deux personnes pratiquent la '''boulangerie''' (sens 2)]]
+'''boulangerie''' {{pron|bu.lɑ̃ʒ.ʁi|fr}} {{f}}
+# [[lieu|Lieu]] où [[fabriquer|est fabriqué]] et [[vendre|vendu]] le [[pain]]; souvent, des viennoiseries y sont également [[confectionner|confectionnées]] et vendues.
+# [[fabrication|Fabrication]] et [[vente]] de [[pain]] et, souvent, de [[viennoiseries]].
+# [[fonds|Fonds]] de commerce d’un [[boulanger]].
+# {{France|fr}} {{lexique|histoire|fr}} L’univers du [[boulangisme]].
+
+==== {{S|dérivés}} ====
+* [[boulangerie-pâtisserie]]
+* [[cyberboulangerie]], [[cyber-boulangerie]]
+
+==== {{S|apparentés}} ====
+* [[boulange]]
+* [[boulanger]]
+* [[boulangère]]
+
+==== {{S|vocabulaire}} ====
+{{voir thésaurus|fr|boutique|farine|pain|boulangerie}}
+* [[dépôt de pain]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad-|ar|مخبزة|tr=makhbaza}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|bu.lɑ̃ʒ.ʁi|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|bu.lɑ̃ʒ.ʁi|audio=Fr-boulangerie.ogg}}
+* {{écouter|lang=fr|France (Saint-Maurice-de-Beynost)|audio=LL-Q150 (fra)-Benoît Prieur-boulangerie.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-boulangerie.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-boulangerie.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-boulangerie.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-boulangerie.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-boulangerie.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Vikidia|AdQ=oui}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+* {{R:TLFi}}
+
+[[Catégorie:Commerces en français]]
+[[Catégorie:Lexique en français de la boulangerie|*]]

@@ -1,0 +1,99 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|mot=tristis}}.
+
+=== {{S|adjectif|fr}} ===
+{{fr-rég|mf=oui|tʁist}}
+[[Fichier:Portret van een man002.jpg|vignette|195px|Sculpture d’une personne '''triste''' (1)]]
+'''triste''' {{pron|tʁist|fr}} {{mf}}
+# Qui est [[affliger|affligé]], qui [[éprouver|éprouve]] du [[chagrin]].
+# Qui est [[mélancolique]] ; qui n’a pas de [[gaieté]].
+# Qui [[marquer|marque]] de la [[tristesse]], du [[chagrin]], de la [[mélancolie]].
+# {{familier|fr}}
+# Se dit [[également]] de ce qui est [[inspirer|inspiré]] par le [[chagrin]] ou par la [[mélancolie]].
+# Qui est [[affligeant]] ou [[chagrinant]] ; qui inspire de la mélancolie.
+# Qui est [[obscur]], [[sombre]], [[morose]].
+# Qui est [[pénible]], [[fâcheux]], [[difficile]] à [[supporter]]; dans cette [[acception]], il ne s’emploie guère qu’[[avec]] le [[verbe]] ''être'' pris impersonnellement.
+# Qui est [[malheureux]], [[funeste]].
+# Qui est [[piètre]], [[regrettable]], [[déplorable]]; en ce sens, il [[précéder|précède]] [[toujours]] le nom.
+# [[méprisable|Méprisable]]
+
+==== {{S|synonymes}} ====
+{{(|}}
+* [[abattu]]
+* [[accablé]]
+* [[chagrin]]
+* [[chagriné]]
+* [[déçu]]
+* [[désappointé]]
+* [[désenchanté]]
+* [[luctueux]]
+* [[malheureux]]
+* [[mélancolique]]
+* [[neurasthénique]]
+{{)}}
+
+==== {{S|antonymes}} ====
+{{(|}}
+* [[béat]]
+* [[comblé]]
+* [[content]]
+* [[enchanté]]
+* [[épanoui]]
+* [[gai]]
+* [[heureux]], [[bienheureux]]
+* [[joyeux]]
+* [[ravi]]
+* [[réjoui]]
+* [[satisfait]]
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[abandonner à son triste sort]]
+* [[avoir l’alcool triste]]
+* [[passion triste]]
+* [[triste-à-patte]]
+* [[triste comme un bonnet de nuit]]
+* [[triste comme la pluie]]
+* [[triste comme une pluie de trois jours]]
+* [[triste sire]]
+* [[tristement]]
+* [[tristet]]
+* [[tristifier]]
+* [[tristissime]]
+* [[tristounet]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[tristesse]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|bijou}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad-|ar|حزين}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|tʁist|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|t̪χist̪|audio=Fr-triste.ogg}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-triste.wav}}
+* {{écouter|lang=fr|France (Lyon)|audio=LL-Q150 (fra)-Lyokoï-triste.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-triste.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-triste.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-triste.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[tristes]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+*{{Import:DAF8}}
+

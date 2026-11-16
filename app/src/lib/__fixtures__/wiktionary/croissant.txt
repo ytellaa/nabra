@@ -1,0 +1,173 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{laé|fr|adj}} Participe présent de ''[[croître]]''.
+: {{laé|fr|nom|1}} De la phase dans laquelle la lune est en train de croître.
+: {{laé|fr|nom|2}} Du {{étyl|br|fr|kroashent}}.
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-cons|kʁwa.sɑ̃|t}}
+[[Fichier:Monotonicity example1.png|vignette|Une fonction '''croissante'''.]]
+'''croissant''' {{pron|kʁwa.sɑ̃|fr}}
+# Qui s’[[accroître|accroît]] ; qui va augmentant.
+# {{lexique|astronomie|fr}} Relatif aux [[phase]]s de la [[lune]] quand elle passe de la [[nouvelle lune]] à la [[pleine lune]].
+# {{lexique|mathématiques|fr}} Qui satisfait la condition {{nobr|''f''(''s'') ≤ ''f''(''t'')}} si {{nobr|''s'' ≤ ''t''}} pour tout couple (''s'', ''t'') d’éléments, en parlant d’une fonction d’une variable réelle ''f''.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[croissamment]]
+* [[latitude croissante]] {{info lex|cartographie}}
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[croissance]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|sorcière}}
+* [[📈]] (U+1F4C8)
+
+==== {{S|synonymes}} ====
+* [[augmentant]] (1)
+
+==== {{S|antonymes}} ====
+* [[décroissant]]
+
+==== {{S|hyperonymes}} ====
+* {{info lex|mathématiques}} [[monotone#fr-adj|monotone]]
+
+==== {{S|hyponymes}} ====
+* {{info lex|mathématiques}} [[strictement croissant]]
+
+==== {{S|apparentés}} ====
+{{(}}
+* [[croit]] {{ortho1990}}
+* [[croît]]
+* [[croitre]] {{ortho1990}}
+* [[croître]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Qui s’accroît}}
+{{trad-fin}}
+
+{{trad-début|En astronomie}}
+{{trad-fin}}
+
+{{trad-début|En mathématiques}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|kʁwa.sɑ̃}}
+[[Image:Waxing crescent moon 20131108.jpg|vignette|redresse|Un '''croissant''' de Lune (1)]]
+'''croissant''' {{pron|kʁwa.sɑ̃|fr}} {{m}}
+# {{lexique|astronomie|fr}} [[phase|Phase]] de la [[lune]] quand elle passe de la [[nouvelle lune]] au [[premier quartier]], ou du [[dernier quartier]] à la nouvelle lune, par opposition à la [[lune gibbeuse]]. Elle a une forme [[concave]] d’un [[côté]] et [[convexe]] de l’autre. {{usage}} À ne pas confondre avec l’adjectif ''[[croissant#fr-adj|croissant]]''.
+# {{lexique|astronomie|fr}} {{par analogie|fr}} [[phase|Phase]] d’un autre [[corps céleste#fr|corps céleste]] de forme [[concave]] d’un [[côté]] et [[convexe]] de l’autre
+# {{lexique|géométrie|fr}} [[morceau|Morceau]] de [[disque]], [[concave]] d’un [[côté]] et [[convexe]] de l’autre.
+# {{par analogie|fr}} {{viennoiseries|fr}} [[viennoiserie|Viennoiserie]] qui adopte cette forme.
+# {{info lex|zoologie}} [[bombyx de l’ailante|Bombyx de l’ailante]] (papillon).
+# [[outil|Outil]] à long [[manche]] et à [[lame]] [[en forme de]] [[faucille]], qui [[servir|sert]] à couper des [[ronce]]s et des [[broussaille]]s ; [[faucard]], [[volant]], [[goui]].
+# {{meubles héraldiques|fr}} [[meuble|Meuble]] représentant un croissant de lune dans les [[armoiries]]. Sa position ordinaire est une orientation les pointes vers le [[chef]]. Il est dit [[versé]] ou [[renversé]] quand les pointes sont vers la [[pointe]]. Il est qualifié de [[couché]] ou [[tourné]] quand ses pointes sont [[à dextre]] et [[contourné]] quand les pointes sont [[à senestre]]. On trouve parfois [[adextré]] et [[senestré]]. À rapprocher de [[lune]] et [[lunel]].
+
+==== {{S|synonymes}} ====
+;Viennoiserie
+* [[beurrine]] {{par plaisanterie|nocat=1}}
+
+==== {{S|quasi-synonymes}} ====
+;Outil en forme de faucille
+* [[bédoil]]
+* [[vouge]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[café croissant]]
+* [[cobe à croissant]] ''(antilope)''
+* [[colombe à croissants]]
+* [[cornes du croissant de la lune]]
+* [[coup de pied en croissant]]
+* [[Croissant fertile]]
+* [[croissant fossile]]
+* [[Croissant-Rouge]]
+* [[croissanterie]]
+* [[cronut]]
+* [[dernier croissant]]
+* [[méliphage à croissants]]
+* [[premier croissant]]
+* [[vracton croissant noir]] ''(espèce de poisson)''
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|petit-déjeuner|France}}
+''Lune'' :
+* [[dernier quartier]]
+* [[lune gibbeuse]]
+* [[nouvelle lune]]
+* [[pleine lune]]
+* [[premier quartier]]
+* [[☪]] (U+262A)
+* [[🌒]] (U+1F312)
+* [[🌘]] (U+1F318)
+* [[🌙]] (U+1F319)
+''Viennoiserie'' :
+* [[🥐]] (U+1F950)
+
+==== {{S|traductions}} ====
+{{trad-début|Phase de la lune}}
+* {{T|ar}} : {{trad-|ar|هلال|tr=hilāl|dif=هِلال}}
+{{trad-fin}}
+
+{{trad-début|Forme géométrique}}
+{{trad-fin}}
+
+{{trad-début|Viennoiserie}}
+* {{T|ar}} : {{trad-|ar|كرواسون|tr=karwasun}}
+{{trad-fin}}
+
+{{trad-début|héraldique}}
+{{trad-fin}}
+
+{{trad-début|Outil sur manche à lame}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|kʁwa.sɑ̃}}
+'''croissant''' {{pron|kʁwa.sɑ̃|fr}} {{m}}
+# {{Bretagne|fr}} [[croisement|Croisement]] de voies, [[carrefour]].
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|grp=3|croître|ppr=oui}}
+'''croissant''' {{pron|kʁwa.sɑ̃|fr}}
+# ''Participe présent du verbe ''[[croître]].
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|kʁwa.sɑ̃|fr}}
+* {{écouter|France (Paris)|kʁwa.sɑ̃|audio=Fr-croissant.ogg|lang=fr}}
+* {{écouter|France (Paris)|kʁwa.sɑ̃|audio=Fr-croissant2.ogg|lang=fr}}
+* {{écouter|Canada|kʀwɑ.sã|lang=fr}}
+* {{écouter|lang=fr|France (Toulouse)||audio=LL-Q150 (fra)-Lepticed7-croissant.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-croissant (verbe).wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-croissant (nom).wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-croissant.wav}}
+* {{écouter|France (Lyon)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-croissant.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-GrandCelinien-croissant.wav}}
+* {{écouter|Vosges (France)||lang=fr|audio=LL-Q150 (fra)-LoquaxFR-croissant.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)|kʁwa.sɑ̃|lang=fr|audio=LL-Q150 (fra)-Helenou66-croissant.wav}}
+* {{écouter|Saint-Nazaire (France)|kʁwa.sɑ̃|lang=fr|audio=LL-Q150 (fra)-Amélia S. (BiblioCanet66)-croissant.wav}}
+* {{écouter|Vosges (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-croissant.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-croissant.wav}}
+
+==== {{S|paronymes}} ====
+* [[croassant]], [[croassants]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Thésaurus|fr|héraldique}}
+* {{WP|Liste des meubles héraldiques}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+* {{R:TLFi}}
+
+[[Catégorie:Papillons en français]]
+

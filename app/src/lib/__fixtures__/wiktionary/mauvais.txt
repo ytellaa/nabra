@@ -1,0 +1,182 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|XI}} Apparenté à ''{{lien|malvat|ca}}'' en catalan et occitan, ''{{lien|malvado|es}}'' en espagnol et portugais, ''{{lien|malvagio|it}}'' en italien. Étymologie discutée :
+:# Du {{étyl|la|fr}} populaire {{recons|lang-mot-vedette=fr|malifatius}}{{R|TLFi}} (« affecté d’un mauvais sort » {{cf|méchant|malchanceux|lang=fr}}) {{composé de|malus|fatum|-ius|lang=la}}. Voir ''{{lien|Boniface|fr}}''. Contre cette hypothèse, l’évolution du {{pron|f|fr}} latin vers {{pron|v|fr}}, atypique dans les langues romanes.
+:# Diez{{R|Littré}} le tire du {{étyl|got|fr}} {{recons|lang-mot-vedette=fr|balvavesi}} composé de {{recons|lang-mot-vedette=fr|balwa}} (« mal, méchanceté », vieux haut allemand ''[[balo#goh|balo]]'') et ''{{lien|wesan|ang}}'' (« être ») qui donne ''{{lien|malvoisié|fr}}'' (« mauvais, malintentionné ») en ancien français, ''{{lien|malvoiseusement|fr}}'' (« malencontreusement, par mégarde »). « Le changement de ''bal-'' en ''[[mal-]]'' fait difficulté (note : sémantiquement motivée par ''mal'') ; cependant cette étymologie demeure très probable, vu la forme du reste du mot et le sens{{R|Littré}}. »
+:# L’étymon gotique est possible pour le français{{R|Scheler 1862}}, mais elle n’explique pas les autres formes romanes qui relèvent d'un {{recons|lang-mot-vedette=fr|malvatus, malvatius}}{{R|Scheler 1862}}, [[haplologie]] de ''{{lien|male|la}} {{lien|levatus|la}}'' (« [[mal élevé]] »)
+: {{supplétion|mot=oui|lang=fr|pire}}.
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-s|mo.vɛ|pron2=mɔ.vɛ}}
+'''mauvais''' {{pron|mo.vɛ|fr}} ''ou'' {{pron|mɔ.vɛ|fr}}
+# [[défavorable|Défavorable]] ; qui cause une [[impression]] défavorable.
+# [[vicieux#fr|Vicieux]], [[défectueux]], en parlant d’une chose concrète ou abstraite.
+# [[nuisible#fr|Nuisible]], [[incommode]], qui cause du [[mal]]. Qui doit être évité.
+# [[sinistre#fr|Sinistre]], [[funeste]], qui fait [[craindre]] quelque mal.
+# Qui est [[enclin]] à faire du [[mal]] (en parlant d’une personne).
+# Qui n’a pas les [[qualité]]s qu’il doit ou devrait avoir
+# Qui est [[malicieux]], [[épigrammatique]], [[médisant]].
+# {{term|Avec la négation}} {{par litote|fr}} Qui est [[bon]] voire très bon, selon le ton qu’on emploie.
+# Erroné.
+
+==== {{S|antonymes}} ====
+* [[bon]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à mauvais escient]]
+* [[au mauvais endroit au mauvais moment]]
+* [[avoir de bons et de mauvais quarts d’heure]]
+* [[avoir le vin mauvais]]
+* [[avoir mauvais fond]]   
+* [[avoir mauvaise presse]]
+* [[avoir un mauvais fond]]   
+* [[avoir une mauvaise presse]]
+* [[bon à rien, mauvais à tout]]
+* [[conjurer le mauvais sort]]
+* [[en route mauvaise troupe]]
+* [[enfermé dans le mauvais corps]]
+* [[être dans de mauvais draps]]
+* [[être dans le mauvais tournant]]
+* [[être sur une mauvaise pente]]
+* [[faire la mauvaise tête]]
+* [[faire mauvais accueil]]
+* [[faire mauvais genre]]
+* [[faire un mauvais coup]]
+* [[faire un mauvais parti]]
+* [[femme de mauvaise vie]]
+* [[filer un mauvais coton]]
+* [[joie mauvaise]]
+* [[jouer un mauvais tour]]
+* [[l’avoir mauvaise]]
+* [[mauvais caractère]]
+* [[mauvais cœur]]
+* [[mauvais côté]]
+* [[mauvais coucheur]]
+* [[mauvais diable]]
+* [[mauvais esprit]]
+* [[mauvais film]]
+* [[mauvais fou]] ''(échecs)''
+* [[mauvais garçon]]
+* [[mauvais gout]] {{ortho1990}}
+* [[mauvais goût]]
+* [[mauvais jours]]
+* [[mauvais lieu]]
+* [[mauvais œil]]
+* [[mauvais pas]]
+* [[mauvais perdant]]
+* [[mauvais plaisant]]
+* [[mauvais poil]]
+* [[mauvais point]]
+* [[mauvais sort]]
+* [[mauvais temps]]
+* [[mauvais trou]]
+* [[mauvais vouloir]]
+* [[mauvaise action]]
+* [[mauvaise foi]]
+* [[mauvaise graine]]
+* [[mauvaise herbe]]
+* [[mauvaise honte]] 
+* [[mauvaise humeur]]
+* [[mauvaise langue]]
+* [[mauvaise limonade]] ''(Languedoc-Roussillon) (Provence)''
+* [[mauvaise mine]]
+* [[mauvaise passe]]
+* [[mauvaises manières]]
+* [[mauvaise note]]
+* [[mauvaise tête]]
+* [[mauvaisement]]
+* [[mauvaiseté]]
+* [[miser sur le mauvais cheval]]
+* [[naitre dans le mauvais corps]] {{ortho1990}}
+* [[naître dans le mauvais corps]]
+* [[oiseau de mauvais augure]]
+* [[passer un mauvais quart d’heure]]
+* [[se faire du mauvais sang]]
+* [[tomber en de mauvaises mains]]
+{{)}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[bon marché, c’est mauvais marché]]
+* [[bonne terre, mauvais chemins]]
+* [[il n’y a pas de mauvais temps, juste de mauvais équipements]]
+* [[l’argent est un bon serviteur et un mauvais maitre]] {{ortho1990}}
+* [[l’argent est un bon serviteur et un mauvais maître]]
+* [[un mauvais ouvrier a toujours de mauvais outils]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[mal]]
+* [[malignité]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|malchance|choix}}
+* [[pire]] ''(superlatif absolu)''
+
+==== {{S|traductions}} ====
+{{trad-début|Pas bon}}
+{{trad-fin}}
+
+{{trad-début|Nuisible|3}}
+{{trad-fin}}
+
+{{trad-début|Qui est enclin à faire du mal (en parlant d’une personne).|5}}
+{{trad-fin}}
+
+{{trad-début|erroné}}
+{{trad-fin}}
+
+=== {{S|adverbe|fr}} ===
+'''mauvais''' {{pron|mo.vɛ|fr}} ''ou'' {{pron|mɔ.vɛ|fr}}
+# Pas [[bon]], pas [[bien]].
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-inv|mo.vɛ|pron2=mɔ.vɛ|sp=1}}
+'''mauvais''' {{pron|mo.vɛ|fr}} ou {{pron|mɔ.vɛ|fr}} {{m}} {{équiv-pour|lang=fr|une femme|mauvaise}} {{sp}}
+# Ce qu’il y a de '''mauvais''' dans la chose ou dans la [[personne]] dont il [[s’agir|s’agit]]. {{note}} Principalement utilisé en opposition avec ''le bon''
+# {{term|quelquefois}} Personne peu [[doué]]e.
+# {{term|quelquefois}} Personne [[méchant]]e, [[agressive]], prête à [[causer]] du [[désordre]].
+
+==== {{S|synonymes}} ====
+* [[vilain]]
+
+==== {{S|traductions}} ====
+{{trad-début|Ce qu’il y a de mauvais.|1}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|mo.vɛ|fr}}
+* {{écouter|lang=fr|France|mo.vɛ|audio=Fr-mauvais.ogg}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-mauvais.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-mauvais.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-mauvais.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-mauvais.wav}}
+* {{écouter|lang=fr|France (Grenoble)|audio=LL-Q150 (fra)-GAllegre-mauvais.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-mauvais.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-mauvais.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-mauvais.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-mauvais.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-mauvais.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-mauvais.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-mauvais.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-mauvais.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-mauvais.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-mauvais.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-mauvais.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-mauvais.wav}}
+* {{écouter|Quimper (France)||lang=fr|audio=LL-Q150 (fra)-Llegoff29-mauvais.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-mauvais.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-mauvais.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-LuneMarine (DSwissK)-mauvais.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-mauvais.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-mauvais.wav}}
+
+=== {{S|références}} ===
+{{Références}}
+* {{Import:DAF8}}
+

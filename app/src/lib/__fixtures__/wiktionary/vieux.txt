@@ -1,0 +1,328 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr}} populaire ''vĕclus'' (attesté au V{{e}} siècle), altération de ''[[vetulus#la|vĕtŭlus]]'' (même sens), diminutif de ''[[vetus#la|vetus]]'' (idem).
+: {{circa|1050}} ''{{lien|velz|fro}}'' (''Vie de saint Alexis'', [[manuscrit|ms.]] du Psautier de St Albans).
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-mixte|m=vieux|pm=vjø|fs=vieille|pf=vjɛj}}
+{{fr-inv|vjɛj|inv_titre=Masculin singulier devant<br> une voyelle ou un h muet|s=vieil}}
+'''vieux''' {{pron|vjø|fr}} ('''[[vieil]]''' {{pron|vjɛj|fr}} devant une voyelle ou un ''h'' muet)
+# D’un [[certain]] [[âge]] ([[relatif]] à un [[autre]]).
+# [[ancien|Ancien]], qui [[existe]] depuis [[longtemps]].
+# Qui appartient à une époque passée ou dépassée.
+# Qui a l'[[apparence]] de la [[vétusté]] ou les [[dehors]] de la [[vieillesse]].
+# S’emploie avec les [[adverbes]] ''plus'' et ''moins,'' et autres [[semblables]], pour [[marquer]] la [[différence]] d’âge entre [[deux]] [[personnes]] ou [[choses]].
+# Personne qui [[exerce]] une [[profession]], un [[métier]], qui [[mène]] un certain [[genre]] de vie [[depuis]] longtemps.
+# Sert aussi à [[marquer]] les [[anciennes]] [[habitudes]], et [[surtout]] les [[habitudes]] [[vicieuses]].
+# S’emploie familièrement dans des [[phrases]] de [[dénigrement]].
+# S’emploie pour [[exprimer]] la [[vénération]] qu’[[inspire]] le nom d’un [[homme]] [[célèbre]] [[mort]] [[depuis]] longtemps, en laissant une grande [[renommée]].
+# Par [[comparaison]] et opposition à [[nouveau]].
+# Choses qui sont [[usées]], [[principalement]] des [[habits]], des [[meubles]], par opposition à [[neuf]].
+
+{{notes}}
+: Même devant une voyelle ou un h muet, ''vieux'' est parfois employé à la place de ''[[vieil]]'' :
+* {{exemple|lang=fr|
+Nous nous querellons un peu, mon '''vieux''' ami et moi ; mais la discussion ne peut aller loin quand on désire les mêmes résultats.
+| source={{w|George Sand}}, ''Journal d'un voyageur pendant la guerre'', 1871, page 135}}
+* {{exemple|lang=fr
+ | Alors, le '''vieux''' homme se tassait davantage, sa tête avait un léger mouvement d’oscillation, puis il redevenait immobile, un peu plus enfoui dans les plis de sa robe de chambre, un peu plus écroulé au fond de son fauteuil.
+|source={{w|Octave Mirbeau}}, ''{{w|Le Calvaire}}'', 1887}}
+* {{exemple|lang=fr|Le '''vieux''' homme se mit à danser en poussant des cris sauvages, puis se précipitant vers sa maison avec une étonnante vélocité et s’engouffrant à demi dans une énorme malle poilue qui faisait l’ornement de sa tanière, il en tira d’un seul coup tout son fourniment des jours de gloire.|source={{w|Léon Bloy}}, ''Le bon Gendarme dans ''{{ws|Sueur de Sang/Le bon Gendarme|Sueur de sang}}'', 1893}}
+* {{exemple|lang=fr|L’admirable '''vieux''' homme se sentit le dernier de tous, le seul qui restât pour garder la Chrétienté, et dans ces pensées merveilleuses, utilisant de vieilles armes rouillées dont s’étaient servis les grands de sa Race, il donna la mort à plusieurs de ses assassins avant d’expirer lui-même sur les chers livres qui lui chantaient, depuis sa jeunesse, le poème inoubliable des Vaillants de France.|source={{w|Léon Bloy}}, ''Le Siège de Rhodes'', dans ''{{ws|Sueur de Sang/Le Siège de Rhodes|Sueur de sang}}'', 1893}}
+
+==== {{S|apparentés}} ====
+{{(}}
+* [[vieillir]]
+* [[vieillot]]
+* [[vieillement]]
+* [[vieillerie]]
+{{)}}
+
+==== {{S|synonymes}} ====
+{{(}}
+* [[ancien]]
+* [[âgé]]
+* [[antique]]
+* [[archaïque]]
+* [[désuet]]
+* [[démodé]]
+* [[obsolète]]
+* [[périmé]]
+* [[suranné]]
+* [[vétuste]]
+{{)}}
+
+==== {{S|antonymes}} ====
+{{(}}
+* [[jeune]]
+* [[neuf]]
+* [[nouveau]]
+* [[moderne]]
+* [[récent]]
+* [[frais]]
+* [[actuel]]
+* [[contemporain]]
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[bon vieux temps]]
+* [[cantal vieux]]
+* [[coup de vieux]]
+* [[de la vieille roche]]
+* [[de vieille roche]]
+* [[dépouiller le vieil homme]]
+* [[en mémoire du bon vieux temps]]
+* [[éplucher des vieux légumes]] {{Québec|nocat=1}}
+* [[faire de vieux os]]
+* [[figé comme un vieux fond de sauce]]
+* [[laisser tomber quelqu’un comme une vieille chaussette]]
+* [[liqueur de vieux garçon]]
+* [[ma vieille]]
+* [[mollet de vieux Suisse]]
+* [[mon vieux]]
+* [[ne pas faire de vieux os]]
+* [[retourner quelqu’un comme une vieille chaussette]]
+* [[rhum vieux]]
+* [[roux-vieux]]
+* [[se faire vieux]]
+* [[se figer comme un vieux fond de sauce]]
+* [[se dépouiller du vieil homme]]
+* [[tour de vieille guerre]]
+* [[vieil anglais]]
+* [[vieil-anglais]]
+* [[vieil espagnol]]
+* [[vieil irlandais]]
+* [[vieil islandais]]
+* [[vieil-islandais]]
+* [[vieil or]]
+* [[vieil-ouïghour]]
+* [[vieillard]]
+* [[vieille barbe]]
+* [[vieille bête]]
+* [[vieille branche]]
+* la [[Vieille Capitale]] ''(la ville de Québec)''
+* [[vieille chouette]]
+* [[vieille école]]
+* [[vieille écorce]]
+* [[vieille Europe]]
+* [[vieille fille]]
+* [[vieille France]]
+* [[vieille lune]]
+* [[vieille moustache]]
+* [[vieille noix]]
+* [[vieille peau]]
+* [[vieilles latines]]
+* [[vieux avant l’âge]]
+* [[vieux barbon]]
+* [[vieux beau]]
+* [[vieux blanc]]
+* [[vieux breton]]
+* [[vieux brittonique]]
+* [[vieux briscard]]
+* [[Vieux carré]], [[Vieux carré français]]
+* [[vieux-catholique]]
+* [[vieux chien de berger anglais]]
+* [[vieux comme Hérode]]
+* [[vieux comme le monde]]
+* [[vieux comme les chemins]]
+* [[vieux comme les rues]]
+* [[vieux comme Mathusalem]]
+* [[vieux comme mes robes]]
+* [[vieux con]], [[vieille conne]]
+* [[vieux-conniser]]
+* [[Vieux Continent]]
+* [[vieux crabe]]
+* [[vieux crouton]] {{ortho1990}}
+* [[vieux croûton]]
+* [[vieux-croyant]]
+* [[Vieux de la Montagne]]
+* [[vieux démon]]
+* [[vieux français]]
+* [[vieux-français]]
+* [[vieux frison]]
+* [[vieux futhark]]
+* [[vieux fuþark]]
+* [[vieux gallois]]
+* [[vieux garçon]]
+* [[vieux gars]]
+* [[vieux haut allemand]]
+* [[vieux haut-allemand]]
+* [[vieux jeton]]
+* [[vieux jeu]]
+* [[vieux jeune homme]]
+* [[vieux jours]]
+* [[vieux-lille]], [[Vieux-Lille]]
+* [[vieux loup de mer]]
+* [[vieux-luthérien]]
+* [[Vieux Mans]]
+* [[vieux marcheur]]
+* [[vieux néerlandais]]
+* [[vieux nordique]]
+* [[vieux norrois]]
+* [[vieux-norrois]]
+* [[vieux norvégien]]
+* [[Vieux Paris]]
+* [[vieux pays]]
+* [[vieux perse]]
+* [[vieux-perse]]
+* [[vieux pointer danois]]
+* [[vieux prussien]]
+* [[vieux rose]]
+* [[vieux routier]]
+* [[vieux russe]]
+* [[vieux-russe]]
+* [[vieux saxon]]
+* [[vieux slave]]
+* [[vieux singe]]
+* [[vieux style]]
+* [[vieux tableau]]
+* [[Vieux-Tours]]
+* [[vieux turban]]
+* [[vieux turc]]
+* [[vieux-turc]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[à jeune cheval, vieux cavalier]]
+* [[à vieille mule, frein doré]]
+* [[c’est dans les vieux pots qu’on fait la meilleure soupe]]
+* [[c’est dans les vieux pots qu’on fait les meilleures confitures]]
+* [[ce n’est pas à un vieux singe qu’on apprend à faire des grimaces]]
+* [[le plus vieux métier du monde]]
+* [[on fait de bonne soupe dans un vieux pot]]
+* [[on n’apprend pas aux vieux singes à faire la grimace]]
+* [[quand le Diable devint vieux, il se fit ermite]]
+* [[vieux motard que jamais]] {{par plaisanterie|nocat=1}} (déformation plaisante de l’expression ''[[mieux vaut tard que jamais]]'')
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|temps|famille|lexicographie|avant}}
+* [[boules à mites]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad+|ar|قديم|tr=qadīm}}
+{{trad-fin}}
+
+{{trad-début|2. Ancien.}}
+* {{T|ar}} : {{trad+|ar|قديم|tr=qadīm}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-inv|vjø|sp=1}}
+'''vieux''' {{pron|vjø|fr}} {{m}} {{équiv-pour|lang=fr|une femme|vieille}}
+# [[personne âgée|Personne âgée]].
+# Ce qui est vieux, [[usé]].
+# {{argot|fr}}
+## {{au singulier}} {{lexique|famille|fr}} [[père|Père]].
+##* {{exemple | lang=fr | Mon '''vieux''' a regardé la télé hier.}}
+##* {{exemple | lang=fr
+ | Il n’avait pas été peu mortifié en se voyant refuser accès auprès de son père ; il l’eût été bien davantage s’il avait pu savoir qui venait de le devancer près du '''vieux'''.
+ | source={{w|André Gide}}, ''{{w|Les Caves du Vatican}}'', 1914}}
+##* {{exemple|lang=fr|Dans son vieux pardessus râpé<br
+/>Il s'en allait l'hiver, l'été<br
+/>Dans le petit matin frileux<br
+/>Mon '''vieux'''.|source=extrait de la chanson {{w|Mon vieux (chanson)|Mon vieux}}, paroles de {{w|Michelle Senlis}}, musique de {{w|Jean Ferrat}}, interprétée par {{w|Daniel Guichard}}, 1962}}
+## {{au pluriel}} {{lexique|famille|fr}} [[parents|Parents]].
+##* {{exemple|lang=fr|— Mon copain m’a dit : « Tiens, porte ça à tes '''vieux'''… »|source={{w|Bernard Clavel}}, ''{{w|Les Fruits de l’hiver}}'', Robert Laffont, 1968}}
+##* {{exemple | lang=fr
+ | Je me disais, il fait beau là et mes '''vieux''' sont de sortie ce soir, on pourrait se faire un barbec ? Enfin si ça vous dit...
+ | source=Linem B. O’Brien, ''One dollar bill'', Éditions Hélène Jacob, 2015, chapitre 8}}
+##* {{exemple | lang=fr
+ | Écoutez, Tarpon, a-t-elle dit, je me suis tiré de chez mes '''vieux''' à seize ans. J'ai crevé de faim. Maintenant, je bouffe, mais je ne sais jamais si je boufferai encore le mois prochain. C'est pas une vie. Je veux du blé
+ | source={{w|Jean-Patrick Manchette}}, ''Morgue pleine'', 1973, chapitre 15, Réédition Quarto Gallimard, page 525}}
+## {{au singulier}} Amant d'un certain âge, qui entretient une femme.
+##*{{exemple|lang=fr|{{smcp|Gontran}}. — Je ne compte pas son '''vieux''', n’est-ce pas ? Qu’est-ce que c’est qu’un '''vieux''' ? C’est une quantité négligeable.|source={{w|Georges Feydeau}}, ''{{w|Monsieur chasse !}}'', 1892}}
+# {{Côte d’Ivoire|fr}} Le [[père]], avec une forme de [[respect]].
+ | lang=fr
+}}
+|lang=fr}}
+==== {{S|synonymes}} ====
+{{(|Père|4a}}
+* [[papa]]
+* [[père]]
+* [[daron]]
+{{)}}
+
+==== {{S|dérivés}} ====
+* [[petit-vieux]]
+* [[retraite des vieux]]
+* [[vieux de la vieille]]
+
+==== {{S|apparentés}} ====
+{{(}}
+* [[envieillir]]
+* [[envieillissement]]
+* [[tire-vieille]]
+* [[vieil]]
+* [[vieillard]]
+* [[vieillarder]]
+* [[vieille]]
+* [[vieillement]]
+* [[vieillerie]]
+* [[vieillesse]]
+* [[vieillir]]
+* [[vieillissement]]
+* [[vétuste]]
+* [[vétusté]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[lorsqu’un vieux fait l’amour, la mort court alentour]]
+
+==== {{S|hyponymes}} ====
+{{(|(1)}}
+* [[barbon]]
+* [[birbe]]
+* [[croulant]]
+* [[croûton]]
+* [[gâteux]]
+* [[ganachard]]
+* [[ganachon]]
+* [[schnock]]
+* [[sénile]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Personne âgée}}
+{{trad-fin}}
+
+{{trad-début|Ce qui est ancien, usé}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|vjø|fr}}
+* {{pron|vjø|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|vjø|audio=Fr-vieux.ogg}}
+* {{écouter||vjø|lang=fr|audio=LL-Q150 (fra)-Guilhelma-vieux.wav}}
+* {{écouter||vjø|lang=fr|audio=LL-Q150 (fra)-Jules78120-vieux.wav}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-vieux.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-vieux.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-vieux.wav}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Fhala.K-vieux.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-vieux.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-vieux.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-vieux.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-vieux.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-vieux.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-vieux.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-vieux.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-vieux.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-vieux.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-vieux.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-vieux.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-vieux.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-vieux.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-vieux.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-vieux.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-LuneMarine (DSwissK)-vieux.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-vieux.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-vieux.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-vieux.wav}}
+* {{écouter|Côte d'Ivoire (Tanda)|nouchi|lang=fr|audio=LL-Q150 (fra)-Adjoumani512-vieux.wav  }}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-vieux.wav}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+[[Catégorie:Insultes en français]]

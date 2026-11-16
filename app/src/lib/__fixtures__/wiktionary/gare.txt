@@ -1,0 +1,115 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: (''[[#fr-nom|Nom commun]]'') {{date|1690|lang=fr}}{{R|Usito}} {{déverbal|lang=fr|m=1|de=garer}}{{R|Usito}}.
+: (''[[#fr-interj|Interjection]]'') {{date|1500|lang=fr}} {{apocope|fr|m=1|de=garde}}, impératif du verbe ''[[garder]]''{{R|Usito}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ɡaʁ|pron2=ɡɑʁ}}
+[[Image:2192437358 51c98ca4b0 b Gare de Lyon.jpg|vignette|La '''Gare''' (2) de Lyon à Paris.]]
+[[image:11-07-31-helsinki-by-RalfR-064.jpg|vignette|Trains à quai dans une '''gare''' (2).]]
+'''gare''' {{pron|ɡaʁ|ɡɑʁ|fr}} {{f}}
+# {{vieilli|fr}} {{lexique|marine|fr}} [[tronçon|Tronçon]] de [[voie]] [[fluvial]]e aménagée pour faciliter la [[circulation]] et la [[protection]] des [[navire]]s. {{cf|gare d’évitement}}
+# {{lexique|chemin de fer|fr}} [[ensemble|Ensemble]] des [[installations]] et  [[bâtiment]]s [[établir|établis]] à chaque [[station]] des [[ligne]]s de [[chemin de fer]].
+## En particulier, (téléphérique)
+##* {{exemple | lang=fr
+ | Le téléphérique de La Saulire est constitué: d’une '''gare''' inférieure (ou aval) (G1) dans laquelle se trouve la machinerie d’entraînement du câble tracteur : c’est la gare motrice, d’un unique pylône intermédiaire, d’une '''gare''' supérieure (ou amont) (G2), de deux voies de circulation, et de deux cabines.
+ | source = Rapport d'enquête technique  sur la collision des deux cabines avec les gares sur le téléphérique de La Saulire survenue le 29 septembre 2021 à Courchevel (Savoie) Juillet 2024
+}}
+
+==== {{S|synonymes}} ====
+{{(|Marine fluviale|1}}
+* [[gare d’eau]]
+{{)}}
+{{(|Chemin de fer|2}}
+* [[gare ferroviaire]]
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[aérogare]]
+* [[autogare]]
+* [[chef de gare]]
+* [[cheffe de gare]]
+* [[cheffesse de gare]]
+* [[gare d’autocars]]
+* [[gare d’eau]]
+* [[gare d’évitement]]
+* [[gare de raclage]] {{info lex|industrie}}
+* [[gare de téléphérique]] ''ou'' [[gare de téléférique]]
+* [[gare de triage]]
+* [[gare en cul-de-sac]]
+* [[gare ferroviaire]]
+* [[gare militaire]] : Celle qui est réservée pour l’embarquement et le débarquement des troupes en cas de guerre.
+* [[gare patates]] ''ou'' [[gare-patates]]
+* [[gare régulatrice]]
+* [[gare routière]]
+* [[gare terminus]]
+* [[gare tête de ligne]]
+* [[héligare]]
+* [[littérature de gare]]
+* [[marché-gare]]
+* [[omnibus de gare]]
+* [[roman de gare]]
+* [[sous-chef de gare]]
+{{)}}
+* [[Capdenac-Gare]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|wagon|sport d’hiver|chemin de fer|voie ferrée|quai|ville}}
+* [[station de métro]]
+
+==== {{S|traductions}} ====
+{{trad-début|Gare de chemin de fer}}
+* {{T|ar}} : {{trad-|ar|محطة|tr=maḥaṭṭah|dif=مَحَطَّه}}
+{{trad-fin}}
+
+=== {{S|interjection|fr}} ===
+{{fr-inv|ɡaʁ|pron2=ɡɑʁ}}
+'''gare''' {{pron|ɡaʁ|ɡɑʁ|fr}} {{invariable|fr}}
+# {{familier|fr}} S’emploie lorsqu’on avertit de se [[ranger]], de se détourner pour laisser passer quelqu’un ou quelque chose.
+# Il se dit aussi pour [[avertir]] quelqu’un du [[châtiment]] qu’il recevra s’il ne prend garde à lui, s’il ne fait pas mieux son devoir.
+
+==== {{S|dérivés}} ====
+* [[sans crier gare]] ''(sans avertir préalablement, à l’improviste)''
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|garer|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui}}
+'''gare''' {{pron|ɡaʁ|ɡɑʁ|fr}}
+# ''Première personne du singulier de l’indicatif présent de'' [[garer]].
+# ''Troisième personne du singulier de l’indicatif présent de'' [[garer]].
+# ''Première personne du singulier du subjonctif présent de'' [[garer]].
+# ''Troisième personne du singulier du subjonctif présent de'' [[garer]].
+# ''Deuxième personne du singulier de l’impératif de'' [[garer]].
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|ɡaʁ|fr}}
+* {{pron-rimes|ɡɑʁ|fr}}
+* {{pron|ɡaʁ|ɡɑʁ|fr}}
+* Français méridional : {{pron|ˈga.ʁə|fr}}
+* Canada : {{pron|ɡaʁ|ɡɑʁ|fr}}, {{phon|ɡɑɔ̯ʁ|fr}} {{informel|nocat=1}}
+* {{écouter|France (Paris)|yn ɡaːʁ̥|audio=Fr-gare.ogg|titre=une gare|lang=fr}}
+* {{écouter|lang=fr|France (Clermont-Ferrand)||audio=LL-Q150 (fra)-Aah Rix-gare.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-gare.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Anonymât (Kvardek du)-gare.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Estrie-gare.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-gare.wav}}
+* {{écouter|lang=fr|France (Canet-en-Roussillon)|ɡaːʁ̥|audio=LL-Q150 (fra)-Damian B. (BiblioCanet66)-gare.wav}}
+* {{écouter|Reims (France)||lang=fr|audio=LL-Q150 (fra)-Phmavipe-gare.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Althea81-gare.wav}}
+* {{écouter|Millau (France)||lang=fr|audio=LL-Q150 (fra)-Antochkat-gare.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-gare.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+* {{Wikipédia}}
+
+=== {{S|références}} ===
+{{Références}}
+* {{R:TLFi}}
+* {{R:DAF8}}
+
+[[Catégorie:Édifices en français]]
+

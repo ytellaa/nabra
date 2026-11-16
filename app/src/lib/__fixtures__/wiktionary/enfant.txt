@@ -1,0 +1,289 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|Fin X}} Du {{étyl|la|en|infantem}} accusatif de {{lien|''infans''|la|sens=qui ne [[parle]] pas}}{{R|FEW-abr}}{{R|RobertDHLF}}. Attestations au sens de « garçon ou fille en bas âge » fin {{siècle2|X}} siècle, et ''c. 1100'' (''1080'' selon DHLF) au sens d’ « adolescent »{{R|TLFi}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ɑ̃.fɑ̃|mf=oui}}
+[[image:Palestinian children in Jenin.jpg|vignette|Un groupe d’'''enfants''' (1).]]
+[[image:William M Connolley and children.jpg|vignette|Un père et ses deux '''enfants''' (2).]]
+[[image:Baby Mother Grandmother and Great Grandmother.jpg|vignette|Une arrière-grand-mère et trois générations de ses '''enfants''' (2).]]
+'''enfant''' {{pron|ɑ̃.fɑ̃|fr}} {{mf}} {{équiv-pour|une fille|texte=on dit très rarement|enfante|lang=fr}}
+# Personne qui n'a pas encore atteint l'adolescence.
+# Personne de tout âge considérée par rapport à ses [[parent]]s.
+# [[fils|Fils]], par [[relation]] à ses [[parent]]s.
+# {{par extension}} Descendant, descendante en ligne directe et indirecte.
+# Personne [[proche]] de manière [[affectif|affective]], [[amical]]e, [[filial]]e.
+# Représentants les plus jeunes d’une population.
+# {{figuré|fr}} {{vieilli|fr}} Chose qui est [[produire|produite]] par une [[autre]], qui en [[naître|naît]], qui en [[résulter|résulte]].
+# ''(En apposition ou attribut, avec valeur d'adjectif)''. Qui a le caractère d’un enfant.
+
+==== {{S|notes}} ====
+Le masculin ''« un enfant »'' peut désigner aussi bien une fille qu’un garçon. Comme le précise l’Académie française, on écrit ''« une enfant »'' seulement dans le cas où il y a intention expresse de préciser qu’il s’agit d’une fille.
+
+==== {{S|variantes}} ====
+* [[éfant]]
+* {{term|familier}} {{lien|nenfant|fr}}
+
+==== {{S|synonymes}} ====
+{{(|Jeune humain|1}}
+* [[bambin]] {{familier|nocat=1}}
+* [[boutchou]], [[bout d’chou]] ''(Familier)''
+* [[chérubin]]
+* [[chiard]] {{vulgaire|nocat=1}} {{péjoratif|nocat=1}}
+* [[drôle]] {{région|nocat=1}}
+* [[fils]], [[fille]]
+* [[flo]] {{Québec|nocat=1}} {{familier|nocat=1}}
+* [[galopin]] {{familier|nocat=1}}
+* [[gamin]] {{familier|nocat=1}}
+* [[gnasse]] {{familier|nocat=1}}
+* [[gosse]] {{familier|nocat=1}}
+* [[lardon]] {{familier|nocat=1}}
+* [[loupiot]] {{populaire|nocat=1}}
+* [[marmot]] {{familier|nocat=1}}
+* [[merdeux]] {{vulgaire|nocat=1}}
+* [[minot]] {{familier|nocat=1}}
+* [[mioche]] {{familier|nocat=1}} {{péjoratif|nocat=1}}
+* [[môme]] {{familier|nocat=1}}
+* [[morveux]] {{familier|nocat=1}} {{péjoratif|nocat=1}}
+* [[mouflet]] {{familier|nocat=1}}
+* [[mousse]] {{Québec|nocat=1}}, {{familier|nocat=1}}
+* [[moutard]] {{argot|nocat=1}}
+* [[moujingue]] {{familier|nocat=1}}
+* [[nias]] {{Sarthe|nocat}}
+* [[petiot]] {{familier|nocat=1}}
+* [[petit]]
+* [[piot]], [[piote]], [[piotte]] {{Lorraine|nocat=1}}
+* [[pitchoun]] {{familier|nocat=1}} {{région|nocat=1}}
+* [[pitchounet]] {{familier|nocat=1}}
+* [[p’tiot]] {{familier|nocat=1}}
+* [[queniau]], [[queniaude]], [[queniot]], [[queniotte]] {{Sarthe|nocat}}
+* [[rejeton]] {{argot|nocat=1}}
+* [[tête blonde]]
+* [[tiot]] {{Picardie|nocat=1}}
+* [[tit-bout]] {{Québec|nocat=1}} {{familier|nocat=1}}
+* [[tit-cul]], [[ti-cul]] {{Québec|nocat=1}} {{populaire|nocat=1}}
+{{)}}
+{{(|Descendant de première génération|2}}
+* [[descendance]]
+* [[descendant]]
+* [[portée]]
+* [[progéniture]]
+* [[rejeton]]
+{{)}}
+{{(|Avec valeur d'adjectif}}
+* [[enfantin]]
+{{)}}
+
+==== {{S|antonymes}} ====
+; Très jeune humain (1) :
+* [[adulte]]
+; Descendant de première génération (2) :
+* [[parent]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[apprendre à son père à faire des enfants]]
+* [[arrière-petit-enfant]]
+* [[cirque d’enfants]]
+* [[cirque pour enfants]]
+* [[bel-enfant]]
+* [[bon enfant]]
+* [[bonne d’enfants]]
+* [[chaise d’enfant]]
+* [[comment l’enfant se présente]]
+* [[déposer ses enfants à la piscine]]
+* [[enfant à la mamelle]]
+* [[enfant bleu]]
+* [[enfant-bulle]]
+* [[enfant d’archevêque]]
+* [[enfant de catin]]
+* [[enfant de chienne]]
+* [[enfant de chœur]]
+* [[enfant de fiancés]]
+* [[enfant de la balle]]
+* [[enfant de la Lune]]
+* [[enfant de l’amour]]
+* [[enfant de Marie]]
+* [[enfant de Melchisédech]]
+* [[enfant de Pétain]]
+* [[enfant de putain]]
+* [[enfant de pute]]
+* [[enfant de salaud]]
+* [[enfant de troupe]]
+* [[enfant du pays]]
+* [[enfant du sol]]
+* [[enfant gâté]]
+* [[enfant indigo]]
+* [[enfant Jésus]]
+* [[enfant naturel]]
+* [[enfant noir]]  
+* [[enfant-perdu]]
+* [[enfant posthume]]
+* [[enfant prodige]]
+* [[enfant prodigue]]
+* [[enfant-roi]]
+* [[enfant rouge]]
+* [[enfant soldat]], [[enfant-soldat]]
+* [[enfant terrible]]
+* [[enfant tombeau]]
+* [[enfant trouvé]]
+* [[enfant unique]]
+* [[enfantelet]]
+* [[enfantelette]]
+* [[enfantin]]
+* [[enfantisme]], [[enfantiste]]
+* [[enfants de la veuve]]
+* [[faire l’enfant]]
+* [[femme-enfant]]
+* [[garde d’enfant]]
+* [[garde des enfants]]
+* [[gardienne d’enfants]]
+* [[hôpital pour enfants]]
+* [[innocent comme l’enfant qui vient de naître]]
+* [[jardin d’enfants]]
+* [[jeu d’enfant]], [[jeu d’enfants]]
+* [[jour des enfants]] ([[mercredi]])
+* [[les femmes et les enfants d’abord]]
+* [[leste enfant]]
+* [[manège pour enfants]]
+* [[menu enfant]]
+* [[ne pas faire des enfants forts]]
+* [[non-représentation d’enfant]]
+* [[parc pour enfants]]
+* [[petit enfant]]
+* [[petit-enfant]]
+* [[père heureux dans ses enfants]]
+* [[père heureux en enfants]]
+* [[rhabiller les enfants]]
+* [[sans-enfant]]
+* [[supposition d’enfant]]
+* [[voiture d’enfant]]
+* [[zone pour les enfants]]
+* [[zoo pour enfants]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[à père avare, enfant prodigue]]
+* [[à père avare, enfant prodigue, à mère avare, galant escroc]]
+* [[c’est un jeu d’enfants]]
+* [[faire un enfant dans le dos]]
+* [[il n’y a plus d’enfants]]<ref>Molière, ''Le Malade imaginaire'', act. II, sc. 8.</ref> ''(se dit à propos d’un enfant qui parle de choses qu’il devrait encore ignorer)
+* [[ils furent heureux et eurent beaucoup d’enfants]]
+* [[ils vécurent heureux et eurent beaucoup d’enfants]]
+* [[il vaut mieux laisser son enfant morveux que de lui arracher le nez]]
+* [[la vérité sort de la bouche des enfants]]
+* [[mieux vaut laisser son enfant morveux que lui arracher le nez]]
+
+==== {{S|apparentés}} ====
+* [[enfance]]
+* [[enfanter]]
+* [[enfantin]]
+* [[enfantillage]]
+* [[désenfantement]]
+* [[désenfanter]]
+* [[désenfantisation]]
+* [[désenfantiser]]
+* [[infanticide]]
+
+==== {{S|hyponymes}} ====
+''Jeune humain'' (1) :
+* [[fille]] / [[garçon]]
+* [[damoiselle]] / [[damoiseau]]
+* [[jouvencelle]] / [[jouvenceau]]
+* [[bébé]]
+* [[nourrisson]]
+* [[poupard]]
+* [[poupon]]
+''Descendant de première génération'' (2) :
+* [[fille]] / [[fils]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|allaitement|autorat|baiser|famille|femme|généalogie|sociologie de la famille|parenté|émancipation|sacrifice|calendrier de l’Avent|risque sanitaire}}
+* [[adolescent]]
+* [[adulte]]
+* [[bébé]]
+* [[pédiatrie]]
+
+==== {{S|traductions}} ====
+{{trad-début|Jeune humain|1}}
+* {{T|ar}} : {{trad+|ar|طفل|tr=ṭifl|dif=طِفْل}}
+* Latin : [[puer]], [[puella]]
+{{trad-fin}}
+
+{{trad-début|Descendant|2}}
+* {{T|ar}} : {{trad+|ar|ولد|tr=walad}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début|Traductions à trier suivant le sens}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|ɑ̃.fɑ̃|fr}}
+** {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|titre=un enfant|œ̃.n‿ɑ̃.fɑ̃|audio=Fr-enfant.ogg}}
+** {{écouter|lang=fr||ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Guilhelma-enfant.wav}}
+** {{écouter|lang=fr|France|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Roll-Morton-enfant.wav}}
+** {{écouter|lang=fr|France (Massy)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-X-Javier-enfant.wav}}
+** {{écouter|lang=fr|France|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Fhala.K-enfant.wav}}
+** {{écouter|lang=fr|France (Paris)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-GrandCelinien-enfant.wav}}
+** {{écouter|lang=fr|Suisse (Genève)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Nattes à chat-enfant.wav}}
+** {{écouter|lang=fr|France (Grenoble)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-GAllegre-enfant.wav}}
+** {{écouter|lang=fr|Suisse (canton du Valais)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-DSwissK-enfant.wav}}
+** {{écouter|lang=fr||ɑ̃.fɑ̃|audio=LL-Q150 (fra)-WikiLucas00-enfant.wav}}
+** {{écouter|lang=fr|France (Paris)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Aemines1-enfant.wav}}
+** {{écouter|lang=fr|France (Paris)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Aemines2-enfant.wav}}
+** {{écouter|lang=fr|France (Paris)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Aemines3-enfant.wav}}
+** {{écouter|lang=fr|France (Paris)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Aemines5-enfant.wav}}
+** {{écouter|lang=fr||ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Aemines4-enfant.wav}}
+** {{écouter|lang=fr|France (Paris)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Aemines6-enfant.wav}}
+** {{écouter|lang=fr|France (Vosges)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Poslovitch-enfant.wav}}
+** {{écouter|lang=fr|France (Montpouillan)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Yug-enfant.wav}}
+** {{écouter|lang=fr|France (Paris)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Ash Crow-enfant.wav}}
+** {{écouter|lang=fr|France (Vosges)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-LoquaxFR-enfant.wav}}
+** {{écouter|lang=fr||ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Madehub-enfant.wav}}
+** {{écouter|lang=fr|France (Hérault)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-T. Le Berre-enfant.wav}}
+** {{écouter|lang=fr|Suisse (Lausanne)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Eihel-enfant.wav}}
+** {{écouter|lang=fr||ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Kaderousse-enfant.wav}}
+** {{écouter|lang=fr|France (Metz)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-val (Eavq)-enfant.wav}}
+** {{écouter|lang=fr|France|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Mecanautes-enfant.wav}}
+** {{écouter|lang=fr|France (Lyon)|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Loizbec-enfant.wav}}
+** {{écouter|lang=fr||ɑ̃.fɑ̃|audio=LL-Q150 (fra)-Fabe56-enfant.wav}}
+** {{écouter|Montpellier (France)|lang=fr|ɑ̃.fɑ̃|audio=LL-Q150 (fra)-GeoMechain-enfant.wav}}
+* Français méridional : {{pron|aŋˈfaŋ|fr}}
+** {{écouter|lang=fr|France (Toulouse)|aŋˈfaŋ|audio=LL-Q150 (fra)-Lepticed7-enfant.wav}}
+* Canada : {{pron|ã.fã|fr}}
+** {{écouter|lang=fr|Canada (Shawinigan)|ã.fã|audio=LL-Q150 (fra)-DenisdeShawi-enfant.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-enfant.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-enfant.wav}}
+* {{écouter|Normandie (France)||lang=fr|audio=LL-Q150 (fra)-Roptat-enfant.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Lunagrouh-enfant.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-enfant.wav}}
+* {{écouter|Valence (France)||lang=fr|audio=LL-Q150 (fra)-Johanboss-enfant.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)||lang=fr|audio=LL-Q150 (fra)-Helenou66-enfant.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-enfant.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-enfant.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-C. (Hildepont)-enfant.wav}}
+
+==== {{S|paronymes}} ====
+* [[infant]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* [[Annexe:Famille en français]]
+* {{WP}}
+* {{Le Dico des Ados}}
+* {{Wikiquote}}
+* {{Wikiquote|enfance}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+==== {{S|sources}} ====
+{{Références}}
+
+[[Catégorie:Lexique en français de la famille]]
+[[Catégorie:Jeunes animaux en français]]
+[[Catégorie:Adjectifs invariables en français]]
+[[Catégorie:Mots masculins en français pouvant désigner des femmes]]
+

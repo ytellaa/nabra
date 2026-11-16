@@ -1,0 +1,45 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{composé de|m=1|lent|-ment|lang=fr}}.
+
+=== {{S|adverbe|fr}} ===
+'''lentement''' {{pron|lɑ̃t.mɑ̃|lɑ̃.tə.mɑ̃|fr}}
+# De [[manière]] [[lente]], [[peu]] [[rapide]].
+
+==== {{S|synonymes}} ====
+* [[à pas de tortue]]
+* [[à pas d'homme]]
+* [[doucement]]
+
+==== {{S|antonymes}} ====
+* [[rapidement]]
+* [[vite]]
+
+==== {{S|phrases}} ====
+* [[qui va lentement va surement]] {{ortho1990}}
+* [[qui va lentement va sûrement]]
+* [[qui va lentement, va surement]] {{ortho1990}}
+* [[qui va lentement, va sûrement]]
+* [[hâte-toi lentement]]
+
+==== {{S|dérivés}} ====
+* [[lentement mais surement]] {{ortho1990}}
+* [[lentement mais sûrement]]
+
+==== {{S|vocabulaire}} ====
+* [[brady-]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|lɑ̃t.mɑ̃|fr}}
+* {{écouter|lang=fr|France (Paris)|lɑ̃.tə.mɑ̃|audio=Fr-lentement.ogg}}
+* {{écouter|lang=fr|France (Lyon)|audio=LL-Q150 (fra)-WikiLucas00-lentement.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-lentement.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-lentement.wav}}
+
+=== {{S|références}} ===
+* {{R:Littré}}
+* {{R:TLFi}}

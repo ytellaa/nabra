@@ -1,0 +1,40 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Pluriel de {{lien|''nouvelle''|fr}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|nu.vɛl|s=nouvelle}}
+'''nouvelles''' {{pron|nu.vɛl|fr}} {{f}} {{p}}
+# [[renseignement|Renseignement]] sur l’[[état]] d’une personne ou d’une chose dont on n’[[était]] pas [[informer|informé]] [[depuis]] quelque [[temps]].
+
+==== {{S|dérivés}} ====
+* [[en dire des nouvelles]]
+* [[pouvoir en dire des nouvelles]]
+
+==== {{S|phrases}} ====
+* [[pas de nouvelles, bonnes nouvelles]] ''(quand on ne reçoit pas de nouvelles d’une personne, on doit présumer qu’il ne lui est pas arrivé de mal)''
+
+==== {{S|traductions}} ====
+{{trad-début|Renseignement sur l’état d’une personne ou d’une chose|1}}
+* {{T|ar}} : {{trad+|ar|أخبار|R=ʾaḫbâr|dif=أَخْبار}}
+{{trad-fin}}
+
+=== {{S|adjectif|fr|flexion}} ===
+{{fr-accord-eau|nouv|nu.v}}
+{{fr-inv|inv_titre=Masc. sing. devant<br>
+une voyelle ou un h muet|s=nouvel|pron=nu.vɛl}}
+'''nouvelles''' {{pron|nu.vɛl|fr}}
+# ''Féminin pluriel de'' [[nouveau]].
+
+=== {{S|nom|fr|flexion}} ===
+{{fr-rég|nu.vɛl|s=nouvelle}}
+'''nouvelles''' {{pron|nu.vɛl|fr}} {{f}}
+# ''Pluriel de'' [[nouvelle#fr-nom|nouvelle]].
+
+=== {{S|prononciation}} ===
+* {{pron|nu.vɛl|fr}}
+** {{écouter|lang=fr|France (Paris)|de nu.vɛl|audio=Fr-des nouvelles.ogg}}
+** {{écouter|lang=fr|France (Paris)|nu.vɛl|audio=Fr-nouvelles.ogg}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}

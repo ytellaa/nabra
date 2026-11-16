@@ -1,0 +1,67 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date||lang=fr}} {{composé de|maire|-ie|lang=fr|m=1}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|mɛ.ʁi}}
+[[File:Pourrain-FR-89-mairie-08.jpg|thumb|170px]]
+'''mairie''' {{pron|me.ʁi|fr}}, {{pron|mɛ.ʁi|fr}} {{f}}
+# [[charge|Charge]], [[dignité]] de [[maire]].
+# [[bâtiment|Bâtiment]], [[ensemble]] de bâtiments où se [[tenir|tient]] l’[[administration]] [[municipal]]e (dans certaines [[ville]]s, on dit aussi ''hôtel de ville'' ou ''maison commune'').
+# [[administration|Administration]] et territoire sous l’autorité du maire.
+# {{désuet|fr}} ou {{CH|fr}} [[temps|Temps]] [[durant]] lequel on [[exercer|exerce]] la [[fonction]] de maire.
+# {{lexique|histoire|fr}} ''Mairie du palais'' : [[charge]] de maire du [[palais]].
+# {{par métonymie|fr}} [[conseil municipal|Conseil municipal]].
+
+==== {{S|synonymes}} ====
+* [[hôtel de ville]] (2)
+* {{vieilli|nocat=1}} [[mairerie]]
+* [[maison communale]] (2) {{BE|nocat=1}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[mairie annexe]]
+* [[mairie du palais]] ''(dignité de maire du palais)''
+* [[mairie-lavoir]]
+* [[se marier à la mairie du treizième]]
+* [[secrétaire de mairie]]
+* [[secrétariat de mairie]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[maire]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|document|ville}}
+* [[centre]] [[administratif]] [[municipal]] (2)
+* [[commune]]
+
+==== {{S|traductions}} ====
+{{trad-début|Charge de maire|1}}
+{{trad-fin}}
+
+{{trad-début|Bâtiment où se tient l’administration municipale|2}}
+{{trad-fin}}
+
+{{trad-début|Administration et territoire sous l’autorité du maire|3}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|Paris (France)|mɛ.ʁi|audio=Fr-Paris--mairie.ogg}}
+* {{écouter|Lyon (France)|mɛ.ʁi|lang=fr|audio=LL-Q150 (fra)-WikiLucas00-mairie.wav}}
+* {{écouter|Saint-Laurent-de-Cerdans (France)|me.ʁi|lang=fr|audio=LL-Q150 (fra)-Helenou66-mairie.wav}}
+* {{écouter|Somain (France)|me.ʁi|lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-mairie.wav}}
+* {{écouter|Vendée (France)|mɛ.ʁi|lang=fr|audio=LL-Q150 (fra)-Sartus85-mairie.wav}}
+* {{écouter|Mulhouse (France)|me.ʁi|lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-mairie.wav}}
+* {{écouter|Reims (France)||lang=fr|audio=LL-Q150 (fra)-Phmavipe-mairie.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Althea81-mairie.wav}}
+* {{écouter|Millau (France)||lang=fr|audio=LL-Q150 (fra)-Antochkat-mairie.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+[[Catégorie:Lexique en français de l’administration]]
+[[Catégorie:Édifices en français]]

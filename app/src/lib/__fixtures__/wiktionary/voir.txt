@@ -1,0 +1,302 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: ''([[voir#fr-verb|Verbe]])'' {{circa|lang=fr|980}}{{R|RobertDHLF}} De l’{{étyl|fro|fr|mot=veoir}} {{circa|1200}}{{R|RobertDHLF}}, ''{{lien|veeir|fro}}''{{circa|1155}}{{R|RobertDHLF}}, anciennement ''{{lien|vedeir|fro}}'' {{circa|1080}}{{R|RobertDHLF}}, ''{{lien|veder|fro}}'' {{circa|980}}{{R|RobertDHLF}}, du {{étyl|la|fr|mot=videre|dif=vidēre|sens=percevoir par la vue, être témoin de}}{{R|RobertDHLF}}, infinitif présent actif de ''{{lien|video|dif=videō|la}}'', de l’indo-européen {{recons|lang-mot-vedette=fr|weyd-}}{{R|RobertDHLF}}.
+
+=== {{S|verbe|fr}} ===
+'''voir''' {{pron|vwaʁ|fr}} {{t|fr}} {{conjugaison|fr|groupe=3}} {{lien pronominal}}
+# [[percevoir|Percevoir]] l’[[image]] des [[objet]]s par l’[[organe]] de la [[vue]].
+/>– Vous le '''verrez''' avant qu’il soit longtemps, promit le soldat.'' {{source|{{Citation/H. G. Wells/La Guerre dans les airs/1921|27}}}}
+# [[donner|Donner]] en [[vis-à-vis]], [[avoir]] une [[vue]].
+# {{par extension|fr}} {{lexique|militaire|fr}} Avoir une vue [[découvert]]e sur une [[cible]] [[en sorte qu’]]on est à portée de la [[battre]] avec le [[canon]].
+# Être le [[lieu]] où se [[déroule]] une [[action]] ; en être le [[siège]].
+# [[vivre|Vivre]] pendant une [[période]] désignée, [[connaître|avoir connu]] cette [[époque]].
+# {{figuré|fr}} {{familier|fr}} [[imaginer|Imaginer]], [[représenter]].
+# [[prendre soin|Prendre soin]] de quelqu'un, le [[traiter]].
+# {{term|inversement}} [[consulter|Consulter]].
+# {{absolument}} Être en [[état]] de [[percevoir]] l’[[image]] des [[objet]]s.
+# Être [[témoin]] de l’[[état]] d’une [[personne]] ou d’une [[chose]].
+# Être [[témoin]] de faits, d’[[événement]]s [[contemporain]]s, ou en avoir [[seulement]] [[entendu]] parler.
+# Faire des [[observation]]s et des [[remarque]]s [[lire|en lisant]] ; se [[reporter]] à ce que l’on lit.
+# [[fréquenter|Fréquenter]].
+# {{en particulier}} Avoir une [[relation]] [[amoureux|amoureuse]].
+# {{en particulier}} Avoir une [[entrevue]], une [[conversation]], avec [[quelqu’un]].
+# {{spécialement}} {{term|Avec la négation}} {{familier|fr}} [[supporter|Supporter]].
+# [[acquérir|Acquérir]] la [[connaissance]] des choses du [[monde]], dans les [[voyage]]s ou dans le [[commerce]] des [[homme]]s.
+# [[regarder|Regarder]], [[considérer]] [[avec]] [[attention]].
+# [[examiner|Examiner]], [[vérifier]], se [[réserver]] de [[prendre un parti]].
+# {{familier|fr}} [[vérifier|Vérifier]] par [[soi-même]] une [[assertion]], une [[information]].
+# S’[[apercevoir]], [[se rendre compte]], [[comprendre]].
+# [[inspecter|Inspecter]] [[avec]] [[autorité]], [[veiller]] à.
+# [[éprouver|Éprouver]], [[essayer]].
+# {{par analogie|fr}} [[juger|Juger]] par le [[sens]] du [[goût]], de l’[[odorat]], du [[toucher]] ou de l’[[ouïe]], en parlant des choses que l’on [[connaître|connaît]].
+# [[juger|Juger]] ; [[apprécier]] ; [[envisager]].
+# {{familier|fr}} [[étudier|Étudier]], [[apprendre]].
+# Aller faire quelque chose.
+# {{QC|fr}} {{désuet|fr}} ''(Par euphémisme et apocope de ''[[voir ses règles]]'')'' Avoir ses menstruations.
+# {{lexique|religion|fr}} [[connaître|Connaître]] par l’[[intelligence]].
+# {{pronl|fr}} {{sens propre|fr}} [[voir|Voir]] soi-même. Voir [[l’un l’autre]].
+# {{pronl|fr}} {{term|Avec un adjectif ou avec un participe passé}} [[être|Être]].
+# {{pronl|fr}} {{term|Avec un infinitif}} ''Construction pour faire du [[COD]], du [[COI]] ou du quelqu’un en question le [[sujet]].'' {{note}} La construction passive en français avec ''[[être]]'' ne peut faire que du COD le sujet.
+/>Urbaine posait cette question à tous les parents d’agonisants et si l’on '''se voyait''' mourir, mon Dieu, tout était fini.'' {{source|{{w|Jean Giraudoux}}, ''{{ws|Provinciales/De ma fenêtre|Provinciales}}'', Grasset, 1922, réédition Le Livre de Poche, page 24}}
+
+==== {{S|variantes}} ====
+{{(}}
+* [[vair]] (régional, Bretagne romane)
+* [[veir]], [[vei']], [[vé]] (régional, Normandie)
+* [[veoir]], [[vëoir]] {{désuet|nocat=1}}
+* [[véoir]] {{désuet|nocat=1}} {{rare|nocat=1}}
+* [[vir]] (régional, Picardie, Artois)
+* [[vouère]], [[voué]], [[ouère]] (régional, divers pays de langue d'oïl)
+* [[woir]] {{QC|nocat=1}}
+{{)}}
+
+==== {{S|synonymes}} ====
+* [[cf.]] (''[[confer]]'') - uniquement sous l’aspect de verbe impératif. Exemple : ''Voir (en) page 4''
+* [[apercevoir]]
+* [[distinguer]]
+* [[mirer]]
+* [[remarquer]]
+==== {{S|quasi-synonymes}} ====
+* [[mirer]]
+* [[regarder]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[à voir]]
+* [[aller se faire voir]]
+* [[aller voir]]
+* [[aller voir ailleurs]]
+* [[assigner pour voir dire et ordonner]]
+* [[attendre de voir]]
+* [[avoir à voir]]
+* [[avoir des yeux pour ne pas voir]]
+* [[avoir tout vu]]
+* [[avoir vu le loup]]
+* [[belle-à-voir]]
+* [[ben voyons donc]]
+* [[déjà-vu]]
+* [[entrevoir]]
+* [[être bien vu]], [[être mal vu]]
+* [[en avoir bien vu d’autres]]
+* [[en faire voir]]
+* [[en faire voir de toutes les couleurs]]
+* [[en voir de toutes les couleurs]]
+* [[en faire voir des vertes et des pas mûres]]
+* [[en voir de grises]]
+* [[en voir des vertes et des pas mûres]]
+* [[faire nuit à ne pas se voir]]
+* [[faire peine à voir]]
+* [[faire plaisir à voir]]
+* [[faire voir]]
+* [[faire voir du pays]]
+* [[falloir voir]]
+* [[femme qui a vu la femme qui a vu l’ours]]
+* [[homme qui a vu l’homme qui a vu l’ours]]
+* [[il dit qu’il voit pas le rapport]] ''(Locution interjective)''
+* [[il ferait beau voir]]
+* [[laisser voir]]
+* [[m’as-tu-vu]]
+* [[n’avoir rien à voir]]
+* [[n’avoir vu que le clocher de son village]]
+* [[ne pas pouvoir voir en peinture]]
+* [[ne pas voir l’eau dans le Rhône]]
+* [[ne pas voir le temps passer]]
+* [[ne pas voir plus loin que le bout de son nez]]
+* [[ne pas voir plus loin que son nez]]
+* [[ne plus pouvoir voir en peinture]]
+* [[ne voir personne]]
+* [[ne vouloir voir qu’une tête]]
+* [[ni vu ni connu]]
+* [[n’y voir que du bleu]]
+* [[n’y voir que du feu]]
+* [[pensez voir]]
+* [[pour voir]]
+* [[prévoir]]
+* [[revoir]]
+* [[sans y voir d’un pas]]
+* [[se faire voir]]
+* [[se voir comme dans un miroir]]
+* [[se voir comme le nez au milieu de la figure]]
+* [[se voir comme le nez au milieu du visage]]
+* [[se voir tous les jours]]
+* [[va-t’en voir s’ils viennent]]
+* [[venez-y-voir]]
+* [[vision]]
+* [[voir à]]
+* [[voir bien loin]]
+* [[voir blanc]]
+* [[voir d’un bon œil]]
+* [[voir d’un mauvais œil]]
+* [[voir de bon œil]]
+* [[voir de loin]]
+* [[voir de mauvais œil]]
+* [[voir de ses propres yeux]]
+* [[voir des éléphants roses]]
+* [[voir des rats bleus]]
+* [[voir double]]
+* [[voir du pays]]
+* [[voir en blanc]]
+* [[voir en rouge]]
+* [[voir grand]]
+* [[voir juste]]
+* [[voir la couleur de]]
+* [[voir la feuille à l’envers]]
+* [[voir la fin]]
+* [[voir la fin du tunnel]]
+* [[voir la Lune en plein jour]]
+* [[voir la mort de près]]
+* [[voir la paille dans l’œil du voisin et ne pas voir la poutre dans le sien]]
+* [[voir la vie en rose]]
+* [[voir la vierge]]
+* [[voir le bout du tunnel]]
+* [[voir le bout]]
+* [[voir le jour]]
+* [[voir le loup]]
+* [[voir le tableau]]
+* [[voir les choses en grand]]
+* [[voir midi à sa porte]]
+* [[voir rouge]]
+* [[voir ses juges]]
+* [[voir trente-six chandelles]]
+* [[voir vaches noires en bois brûlé]]
+* [[voir venir]]
+* [[vois-tu]]
+* [[voyance]]
+* [[voyant]]
+* [[voyez-vous]]
+* [[voyez-vous ça]]
+* [[voyons donc]]
+* [[voyons voir]]
+* [[voyons]]
+* [[vu, de mes yeux vu]]
+* [[vu que]]
+* [[vu]]
+* [[vue]]
+{{)}}
+
+==== {{S|dérivés autres langues}} ====
+* {{L|crs}} : {{lien|war|crs}}
+* {{L|ht}} : {{lien|wè|ht}}
+
+==== {{S|phrases}} ====
+{{(}}
+* [[allez voir là-bas si j’y suis]]
+* [[as-tu vu Lambert]]
+* [[c’est au pied du mur qu’on voit le maçon]]
+* [[cachez ce … que je ne saurais voir]]
+* [[cela ne se voit pas plus que le nez au milieu du visage]]
+* [[cela ne s’est jamais vu]]
+* [[cela ne s’était pas encore vu]]
+* [[cela se voit comme le nez au milieu de la figure]]
+* [[cela se voit comme le nez au milieu du visage]]
+* [[chacun voit midi à sa porte]]
+* [[circulez y’a rien à voir]]
+* [[il n’est pire aveugle que celui qui ne veut pas voir]]
+* [[je voudrais bien voir]]
+* [[la véritable amitié se voit dans le malheur]]
+* [[on n’a jamais vu pareille chose]]
+* [[on n’a jamais vu une chose pareille]]
+* [[on veut pas le savoir, on veut le voir]] 
+* [[quand on parle du loup, on en voit la queue]]
+* [[qui ne l’a pas vu, n’a rien vu]]
+* [[tu vas voir ce que tu vas voir]]
+* [[va-t’en voir]]
+* [[va-t’en voir s’ils viennent]]
+* [[va voir ailleurs si j’y suis]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début|Percevoir l’image des objets par l’organe de la vue|1}}
+* {{T|ar}} : {{trad+|ar|رأى|R=raʾaa|dif=رَأى}}
+{{trad-fin}}
+
+{{trad-début|Imaginer, représenter|6}}
+{{trad-fin}}
+
+{{trad-début|Consulter|8}}
+{{trad-fin}}
+
+{{trad-début|(Absolument) Être en état de percevoir l’image des objets|9}}
+{{trad-fin}}
+
+{{trad-début|Faire des observations et des remarques en lisant|12}}
+{{trad-fin}}
+
+{{trad-début|Avoir une entrevue, une conversation, avec quelqu’un|15}}
+{{trad-fin}}
+
+{{trad-début|S’apercevoir, se rendre compte, comprendre|21}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+
+=== {{S|adverbe|fr}} ===
+'''voir''' {{pron|vwaʁ|fr}}
+# S’utilise après certains verbes à l’impératif, pour en renforcer la [[demande]], l’[[injonction]].
+/>– Tu parles ! À l’école, il les bourre tous, c’est pas parce que c’est mon fils, mais écoute '''voir''', c’est un dur.'' {{source|{{w|Robert Merle}}, ''Week-end à Zuydcoote'', 1949, réédition Le Livre de Poche, page 19}}
+# Exprime une [[menace]], une mise au [[défi]].
+
+==== {{S|dérivés}} ====
+* [[voyons voir]]
+
+==== {{S|traductions}} ====
+{{trad-début|Renforcer la [[demande]], l’[[injonction]]|1}}
+{{trad-fin}}
+
+{{trad-début|Exprime une [[menace]], une mise au [[défi]]|2}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|vwaʁ|fr}}
+** {{écouter|France (Paris)|vwaːʁ|audio=Fr-voir.ogg|lang=fr}}
+** {{écouter|lang=fr|France|vwaʁ̞|audio=LL-Q150 (fra)-Roll-Morton-voir.wav}}
+** {{écouter|lang=fr|France (Paris)|vwaːʁ|audio=LL-Q150 (fra)-GrandCelinien-voir.wav}}
+** {{écouter|lang=fr|France (Paris)|vwaːʁ|audio=LL-Q150 (fra)-Ash Crow-voir.wav}}
+** {{écouter|France|vwaːʁ̥|lang=fr|audio=LL-Q150 (fra)-Sagnamadr-voir.wav}}
+** {{écouter|lang=fr|France|vwaːʀ̥|audio=LL-Q150 (fra)-Kaderousse-voir.wav}}
+** {{écouter|lang=fr|France|vwaːʁ̥|audio=LL-Q150 (fra)-Fabe56-voir.wav}}
+** {{écouter|Italie (Courmayeur)|vwɑːʁ̥|niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-voir.wav}}
+* {{term|Sud de la France}} {{phon|vwaʁ̥|fr}}
+** {{écouter|lang=fr|France (Toulouse)|vwaʁ̥|audio=LL-Q150 (fra)-Lepticed7-voir.wav}}
+** {{écouter|lang=fr|France (Grenoble)|vwaʁ̥|audio=LL-Q150 (fra)-GAllegre-voir.wav}}
+** {{écouter|France (Grenoble)|vwaːʁ̥|lang=fr|audio=LL-Q150 (fra)-Opsylac-voir.wav}}
+** {{écouter|lang=fr|France (Hérault)|vwaːʁ̥|audio=LL-Q150 (fra)-T. Le Berre-voir.wav}}
+** {{écouter|France (Hérault)|vwɑʔ|lang=fr|audio=LL-Q150 (fra)-Guilhelma-voir.wav}}
+* {{term|Nord de la France}} {{phon|vwɑːʁ|fr}}, {{phon|vwaːʁ|fr}}
+** {{écouter|France (Hauts-de-France)|vwɑːʁ̥|lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-voir.wav}}
+** {{écouter|lang=fr|France (Vosges)|vwɑːʁ̥|audio=LL-Q150 (fra)-Poslovitch-voir.wav}}
+** {{écouter|lang=fr|France (Vosges)|vwɑːʁ̥|audio=LL-Q150 (fra)-LoquaxFR-voir.wav}}
+** {{écouter|lang=fr|France (Caen)|vwɑːʀ̥|audio=LL-Q150 (fra)-Mecanautes-voir.wav}}
+** {{écouter|lang=fr|France (Massy)|vwɑːʁ̞|audio=LL-Q150 (fra)-X-Javier-voir.wav}}
+** {{écouter|lang=fr|France (Strasbourg)|vwɑːʁ̥|audio=LL-Q150 (fra)-Madehub-voir.wav}}
+** {{écouter|lang=fr|France (Metz)|vwɑːʀ̥|audio=LL-Q150 (fra)-val (Eavq)-voir.wav}}
+** {{écouter|France (Lyon)|ˈvwɑ.ʁə̆|lang=fr|audio=LL-Q150 (fra)-WikiLucas00-voir.wav}}
+** {{écouter|lang=fr|France (Lyon)|vwɑːʁ̥|audio=LL-Q150 (fra)-Loizbec-voir.wav}}
+** {{écouter|lang=fr|France (Normandie)|vwaːʁ̥|audio=LL-Q150 (fra)-Pamputt-voir.wav}}
+* {{Suisse|nocat=1}} {{phon|vwɑːʁ|fr}}, {{phon|vwaːʁ|fr}}
+** {{écouter|lang=fr|Suisse (canton du Valais)|vwɑːʁ̥|audio=LL-Q150 (fra)-DSwissK-voir.wav}}
+** {{écouter|lang=fr|Suisse (Genève)|vwaːʀ̥|audio=LL-Q150 (fra)-Nattes à chat-voir.wav}}
+** {{écouter|lang=fr|Suisse (Lausanne)|ˈvwæː.ʁə̆|audio=LL-Q150 (fra)-Eihel-voir.wav}}
+* {{CA|nocat=1}} {{phon|vwɑːʁ|fr}}, {{phon|vwɔːʁ|fr}}, {{phon|vwæːʁ|fr}} {{vieilli|nocat=1}}, {{phon|vwaɛ̯ʁ|fr}} {{vieilli|nocat=1}}
+** {{écouter|lang=fr|Canada (Shawinigan)|vwɑːʀ̥|audio=LL-Q150 (fra)-DenisdeShawi-voir.wav}}
+** {{écouter|lang=fr|Canada (Gaspésie) {{vieilli|nocat=1}}|vwæːʁ̞|audio=FR-Voir (Gaspésie).ogg}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-voir.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[voire]]
+* [[Voires]]
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+* {{Wikipédia|Voir}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{R:Littré}}
+{{références}}
+
+[[Catégorie:Verbes de perception en français]]
+

@@ -1,0 +1,73 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr|1080}} Du {{étyl|frm|fr|trés}}, de l’{{étyl|fro|fr|trés}}, du {{étyl|la|fr|mot=trans|sens=au delà de », « de part en part », « complètement}} ; d’où son emploi moderne comme adverbe superlatif.
+: Jusqu’à la fin du {{siècle2|XIX}} siècle, l’usage prépondérant est de lier l’adverbe à l’adjectif avec un trait d’union ({{cf|lang=fr|très-}}).
+:* ''Une sorte de thé vert qui est '''très-'''fin et d’une odeur '''très-'''agréable. Le song-lo et le bohé sont moins recherchés par les Hollandais.'' {{source|Jean-François de La Harpe, Jean Baptiste Benoit Eyrles, ''Abrégé de l’Histoire générale des voyages […]'', 1820}}
+:* ''L’anguille chien est '''très-'''goulue […]'' {{source|{{w|Bernard Germain de Lacépède}}, ''Œuvres du Comte de Lacépède'', tome 2 : ''Histoire naturelle des poissons'', Paris, 1836}}
+:* ''Si l’on veut un dépôt '''très-'''régulier, il est indispensable de fixer la pièce à cobalter au rhéophore de la pile avant de la plonger dans le bain.'' {{source|Comptes rendus hebdomadaires des séances de l’Académie des sciences, 1878}}
+:* ''Quand nous avons traversé la vallée, je te parle d’hier, nous avons gravi une montée '''très-'''roide et '''très-'''escarpée.'' {{source|{{w|George Sand}}, ''Le Marquis de Villemer'', Paris, 1860}}
+
+=== {{S|adverbe|fr}} ===
+{{fr-inv|tʁɛ|inv_titre=Adverbe}}
+'''très''' {{pron|tʁɛ|fr}}
+# Beaucoup, [[au plus haut point]] (devant un adjectif ou un adverbe).
+
+==== {{S|notes}} ====
+: Cet adverbe [[marquer|marque]] le [[superlatif absolu]] et ne s’emploie traditionnellement que [[devant]] un [[adjectif]] ou un [[adverbe]] (pour modifier un verbe à la voix active, on emploie ''[[beaucoup]]'' ou ''[[fort]]'').
+: Cependant, il est fréquent avec ''[[avoir faim]]'', ''[[avoir soif]]''… : « J’ai '''très''' soif », alors que ce qui était traditionnellement considéré comme correct était ''J’ai grand-soif'' (mais cette dernière formulation a vieilli, et est devenue rare).
+
+: On ne l'emploie pas avec certains adjectifs comportant déjà une idée de superlatif, par exemple ''[[magnifique]]'', ''[[infini]]'' ou ''[[désolé]]'', ''[[dévasté]]''.
+
+==== {{S|variantes orthographiques}} ====
+* [[très-]] {{vieilli|nocat=1}}
+* [[trés]] {{archaïsme|nocat=1}}
+* [[trés-]] {{archaïsme|nocat=1}}
+* [[tres]] {{archaïsme|nocat=1}}
+* [[tres-]] {{archaïsme|nocat=1}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[bugrane très grêle]]
+* [[chauliode très lumineux]]
+* [[cirse très épineux]]
+* [[déchet à vie très courte]]
+* [[interférométrie à très grande base]] ''ou'' [[ITGB]]
+* [[orbite très elliptique]]
+* [[orbite très excentrique]]
+* [[pas très catholique]]
+* [[pas très Charlie]]
+* [[réacteur à très haute température]] ''ou'' [[RTHT]]
+* [[très grande fortune]]
+* [[très gros bois]] ''ou'' [[TGB]]
+* [[très gros plan]] ''ou'' [[TGP]]
+* [[très humble adresse]]
+* [[très très]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[c’est pas très covid]] 
+* [[c’est pas très Covid]]
+* [[très peu pour moi]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|ar}} : {{trad+|ar|جدا|R={{transliterator|ar|جدا}}}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|tʁɛ|fr}}
+* {{pron|tʁɛ|fr}}
+** {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|tʁ̥ɛ|audio=Fr-très.ogg}}
+** {{écouter|lang=fr|France (Paris) |tʁ̥ɛ|audio=LL-Q150 (fra)-GrandCelinien-très.wav}}
+** {{écouter|lang=fr|France (Paris) |tʁ̥ɛ|audio=LL-Q150 (fra)-Exilexi-très.wav}}
+** {{écouter|lang=fr|France (Vosges) |tʁ̥e|audio=LL-Q150 (fra)-Poslovitch-très.wav}}
+* {{term|Sud de la France}} {{pron|tʁe|fr}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-très.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-très.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+[[Catégorie:Adverbes de quantité en français]]

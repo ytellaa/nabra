@@ -1,0 +1,458 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr|vers 1050}} Du {{étyl|frm|fr|mettre}}{{R|DMF}}, de l’{{étyl|fro|fr|mot=metre}}, du {{étyl|la|fr|mitto|dif=mittere|sens=[[envoyer]]}}{{R|TLFi}}.
+
+=== {{S|verbe|fr}} ===
+'''mettre''' {{pron|mɛtʁ|fr}} {{t|fr}} {{conjugaison|fr|groupe=3}} {{lien pronominal}}
+# [[placer|Placer]] une [[personne]], ou un [[animal]], ou une [[chose]] dans un [[lieu]] [[déterminé]].
+# {{ellipse|fr}} {{vulgaire|fr}} Introduire un pénis lors d’un rapport sexuel.
+# {{figuré|fr}} Infliger quelque chose à quelqu’un.
+# {{figuré|fr}} [[placer|Placer]] une [[personne]], ou un [[animal]], ou une [[chose]] dans une situation.
+# [[revêtir|Revêtir]], [[enfiler]] sur [[soi]], en parlant de ce qui [[servir|sert]] à l’[[habillement]], à la [[parure]].
+# {{term|quelquefois}} [[porter|Porter]] [[habituellement]] sur [[soi]].
+# {{lexique|cuisine|fr}} [[accommoder|Accommoder]], [[apprêter]] d’une [[certain]]e [[façon]], en parlant des choses qui se [[mangent]].
+# [[placer|Placer]] ou [[employer]] d’une [[certain]]e manière, en parlant de l’[[argent]] qu’on [[possède]].
+# {{lexique|agriculture|fr}} [[ensemencer|Ensemencer]], [[planter]], employer d’une [[certain]]e manière, en parlant des [[terre]]s.
+# [[écrire|Écrire]] sur le [[papier]], dans un [[livre]].
+# {{term|Au sens physique ou moral}} [[faire|Faire]] [[passer]] d’un [[état]] à un autre, en parlant des personnes et des choses — {{note}} Dans cette [[acception]], le [[complément]] est [[souvent]] [[précéder|précédé]] de la [[préposition]] '''[[en]]'''.
+# {{term|quelquefois}} [[ajouter|Ajouter]] à [[quelque chose]] une [[partie]] qui y [[manquer|manque]].
+# {{par extension|fr}} [[action|Action]], pour un [[marchand]], d’ajouter de la [[marchandise]] dans la partie destinée à un [[client]].
+# [[employer|Employer]] ses [[qualité]]s et ses [[disposition]]s [[moral]]es, les [[manifester]] dans ses [[action]]s, dans ses [[discours]], dans ses [[ouvrage]]s.
+# {{absolument}} [[miser|Miser]].
+# {{familier|fr}} [[admettre|Admettre]], [[supposer]]. — {{note}} Il est alors généralement suivi de '''[[que]]''' et d’un verbe conjugué à l’indicatif ou au subjonctif.
+# {{auxiliaire|fr}} À la forme simple, peut être [[auxiliaire]] de [[mode]] factitif et se construire avec un [[infinitif]]  et une préposition pour [[signifier]] : faire consister, faire exister. Le sujet du verbe à l’infinitif peut être exprimé dans la phrase ou être absent de la phrase. De même, le complément d’objet du verbe à l’infinitif n’est pas toujours exprimé.
+# {{auxiliaire|fr}} À la forme pronominale, peut être [[auxiliaire]] de [[mode]] inchoatif. Il est alors pronominal et suivi de la préposition '''[[à]]''' et d’un verbe à l’infinitif. Il signifie : [[commencer]].
+# [[temps|Temps]] [[nécessaire]].
+# Déposer quelqu’un, au terme d’un déplacement dans un véhicule.
+
+==== {{S|notes}} ====
+: Tout comme les verbes de mouvement, ''mettre'' gouvernant un verbe à l’infinitif prend un sens final (cette tournure, littéraire, est le plus souvent remplacée aujourd’hui par ''mettre à'' régissant un verbe à infinitif, ce que les puristes désapprouvent) :
+::* ''Quelques bouteilles de vin de Jérès que nous '''mettions''' rafraîchir dans la fontaine.'' {{source|{{w|Théophile Gautier}}, ''Voyage en Espagne'', chapitre XI, Éditions Julliard, collection Littérature, Paris, 1964, page 272}}
+::* ''Notre nourriture '''est mise''' chauffer sur des feux allumés d’avance.'' {{source|{{w|Roger Peyrefitte}}, ''Les Juifs'', quatrième partie, chapitre VI, Éditions Flammarion, Paris, 1965, page 432}}
+::* ''— Je vais '''mettre''' chauffer de l’eau, disait-elle.'' {{source|{{w|Bernard Clavel}}, ''{{w|Les Fruits de l’hiver}}'', chapitre 53, Robert Laffont, 1968}}
+
+==== {{S|synonymes}} ====
+* [[placer]]
+* [[poser]]
+
+==== {{S|dérivés}} ====
+{{(|colonnes=4}}
+* [[aller se faire mettre]]
+* [[démettre]]
+* [[en mettre plein la vue]]
+* [[en mettre un coup]]
+* [[les mettre]]
+* [[mets-en]] {{Canada|nocat=1}}
+* [[mettre à bout]]
+* [[mettre à cran]]
+* [[mettre à contribution]]
+* [[mettre à couvert]]
+* [[mettre à cul]]
+* [[mettre à disposition]]
+* [[mettre à exécution]]
+* [[mettre à flot]]
+* [[mettre à gauche]]
+* [[mettre à jour]]
+* [[mettre à l’abri]]
+* [[mettre à l’alignement]]
+* [[mettre à l’amende]]
+* [[mettre à l’écart]]
+* [[mettre à l’encan]]
+* [[mettre à l’enchère]]
+* [[mettre à l’épreuve]]
+* [[mettre à la cape]]
+* [[mettre à la disposition]]
+* [[mettre à la lanterne]]
+* [[mettre à la lourde]]
+* [[mettre à la mer]]
+* [[mettre à la porte]]
+* [[mettre à la raison]]
+* [[mettre à la rue]]
+* [[mettre à la voile]]
+* [[mettre à mort]]
+* [[mettre à pied]]
+* [[mettre à point]]
+* [[mettre à portée]]
+* [[mettre à prix]]
+* [[mettre à profit]]
+* [[mettre à rude épreuve]]
+* [[mettre à sac]]
+* [[mettre à terre]]
+* [[mettre à toutes les sauces]]
+* [[mettre au ban]]
+* [[mettre au chaud]]
+* [[mettre au clair]]
+* [[mettre au courant]]
+* [[mettre au fait]]
+* [[mettre au four]]
+* [[mettre au frigo]]
+* [[mettre au froid]]
+* [[mettre au galop]]
+* [[mettre au monde]]
+* [[mettre au net]]
+* [[mettre au panier]]
+* [[mettre au pas]]
+* [[mettre au pied du mur]]
+* [[mettre au pillage]]
+* [[mettre au pis]]
+* [[mettre au point]]
+* [[mettre au pot]]
+* [[mettre au pré]]
+* [[mettre au rebut]]
+* [[mettre au régime]]
+* [[mettre au sac]]
+* [[mettre au secret]]
+* [[mettre au tapis]]
+* [[mettre au travail]]
+* [[mettre au trot]]
+* [[mettre au trou]]
+* [[mettre aux champs]]
+* [[mettre aux mains]]
+* [[mettre aux enchères]]
+* [[mettre aux prises]]
+* [[mettre bas]]
+* [[mettre bien]]
+* [[mettre bon ordre]]
+* [[mettre chapeau bas]]
+* [[mettre dans de beaux draps]]
+* [[mettre dans l’embarras]]
+* [[mettre dans la sauce]]
+* [[mettre dans le même panier]]
+* [[mettre dans le même sac]]
+* [[mettre dans le secret des dieux]]
+* [[mettre dans tous ses états]]
+* [[mettre de côté]]
+* [[mettre de l’eau dans son vin]]
+* [[mettre dedans]]
+* [[mettre dehors]]
+* [[mettre des bâtons dans les roues]]
+* [[mettre des mots sur]]
+* [[mettre du beurre dans les épinards]]
+* [[mettre du cœur à]]
+* [[mettre du foin dans ses bottes]]
+* [[mettre du sien]]
+* [[mettre du temps]]
+* [[mettre en appétit]]
+* [[mettre en avant]]
+* [[mettre en balance]]
+* [[mettre en batterie]]
+* [[mettre en cage]]
+* [[mettre en campagne]]
+* [[mettre en cause]]
+* [[mettre en cervelle]]
+* [[mettre en colère]]
+* [[mettre en contact]]
+* [[mettre en contexte]]
+* [[mettre en crédit]]
+* [[mettre en danger]]
+* [[mettre en demeure]]
+* [[mettre en dépense]]
+* [[mettre en dépôt]]
+* [[mettre en déroute]]
+* [[mettre en désordre]]
+* [[mettre en doute]]
+* [[mettre en état]]
+* [[mettre en évidence]]
+* [[mettre en exergue]]
+* [[mettre en faveur]]
+* [[mettre en forme]]
+* [[mettre en frais]]
+* [[mettre en fuite]]
+* [[mettre en fureur]]
+* [[mettre en gage]]
+* [[mettre en goût]]
+* [[mettre en honneur]]
+* [[mettre en jauge]]
+* [[mettre en joie]]
+* [[mettre en joue]]
+* [[mettre en jugement]]
+* [[mettre en l’air]]
+* [[mettre en ligne]]
+* [[mettre en mots]]
+* [[mettre en mouvement]]
+* [[mettre en musique]]
+* [[mettre en œuvre]]
+* [[mettre en ordre]]
+* [[mettre en page]]
+* [[mettre en panne]]
+* [[mettre en peine]]
+* [[mettre en pénitence]]
+* [[mettre en péril]]
+* [[mettre en pièces]]
+* [[mettre en place]]
+* [[mettre en poche]]
+* [[mettre en présence]]
+* [[mettre en prison]]
+* [[mettre en regard]]
+* [[mettre en relief]]
+* [[mettre en repos]]
+* [[mettre en roman]]
+* [[mettre en selle]]
+* [[mettre en service]]
+* [[mettre en sureté]] {{ortho1990}}
+* [[mettre en sûreté]]
+* [[mettre en terre]]
+* [[mettre en train]]
+* [[mettre en usage]]
+* [[mettre en valeur]]
+* [[mettre en veilleuse]]
+* [[mettre en vente]]
+* [[mettre entre guillemets]]
+* [[mettre entre parenthèses]]
+* [[mettre fin]]
+* [[mettre fin à ses jours]]
+* [[mettre habit bas]]
+* [[mettre hors de combat]]
+* [[mettre hors d’état de nuire]]
+* [[mettre hors de ses gonds]]
+* [[mettre hors des gonds]]
+* [[mettre hors service]]
+* [[mettre l’accent sur]]
+* [[mettre l’âme en vrille]]
+* [[mettre l’eau à la bouche]]
+* [[mettre l’emphase sur]]
+* [[mettre l’épaule à la roue]]
+* [[mettre l’épée à la main]]
+* [[mettre l’épée dans les reins]]
+* [[mettre la charrue avant les bœufs]]
+* [[mettre la clé sous la porte]]
+* [[mettre la clef sous la porte]]
+* [[mettre la crosse en l’air]]
+* [[mettre la main]]
+* [[mettre la main à l’œuvre ]]
+* [[mettre la main à l’ouvrage]]
+* [[mettre la main à la pâte]]
+* [[mettre la main au feu]]
+* [[mettre la main au portefeuille]]
+* [[mettre la main au porte-monnaie]]
+* [[mettre la main sur sa conscience]]
+* [[mettre la misère]]
+* [[mettre la porte contre]] {{Belgique|nocat=1}}
+* [[mettre la pression]]
+* [[mettre la table]]
+* [[mettre la viande dans le torchon]]
+* [[mettre le bazar]]
+* [[mettre le cap]]
+* [[mettre le cap en route]]
+* [[mettre le contact]]
+* [[mettre le couteau sous la gorge]]
+* [[mettre le couvercle sur la marmite]]
+* [[mettre le couvert]]
+* [[mettre le doigt dans l’engrenage]]
+* [[mettre le doigt dans la plaie]]
+* [[mettre le doigt là où ça fait mal]]
+* [[mettre le doigt sur]] ''(deviner, découvrir une chose)''
+* [[mettre le doigt sur la plaie]]
+* [[mettre le feu]]
+* [[mettre le feu aux poudres]]
+* [[mettre le genou sur l’estomac]]
+* [[mettre le grappin]]
+* [[mettre le grappin sur]]
+* [[mettre le marché en main]]
+* [[mettre le nez dans la plume]]
+* [[mettre le nez dans les livres]]
+* [[mettre le nez de quelqu’un dans sa merde]]
+* [[mettre le nez dehors]]
+* [[mettre le paquet]]
+* [[mettre le pied]]
+* [[mettre le pied à l’étrier]]
+* [[mettre le pied dans la porte]]
+* [[mettre le temps]]
+* [[mettre les bouchées doubles]]
+* [[mettre les morceaux doubles]]
+* [[mettre les bouts]]
+* [[mettre les deux mains]]
+* [[mettre ses deux mains au feu]]
+* [[mettre les fers au feu]]
+* [[mettre les formes]]
+* [[mettre les gaz]]
+* [[mettre les nerfs à vif]]
+* [[mettre les petits plats dans les grands]]
+* [[mettre les pieds sous la table]]
+* [[mettre les points sur les i]]
+* [[mettre les points sur les i et les barres aux t]]
+* [[mettre les points sur les i et les barres sur les t]]
+* [[mettre les pouces]]
+* [[mettre les voiles]]
+* [[mettre les voiles dedans]]
+* [[mettre les voiles dehors]]
+* [[mettre mal]]
+* [[mettre minable]] {{argot|nocat=1}}
+* [[mettre misère]]
+* [[mettre obstacle]]
+* [[mettre opposition]]
+* [[mettre ordre]]
+* [[mettre pavillon bas]]
+* [[mettre dans sa poche]]
+* [[mettre quelque chose dans sa poche avec son mouchoir par-dessus]]
+* [[mettre sa face sur le poteau]]
+* [[mettre son drapeau dans sa poche]]
+* [[mettre son orgueil sous ses pieds]]
+* [[mettre son grain de sel]]
+* [[mettre sou sur sou]]
+* [[mettre sous clé]]
+* [[mettre sous cloche]]
+* [[mettre sous l’éteignoir]]
+* [[mettre sous le tapis]]
+* [[mettre sous presse]]
+* [[mettre sur l’âne]] {{Lorraine|nocat=1}}
+* [[mettre sur la gueule]]
+* [[mettre sur la paille]]
+* [[mettre sur la sellette]]
+* [[mettre sur la table]]
+* [[mettre sur la voie]]
+* [[mettre sur le corps]]
+* [[mettre sur le dos]]
+* [[mettre sur le gril]]
+* [[mettre sur le tapis]]
+* [[mettre sur le marché]]
+* [[mettre sur le pavé]]
+* [[mettre sur les bras]]
+* [[mettre sur les dents]]
+* [[mettre sur orbite]]
+* [[mettre sur pause]]
+* [[mettre sur pied]]
+* [[mettre sur soi tout ce qu’on gagne]]
+* [[mettre tous les œufs dans le même panier]]
+* [[mettre tous ses œufs dans le même panier]]
+* [[mettre tout le monde dans le même bateau]]
+* [[mettre tout au vent]]
+* [[mettre toutes voiles dehors]]
+* [[mettre un bémol]]
+* [[mettre un bras dans le tordeur]] ''(Québec)''
+* [[mettre un crêpe]] ''(attrister)''
+* [[mettre un pain]]
+* [[mettre un pied]]
+* [[mettre un pied à terre]]
+* [[mettre un point final]]
+* [[mettre un tonneau en perce]]
+* [[mettre une chasse]]
+* [[mettre une croix dessus]]
+* [[mettre une disquette]]
+* [[mettre une olive]]
+* [[mettre une sourdine]]
+* [[mettre une vitesse]] {{France|nocat=1}} {{familier|nocat=1}}
+* [[mettre vent en poupe]]
+* [[mettre veste bas]]
+* [[mise]]
+* [[ne pouvoir mettre un pied devant l’autre]]
+* [[remettre]]
+* [[remettre en cause]]
+* [[remettre dans le droit chemin]]
+* [[ne savoir où se mettre]]
+* [[s’en mettre plein la gorge]]
+* [[s’en mettre plein la lampe]]
+* [[s’en mettre plein les fouilles]]
+* [[s’en mettre plein les poches]]
+* [[s’y mettre]]
+* [[se mettre]]
+* [[se mettre à la colle]]
+* [[se mettre à table]]
+* [[se mettre à tout]]
+* [[se mettre au lit]]
+* [[se mettre au travail]]
+* [[se mettre au turbin]]
+* [[se mettre chaud]] ''(s’enivrer)''
+* [[se mettre en boule]]
+* [[se mettre en chance]]
+* [[se mettre en dépense]]
+* [[se mettre en ménage]]
+* [[se mettre en noce]]
+* [[se mettre en route]]
+* [[se mettre en tête]]
+* [[se mettre sur les rangs]]
+* [[y mettre de la conscience]]
+* [[y mettre du sien]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[avec des si on mettrait Paris en bouteille]]
+* [[entre l’arbre et l’écorce, il ne faut pas mettre le doigt]]
+* [[et la marmotte elle met le chocolat dans le papier d’alu]]
+* [[il ne faut pas mettre le doigt entre le bois et l’écorce]]
+* [[ôte-toi de là que je m’y mette]]
+* [[pousse-toi de là que je m’y mette]]
+* [[si le chapeau te fait, mets-le]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|bijou}}
+
+==== {{S|traductions}} ====
+{{trad-début|Placer une personne, ou un animal, ou une chose dans un lieu déterminé ''(Sens général)''|1}}
+{{trad-fin}}
+
+{{trad-début|Placer, dans un certain rapport de position, un être animé avec un autre, ou une chose avec une autre, ou un être animé avec une chose|2}}
+{{trad-fin}}
+
+{{trad-début|Envoyer, conduire en un lieu, y faire entrer, y établir, en parlant des personnes|4}}
+{{trad-fin}}
+
+{{trad-début|Établir, conférer un emploi|5}}
+{{trad-fin}}
+
+{{trad-début|Revêtir, enfiler sur soi, en parlant de ce qui sert à l’habillement, à la parure|9}}
+{{trad-fin}}
+
+{{trad-début|Porter habituellement sur soi|10}}
+{{trad-fin}}
+
+{{trad-début|Accommoder, apprêter d’une certaine façon, en parlant des choses qui se mangent|11}}
+{{trad-fin}}
+
+{{trad-début|Placer, employer d’une certaine manière, en parlant de l’argent qu’on possède|12}}
+{{trad-fin}}
+
+{{trad-début|Ensemencer, planter|13}}
+{{trad-fin}}
+
+{{trad-début|Employer ses qualités et ses dispositions morales, les manifester dans ses actions, dans ses discours, dans ses ouvrages|18}}
+{{trad-fin}}
+
+{{trad-début|Miser|19}}
+* {{T|ar}} : {{trad+|ar|وضع}}
+{{trad-fin}}
+
+{{trad-début|Admettre, supposer|20}}
+{{trad-fin}}
+
+{{trad-début|Temps nécessaire|24}}
+{{trad-fin}}
+
+{{trad-début|Commencer|25}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{?||fr}}
+{{trad-début}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|mɛtʁ|fr}}
+** {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|mɛtʁ|audio=Fr-mettre.ogg}}
+* {{écouter|lang=fr|audio=Fr-mettre.wav}}
+** {{écouter|lang=fr|France (Paris)|mɛtʁ|audio=LL-Q150 (fra)-GrandCelinien-mettre.wav}}
+** {{écouter|lang=fr|France (Paris)|mɛtʁ|audio=LL-Q150 (fra)-Exilexi-mettre.wav}}
+** {{écouter|lang=fr|Suisse (canton du Valais)|mɛtʁ|audio=LL-Q150 (fra)-DSwissK-mettre.wav}}
+** {{écouter|lang=fr|France (Brétigny-sur-Orge)|mɛtʁ|audio=LL-Q150 (fra)-Pamputt-mettre.wav}}
+* Français méridional : {{pron|ˈmɛ.tʁə|fr}}
+* Canada : {{pron|mɛtʁ|fr}}
+* {{écouter|lang=fr|France (Toulouse)||audio=LL-Q150 (fra)-Lepticed7-mettre.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-mettre.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-mettre.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-mettre.wav}}
+* {{écouter|Bordeaux (France)||lang=fr|audio=LL-Q150 (fra)-Yug-mettre.wav}}
+* {{écouter|Cornimont (France)||lang=fr|audio=LL-Q150 (fra)-Poslovitch-mettre.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-mettre.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-mettre.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[mètre]]
+* [[maître]]
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+{{Références}}
+* [https://web.archive.org/web/20180806133237/http://mettre.fr/ ''Site de référence sur le verbe mettre'']
+

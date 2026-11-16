@@ -1,0 +1,827 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr}} Mot gallo-roman{{R|TLFi}}. Du {{étyl|la|fr|mot=pitinnus}}, ''{{lien|pisinnus|la}}'' (« menu »){{R|TLFi}} ou ''{{lien|petilus|la}}'' («&nbsp;mince&nbsp;», «&nbsp;grêle&nbsp;»){{R|Littré}}.
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-cons|pə.ti|t}}
+[[File:Small Pratincole by Tisha Mukherjee 01.jpg|thumb|redresse|Un '''petit''' (sens 1+2) oiseau.]]
+'''petit''' {{pron|pə.ti|fr}}
+# De [[taille]] [[réduit]]e.
+# [[jeune|Jeune]].
+# [[mesquin|Mesquin]] ; [[médiocre]].
+# Qui est [[peu]] [[élevé]] en [[quantité]], qui n’[[atteint]] pas la [[mesure]] [[ordinaire]].
+# En [[raccourcir|raccourci]], en [[miniature]].
+# {{familier|fr}} Marque d’[[affection]].
+# {{péjoratif|fr}} Marque de [[rabaissement]].
+# {{lexique|sciences|fr}} [[négligeable|Négligeable]], dont on peut s’abstenir de tenir compte dans les calculs sans qu'ils soient significativement altérés.
+# Appel adressé à un jeune garçon.
+# Appel répété lancé aux volailles d'une basse-cour pour les rassembler.
+
+==== {{S|variantes}} ====
+* [[p’tit]], {{lien|tit|fr}}, [[ti-]] {{informel|nocat=1}}
+* [[p’tsit]], [[petsit]] {{Amérique du Nord|nocat=1}}
+* {{lien|pôtit|fr}}, {{lien|potit|fr}} {{par plaisanterie|nocat=1}}
+
+==== {{S|dérivés autres langues}} ====
+* {{L|crs}} : {{lien|pti|crs}}
+
+==== {{S|synonymes}} ====
+{{(|De taille réduite}}
+* [[bref]]
+* [[court]]
+* [[exigu]]
+* [[faible]]
+* [[médiocre]]
+* [[minime]]
+* [[minuscule]]
+* [[modeste]]
+* [[pas plus grand que la main]]
+* [[rase-mottes]]
+* [[réduit]]
+{{)}}
+{{(|Mesquin}}
+* [[bas]]
+* [[mesquin]]
+* [[mineur]]
+* [[piètre]]
+{{)}}
+
+==== {{S|antonymes}} ====
+{{(|De taille réduite}}
+* [[abondant]]
+* [[ample]]
+* [[colossal]]
+* [[considérable]]
+* [[copieux]]
+* [[étendu]]
+* [[géant]]
+* [[gigantesque]]
+* [[grand]]
+* [[grandiose]]
+* [[gros]]
+* [[immense]]
+* [[important]]
+* [[large]]
+* [[long]]
+* [[nombreux]]
+{{)}}
+{{(|Jeune}}
+* [[adulte]]
+* [[âgé]]
+* [[vieux]]
+{{)}}
+{{(|Mesquin}}
+* [[généreux]]
+* [[grand]]
+* [[grandiose]]
+* [[magnifique]]
+* [[noble]]
+{{)}}
+
+==== {{S|dérivés}} ====
+{{(|colonnes=3}}
+* [[à la petite cuiller]]
+* [[à la petite cuillère]]
+* [[à la petite semaine]]
+* [[à la petite semelle]]
+* [[à petit feu]]
+* [[à petites journées]]
+* [[à petits frais]]
+* [[achigan à petite bouche]]
+* [[airelle à petit fruit]]
+* [[airelle à petites feuilles]]
+* [[ajonc à petites fleurs]]
+* [[aligner les petits bâtons]] ''(Sports hippiques)''
+* [[aller son petit bonhomme de chemin]]
+* [[anglo-français de petite vénerie]] ''(Race de chiens)''
+* [[apetissement]]
+* [[apetisser]]
+* [[asphodèle à petits fruits]]
+* [[au petit bonheur]]
+* [[au petit bonheur de]]
+* [[au petit bonheur la chance]]
+* [[au petit bonheur la malchance]]
+* [[au petit jour]]
+* [[au petit pied]]
+* [[aux petits ognons]] {{ortho1990}}
+* [[aux petits oignons]]
+* [[avoir de petits yeux]]
+* [[avoir ses grandes et ses petites entrées]]
+* [[avoir ses petites entrées]]
+* [[avoir un petit creux]] ''(avoir légèrement faim)''
+* [[avoir un petit vélo dans la cafetière]]
+* [[avoir un petit vélo dans la tête]]
+* [[avoir une petite mine]]
+* [[basset griffon vendéen de petite taille]]
+* [[black-bass à petite bouche]]
+* [[boire à petits coups]]
+* [[canal petit palatin]]
+* [[carte aéronautique de navigation à petite échelle]]
+* [[chalosse petite noire]] ''(Cépage)''
+* [[chercher la petite bête]]
+* [[chinchilla petit]] ''(Race de lapins)''
+* [[clématite petite flamme]]
+* [[clitopile petite prune]]
+* [[continuer son petit bonhomme de chemin]]
+* [[dix grandes fois et une petite]]
+* [[double petit aigle]]
+* [[du petit au grand]] ''(par comparaison des petites choses aux grandes)''
+* [[en petit]]
+* [[en petit bonhomme]] {{Québec|nocat=1}}
+* [[en petit comité]]
+* [[en petite tenue]]
+* [[érythrée petite centaurée]]
+* [[être aux petits soins]]
+* [[être dans les petits papiers de]]
+* [[être dans ses petits souliers]]
+* [[être sur un petit nuage]]
+* [[être tombé dedans étant petit]]
+* [[faire la petite bouche]]
+* [[faire petit salé]]
+* [[faire petite chère]]
+* [[faire ses petites affaires]]
+* [[faire un petit velours]]
+* [[femme de petite vertu]]
+* [[foutre son petit camp]]
+* [[gagne-petit]]
+* [[grivette petite]]
+* [[infiniment petit]]
+* [[jeu des petits papiers]]
+* [[jouer petit jeu]]
+* [[jussie à petites fleurs]]
+* [[le petit Jésus en culotte de velours]]
+* [[manseng petit blanc]] ''(Cépage)''
+* [[marchand au petit tas]]
+* [[marque à la petite fleur]]
+* [[mettre les petits plats dans les grands]]
+* [[mettre les petits pots dans les grands]]
+* [[mon petit]]
+* [[montrer son petit oiseau]]
+* [[muscat à petits grains blancs]] ''(Cépage)''
+* [[muscat à petits grains roses]] ''(Cépage)''
+* [[muscat à petits grains rouges]] ''(Cépage)''
+* [[muscle petit adducteur]]
+* [[muscle petit complexus]]
+* [[muscle petit dentelé postérieur et inférieur]]
+* [[muscle petit dentelé postérieur et supérieur]]
+* [[muscle petit droit antérieur]]
+* [[muscle petit droit postérieur]]
+* [[muscle petit droit postérieur de la tête]]
+* [[muscle petit fessier]]
+* [[muscle petit glutéal]]
+* [[muscle petit oblique]]
+* [[muscle petit oblique de l’abdomen]]
+* [[muscle petit oblique de l’œil]]
+* [[muscle petit oblique de la tête]]
+* [[muscle petit palmaire]]
+* [[muscle petit pectoral]]
+* [[muscle petit psoas]]
+* [[muscle petit rhomboïde]]
+* [[muscle petit rond]]
+* [[muscle petit zygomatique]]
+* [[ne pas être une petite affaire]]
+* [[nom d’un petit bonhomme]]
+* [[non d’un petit bonhomme]]
+* [[noyer à petits fruits]]
+* [[oxalide petite oseille]], [[oxalis petite oseille]]
+* [[par les petits]]
+* [[par petites tables]]
+* [[passage petite faune]]
+* [[perche d’Amérique à petite bouche]]
+* {{cf|lang=fr|petit-}}
+* [[petiot]]
+* [[petit âge de glace]]
+* [[petit âge glaciaire]] ''ou'' [[Petit Âge glaciaire]]
+* [[petit à petit]]
+* [[petit amakihi]]
+* [[petit ami]], [[petite amie]]
+* [[petit anglo-français]] ''(Race de chiens)''
+* [[petit apartheid]]
+* [[petit apollon]] ''(Papillon)''
+* [[petit ARN interférent]]
+* [[petit ARN nucléaire]]
+* [[petit axe]]
+* [[petit bain]]
+* [[petit-barrage]]
+* [[petit basset griffon vendéen]]
+* [[petit basilic]]
+* [[petit basilic sauvage]]
+* [[petit bassin]]
+* [[Petit Bateau]]
+* [[petit bec-en-fourreau]]
+* [[petit-beurre]]
+* [[petit biniou]]
+* [[petit Blanc]]
+* [[petit-blanc]] ''(Monnaie)''
+* [[petit blanc du chou]] ''(piéride de la rave)''
+* [[petit blongios]]
+* [[petit bois]]
+* [[petit bonhomme]]
+* [[petit boulé]]
+* [[petit boulot]]
+* [[petit-bourgeois]], [[petit-bourgeoise]]
+* [[petit Bouschet]] ''(Cépage)''
+* [[petit bout de chou]]
+* [[petit bout de femme]]
+* [[petit-boutisme]]
+* [[petit brabançon]]
+* [[petit bras]]
+* [[petit brun]]
+* [[petit bruno du Jura]]
+* [[petit-canon]] ''(Typographie)''
+* [[petit caporal]]
+* [[Petit Caporal]]
+* [[petit cacatoès à huppe jaune]]
+* [[petit cacatois]]
+* [[petit cachalot]]
+* [[petit cadre]]
+* [[Petit Canada]]
+* [[petit cantal]]
+* [[petit capillaire]]
+* [[petit Caporal]]
+* [[petit chanteur]]
+* [[petit chaperon rouge]]
+* [[Petit Chaperon rouge]]
+* [[petit chef]]
+* [[petit chelem]]
+* [[petit-chêne]]
+* [[petit cheval]]
+* [[Petit Cheval]] ''(Constellation)''
+* [[petit chevalier]]
+* [[petit chevalier à pattes jaunes]]
+* [[Petit Chien]] ''(Constellation)''
+* [[petit chien courant bernois]]
+* [[petit chien courant de Schwyz]]
+* [[petit chien courant du Jura]]
+* [[petit chien courant lucernois]]
+* [[petit chien courant schwyzois]]
+* [[petit chien courant suisse]]
+* [[petit chien hollandais de chasse au gibier d’eau]]
+* [[petit chien lion]]
+* [[petit chien marron]]
+* [[petit chien russe]]
+* [[petit chiendent]]
+* [[petit chinois]]
+* [[petit chionis]]
+* [[petit chitte]] ''ou'' [[petit-chitte]] ''(Haïti)''
+* [[petit chou]]
+* [[petit chou de Bruxelles]]
+* [[petit coin]]
+* [[petit coin de]]
+* [[petit coléoptère des ruches]]
+* [[petit collier argenté]] ''(Papillon)''
+* [[petit commerçant]]
+* [[petit commerce]]
+* [[petit comité]]
+* [[petit copain]]
+* [[petit coq de bruyère]]
+* [[petit corps]]
+* [[petit corps du système solaire]]
+* [[petit coup]]
+* [[petit-coup]]
+* [[petit courbu]] ''(Cépage)''
+* [[petit cul]] {{QC|nocat=1}}
+* [[petit curé]]
+* [[petit crisse]] {{QC|nocat=1}}
+* [[petit cyprès]] ''(santoline petit cyprès)''
+* [[petit déjeuner]]
+* [[petit-déjeuner]] ''(Verbe)''
+* [[petit doigt]]
+* [[petit droit antérieur]] ''(Muscle)''
+* [[petit dunkerque]]
+* [[petit écran]]
+* [[petit effet]]
+* [[petit élevage]]
+* [[petit enfant]]
+* [[Petit-Enghien]]
+* [[petit endroit]] 
+* [[petit épargnant]]
+* [[petit épagneul de Münster]]
+* [[petit épeautre]]
+* [[petit esturgeon]]
+* [[petit exorcisme]]
+* [[petit fer]]
+* [[petit fessier]] ''(Muscle)''
+* [[petit filet]]
+* [[petit flamant rose]]
+* [[petit flamboyant]] ''(Arbuste)''
+* [[petit four]] ''ou'' [[petit-four]]
+* [[petit foramen palatin]]
+* [[petit frêne]]
+* [[petit frère]]
+* [[petit froid]]
+* [[petit gaïac]]
+* [[petit garçon]]
+* [[petit gascon saintongeois]] ''(Race de chiens)''
+* [[petit gâteau]]
+* [[petit Gaugry]] ''(Fromage)''
+* [[petit-gendre]]
+* [[petit genêt d’Espagne]]
+* [[petit-grain]]
+* [[petit granit]] ''ou'' [[petit granite]]
+* [[petit gravelot]]
+* [[petit grèbe]]
+* [[petit griffon bleu de Gascogne]]
+* [[petit-gris]]
+* [[petit guillemot]]
+* [[petit hélicien]] ''(Muscle)''
+* [[petit homme vert]]
+* [[petit houx]]
+* [[petit intestin]]
+* [[petit ious]]
+* [[petit ious yodisé]]
+* [[petit jaque]] {{Réunion|nocat=1}}
+* [[petit jaune]]
+* [[petit jer]]
+* [[petit joueur]]
+* [[petit joug]]
+* [[petit jour]]
+* [[petit juif]]
+* [[petit jury]]
+* [[petit-lait]]
+* [[petit lançon]]
+* [[petit largue]] ''(Marine)''
+* [[petit lévrier italien]]
+* [[petit lingue]]
+* [[Petit Lion]] ''(Constellation)''
+* [[petit liseron]]
+* [[petit lissé]]
+* [[petit-maitre]] {{ortho1990}}
+* [[petit-maître]]
+* [[petit mal]]
+* [[petit malin]]
+* [[petit manchot bleu]]
+* [[petit mars changeant]] ''(Papillon)''
+* [[petit mars oriental]] ''(Papillon)''
+* [[petit matin]]
+* [[petit meslier]] ''(Cépage)''
+* [[petit mil]]
+* [[petit minime à bande]] ''(Papillon)''
+* [[petit monarque]]
+* [[petit monarque d’Afrique]]
+* [[petit monde]]
+* [[petit monsieur]]
+* [[petit mot]]
+* [[petit muguet]]
+* [[petit muscle de l’hélix]]
+* [[petit nacré]] ''(Papillon)''
+* [[petit natte]] {{Réunion|nocat=1}}
+* [[petit navet]]
+* [[petit-nègre]] ''ou'' [[petit nègre]]
+* [[petit neigé]]
+* [[petit nain]]
+* [[petit nénufar]] {{ortho1990}}
+* [[petit nénuphar]]
+* [[Petit Nice]]
+* [[petit noir]]
+* [[petit nom]]
+* [[petit oblique]] ''(Muscle)''
+* [[petit oiseau]]
+* [[petit olivier]]
+* [[petit-oncle]]
+* [[petit opossum-musaraigne]]
+* [[petit opossum-souris]]
+* [[petit ours marsupial]]
+* [[petit pain]]
+* [[petit pain au chocolat]]
+* [[petit pain viennois]]
+* [[petit palet]] ''(Jeu)''
+* [[petit palu]]
+* [[petit panda]]
+* [[petit paon de nuit]] ''(Papillon)''
+* [[petit papa]]
+* [[petit papa Noël]]
+* [[petit papillon]] ''(Race de lapins)''
+* [[petit-parangon]] ''(Typographie)''
+* [[Petit Paris]]
+* [[petit pas]]
+* [[petit père]]
+* [[petit père des peuples]]
+* [[petit perroquet]] ''(Marine)''
+* [[petit perroquet de terre]]
+* [[petit personnel]]
+* [[petit peuple]]
+* [[petit-pied]]
+* [[petit-pierre]] ''(pétrel)''
+* [[petit pingouin]]
+* [[petit plaisir]]
+* {{lien|petit point rouge|fr}}
+* [[petit pois]]
+* [[petit poivre]]
+* [[petit pont]] {{info lex|football}}
+* [[petit pont massacreur]]
+* [[petit porteur]]
+* [[petit pot]]
+* [[petit poste]]
+* [[Petit Poucet]]
+* [[petit pourceau]] ''(Papillon)''
+* [[petit poussin]] ''(Congo)''
+* [[petit prêtre]] ''(Poisson)''
+* [[petit prion]]
+* [[petit puffin]]
+* [[petit rameau]]
+* [[petit réacteur modulaire]] ([[PRM]]) ''(Nucléaire)''
+* [[petit remplacement]]
+* [[Petit Remplacement]]
+* [[Petit Renard]] ''(Constellation)''
+* [[petit renard volant]]
+* [[petit rhinopome]]
+* [[petit rien]]
+* [[petit-romain]] ''(Typographie)''
+* [[petit roque]] ''(Échecs)''
+* [[petit rorqual]]
+* [[petit rorqual de l’Antarctique]]
+* [[petit rossignol]]
+* [[petit ruban]]
+* [[petit ruminant]]
+* [[petit-russe]]
+* [[petit salé]] ''ou'' [[petit-salé]]
+* [[petit séminaire]]
+* [[petit sec]]
+* [[petit soldat]]
+* [[petit soldat au garde à vous]] ''(pénis)''
+* [[petit soufflé]]
+* [[petit sphinx de la vigne]] ''(Papillon)''
+* [[petit sylvain]] ''(Papillon)''
+* [[petit-suisse]]
+* [[petit sureau]]
+* [[petit tacaud]]
+* [[petit tacheté]] ''(Race de lapins)''
+* [[Petit Taxi]]
+* [[petit télégraphiste]]
+* [[petit-texte]] ''(Typographie)''
+* [[petit tétras]]
+* [[petit-torchon]]
+* [[petit train]]
+* [[petit-train]]
+* [[petit trochanter]] ''(Muscle)''
+* [[petit-venise]]
+* [[petit verdot]] ''(Cépage)''
+* [[petit-vieux]]
+* [[petit vite]] {{QC|nocat=1}}
+* [[petit yang]]
+* [[petit yin]]
+* [[petit yousse]]
+* [[petit yousse yodisé]]
+* [[petit zygomatique]] ''(Muscle)''
+* [[Petite Abasie]] {{désuet|nocat=1}}
+* [[petite aigrette]]
+* [[petite aiguille de mer]]
+* [[petite amie]]
+* [[petite annonce]]
+* [[petite argentine]]
+* [[petite assiette]]
+* [[petite baguette]]
+* [[petite bécassine]]
+* [[petite belette]]
+* [[petite bête]]
+* [[petite bière]]
+* [[petite bite]]
+* [[petite bourgeoisie]] ''ou'' [[petite-bourgeoisie]]
+* [[Petite-Bourgogne]]
+* [[petite calorie]]
+* [[petite capitale]]
+* [[petite capitalisation]]
+* [[petite castagnole]]
+* [[petite cavité sigmoïde]]
+* [[petite centaurée]] ''ou'' [[petite-centaurée]]
+* [[petite chèvre d’Afrique de l’Est]]
+* [[petite ciguë]]
+* [[petite cigüe]] {{ortho1990}}
+* [[petite civette indienne]]
+* [[petite clarinette]]
+* [[petite clarinette sopranino]]
+* [[petite commission]]
+* [[petite copine]]
+* [[petite coronille]]
+* [[petite coryphène]]
+* [[petite coudée]]
+* [[petite coupure]]
+* [[petite couronne]] ''(autour de Paris)''
+* [[petite couverture]]
+* [[petite cuiller]]
+* [[petite cuillère]]
+* [[petite culotte]]
+* [[petite délinquance]]
+* [[petite dorade coryphène]]
+* [[petite douve]]
+* [[petite douve du foie]]
+* [[petite éclaire]]
+* [[Petite Église]]
+* [[petite émeraude]] ''(Papillon)''
+* [[petite émiaule]]
+* [[petite enfance]]
+* [[petite enfant]]
+* [[petite épeiche]]
+* [[petite ésule]]
+* [[petite euphorbe]]
+* [[petite feuille morte]]
+* [[petite fille]]
+* [[petite-fille]]
+* [[petite finale]]
+* [[petite fleur soleil]]
+* [[petite frappe]]
+* [[petite gesse]]
+* [[petite glande vestibulaire]]
+* [[petite guerre]]
+* [[petite harmonie]]
+* [[petite harpe de Durango]]
+* [[petite joubarbe]]
+* [[petite lentille]]
+* [[petite lucarne]]
+* [[petite main]] ''ou'' [[petite-main]]
+* [[petite maison]]
+* [[petite-maitresse]] {{ortho1990}}
+* [[petite-maîtresse]]
+* [[petite manech]] ''(Race de moutons)''
+* [[petite marguerite]]
+* [[petite marouette]]
+* [[petite merde]]
+* [[petite messe]]
+* [[Petite Miquelon]]
+* [[petite molgule]]
+* [[petite monnaie]]
+* [[petite mort]]
+* [[petite musique]]
+* [[petite musique de fond]]
+* [[petite nation]]
+* [[petite naturalité]]
+* [[petite nature]]
+* [[petite noblesse]]
+* [[petite nyctale]]
+* [[petite oie]] ''ou'' [[petite-oie]]
+* [[petite oie blanche]]
+* [[petite oie des neiges]]
+* [[petite-olonne]]
+* [[petite oseille]]
+* [[Petite Ourse]] ''(Constellation)''
+* [[petite outarde]]
+* [[petite patrie]]
+* [[petite pêche]]
+* [[petite peste]]
+* [[petite phrase]]
+* [[Petite-Pologne]]
+* [[petite queue fourchue]] ''(Papillon)''
+* [[petite raspoutitsa]]
+* [[petite reine]] ''(surnom donné à la bicyclette)''
+* [[petite révolution]]
+* [[petite robe noire]]
+* [[petite roussette]]
+* [[Petite Russie]]
+* [[petite seconde]] {{info lex|horlogerie}}
+* [[petite section]]
+* [[Petite Sibérie]]
+* [[petite sœur]]
+* [[petite souris]]
+* [[petite spatule]]
+* [[petite table]]
+* [[petite Thérèse]]
+* [[petite tortue]] ''(Papillon)''
+* [[petite tubérosité]]
+* [[petite vérole]]
+* [[petite vérole volante]]
+* [[petite vidure]]
+* [[petite vieille]]
+* [[petite vinette]]
+* [[petite vite]] ''(Québec)''
+* [[petite vive]]
+* [[petite violette]] ''(Papillon)''
+* [[petite vitesse]]
+* [[petitement]]
+* [[petites affaires]]
+* [[Petites Antilles]]
+* [[petites autos]]
+* [[petites eaux]]
+* [[petites gens]]
+* [[petites heures]]
+* [[Petites Sœurs des pauvres]]
+* [[petites vacances]]
+* [[petitesse]]
+* [[petitissime]]
+* [[petitou]]
+* [[petitoune]]
+* [[petits chevaux]]
+* [[petits papiers]]
+* [[petits peuples du Nord]]
+* [[plus petit commun multiple]] ''(PPCM)''
+* [[pluvier petit-gravelot]]
+* [[PME]] ''(petites et moyennes entreprises)''
+* [[PMI]] ''(petites et moyennes industries)''
+* [[poisson-écureuil à petite bouche]]
+* [[porter le petit collet]]
+* [[pour la petite histoire]]
+* [[PPCM]] ''(plus petit commun multiple)''
+* [[prendre le petit collet]]
+* [[rapetisser]]
+* [[rapetissement]]
+* [[rapetissure]]
+* [[regarder par le petit bout de la lorgnette]]
+* [[renoncule à petites fleurs]]
+* [[reprendre son petit bonhomme de chemin]]
+* [[requin-marteau à petits yeux]]
+* [[santoline petit cyprès]] ''ou'' [[santoline petit-cyprès]]
+* [[se faire tout petit]]
+* [[se garder une petite gêne]] {{QC|nocat=1}}
+* [[se sentir petit garçon]] ''(se sentir inférieur devant quelqu’un, être intimidé par lui)''
+* [[seiche petites mains]]
+* [[si les petits cochons ne le mangent pas]]
+* [[sortir par la petite porte]]
+* [[strophaire à petite couronne]]
+* [[ti-]]
+* [[ti-cass]], [[Ti-Cass]], [[ti-cass']]
+* [[ti-Jo connaissant]]
+* [[tilleul à petites feuilles]]
+* [[tout-petit]]
+* [[tout petit écran]]
+* [[TPE]] ''(très petites entreprises)''
+* [[trou petit rond]]
+* [[un petit peu]]
+* [[vilain petit canard]]
+* [[voir petit]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[à petit manger, bien boire]]
+* [[c’est la mort du petit cheval]]
+* [[ce n’est pas de la petite bière]]
+* [[ce n’est pas la mort du petit cheval]]
+* [[dans les petits pots, les meilleurs onguents]]
+* [[grand diseux, petit faiseux]]
+* [[grand parleur, petit faiseur]]
+* [[il n’est point de petites affaires]]
+* [[il n’y a pas de petits profits]]
+* [[la petite bête ne mangera pas la grosse]]
+* [[le monde est petit]]
+* [[le petit oiseau va sortir]]
+* [[les gros poissons mangent les petits]]
+* [[les petits ruisseaux font les grandes rivières]]
+* [[mieux vaut un petit chez-soi qu’un grand chez-les-autres]]
+* [[mieux vaut une petite courageuse qu’une grosse fainéante]]
+* [[mieux vaut une petite qui frétille qu’une grosse qui roupille]]
+* [[mieux vaut une petite travailleuse qu’une grosse fainéante]]
+* [[ne sous-estimez pas les petits péchés, car les montagnes sont faites de petits cailloux]]
+* [[petit à petit, l’oiseau fait son nid]]
+* [[petit train va loin]]
+* [[petite pluie abat grand vent]]
+* [[tout ce qui est petit est mignon, tout ce qui est grand est charmant]]
+
+==== {{S|traductions}} ====
+{{trad-début|De taille réduite|1}}
+* {{T|ar}} : {{trad-|ar|صغير|R=saġîr|dif=صَغير}}
+{{trad-fin}}
+
+{{trad-début|Jeune|2}}
+* {{T|ar}} : {{trad-|ar|صغير|R=saġîr|dif=صَغير}}
+{{trad-fin}}
+
+{{trad-début|mesquin|3}}
+{{trad-fin}}
+
+{{trad-début|Qui est peu élevé en quantité, qui n'atteint pas la mesure ordinaire|4}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|pə.ti}}
+'''petit''' {{pron|pə.ti|fr}} {{m}} {{équiv-pour|lang=fr|une femme|petite}}
+# [[enfant|Enfant]].
+
+==== {{S|variantes dialectales}} ====
+* {{région|lorrain}} : [[piot]], [[piote]], [[piotte]]
+* {{région|picardie}} : [[tiot]]
+
+==== {{S|synonymes}} ====
+{{cf|lang=fr|enfant}}
+
+==== {{S|dérivés}} ====
+* [[faire des petits]]
+* [[faire un petit dans le dos]]
+
+==== {{S|traductions}} ====
+{{cf|lang=fr|enfant}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|pə.ti}}
+'''petit''' {{pron|pə.ti|fr}} {{m}}
+# [[progéniture|Progéniture]] d’un animal.
+# {{ellipse|fr}} Petit objet, petite chose.
+# {{familier|fr}} {{lexique|jeux|fr}} [[un|Un]] d’[[atout]], le plus petit, et l’un des trois [[bout]]s du jeu de [[tarot]].
+# {{familier|fr}} [[cochonnet|Cochonnet]], [[boule]] légère de petit diamètre servant de [[but]] au [[jeu de boules]].
+# Personne sans fortune ni pouvoir.
+==== {{S|synonymes}} ====
+''But au jeu de boules :''
+* [[but]]
+* [[bouchon]] ''(Provence)'', {{info lex|pétanque}}
+* [[cochonnet]]
+* [[gone]] ''(Lyon)'', ''(Sport-boules)''
+* [[guignol]] ''(Lyon)'', ''(Sport-boules)''
+
+==== {{S|traductions}} ====
+{{trad-début|Progéniture}}
+{{trad-fin}}
+
+=== {{S|adverbe|fr}} ===
+'''petit''' {{pron|pə.ti|fr}}
+# {{vieilli|fr}} [[peu|Peu]].
+
+==== {{S|dérivés}} ====
+* [[en petit]]
+* [[petit à petit]]
+
+==== {{S|traductions}} ====
+{{trad-début|Voir ''[[peu]]''}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|pə.ti|fr}}
+* {{pron|pə.ti|pti|fr}}
+** {{écouter|lang=fr|France|pə.ti|audio=Fr-petit.ogg}}
+** {{écouter||pə.ti|lang=fr|audio=LL-Q150 (fra)-Guilhelma-petit.wav}}
+** {{écouter||pə.ti|lang=fr|audio=LL-Q150 (fra)-Jules78120-petit.wav}}
+** {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-petit.wav}}
+* Français méridional : {{pron|pə.ti|fr}}
+* Canada : {{pron|pə.t͡si|pt͡si|fr}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-petit.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-petit.wav}}
+* {{écouter|lang=fr|Suisse (Genève)|audio=LL-Q150 (fra)-Nattes à chat-petit.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-petit.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-petit.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-petit.wav}}
+* {{écouter|lang=fr|France (Montpouillan)|audio=LL-Q150 (fra)-Yug-petit.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-petit.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-petit.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-petit.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-petit.wav}}
+* {{écouter|lang=fr|France (Metz)||audio=LL-Q150 (fra)-val (Eavq)-petit.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-petit.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-Loizbec-petit.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-petit.wav}}
+* {{écouter|lang=fr|France (Toulouse)||audio=LL-Q150 (fra)-Loumaju-petit.wav}}
+* {{écouter|lang=fr|Tchad (N'Djaména)||audio=LL-Q150 (fra)-Matarimi1-petit.wav}}
+* {{écouter|canton du Valais (Suisse)||lang=fr|audio=LL-Q150 (fra)-LuneMarine (DSwissK)-petit.wav}}
+* {{écouter|Montpellier (France)||lang=fr|audio=LL-Q150 (fra)-GeoMechain-petit.wav}}
+* {{écouter|Reims (France)||lang=fr|audio=LL-Q150 (fra)-Mathsou-petit.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-Lyokoï-petit.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Froggyspeak92-petit.wav}}
+* {{écouter|Annecy (France)||lang=fr|audio=LL-Q150 (fra)-Totodu74-petit.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Ekane-petit.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Manestra-petit.wav}}
+* {{écouter|Burie (France)||lang=fr|audio=LL-Q150 (fra)-Enutrof à sec-petit.wav}}
+* {{écouter|royaume de France||lang=fr|audio=LL-Q150 (fra)-Jfumedureve-petit.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Cruelpity-petit.wav}}
+* {{écouter|Mulhouse (France)||lang=fr|audio=LL-Q150 (fra)-Mathieu Kappler-petit.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Sagnamadr-petit.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Edoirefaitdel'art-petit.wav}}
+* {{écouter|Nouveau-Brunswick (Canada)|t͡si|lang=fr|audio=LL-Q150 (fra)-Acadienenexil-petit.wav}}
+* {{écouter|Paris (France)||lang=fr|audio=LL-Q150 (fra)-Dorveille (Nucleos)-petit.wav}}
+* {{écouter|Auvergne (France)||lang=fr|audio=LL-Q150 (fra)-Abalg-petit.wav}}
+* {{écouter|Alsace (France)||lang=fr|audio=LL-Q150 (fra)-Le Commissaire-petit.wav}}
+* {{écouter|Lausanne (Suisse)||lang=fr|audio=LL-Q150 (fra)-MrStrelok75-petit.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Lunagrouh-petit.wav}}
+* {{écouter|Lyon (France)||lang=fr|audio=LL-Q150 (fra)-WikiLucas00-petit.wav}}
+* {{écouter|Grenoble (France)||lang=fr|audio=LL-Q150 (fra)-Opsylac-petit.wav}}
+* {{écouter|Helsinki (Finlande)||niveau=bon|lang=fr|audio=LL-Q150 (fra)-Helena (WikiLucas00)-petit.wav}}
+* {{écouter|Vosges (France)||lang=fr|audio=LL-Q150 (fra)-LoquaxFR-petit.wav}}
+* {{écouter|||lang=fr|audio=LL-Q150 (fra)-Kaderousse-petit.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Cantons-de-l'Est-petit.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Selakant-petit.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Nantaise1-petit.wav}}
+* {{écouter|Alsace (France)||lang=fr|audio=LL-Q150 (fra)-Obitboy-petit.wav}}
+* {{écouter|Somain (France)||lang=fr|audio=LL-Q150 (fra)-Jérémy-Günther-Heinz Jähnick-petit.wav}}
+* {{écouter|Normandie (bailliage de Guernesey)||lang=fr|audio=LL-Q150 (fra)-Hamuli-petit.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Max aucube-petit.wav}}
+* {{écouter|Angers (France)||lang=fr|audio=LL-Q150 (fra)-Procrastineur49-petit.wav}}
+* {{écouter|Courmayeur (Italie)||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-XANA000-petit.wav}}
+* {{écouter|Vendée (France)||lang=fr|audio=LL-Q150 (fra)-Sartus85-petit.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Hazealiotrope-petit.wav}}
+* {{écouter|Lausanne (Suisse)||lang=fr|audio=LL-Q150 (fra)-laura (Biblio.bethusy)-petit.wav}}
+* {{écouter|Québec (Canada)||lang=fr|audio=LL-Q150 (fra)-Mendiaktaitsasoa-petit.wav}}
+* {{écouter|Bordeaux (France)||lang=fr|audio=LL-Q150 (fra)-Bananax47-petit.wav}}
+* {{écouter|Agen (France)||lang=fr|audio=LL-Q150 (fra)-Zephyrette (Bananax47)-petit.wav}}
+* {{écouter|Haute-Loire (France)||lang=fr|audio=LL-Q150 (fra)-Sayoxime-petit.wav}}
+* {{écouter|Bayonne (France)||lang=fr|audio=LL-Q150 (fra)-ManuArrechea-petit.wav}}
+* {{écouter|Marne (France)||lang=fr|audio=LL-Q150 (fra)-Marinolophus-petit.wav}}
+* {{écouter|France||lang=fr|audio=LL-Q150 (fra)-Pa2chant.bis-petit.wav}}
+* {{écouter|Brest (France)||lang=fr|audio=LL-Q150 (fra)-Plutonora-petit.wav}}
+* {{écouter|Belgique||lang=fr|audio=LL-Q150 (fra)-mmtn (Mathsou)-petit.wav}}
+* {{écouter|Belgique||lang=fr|audio=LL-Q150 (fra)-Mona (Mathsou)-petit.wav}}
+* {{écouter|Tournai (Belgique)||lang=fr|audio=LL-Q150 (fra)-Mathé23323 (Mathsou)-petit.wav}}
+* {{écouter|||niveau=moyen|lang=fr|audio=LL-Q150 (fra)-Didierwiki-petit.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{Le Dico des Ados}}
+* [[moindre]]
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+{{Références}}
+
+[[Catégorie:Supplétions en français]]
+[[Catégorie:Lexique en français des cartes à jouer]]
+[[Catégorie:Lexique en français des jeux de boules]]
+[[Catégorie:Lexique en français du sport-boules]]
+[[Catégorie:Lexique en français de la pétanque]]
+

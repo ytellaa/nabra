@@ -1,0 +1,14 @@
+== {{langue|fr}} ==
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|prendre|impers=oui|ind.f.1s=oui}}
+'''prendrai''' {{pron|pʁɑ̃.dʁe|fr}}
+# ''Première personne du singulier du futur du verbe'' [[prendre]].
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France (Île-de-France)|pʁɑ̃d.ʁe|audio=Fr-Paris--prendrez.ogg}}
+* {{écouter|lang=fr|France (Brétigny-sur-Orge)|audio=LL-Q150 (fra)-Pamputt-prendrai.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-prendrai.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-prendrai.wav}}
+
+=== {{S|anagrammes}} ===
+{{voir anagrammes|fr}}
