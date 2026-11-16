@@ -20,11 +20,12 @@ tags:
 - extendedWaitUntil:
     visible: ".*Tes données.*"
     timeout: 10000
-# « Licence » est plus bas sur la page : faire défiler jusqu'à lui
+# Faire défiler jusqu'au bas de la page. On vise le dernier élément : un titre au milieu
+# (« Licence ») peut être dépassé par un défilement trop rapide.
 - scrollUntilVisible:
-    element: ".*Licence.*"
+    element: ".*Lire les textes complets des licences.*"
     direction: DOWN
-    timeout: 20000
+    timeout: 30000
 - takeScreenshot: 02-mentions-legales
 # Bouton retour Android : revient aux réglages
 - back
