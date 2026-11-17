@@ -66,9 +66,8 @@ jobs:
       matrix:
         # flows : scénarios à jouer. Les images API 24 et 28 ont une WebView d'origine trop ancienne
         # (avant Chrome 80) : on vérifie que Nabra affiche le message « Mise à jour nécessaire ».
-        # coldboot : démarrage à froid, sans snapshot en cache (le snapshot API 24 bloque le démarrage).
         include:
-          - { api-level: 24, android: '7.0', flows: app/.maestro/webview-ancienne, coldboot: true } # minSdk
+          - { api-level: 24, android: '7.0', flows: app/.maestro/webview-ancienne } # minSdk
           - { api-level: 28, android: '9', flows: app/.maestro/webview-ancienne }
           - { api-level: 31, android: '12', flows: app/.maestro }
           - { api-level: 34, android: '14', flows: app/.maestro }
@@ -99,39 +98,16 @@ jobs:
           curl -fsSL "https://get.maestro.mobile.dev" | bash
           echo "$HOME/.maestro/bin" >> "$GITHUB_PATH"
 
-      # Cache de l'émulateur déjà démarré (snapshot) : évite de le recréer à chaque run
-      - name: Cache de l'émulateur
-        if: ${{ !matrix.coldboot }}
-        uses: actions/cache@v6
-        id: avd-cache
-        with:
-          path: |
-            ~/.android/avd/*
-            ~/.android/adb*
-          key: avd-${{ matrix.api-level }}-google_apis-x86_64
-
-      - name: Créer le snapshot de l'émulateur
-        if: ${{ !matrix.coldboot && steps.avd-cache.outputs.cache-hit != 'true' }}
-        uses: ReactiveCircus/android-emulator-runner@v2
-        with:
-          api-level: ${{ matrix.api-level }}
-          target: google_apis
-          arch: x86_64
-          force-avd-creation: false
-          emulator-boot-timeout: 900 # API 24 démarre parfois lentement sur les runners GitHub
-          emulator-options: -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -camera-back none
-          disable-animations: false
-          script: echo "Snapshot créé"
-
+      # Démarrage à froid, sans snapshot en cache : restauré du cache, le snapshot bloquait
+      # le démarrage au hasard (API 24 puis 28). À froid, l'émulateur démarre en 1 à 2 minutes.
       - name: Lancer les scénarios Maestro
         uses: ReactiveCircus/android-emulator-runner@v2
         with:
           api-level: ${{ matrix.api-level }}
           target: google_apis
           arch: x86_64
-          force-avd-creation: false
           emulator-boot-timeout: 900
-          emulator-options: ${{ matrix.coldboot && '-no-snapshot' || '-no-snapshot-save' }} -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -camera-back none
+          emulator-options: -no-snapshot -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -camera-back none
           disable-animations: true
           # La WebView de l'émulateur est celle d'origine de l'image (jamais mise à jour) : c'est le pire cas.
           script: |
