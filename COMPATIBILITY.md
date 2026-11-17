@@ -60,11 +60,12 @@ maestro test app/.maestro
 
 ## Résultats par release
 
-Légende : ✅ tous les scénarios passent · ⚠️ échec partiel · ❌ l'app ne démarre pas · — non testé
+Légende : ✅ tous les scénarios passent · ✅¹ l'app ne peut pas démarrer (WebView d'origine trop ancienne) et affiche « Mise à jour nécessaire », comme prévu · ⚠️ échec partiel · ❌ l'app ne démarre pas et n'affiche rien · — non testé
 
 | Release | API 24 (7.0) | API 28 (9) | API 31 (12) | API 34 (14) | API 36 (16) | Vrais appareils | Remarques |
 |---|---|---|---|---|---|---|---|
-| 0.2.0 | ❌ | ❌ | ✅ | ✅ | ✅ | — | Premier run (PR ytellaa/nabra#10). API 24 et 28 : écran blanc (WebView trop ancienne). |
+| 0.3.0 + PR #10 (2026-11-17) | ✅¹ | ✅¹ | ✅ | ✅ | ✅ | — | Premier run entièrement vert. Scénarios : démarrage, réglages et retour, bascule arabe (API 31+) ; message de mise à jour (API 24 et 28). |
+| 0.2.0 (2026-11-15) | ❌ | ❌ | ✅ | ✅ | ✅ | — | Premier run, avant le message de mise à jour : écran blanc sur API 24 et 28 (WebView trop ancienne). |
 
 ## Exigence : une WebView récente
 
