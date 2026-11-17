@@ -4,6 +4,9 @@ Format : [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) · Versions : 
 
 ## [Non publié]
 
+### Ajouté
+- Historique : supprimer une lecture avec la corbeille de sa ligne, puis « Supprimer ? » pour confirmer. La photo de la lecture est effacée ; les mots de Mes mots et le compteur de mots lus sont conservés.
+
 ## [0.3.1] — 2026-11-17
 
 ### Ajouté

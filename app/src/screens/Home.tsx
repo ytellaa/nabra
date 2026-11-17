@@ -1,4 +1,5 @@
-import { Camera, Settings } from 'lucide-react';
+import { useState } from 'react';
+import { Camera, Settings, Trash2 } from 'lucide-react';
 import { useApp } from '../context';
 import { formatDay } from '../i18n';
 import type { Session } from '../lib/db';
@@ -14,10 +15,13 @@ interface Props {
   onSettings: () => void;
   onNewRead: () => void;
   onOpen: (s: Session) => void;
+  onRemove: (s: Session) => void;
 }
 
-export function Home({ sessions, totalWords, onToggleLang, onSettings, onNewRead, onOpen }: Props) {
+export function Home({ sessions, totalWords, onToggleLang, onSettings, onNewRead, onOpen, onRemove }: Props) {
   const { t, lang } = useApp();
+  // Suppression en deux appuis : corbeille, puis « Supprimer ? ».
+  const [confirm, setConfirm] = useState<string | null>(null);
   const hasHistory = sessions.length > 0;
 
   return (
@@ -62,7 +66,7 @@ export function Home({ sessions, totalWords, onToggleLang, onSettings, onNewRead
           </h2>
           <ul className="history" style={{ listStyle: 'none', margin: 0 }}>
             {sessions.map((s) => (
-              <li key={s.id} style={{ display: 'contents' }}>
+              <li key={s.id} className="history-row">
                 <button type="button" className="history-item" onClick={() => onOpen(s)}>
                   <div className="thumb" style={{ background: TINTS[s.tint % TINTS.length] }}>
                     <img src={s.imageUri ?? '/assets/images/vignette-defaut.svg'} alt="" />
@@ -75,6 +79,15 @@ export function Home({ sessions, totalWords, onToggleLang, onSettings, onNewRead
                       {formatDay(s.createdAt, lang)} · {t('common.words', { n: s.wordCount })}
                     </div>
                   </div>
+                </button>
+                <button
+                  type="button"
+                  className={`history-remove${confirm === s.id ? ' confirm' : ''}`}
+                  aria-label={`${confirm === s.id ? t('home.removeConfirm') : t('home.remove')} : ${titleOf(s.text)}`}
+                  onClick={() => (confirm === s.id ? onRemove(s) : setConfirm(s.id))}
+                  onBlur={() => setConfirm((c) => (c === s.id ? null : c))}
+                >
+                  {confirm === s.id ? t('home.removeConfirm') : <Trash2 size={20} strokeWidth={2.2} aria-hidden="true" />}
                 </button>
               </li>
             ))}

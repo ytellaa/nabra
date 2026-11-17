@@ -5,6 +5,8 @@
   "home.ready": "Prêt à lire ?",
   "home.wordsRead": "Mots lus",
   "home.myReads": "Mes lectures",
+  "home.remove": "Supprimer cette lecture",
+  "home.removeConfirm": "Supprimer ?",
   "home.newRead": "Nouvelle lecture",
   "common.words": "{n} mots",
   "common.home": "Accueil",

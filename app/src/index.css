@@ -217,6 +217,15 @@ img { display: block; }
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
 .history-item .meta { font-size: 0.875rem; color: var(--steel); }
+.history-row { display: flex; align-items: center; gap: 8px; flex: none; }
+.history-row .history-item { flex: 1; min-width: 0; }
+.history-remove {
+  min-width: 52px; height: 52px; flex: none; padding: 0 10px;
+  border-radius: 14px; border: 1.5px solid var(--hairline); background: #fff; color: var(--slate);
+  display: grid; place-items: center; font-size: 0.9375rem; font-weight: 600;
+  cursor: pointer;
+}
+.history-remove.confirm { background: var(--error); border-color: var(--error); color: #fff; }
 
 /* ---------- Caméra ---------- */
 .camera { background: var(--navy-deep); padding: 8px 16px 20px; gap: 14px; color: #fff; }

@@ -5,6 +5,8 @@
   "home.ready": "جاهز للقراءة؟",
   "home.wordsRead": "كلمات مقروءة",
   "home.myReads": "قراءاتي",
+  "home.remove": "حذف هذه القراءة",
+  "home.removeConfirm": "حذف؟",
   "home.newRead": "قراءة جديدة",
   "common.words": "{n} كلمة",
   "common.home": "الرئيسية",

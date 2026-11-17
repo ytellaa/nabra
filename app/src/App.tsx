@@ -5,6 +5,7 @@ import { db, loadMyWords, loadPrefs, loadSessions, newId, savePref, type MyWord,
 import { speaker } from './lib/speech';
 import { lookupWord, needsAutoLookup } from './lib/dictionary';
 import { exportBackup, savePhoto } from './lib/files';
+import { deleteSession } from './lib/history';
 import { isNative, platform } from './lib/platform';
 import { log, logsAsText, setDebugEnabled } from './lib/debug';
 import { DebugPanel } from './components/DebugPanel';
@@ -211,6 +212,20 @@ export default function App() {
     void db.words.delete(w.key).catch(() => {});
   };
 
+  /** Suppression d'une lecture de l'historique (Mes mots et compteur conservés). */
+  const removeSession = async (s: Session) => {
+    const changed = await deleteSession(s);
+    if (!changed) {
+      ctx.sound('son-oups');
+      return;
+    }
+    setSessions((list) => list.filter((x) => x.id !== s.id));
+    if (changed.length) {
+      const byKey = new Map(changed.map((w) => [w.key, w]));
+      setMyWords((list) => list.map((w) => byKey.get(w.key) ?? w));
+    }
+  };
+
   /** Correction (ou suppression) d'un mot dans le Lecteur, enregistrée si la session existe déjà. */
   const onCorrectWord = useCallback((i: number, value: string | null) => {
     const r = readerRef.current;
@@ -335,6 +350,7 @@ export default function App() {
             onSettings={() => setScreen('settings')}
             onNewRead={openCamera}
             onOpen={openSession}
+            onRemove={removeSession}
           />
         )}
 
