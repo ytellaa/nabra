@@ -48,6 +48,7 @@ Le job `compat` de [`.github/workflows/ci.yml`](.github/workflows/ci.yml) instal
 - La WebView est celle d'origine de l'image système, jamais mise à jour : c'est le pire cas. Un échec sur API 24 ou 28 signifie « ne marche pas si la WebView n'a jamais été mise à jour », pas « ne marche sur aucun Android 7 ».
 - Pas de caméra : le scan et la reconnaissance de texte ne sont pas testés.
 - Pas de surcouche constructeur (Samsung, Xiaomi…) : à tester sur de vrais appareils (Firebase Test Lab ou téléphone physique).
+- Instabilité juste après le démarrage (appli système qui plante, services Google Play qui redémarrent et ferment Nabra) : [`.github/scripts/maestro-ci.sh`](.github/scripts/maestro-ci.sh) attend 30 s, ferme les fenêtres système et relance une fois les scénarios en cas d'échec. Une relance est signalée dans le résumé du run.
 
 ### Lancer les scénarios en local
 
