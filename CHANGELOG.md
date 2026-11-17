@@ -4,6 +4,8 @@ Format : [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) · Versions : 
 
 ## [Non publié]
 
+## [0.3.1] — 2026-11-17
+
 ### Ajouté
 - Tests de compatibilité automatiques : à chaque release et pull request, l'APK est testé avec Maestro sur des émulateurs Android 7, 9, 12, 14 et 16. Voir [COMPATIBILITY.md](COMPATIBILITY.md).
 
