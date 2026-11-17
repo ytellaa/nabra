@@ -1,0 +1,34 @@
+# Réglages : navigation dans les réglages, page légale, bouton Retour de l'app
+# et bouton retour Android (géré par @capacitor/app).
+appId: app.nabra
+name: Réglages et navigation
+tags:
+  - smoke
+---
+- launchApp:
+    clearState: true
+- extendedWaitUntil:
+    visible: ".*Nouvelle lecture.*"
+    timeout: 60000
+- tapOn: "Réglages"
+- assertVisible: ".*Mes mots.*"
+- assertVisible: ".*Langue.*"
+- assertVisible: ".*Sons.*"
+- assertVisible: ".*Sauvegarde.*"
+- takeScreenshot: 02-reglages
+- tapOn: ".*Mentions légales.*"
+- extendedWaitUntil:
+    visible: ".*Tes données.*"
+    timeout: 10000
+# Pas de défilement : il échouait au hasard selon l'émulateur, sans rien dire de la compatibilité.
+- takeScreenshot: 02-mentions-legales
+# Bouton retour Android : revient aux réglages
+- back
+- extendedWaitUntil:
+    visible: ".*Mes mots.*"
+    timeout: 10000
+# Bouton Retour de l'application : revient à l'accueil
+- tapOn: "Retour"
+- extendedWaitUntil:
+    visible: ".*Nouvelle lecture.*"
+    timeout: 10000
